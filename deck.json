@@ -832,7 +832,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist der pKa-Wert?<div><br></div>",
+                                "Was ist der pKa-Wert?<div>{{c1::praktisch Vorgestellt, ist der pKa-Wert der Punkt an dem 50% protoniert und 50% unprotoniert vorliegt}}</div>",
                                 "<img src=\"Untitled-8b20d8ad3b14c79b1df610d3025b81151eb260bc.png\">"
                             ],
                             "guid": "u[x0(Jw+sa",
@@ -1568,7 +1568,6 @@
                         "Untitled-0e7f70b4200a0df2d3d9499cd9a26e3a099cb716.png",
                         "Untitled-10324fe955c563c88748ec1ce9b2157be478ee72.png",
                         "Untitled-10704235851ba0ed4be526d7216053aebcb97539.png",
-                        "Untitled-10db307cf4943371493bfa3c4b2b95f0e23c71f4.png",
                         "Untitled-16f9a1667b763353a128510eb75fb16c5d241791.png",
                         "Untitled-19c6e8bfad3840e65a14bf258f1a6a5abfcf97c4.png",
                         "Untitled-1efa40519495b1276b2d55cfb0bf7b2f233fad4f.png",
@@ -1577,10 +1576,8 @@
                         "Untitled-2967ae0551a6226a526691afc8d2eae7b82cc045.png",
                         "Untitled-2bac1afbc6ebbb0250074d6d37a6fde76120fc53.png",
                         "Untitled-2c74cceae3b10bd24ec26d9ccd90c2cfd9d828e7.png",
-                        "Untitled-2e37b7e57ae15f24e0b212b43b858631a65afae2.png",
                         "Untitled-2f8e33326835763359c4a6f7fc8154e12b070948.png",
                         "Untitled-3794a07b9bd00fc187669cb667c3b41e07621fb2.png",
-                        "Untitled-3b407b82ec7c8c475dc4bc2fe7d7c3eda434dd12.png",
                         "Untitled-3d5cfa107fb8415512ed50be746fe412e55b88a9.png",
                         "Untitled-3d9961e3229ae53693fa2c535622c381bc0c9f7d.png",
                         "Untitled-4c5432b5600c2f08c0ed56b1d2e455b67cc9068f.png",
@@ -1595,30 +1592,23 @@
                         "Untitled-66c5320ca38458ff3d00d989c43363b9361fd9dc.png",
                         "Untitled-67d1a1b5bd2acdf46551b217e1f7031c805f06ac.png",
                         "Untitled-6aa99152a4ff8f5691af6ebb2d3783bd7fe98898.png",
-                        "Untitled-728d5a719a64447f48fa48a7d86cec69149c1c93.png",
                         "Untitled-74e4774c268dcd9d48a5dd8c90383d0ca4e10e74.png",
                         "Untitled-75f97d6d17a67784236c138e9d90e26ed35b58af.png",
-                        "Untitled-79f0195bb465651f97d56da961bfb170657e4167.png",
                         "Untitled-7b02b1e352d9c8c99922fa5f22cc09b25e16e50e.png",
                         "Untitled-8b8f6840c47cdf8b26280e9a14dedbdb11514bdb.png",
                         "Untitled-8e0d82e84067a86d5937547bed004257818ada17.png",
-                        "Untitled-9038b4c80ac1caf76f386679bbdeb23badf15282.png",
                         "Untitled-920c8a585ac19054a146d13a8736936a1398b043.png",
                         "Untitled-92d1710288cb0defc0dae77c25c5952cc94220d3.png",
                         "Untitled-96294f9513b423cc192f39665bd5df9770539c93.png",
                         "Untitled-9a3ad250d895ee9fb00f14306e09a2b61c6ae114.png",
                         "Untitled-9c41de008f27c9c490d25a1df00695c5ffa26eaf.png",
-                        "Untitled-9ce13aca01f40c1d4bfd5f29630baf0e7554ad59.png",
-                        "Untitled-9e03651ef92a44909fb58e1c936556d33586acc2.png",
                         "Untitled-a1678914ed33485b1038b14034e6a77b85f80dc4.png",
                         "Untitled-a21763ccdb0a3ee472438f1842a0a1dd0ee8e13f.png",
-                        "Untitled-a306fcd41f32cff3dd38ba89fd17788652d9162e.png",
                         "Untitled-a63c9708175b4ceae4d6331d7b761166e6ae0796.png",
                         "Untitled-a78728e94b95ed6f7f67e85b260d6290d2cbb5db.png",
                         "Untitled-a78c64e8ff915d5bb940067d66601e4420645e0b.png",
                         "Untitled-a8320fccbe5a58bde80fadbed239781b3cc018c4.png",
                         "Untitled-a9da9fe52951ddc5da3df5b4aaa36248e0e5e5b8.png",
-                        "Untitled-aaec1dfb773ca7ff87e21e5dc0e9129150936c9e.png",
                         "Untitled-b02fe0e4041e6269593b9d7a72899926986f8288.png",
                         "Untitled-b240d1a71e3ca1b8212b903c8a0e6ed57d1dafd0.png",
                         "Untitled-b6a954371a1d6da6d024a25ce18df4b9ec57357c.png",
@@ -1626,11 +1616,9 @@
                         "Untitled-b807ae8b3261ab4795185d6f8819c20dc8591ee5.png",
                         "Untitled-bb6490bdb277d39c070f33f05ac8f360e798b9ea.png",
                         "Untitled-bb9ad7ee99dc56cdb6a2dea88760953dcee5649b.png",
-                        "Untitled-be661ae158168f861e869b38a75249df6b66e5b8.png",
                         "Untitled-bea359a70b4ab69f57d6626dbf1e037d2901c583.png",
                         "Untitled-c3b2bcc7ada9d71dcd18d55718a51f0c61b02341.png",
                         "Untitled-ca53ead77e7ac1ec26ef473858f6b7e7cddae749.png",
-                        "Untitled-ca910a15e8d409a7f32435f0a3683c50f21fe959.png",
                         "Untitled-cbac2b7696896b90ef1c45e57dee3ff7a57bbe9b.png",
                         "Untitled-d10548e65cff5da70cb34e17268ad4439d6ef050.png",
                         "Untitled-d39f0e7c042cae31dd35b40b27c1ed9a83cf8db8.png",
@@ -1638,15 +1626,12 @@
                         "Untitled-d9079ca4d843f77a03aaf09195bde9fd24e6711c.png",
                         "Untitled-dbca0b5b897d94abb08c23de8deeae02e279ec28.png",
                         "Untitled-dc8e24f1c86e0789a4aabfed73fa7035e0b4c11b.png",
-                        "Untitled-e4ff4bb8553f4dceb02ce26e3b980e5842f96e31.png",
                         "Untitled-e5775e7bcc80c7f88632d0e80a66d99303078a50.png",
                         "Untitled-e89e390250243aa3ba5769f046ccfd05d6585fd2.png",
                         "Untitled-e9827b95d47a8f317333f5b9d3c8bad59c2e0fd3.png",
-                        "Untitled-ec74b2cf03083b1916a90e42543f61de26a8d4d7.png",
                         "Untitled-f318ef8bc8be091bef28a788ceeb3f387df123fa.png",
                         "Untitled-f327b79a4b5ae4688f18451d0c9be0d868014bb9.png",
                         "Untitled-f8c33f9035ec0d75d11922ef5b8e779e6bcac491.png",
-                        "Untitled-fe8d123ab1d142ae11d98216334755b7acaea99c.png",
                         "paste-1c73e32b5f8469f398bdbcec42745472bbb94a0e.jpg",
                         "paste-22677acc03ed218186e5ce1f2dea019fc5d56143.jpg",
                         "paste-255644b417086c3aa29e840b4ba7ddc4af7cc760.jpg",
@@ -2933,156 +2918,6 @@
                             "guid": "qON@.`RG7x",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was besagt das Superpositionsprinzip der Bewegung?<div>{{c1::Führt ein Körper mehrere Bewegungen gleichzeitig aus, überlagern Wsich diese Bewegungen <span style=\"font-weight:600\">ohne </span>sich zu stören.}}<br></div>",
-                                ""
-                            ],
-                            "guid": "Mn$[wr@{p~",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist der Freiheitsgrad?<div>{{c1::<img src=\"Untitled-ec74b2cf03083b1916a90e42543f61de26a8d4d7.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "vwD1(x8#cm",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie ist die durchschnittliche Geschwindigkeit beschrieben?<div>{{c1::<img src=\"Untitled-e4ff4bb8553f4dceb02ce26e3b980e5842f96e31.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "u)k=kVV}@2",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie ist die momentan Geschwindigkeit beschrieben?<div>{{c1::<img src=\"Untitled-10db307cf4943371493bfa3c4b2b95f0e23c71f4.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "OA_(:vj[wg",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit welchen Trick kann die momentan Geschwindigkeit zu einer beliebigen Bahnkurve berechnet werden?<div>{{c1::Einführung der Bahntangenten, die als Richtung der Geschwindigkeit dient.<img src=\"Untitled-9ce13aca01f40c1d4bfd5f29630baf0e7554ad59.png\">}}</div>",
-                                "<img src=\"Untitled-79f0195bb465651f97d56da961bfb170657e4167.png\">"
-                            ],
-                            "guid": "P.74{Z/!yJ",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann die momentan Geschwindigkeit zu einer beliebigen Bahnkurve über das kartesiche Koordinatensystem berechnet werden?<div>{{c1::<img src=\"Untitled-a306fcd41f32cff3dd38ba89fd17788652d9162e.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "O*sAh9y]X`",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was besagt das Additionstheorem der Geschwindigkeiten?<div>{{c1::Geschwindigkeiten addieren sich vekoriell.}}<br></div>",
-                                "<img src=\"Untitled-728d5a719a64447f48fa48a7d86cec69149c1c93.png\">"
-                            ],
-                            "guid": "J=?h66i*CE",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Beschreibe den Ortsvektor der sich bei der Kreisbewegung/Rotation ergibt.<img src=\"Untitled-be661ae158168f861e869b38a75249df6b66e5b8.png\"><div>{{c1::<img src=\"Untitled-9e03651ef92a44909fb58e1c936556d33586acc2.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "jlRMm)Jl|B",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Beschreibe mithilfe des Ortsvektors für Kreisbewegungen den Betrag der Geschwindigkeit.<div>{{c1::<img src=\"Untitled-ca910a15e8d409a7f32435f0a3683c50f21fe959.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "h6zh*(e6Aa",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie ist die Winkelgeschwindigkeit definiert?<div>{{c1::<img src=\"Untitled-3b407b82ec7c8c475dc4bc2fe7d7c3eda434dd12.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "NGasf-&_!R",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie ist die durchschnittliche Beschleunigung definiert?<div>{{c1::<img src=\"Untitled-fe8d123ab1d142ae11d98216334755b7acaea99c.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "A}w,OEZoUX",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann die momentan Beschleunigung beschrieben werden?<div>{{c1::<img src=\"Untitled-2e37b7e57ae15f24e0b212b43b858631a65afae2.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "K=}/<y5r9^",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Formen von Beschleunigung gibt es?<div>{{c1::Tangential- und Normalbeschleunigung}}<br></div>",
-                                ""
-                            ],
-                            "guid": "Azp+);|nwd",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann die Tangentialbeschleunigung beschrieben werden?<div>{{c1::<img src=\"Untitled-9038b4c80ac1caf76f386679bbdeb23badf15282.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "z-e8U!ZDbw",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann die Normalbeschleunigung beschrieben werden?<div>{{c1::<img src=\"Untitled-aaec1dfb773ca7ff87e21e5dc0e9129150936c9e.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "q2O4M[`zuJ",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
                         }
                     ]
                 },
@@ -3552,9 +3387,34 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "Untitled-10db307cf4943371493bfa3c4b2b95f0e23c71f4.png",
                         "Untitled-11d0019b60437128c1c7379730c3390099b4182f.png",
                         "Untitled-19c2bd368f79be1083d6ca61223ac3b9705f2e54.png",
-                        "Untitled-b4b215b0a39ce33ff10879ae79e6bd5065c19618.png"
+                        "Untitled-22adc620c43ae12bcfc09570922dd3f2eb88d321.png",
+                        "Untitled-2e37b7e57ae15f24e0b212b43b858631a65afae2.png",
+                        "Untitled-3b407b82ec7c8c475dc4bc2fe7d7c3eda434dd12.png",
+                        "Untitled-55b8378913d039489cbf0c76abfa695b6c43f096.png",
+                        "Untitled-6b8c30e021ecf341344bb7521d1285d134c377ac.png",
+                        "Untitled-6e2187384c8a373bef57fb6a365ddd165282546c.png",
+                        "Untitled-728d5a719a64447f48fa48a7d86cec69149c1c93.png",
+                        "Untitled-77f895e9f01ccc9813112c4a5835bc576f336367.png",
+                        "Untitled-79f0195bb465651f97d56da961bfb170657e4167.png",
+                        "Untitled-7c161693fc8ede8e2a3b93bedbe7479f56cd89d3.png",
+                        "Untitled-8c2ed87f0c5d60d04e66ecc754ce8689255309b6.png",
+                        "Untitled-8e0add2d7c81394874e773105deba697fc44d4d0.png",
+                        "Untitled-9038b4c80ac1caf76f386679bbdeb23badf15282.png",
+                        "Untitled-9ce13aca01f40c1d4bfd5f29630baf0e7554ad59.png",
+                        "Untitled-9e03651ef92a44909fb58e1c936556d33586acc2.png",
+                        "Untitled-a306fcd41f32cff3dd38ba89fd17788652d9162e.png",
+                        "Untitled-aaec1dfb773ca7ff87e21e5dc0e9129150936c9e.png",
+                        "Untitled-b0a9c7809315b69904415a569139ab5d60c9ac43.png",
+                        "Untitled-b4b215b0a39ce33ff10879ae79e6bd5065c19618.png",
+                        "Untitled-be661ae158168f861e869b38a75249df6b66e5b8.png",
+                        "Untitled-ca910a15e8d409a7f32435f0a3683c50f21fe959.png",
+                        "Untitled-d05814bb7bdab14f85e404e512a85843935d7b15.png",
+                        "Untitled-e4ff4bb8553f4dceb02ce26e3b980e5842f96e31.png",
+                        "Untitled-ec74b2cf03083b1916a90e42543f61de26a8d4d7.png",
+                        "Untitled-fe8d123ab1d142ae11d98216334755b7acaea99c.png"
                     ],
                     "mid": 1604391419185,
                     "name": "Physik",
@@ -3776,6 +3636,306 @@
                                 ""
                             ],
                             "guid": "d`Rl#;bHPV",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt das Superpositionsprinzip der Bewegung?<div>{{c1::Führt ein Körper mehrere Bewegungen gleichzeitig aus, überlagern Wsich diese Bewegungen <span style=\"font-weight:600\">ohne </span>sich zu stören.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Mn$[wr@{p~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Freiheitsgrad?<div>{{c1::<img src=\"Untitled-ec74b2cf03083b1916a90e42543f61de26a8d4d7.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "vwD1(x8#cm",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die durchschnittliche Geschwindigkeit beschrieben?<div>{{c1::<img src=\"Untitled-e4ff4bb8553f4dceb02ce26e3b980e5842f96e31.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "u)k=kVV}@2",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die momentan Geschwindigkeit beschrieben?<div>{{c1::<img src=\"Untitled-10db307cf4943371493bfa3c4b2b95f0e23c71f4.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "OA_(:vj[wg",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welchen Trick kann die momentan Geschwindigkeit zu einer beliebigen Bahnkurve berechnet werden?<div>{{c1::Einführung der Bahntangenten, die als Richtung der Geschwindigkeit dient.<img src=\"Untitled-9ce13aca01f40c1d4bfd5f29630baf0e7554ad59.png\">}}</div>",
+                                "<img src=\"Untitled-79f0195bb465651f97d56da961bfb170657e4167.png\">"
+                            ],
+                            "guid": "P.74{Z/!yJ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die momentan Geschwindigkeit zu einer beliebigen Bahnkurve über das kartesiche Koordinatensystem berechnet werden?<div>{{c1::<img src=\"Untitled-a306fcd41f32cff3dd38ba89fd17788652d9162e.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "O*sAh9y]X`",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt das Additionstheorem der Geschwindigkeiten?<div>{{c1::Geschwindigkeiten addieren sich vekoriell.}}<br></div>",
+                                "<img src=\"Untitled-728d5a719a64447f48fa48a7d86cec69149c1c93.png\">"
+                            ],
+                            "guid": "J=?h66i*CE",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beschreibe den Ortsvektor der sich bei der Kreisbewegung/Rotation ergibt.<img src=\"Untitled-be661ae158168f861e869b38a75249df6b66e5b8.png\"><div>{{c1::<img src=\"Untitled-9e03651ef92a44909fb58e1c936556d33586acc2.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "jlRMm)Jl|B",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beschreibe mithilfe des Ortsvektors für Kreisbewegungen den Betrag der Geschwindigkeit.<div>{{c1::<img src=\"Untitled-ca910a15e8d409a7f32435f0a3683c50f21fe959.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "h6zh*(e6Aa",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Winkelgeschwindigkeit definiert?<div>{{c1::<img src=\"Untitled-3b407b82ec7c8c475dc4bc2fe7d7c3eda434dd12.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "NGasf-&_!R",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die durchschnittliche Beschleunigung definiert?<div>{{c1::<img src=\"Untitled-fe8d123ab1d142ae11d98216334755b7acaea99c.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "A}w,OEZoUX",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die momentan Beschleunigung beschrieben werden?<div>{{c1::<img src=\"Untitled-2e37b7e57ae15f24e0b212b43b858631a65afae2.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "K=}/<y5r9^",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Formen von Beschleunigung gibt es?<div>{{c1::Tangential- und Normalbeschleunigung}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Azp+);|nwd",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Tangentialbeschleunigung beschrieben werden?<div>{{c1::<img src=\"Untitled-9038b4c80ac1caf76f386679bbdeb23badf15282.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "z-e8U!ZDbw",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Normalbeschleunigung beschrieben werden?<div>{{c1::<img src=\"Untitled-aaec1dfb773ca7ff87e21e5dc0e9129150936c9e.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "q2O4M[`zuJ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Kraft mit Worten beschrieben werden?<div>{{c1::Mit Kraft ist die Bewegungsveränderung gemeint.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "kgTT~Mb4L^",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was kann man aus experimentellen Erfahrungen zur Kraft aussagen?<div>{{c1::Die Kraft verhält sich proportional zur Beschleunigung. Die Masse wirkt dabei als Proportionalitätskonstante.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "EbzE$!(Qr{",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die träge Masse?<div>{{c1::Die träge Masse drückt die Trägheit/das Beharrungsvermögendes Körpers gegenüber einer Bewegungsänderung aus)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "iYR+81OF<!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Kraft mathematisch beschrieben werden?<div>{{c1::<img src=\"Untitled-8e0add2d7c81394874e773105deba697fc44d4d0.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "pftH&6>xe_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann der Impuls aus der Kraft hergeleitet werden?<div><img src=\"Untitled-7c161693fc8ede8e2a3b93bedbe7479f56cd89d3.png\"><br></div><div>{{c1::<img src=\"Untitled-22adc620c43ae12bcfc09570922dd3f2eb88d321.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "tu>i5lv32/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Impuls anschaulich?<div>{{c1::<img src=\"Untitled-6e2187384c8a373bef57fb6a365ddd165282546c.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "M^()vY^<0j",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist der Imupls mathematisch beschrieben?<div>{{c1::<img src=\"Untitled-55b8378913d039489cbf0c76abfa695b6c43f096.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "bcPy-x$r/t",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet das 1. Newtonsche Axiom?<div>{{c1::<img src=\"Untitled-6b8c30e021ecf341344bb7521d1285d134c377ac.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "PZ)1M.Goq#",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet das Grundgesetz der Mechanik?<div>{{c1::<img src=\"Untitled-77f895e9f01ccc9813112c4a5835bc576f336367.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "zPgY3+1c8b",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann der Umstand erklärt werden, das ein Massepunkt in Ruhe oder gradlinig gleichförmiger Bewegung verharrt, solange keine Kräfte auf ihm einwirken?<div>{{c1::Durch die Integration des des Grundgesetzes der Mechanik.}}<br></div>",
+                                "<img src=\"Untitled-b0a9c7809315b69904415a569139ab5d60c9ac43.png\">"
+                            ],
+                            "guid": "j:L3h=yk-R",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt das Galileische Trägheitsgesetz?<div>{{c1::Ein Massenpunkt verharrt in einem Zustand der Ruhe oder gleichförmigengradlinigen Bewegung mit konstanter Geschwindigkeit, solange keine Kräfteauf ihn einwirken.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "IlrLESH&WI",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet das 2. Newtonsche Axiom?<div>{{c1::actio gleich reactio}}<br></div>",
+                                ""
+                            ],
+                            "guid": "t%:&r[ZBhv",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was drückt das 2. Newtonsche Axiom physikalisch aus?<div>{{c1::<div>Die Kraft ist eine Wechselwirkungsgröße, die nur zwischen physikalischen Systemen bestehen kann und niemals in isolierten System.<br></div><div>Somit übt das physikalischen Systeme <b>a</b> eine Kraft auf das physikalischen System <b>b </b>aus, und umgekehrt.</div>}}<br></div>",
+                                "<img src=\"Untitled-d05814bb7bdab14f85e404e512a85843935d7b15.png\">"
+                            ],
+                            "guid": "J38v,0H$Zb",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet das 3. Newtonsche Axiom?<div>{{c1::<img src=\"Untitled-8c2ed87f0c5d60d04e66ecc754ce8689255309b6.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Ip?F9Z(]*4",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist mit dem 3. Newtonschen Axiom möglich?<div>{{c1::Die Kräfte einerseits vektoriell zu addieren, aber auch die Kraft in Einzelkräfte zu zerlegen.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "d?PEfLVptw",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
                         }
