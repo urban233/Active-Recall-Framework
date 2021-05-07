@@ -1542,10 +1542,60 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind die Gründe für Multiproteinkomplexe?",
-                                "<img src=\"Untitled-38ceb8806ceabe9a467e06e71c0278898cb54737.png\">"
+                                "Was sind die Gründe für Multiproteinkomplexe?<div>{{c1::<img src=\"Untitled-38ceb8806ceabe9a467e06e71c0278898cb54737.png\">}}<br></div>",
+                                ""
                             ],
                             "guid": "o#a;(4Cd)%",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die koordinierte Regulation?<div>{{c1::Abstimmung von einzelnen Aktivitäten im Multienzymkomplex}}</div>",
+                                ""
+                            ],
+                            "guid": "yn?Nwq`{pm",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet Catalytic Enhancement?<div>{{c1::Die katalytische Aktivität wird verbessert, da die Diffusion entfällt.}}</div>",
+                                ""
+                            ],
+                            "guid": "JzV>OPYR-L",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was schirmt ein Multienzymkomplex ab?<div>{{c1::Es schirmt reaktive Zwischenprodukte vor dem Lsm Wasser ab}}</div>",
+                                ""
+                            ],
+                            "guid": "qtbnRl=K]=",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für eine Kanalisierung findet im Multienzymkomplex statt?<div>{{c1::Eine Substratkanalisierung}}</div>",
+                                ""
+                            ],
+                            "guid": "Qg#4KPZW=g",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist mit der Servicefunktion von Multienzymkomplexen gemeint?<div>{{c1::Wenn ein Enzym Typ 1 des Komplexes schnell arbeitet, kann es viele Enzyme des Typ 2 bedienen.}}</div>",
+                                ""
+                            ],
+                            "guid": "ro$kp_,fIT",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
                         }
