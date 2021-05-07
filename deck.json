@@ -682,7 +682,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welchen Charakter haben Proteine?<div>{{c1::Sie haben einen partiellen Doppelbindungscharakter und sind planar. Dadurch erlauben sie keine freie Drehbarkeit}}<br></div>",
+                                "Welchen Charakter haben die Peptidbindungen der Proteine?<div>{{c1::Sie haben einen partiellen Doppelbindungscharakter und sind planar. Dadurch erlauben sie keine freie Drehbarkeit}}<br></div>",
                                 ""
                             ],
                             "guid": "M/[CL1zMst",
@@ -852,7 +852,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Nenne die neu entstandenen Proteineigenschaften<div>{{c1::<div>- Acetylierung am Aminoende</div><div>- Hydroxylierung von Prolin</div><div>- y(gamma) - Carboxyglutamat</div><div>- Pyroglutamat</div><div>- Anhängen von Zuckermustern</div><div>- Anhängen von Fettsäuren an a(alpha) - NH<sub>2</sub>&nbsp;oder Cys - SH</div><div>- Phosphorylierung an Ser, Thr, Tyr</div>}}<br></div>",
+                                "Nenne die neu entstandenen Proteineigenschaften.<div>{{c1::<div>- Acetylierung am Aminoende</div><div>- Hydroxylierung von Prolin</div><div>- y(gamma) - Carboxyglutamat</div><div>- Pyroglutamat</div><div>- Anhängen von Zuckermustern</div><div>- Anhängen von Fettsäuren an a(alpha) - NH<sub>2</sub>&nbsp;oder Cys - SH</div><div>- Phosphorylierung an Ser, Thr, Tyr</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "d>jl0-Tt$I",
@@ -892,7 +892,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie entsteht das Pyroglutamat und was bewirkt es?<div>{{c1::<div>-&nbsp;Säurerest von Glutamat hat mit Aminogruppe unter Wasserabspaltung reagiert</div><div>-&nbsp;Abbauschutz für das Protein</div>}}<br></div>",
+                                "Wie entsteht das Pyroglutamat?<div>{{c1::<div>- der Säurerest von Glutamat reagiert mit Aminogruppe, unter Wasserabspaltung</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "oM3t.[(B[N",
@@ -902,12 +902,14 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie können Zuckermuster angehängt werden und wozu?<div>{{c1::<div>- Zuckermoleküle können durch N oder O  an Proteine angefügt werden</div><div>- dienen dazu, das Protein wasserlöslicher zu machen</div><div>- durch spezifische Zuckermuster makieren sie das Protein, als körpereigen</div>}}<br></div>",
-                                ""
+                                "Wie werden die Zuckermuster an den Proteinen angehängt?<div>{{c1::<div>- Zuckermoleküle können durch N oder O  an Proteine angefügt werden}}</div></div>",
+                                "::Verstehe die Antwort nicht"
                             ],
                             "guid": "Qu:c|3}1`{",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Verständnisproblem"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -962,22 +964,14 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist ein wichtiges Sekundärstrukturelement?<div>{{c1::alpha - Helix}}</div>",
-                                ""
-                            ],
-                            "guid": "feRsjV+vIS",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Was macht das wichtige Sekundärstrukturelement?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
-                                ""
+                                ":: Verstehe die Antwort nicht"
                             ],
                             "guid": "KIuz.oNS6L",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Verständnisproblem"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1002,7 +996,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie hoch ist eine Windung, in der alpha - Helix?<div>{{c1::0.54 nm}}<br></div>",
+                                "Wie hoch ist eine Windung, in der alpha - Helix in nm?<div>{{c1::0.54 nm}}<br></div>",
                                 ""
                             ],
                             "guid": "JEsHeJYyjp",
@@ -1056,16 +1050,6 @@
                                 ""
                             ],
                             "guid": "jovlG!h|Ou",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das zweite wichtige Sekundärstrukturelement?<div>{{c1::ß- Faltblatt}}<br></div>",
-                                ""
-                            ],
-                            "guid": "Chu:A5ExL]",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
                         },
@@ -1272,7 +1256,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welchen Abstand haben die entstanden stabförmigen Strukturen (Gly, Pro...)?<div>{{c1::0.29 nm}}<br></div>",
+                                "Welchen <b>Abstand</b> haben die entstanden stabförmigen Strukturen (Gly, Pro...)?<div>{{c1::0.29 nm}}<br></div>",
                                 ""
                             ],
                             "guid": "cVuE=COZ:o",
@@ -1312,7 +1296,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie groß ist Elastin?<div>{{c1::70 kD}}</div>",
+                                "Wie groß ist Elastin in kD?<div>{{c1::70 kD}}</div>",
                                 ""
                             ],
                             "guid": "ht6IirR|za",
@@ -1432,12 +1416,14 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was hat ein Protein nach der Translation?{{c1::<div>hydrophobe Reste</div>}}",
-                                ""
+                                "Was hat ein Protein nach der Translation?<div>{{c1::hydrophobe Reste}}</div>",
+                                ":: Verstehe die Frage und die Antwort nicht"
                             ],
                             "guid": "q}2TRIkIpL",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Verständnisproblem"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1462,7 +1448,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Faltungshelferproteine gibt es?<div>{{c1::Chaperone, Proteindisulfidisomerasen und Peptidyl-Prolyl-cis/trans-Isomerasen}}<br></div>",
+                                "Welche Faltungshelferproteine gibt es?<div>{{c1::Chaperone,</div><div>Proteindisulfidisomerasen,</div><div>Peptidyl-Prolyl-cis/trans-Isomerasen}}</div>",
                                 ""
                             ],
                             "guid": "A5ar(>GaN2",
@@ -1472,7 +1458,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert das Chaperonprotein?<div><br><div>{{c1::<div>- Chaperone besetzen hydrophobe Bereiche bei der Translation und verhindert somit zu frühe falsche hydrophobe WW.</div><div><br></div>\n<div>- Wenn das Protein fertig translatiert ist, lösen sich die Chaperone und die richtige 3D-Struktur kann ausgebildet werden.</div><div><br></div><div>- 2. Klasse von Chaperonen packt fehlgefaltete Proteine in eine Art Fassstruktur, wo ein Proteindeckel drauf gemacht wird. Anschließend wird das Protein mit Hilfe von ATP in unendlicher Verdünnung entfaltet → Deckel wieder ab → Protein hat eine neue Chance, für eine richtige Entfaltung</div>}}<br></div></div>",
+                                "Wie funktioniert das Chaperonprotein?<div><br><div>{{c1::<div>- Chaperone besetzen hydrophobe Bereiche bei der Translation und verhindert somit zu frühe falsche hydrophobe WW.</div><div><br></div>\n<div>- Wenn das Protein fertig translatiert ist, lösen sich die Chaperone und die richtige 3D-Struktur kann ausgebildet werden.</div>}}<br></div></div>",
                                 ""
                             ],
                             "guid": "J-5xSB;I6Q",
@@ -1596,6 +1582,46 @@
                                 ""
                             ],
                             "guid": "ro$kp_,fIT",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktionieren die Chaperone 2.Klasse?<div>{{c1::2. Klasse von Chaperonen packt fehlgefaltete Proteine in eine Art Fassstruktur, wo ein Proteindeckel drauf gemacht wird. Anschließend wird das Protein mit Hilfe von ATP in unendlicher Verdünnung entfaltet → Deckel wieder ab → Protein hat eine neue Chance, für eine richtige Entfaltung}}<br></div>",
+                                ""
+                            ],
+                            "guid": "iH-?L&bFAc",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum werden Zuckermuster an Proteinen angehangen?<div><div>{{c1::<div><div>- dienen dazu, das Protein wasserlöslicher zu machen</div></div><div>- durch spezifische Zuckermuster makieren sie das Protein, als körpereigen</div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "kZ3SNk/B/,",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bewirkt das Pyroglutamat?<div>{{c1::-&nbsp;Abbauschutz für das Protein}}<br></div>",
+                                ""
+                            ],
+                            "guid": "0./eR:jSq",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 3 Sekundärstrukturelemente gibt es bei Proteinen?<div>{{c1::<div>alpha-Helix</div><div>beta-Faltblatt</div><div>beta-Turn</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "BeB;NcWN2B",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
                         }
@@ -3018,7 +3044,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Worin unterschieden sich Console.Write() und Console.WriteLine()?<div>{{c1::Die Methode Console.Write()&nbsp;unterscheidet sich von Console.WriteLine()&nbsp;indem sie keine ganze Zeile schreibt (keinen Zeilenumbruch am Ende des Textes eingefügt).}}<br></div>",
+                                "Worin unterschieden sich Console.Write() und Console.WriteLine()?<div>{{c1::Die Methode Console.Write()&nbsp;unterscheidet sich von Console.WriteLine()&nbsp;indem das der Cursor in der selben Spalte bleibt und es somit keinen Zeilenumbruch gibt}}<br></div>",
                                 ""
                             ],
                             "guid": "PT.sFzs*o,",
