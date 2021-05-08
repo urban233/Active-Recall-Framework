@@ -16,7 +16,7 @@ https://github.com/Stvad/CrowdAnki#import
 4. I suspended some cards which have to be changed before they get back into the main deck
 5. I downloaded and installed new addons
 
-### Addons to download and install:
+### Addons you have to download and install:
 1. Hierarchical Tags 2
 * 594329229 
 2. Customize Sidebar
