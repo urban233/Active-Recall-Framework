@@ -11,10 +11,9 @@ https://github.com/Stvad/CrowdAnki#import
 
 ### I made a lot of changes in the Active-Recall-Framework deck: 
 1. I used flags to indicate problematic cards
-2. I used tags to categorize these problematic cards
-3. I created some kind of own operator to note on some cards (operator is "::")
-4. I suspended some cards which have to be changed before they get back into the main deck
-5. I downloaded and installed new addons
+2. I used tags to categorize the entire deck
+3. I suspended some cards which have to be changed, before they get back into the main deck
+4. I downloaded and installed new addons
 
 ### Addons you have to download and install:
 1. Hierarchical Tags 2
