@@ -614,7 +614,15 @@
                     "extendRev": 0,
                     "media_files": [
                         "Untitled-38ceb8806ceabe9a467e06e71c0278898cb54737.png",
-                        "Untitled-8b20d8ad3b14c79b1df610d3025b81151eb260bc.png"
+                        "Untitled-8b20d8ad3b14c79b1df610d3025b81151eb260bc.png",
+                        "paste-0dc6a13a10c52f82e8a405511d9432947240b8e5.jpg",
+                        "paste-387834fa6cfcc72bb7a20594e2bbb78bf01d85cc.jpg",
+                        "paste-6793de30b4bd58551574cd0cbdbbadde117f3bf2.jpg",
+                        "paste-844c25d39ef75f198c09f7ad936f377ebc66b973.jpg",
+                        "paste-b0724b5baf625f2cb1b6e92dfb5c066968c3643e.jpg",
+                        "paste-d578331580628aaaba55d41e406daf5bf2ada8a0.jpg",
+                        "paste-ecff4146cebbf4beeb4a198108f4b3a4f81b7d14.jpg",
+                        "paste-f49ad8e2d0ba2a59da061486a5dc1c9acca2b44a.jpg"
                     ],
                     "mid": 1611498335938,
                     "name": "Biochemie",
@@ -627,7 +635,9 @@
                             ],
                             "guid": "sdodv4SL)s",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -637,7 +647,9 @@
                             ],
                             "guid": "qGt(BuMxS{",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -647,7 +659,9 @@
                             ],
                             "guid": "cTw<5Uj}ck",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -657,7 +671,9 @@
                             ],
                             "guid": "D&*-BRmLuO",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -667,27 +683,33 @@
                             ],
                             "guid": "cXl&i2KBy4",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie verbinden sich Proteine?<div>{{c1::Sie bilden eine Peptidbindung, unter der Abspaltung von Wasser}}<br></div>",
+                                "Durch welche Reaktion bilden sich Proteine?<div>{{c1::Die Aminosäuren bilden eine Peptidbindung, unter der Abspaltung von Wasser aus}}<br></div>",
                                 ""
                             ],
                             "guid": "d+Wzh%U/Xl",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welchen Charakter haben die Peptidbindungen der Proteine?<div>{{c1::Sie haben einen partiellen Doppelbindungscharakter und sind planar. Dadurch erlauben sie keine freie Drehbarkeit}}<br></div>",
+                                "Welchen Charakter haben die Peptidbindungen der Proteine?<div>{{c1::Sie haben einen partiellen Doppelbindungscharakter}}<br></div>",
                                 ""
                             ],
                             "guid": "M/[CL1zMst",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -697,47 +719,57 @@
                             ],
                             "guid": "C/wB<>)ISO",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welchen Charakter haben die Gruppen, die links und rechts an der Peptidbindung sind?<div>{{c1::<div>freie Drehbarkeit</div>\n<div>Diederwinkel: -180° bis +180°</div>}}<br></div>",
+                                "Wie nennt man die Winkel den die Gruppen, die links und rechts an der Peptidbindung haben?<div>{{c1:: Diederwinkel: -180° bis +180°}}<br></div>",
                                 ""
                             ],
                             "guid": "s:}^Mbk(%1",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie heißt der Winkel der C-N-Bindung und wie viel Grad beträgt er? (vom zentralen C)<div>{{c1::phi = -80°}}<br></div>",
+                                "Wie heißt der Winkel der <b>C-N</b>-Bindung und wie viel Grad beträgt er? (vom zentralen C)<div>{{c1::phi = -80°}}<br></div>",
                                 ""
                             ],
                             "guid": "cWJs/gcRAm",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie heißt der Winkel der C-C-Bindung und wie viel Grad beträgt er? (vom zentralen C)<div>{{c1::psi = +85°}}<br></div>",
+                                "Wie heißt der Winkel der <b>C-C</b>-Bindung und wie viel Grad beträgt er? (vom zentralen C)<div>{{c1::psi = +85°}}<br></div>",
                                 ""
                             ],
                             "guid": "Qz2.9+qW>@",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist das durchschnittliche Gewicht einer Aminosäure?<div>{{c1::110 D}}<br></div>",
+                                "Was ist das durchschnittliche Gewicht einer Aminosäure in D?<div>{{c1::110 D}}<br></div>",
                                 ""
                             ],
                             "guid": "fPwHEjP#5$",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -747,7 +779,9 @@
                             ],
                             "guid": "T>w/bw6FW",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -757,7 +791,9 @@
                             ],
                             "guid": "nh.Zp;gz(m",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -767,17 +803,21 @@
                             ],
                             "guid": "L}H^rbS/T6",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was können 2 Cysteinmoleküle durch Oxidation bilden und wo kommen sie vor?<div>{{c1::<div>Disulfidbrücke, durch 2 SH-Gruppen.</div>\n<div>Sie kommen nur außerhalb einer Zelle vor</div>\n<div>(in der Zelle bleiben sie SH-Gruppen (Thiolfunktion)).</div>}}<br></div>",
+                                "Was können 2 Cysteinmoleküle durch Oxidation bilden?<div>{{c1::Disulfidbrücke, durch 2 SH-Gruppen.}}</div>",
                                 ""
                             ],
                             "guid": "q~Q(f,4CTk",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -787,7 +827,9 @@
                             ],
                             "guid": "bSOK)/s/)",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -797,7 +839,9 @@
                             ],
                             "guid": "G#`X6Y_XLR",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -807,17 +851,21 @@
                             ],
                             "guid": "pF7:k>#9>6",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Als was liegen Aspartat und Glutamat bei dem physiologischen pH vor und warum?<div>{{c1::Sie liegen als Anion vor, da sie eine Säuregruppe enthalten. Diese gibt aber beim physiologischen pH ihr Proton ab}}<br></div>",
+                                "Als was liegen Aspartat und Glutamat bei dem physiologischen pH vor?<div>{{c1::Sie liegen als Anion vor, da sie eine Säuregruppe enthalten. Diese gibt aber beim physiologischen pH ihr Proton ab}}<br></div>",
                                 ""
                             ],
                             "guid": "E/5V*0xR+;",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -827,7 +875,9 @@
                             ],
                             "guid": "Fk(~w.VSZD",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -837,17 +887,21 @@
                             ],
                             "guid": "u[x0(Jw+sa",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wodurch und wann entstehen neue Proteineigenschaften?<div>{{c1::<div>Durch Modifikation, nach der Translation</div>\n<div>ptm (post-translationalen-Modifikationen)</div>}}<br></div>",
+                                "Wodurch entstehen neue Proteineigenschaften?<div>{{c1::Durch Modifikation,ptm (post-translationalen-Modifikationen)}}</div>",
                                 ""
                             ],
                             "guid": "Gv+D703&5e",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -857,7 +911,9 @@
                             ],
                             "guid": "d>jl0-Tt$I",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -867,48 +923,57 @@
                             ],
                             "guid": "L/6)=[SG0e",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wofür sorgt die Hydroxylierung von Prolin?<div>{{c1::sorgt durch H-Brücken für Stabilität (einfügen der Hydroxygruppe verbraucht Vitamin C)}}<br></div>",
-                                ""
+                                "Wofür sorgt die Hydroxylierung von Prolin?<div>{{c1::Es sorgt, durch seine Fähigkeit H-Brücken bilden zu können, für Stabilität }}<br></div>",
+                                "<img src=\"paste-844c25d39ef75f198c09f7ad936f377ebc66b973.jpg\">"
                             ],
                             "guid": "w!5/]L.nZ,",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert das y(gamma) - Carboxyglutamat und wofür dient es?<div>{{c1::<div>einfügen einer 2. Säuregruppe, die ebenfalls ihr Proton abgibt → Rest hat eine Dicarbonsäurefunktion → Komplexierung zweiwertiger Kationen<br></div><div><br></div><div>gute Blutgerinnung</div>}}<br></div>",
+                                "Wie funktioniert das y(gamma) - Carboxyglutamat?<div>{{c1::<div>einfügen einer 2. Säuregruppe, die ebenfalls ihr Proton abgibt → Rest hat eine Dicarbonsäurefunktion → Komplexierung zweiwertiger Kationen<br></div><div>}}<br></div></div>",
                                 ""
                             ],
                             "guid": "MVU{h/Gy0S",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie entsteht das Pyroglutamat?<div>{{c1::<div>- der Säurerest von Glutamat reagiert mit Aminogruppe, unter Wasserabspaltung</div>}}<br></div>",
-                                ""
+                                "Wie entsteht das Pyroglutamat?<div>{{c1::der Säurerest von Glutamat reagiert mit der Aminogruppe, unter Wasserabspaltung und bildet einen 5-Ring aus}}<br></div>",
+                                "<img src=\"paste-387834fa6cfcc72bb7a20594e2bbb78bf01d85cc.jpg\">"
                             ],
                             "guid": "oM3t.[(B[N",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
                                 "Wie werden die Zuckermuster an den Proteinen angehängt?<div>{{c1::<div>- Zuckermoleküle können durch N oder O  an Proteine angefügt werden}}</div></div>",
-                                "::Verstehe die Antwort nicht"
+                                ""
                             ],
                             "guid": "Qu:c|3}1`{",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Verständnisproblem"
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
                             ]
                         },
                         {
@@ -919,27 +984,21 @@
                             ],
                             "guid": "bBFf3~L@d{",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert die Phosphorylierung an Ser, Thr und Tyr und was wird dadurch reguliert?<div>{{c1::<div>- an Hydroxygruppe wird ein Phosphatrest angefügt</div><div>- eine Phosphatgruppe kann diverse WBB bilden</div><div>- unphosphorylierte Zustand (Phosphatase spaltet unterVerwendung von Wasser Phosphatrest ab) → inaktiv</div><div>- Kinase fügt Phosphatrest an → aktiv</div><div>- manche Proteine sind auch ohne Phosphatrest aktiv und durch Phosphorylierung inaktiv (durch Phosphatase wieder aktiv)</div><div>- Regulation der Proteine in Eigenschaft und Aktivität</div>}}<br></div><div><div></div></div>",
-                                ""
-                            ],
-                            "guid": "mt(7D%n-U7",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie funktioniert die proteolytische Aktivierung und was entsteht dadurch?<div>{{c1::<div>- z.B. durch Verdauungsenzyme, Blutgerinnung</div><div>- proteolytische Spaltung der Aminosäure durch Enzyme</div><div>- verschiedene Ketten lagern sich zusammen → Entstehung eines maximalen Enzyms</div>}}<br></div>",
-                                ""
+                                "Wie funktioniert die proteolytische Aktivierung?<div>{{c1::<div>- proteolytische Spaltung des inaktiven Ausgangsproteins</div><div>- dadurch enstehen verschiedenlange Ketten</div><div>- verschiedene Ketten lagern sich zusammen → Entstehung eines maximalen Enzyms</div>}}<br></div>",
+                                "<img src=\"paste-0dc6a13a10c52f82e8a405511d9432947240b8e5.jpg\">"
                             ],
                             "guid": "r74LVqBf]-",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -949,7 +1008,9 @@
                             ],
                             "guid": "w%E[%$G5hs",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -959,18 +1020,21 @@
                             ],
                             "guid": "bvwZ]a+[A0",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
                                 "Was macht das wichtige Sekundärstrukturelement?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
-                                ":: Verstehe die Antwort nicht"
+                                ""
                             ],
                             "guid": "KIuz.oNS6L",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Verständnisproblem"
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
                             ]
                         },
                         {
@@ -981,17 +1045,21 @@
                             ],
                             "guid": "mk~Ddt>2AL",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie viele Aminosäuren enthält eine Windung?<div>{{c1::3.6}}<br></div>",
+                                "Wie viele Aminosäuren enthält eine Windung in einer alpha-Helix?<div>{{c1::3.6}}<br></div>",
                                 ""
                             ],
                             "guid": "G!FfGAN,4^",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1001,7 +1069,9 @@
                             ],
                             "guid": "JEsHeJYyjp",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1011,17 +1081,22 @@
                             ],
                             "guid": "o,:8r#psQ}",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wodurch gibt es eine zusätzliche Stabilisierung, der alpha-Helix und wie nennt man sie?<div>{{c1::<div>In dem sich 2 alpha-Helix- Spiralen umeinander wickeln.</div>\n<div>Man nennt sie superspiralisierte alpha Helix/ verknäultes Knäuel (Coiled coil).</div>}}<br></div>",
-                                ""
+                                "Wodurch gibt es eine zusätzliche Stabilisierung, der alpha-Helix?<div>{{c1::In dem sich 2 alpha-Helix- Spiralen umeinander wickeln.}}</div>",
+                                "<img src=\"paste-d578331580628aaaba55d41e406daf5bf2ada8a0.jpg\">"
                             ],
                             "guid": "EiN{A>z/5)",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1031,7 +1106,9 @@
                             ],
                             "guid": "qIwA*xF[-w",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1041,7 +1118,9 @@
                             ],
                             "guid": "cxLc8Z|s6b",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1051,7 +1130,9 @@
                             ],
                             "guid": "jovlG!h|Ou",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1061,7 +1142,9 @@
                             ],
                             "guid": "J]LI[qd.qR",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1071,7 +1154,9 @@
                             ],
                             "guid": "hx3p&ngi}y",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1081,7 +1166,9 @@
                             ],
                             "guid": "mo]KW?daXB",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1091,7 +1178,9 @@
                             ],
                             "guid": "k7^xL*HlNE",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1101,7 +1190,9 @@
                             ],
                             "guid": "zwyu^R/qb*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1111,7 +1202,9 @@
                             ],
                             "guid": "ownkP.Y%H4",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1121,7 +1214,9 @@
                             ],
                             "guid": "p=4XxdlGo&",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1131,7 +1226,9 @@
                             ],
                             "guid": "IL@wVoK[B$",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1141,7 +1238,9 @@
                             ],
                             "guid": "L*|%t#Kgv|",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1151,7 +1250,9 @@
                             ],
                             "guid": "L^;r;yQMVY",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1161,7 +1262,9 @@
                             ],
                             "guid": "qsdiG9-Mwo",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1171,17 +1274,21 @@
                             ],
                             "guid": "oByYHu?%d2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie viele Typen gibt es an Kollagen?<div>{{c1::27}}</div>",
+                                "Wie viele Typen von Kollagen gibt es?<div>{{c1::27}}</div>",
                                 ""
                             ],
                             "guid": "qr+>TJ,Y`+",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1191,7 +1298,9 @@
                             ],
                             "guid": "oYx%:SJ}y0",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1201,7 +1310,9 @@
                             ],
                             "guid": "lU87)v04U<",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1211,7 +1322,9 @@
                             ],
                             "guid": "rM}2:Q|hUZ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1221,7 +1334,9 @@
                             ],
                             "guid": "EQy!Gwx%Qk",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1231,7 +1346,9 @@
                             ],
                             "guid": "f~/+9y@2G+",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1241,7 +1358,9 @@
                             ],
                             "guid": "dI~4HvG{n5",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1251,7 +1370,9 @@
                             ],
                             "guid": "EcnXj<^U3-",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1261,7 +1382,9 @@
                             ],
                             "guid": "cVuE=COZ:o",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1271,17 +1394,21 @@
                             ],
                             "guid": "CwN5R]KC)L",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie heißt das Protein, welches für die Elaszitität sorgt und welche Domäne?<div>{{c1::Elastin, hydrophobe Domäne}}<br></div>",
+                                "Wie heißt das Protein, welches für die Elaszitität sorgt?<div>{{c1::Elastin}}<br></div>",
                                 ""
                             ],
                             "guid": "FmDeNVt+U}",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1291,7 +1418,9 @@
                             ],
                             "guid": "sSIRK4)r%!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1301,7 +1430,9 @@
                             ],
                             "guid": "ht6IirR|za",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1311,7 +1442,9 @@
                             ],
                             "guid": "P(LZd8A+B&",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1321,17 +1454,21 @@
                             ],
                             "guid": "b]-%LB^fwG",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Aminosäuren kommen in der hydrophilen alpha-helikalen Domäne in Elastin vor?<div>{{c1::Ala, Lys}}</div>",
+                                "Welche Aminosäuren kommen in der hydrophilen alpha-helikalen Domäne im Elastin vor?<div>{{c1::Ala, Lys}}</div>",
                                 ""
                             ],
                             "guid": "kov&o$nddC",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1341,17 +1478,21 @@
                             ],
                             "guid": "J}MyX?a]Y<",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
                                 "Was sorgt für die sehr flexible Raumstruktur von Elastin?<div>{{c1::hydrophobe Domäne}}<br></div>",
-                                ""
+                                "<img src=\"paste-f49ad8e2d0ba2a59da061486a5dc1c9acca2b44a.jpg\">"
                             ],
                             "guid": "QiTMg&X++y",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1361,7 +1502,9 @@
                             ],
                             "guid": "fjnKDZPfj(",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1371,27 +1514,33 @@
                             ],
                             "guid": "b^5qnZH8ri",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wofür sorgen die alpha-helikalen Domänen?<div>{{c1::Sie sorgen nach der Dehnung für die Rückkehr in den Grundzustand}}<br></div>",
+                                "Wofür sorgen die alpha-helikalen Domänen im Elastin?<div>{{c1::Sie sorgen nach der Dehnung für die Rückkehr in den Grundzustand}}<br></div>",
                                 ""
                             ],
                             "guid": "r[q2P1ihhD",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was bedeutet die Rückkehr in den Grundzustand und wie geschieht dies?<div>{{c1::durch die Entspannung und bedeutet Entropiegewinn}}<br></div>",
+                                "Was hat die Rückkehr in den Grundzustand des Elastins für eine Wirkung?<div>{{c1::Durch die Rückkehr in den Grundzustand nimmt die Entropie zu}}</div>",
                                 ""
                             ],
                             "guid": "i)^xw<(>a]",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1401,7 +1550,9 @@
                             ],
                             "guid": "Qc<yfcIwcx",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1411,18 +1562,21 @@
                             ],
                             "guid": "fSuo5^OH$Q",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
                                 "Was hat ein Protein nach der Translation?<div>{{c1::hydrophobe Reste}}</div>",
-                                ":: Verstehe die Frage und die Antwort nicht"
+                                ""
                             ],
                             "guid": "q}2TRIkIpL",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Verständnisproblem"
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
                             ]
                         },
                         {
@@ -1433,7 +1587,9 @@
                             ],
                             "guid": "pbIXv:z[jx",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1443,7 +1599,9 @@
                             ],
                             "guid": "QjnThORVj;",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1453,7 +1611,9 @@
                             ],
                             "guid": "A5ar(>GaN2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1463,7 +1623,9 @@
                             ],
                             "guid": "J-5xSB;I6Q",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1473,7 +1635,9 @@
                             ],
                             "guid": "wxD+Bq)L-s",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1483,7 +1647,9 @@
                             ],
                             "guid": "b}hOmPJNy@",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1493,7 +1659,9 @@
                             ],
                             "guid": "oVe,1}PFT9",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1503,7 +1671,9 @@
                             ],
                             "guid": "DU+9PUFmaH",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1513,7 +1683,9 @@
                             ],
                             "guid": "Q,clL>J/e4",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1523,17 +1695,21 @@
                             ],
                             "guid": "K:+l[#?5}M",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind die Gründe für Multiproteinkomplexe?<div>{{c1::<img src=\"Untitled-38ceb8806ceabe9a467e06e71c0278898cb54737.png\">}}<br></div>",
-                                ""
+                                "Was sind die Vorteile für Multiproteinkomplexe?<br><div>{{c1::<div>- koordinierte Expression</div><div>- koordinierte Regulation</div><div>- Catalytic Enhancement</div><div>- Abschrimung reaktiver Zwischenprodukte vor dem Lsm Wasser</div><div>- Substratkanalisierung</div><div>- Servicefunktion</div>}}<br></div>",
+                                "<img src=\"Untitled-38ceb8806ceabe9a467e06e71c0278898cb54737.png\">"
                             ],
                             "guid": "o#a;(4Cd)%",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1543,7 +1719,9 @@
                             ],
                             "guid": "yn?Nwq`{pm",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1553,7 +1731,9 @@
                             ],
                             "guid": "JzV>OPYR-L",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1563,7 +1743,9 @@
                             ],
                             "guid": "qtbnRl=K]=",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1573,7 +1755,9 @@
                             ],
                             "guid": "Qg#4KPZW=g",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1583,17 +1767,21 @@
                             ],
                             "guid": "ro$kp_,fIT",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktionieren die Chaperone 2.Klasse?<div>{{c1::2. Klasse von Chaperonen packt fehlgefaltete Proteine in eine Art Fassstruktur, wo ein Proteindeckel drauf gemacht wird. Anschließend wird das Protein mit Hilfe von ATP in unendlicher Verdünnung entfaltet → Deckel wieder ab → Protein hat eine neue Chance, für eine richtige Entfaltung}}<br></div>",
+                                "Wie funktionieren die Chaperone 2.Klasse?<div>{{c1::2. Klasse von Chaperonen packt fehlgefaltete Proteine in eine Art Fassstruktur, wo ein Proteindeckel aufgesetzt wird. <br>Anschließend wird das Protein mit Hilfe von ATP in unendlicher Verdünnung entfaltet → Deckel wieder ab → Protein hat eine neue Chance, für eine richtige Entfaltung}}<br></div>",
                                 ""
                             ],
                             "guid": "iH-?L&bFAc",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1603,7 +1791,9 @@
                             ],
                             "guid": "kZ3SNk/B/,",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1613,7 +1803,9 @@
                             ],
                             "guid": "0./eR:jSq",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1623,7 +1815,177 @@
                             ],
                             "guid": "BeB;NcWN2B",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was wird durch die Phosphorylierung an Ser, Thr und Tyr reguliert?<div>{{c1::Regulation der Proteine in Eigenschaft und Aktivität}}<br></div>",
+                                ""
+                            ],
+                            "guid": "JyrPiOT*69",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie findet die Regulation über die&nbsp;Proteinphosphorylierung statt?<div>{{c1::<div>der <b>unphosphorylierter</b> Zustand ist <b>inaktiv</b></div><div><b>Aktivierung</b> durch Kinase, die ein Monophosphat an Ser, Thr oder Tyr bindet (Unter ATP verbrauch)</div><div><b>Inaktivierung</b> durch Phosphatase, die das Monophosphat an Ser, Thr oder Tyr löst (Unter Wasserabspaltung)</div><div><br></div><div>manche Proteine sind auch ohne Phosphatrest aktiv und durch Phosphorylierung inaktiv</div>}}<br></div>",
+                                "<img src=\"paste-6793de30b4bd58551574cd0cbdbbadde117f3bf2.jpg\">"
+                            ],
+                            "guid": "ckgXdOou-d",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Enzyme enstehen durch die proteolytische Aktivierung (Beispiele)?<div>{{c1::es werden Verdauungsenzyme, oder Enzyme für die Blutgerinnung gebildet}}<br></div>",
+                                ""
+                            ],
+                            "guid": "clj4z:VCHZ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist mit Substratkanalisierung bei Multienzymkomplexen gemeint?<div>{{c1::Das Substrat wird auf einen bestimmten Stoffwechselweg gezwungen (kanalisiert).}}</div>",
+                                "Beispiel: für Glucose-6-phosphat gibt es mehrere Stoffwechselmöglichkeiten, die durch eine Substratkanalisierung beschränkt werden."
+                            ],
+                            "guid": "sD=/@1|Fi-",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Folge des partiellen Doppelbindungscharakters, der Peptidbindung?<div>{{c1::Die Bindung ist planar, wodurch sie die freie Drehbarkeit verliert}}</div>",
+                                ""
+                            ],
+                            "guid": "INaB]%(U.N",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür dient das gamma-Carboxyglutamat?<div>{{c1::für eine gute Blutgerinnung}}</div>",
+                                ""
+                            ],
+                            "guid": "E:iNt.+=q1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man eine zusätzlich stabilisierte alpha-Helix?<br><div>{{c1::coiled coil (superspiralisierte alpha Helix/ verknäultes Knäuel)}}<br></div>",
+                                "<img src=\"paste-d578331580628aaaba55d41e406daf5bf2ada8a0.jpg\">"
+                            ],
+                            "guid": "DzcJ_dLJ%4",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum liegen Aspartat und Glutamat bei physiologischen pH als Anionen vor?<div>{{c1::Weil der pKa-Wert unter dem physiologischen pH liegt, wodurch die Carboxylgruppe deprotoniert vorliegt}}</div>",
+                                ""
+                            ],
+                            "guid": "t?BhHiQ3&n",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo kommen Disulfidbrücken in Organismen vor?<div>{{c1::Sie kommen nur außerhalb einer Zelle vor}}</div>",
+                                "(in der Zelle bleiben sie SH-Gruppen (Thiolfunktion))"
+                            ],
+                            "guid": "tkdn9|[/{z",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Form der Drehbarkeit liegt bei den Gruppen links und rechts der Peptidbindung vor?<div>{{c1::die freie Drehbarkeit}}</div>",
+                                "<img src=\"paste-b0724b5baf625f2cb1b6e92dfb5c066968c3643e.jpg\">"
+                            ],
+                            "guid": "d?k2S{0iOM",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie groß ist der Diederwinkel?<div>{{c1::-180° bis +180°}}<br></div>",
+                                ""
+                            ],
+                            "guid": "OowDtd=K3]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was wird verbraucht um Hydroxyprolin herzustellen?<br><div>{{c1::einfügen der Hydroxygruppe verbraucht Vitamin C}}<br></div>",
+                                ""
+                            ],
+                            "guid": "rf3(.I%}E>",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann entstehen neue Proteineigenschaften?<div>{{c1::nach der Translation}}<br></div>",
+                                ""
+                            ],
+                            "guid": "h{$r&zxHdG",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Domäne beim Elastin sorgt für Elaszitität?<div>{{c1::die hydrophoben Domänen}}</div>",
+                                "<img src=\"paste-ecff4146cebbf4beeb4a198108f4b3a4f81b7d14.jpg\">"
+                            ],
+                            "guid": "Ph41+@7kb1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
                         }
                     ]
                 },
@@ -1733,7 +2095,9 @@
                             ],
                             "guid": "y4c4`Q5?-/",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1743,7 +2107,9 @@
                             ],
                             "guid": "otVH`kdGnO",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1753,7 +2119,9 @@
                             ],
                             "guid": "chKL;<Zqq}",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1763,7 +2131,9 @@
                             ],
                             "guid": "ya1wC1pN_9",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1773,7 +2143,9 @@
                             ],
                             "guid": "zF2HTIrmL1",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1783,7 +2155,9 @@
                             ],
                             "guid": "t0{dtjH`U$",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1793,7 +2167,9 @@
                             ],
                             "guid": "Hd^H]i!&f@",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1803,7 +2179,9 @@
                             ],
                             "guid": "u{X.h}a^`K",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1813,7 +2191,9 @@
                             ],
                             "guid": "jZ!8ux;6Fe",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1823,7 +2203,9 @@
                             ],
                             "guid": "b+9i5c||sy",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1833,7 +2215,9 @@
                             ],
                             "guid": "u?$@px5yyj",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1843,7 +2227,9 @@
                             ],
                             "guid": "ojXjEd1X=3",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1853,7 +2239,9 @@
                             ],
                             "guid": "m|XsClJNY5",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1863,7 +2251,9 @@
                             ],
                             "guid": "eDZ(QN~%n$",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1873,7 +2263,9 @@
                             ],
                             "guid": "r4$.|u0`HU",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1883,7 +2275,9 @@
                             ],
                             "guid": "t7Gp,2#_u:",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1893,7 +2287,9 @@
                             ],
                             "guid": "I!{1Wi!YeQ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1903,7 +2299,9 @@
                             ],
                             "guid": "LSu|Nm/{n<",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1913,7 +2311,9 @@
                             ],
                             "guid": "z~Bf[u+uHM",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1923,7 +2323,9 @@
                             ],
                             "guid": "JGrfi_ba$J",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1933,7 +2335,9 @@
                             ],
                             "guid": "iIKFo/#[p/",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1943,7 +2347,9 @@
                             ],
                             "guid": "ft!1P=!i|8",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1953,7 +2359,9 @@
                             ],
                             "guid": "q=Z$fq-z/@",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1963,7 +2371,9 @@
                             ],
                             "guid": "BK[X]{B(sV",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1973,7 +2383,9 @@
                             ],
                             "guid": "vT`n<XG@*{",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1983,7 +2395,9 @@
                             ],
                             "guid": "g$47p!y/XG",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1993,7 +2407,9 @@
                             ],
                             "guid": "sl3*+68FEQ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2003,7 +2419,9 @@
                             ],
                             "guid": "z<>//#H-hC",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2013,7 +2431,9 @@
                             ],
                             "guid": "gV8SquY#x?",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2023,7 +2443,9 @@
                             ],
                             "guid": "spiXzb7ryw",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2033,7 +2455,9 @@
                             ],
                             "guid": "w+l?]$qJR{",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2043,7 +2467,9 @@
                             ],
                             "guid": "jT_IrTJD4d",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2053,7 +2479,9 @@
                             ],
                             "guid": "hT7N^Y1J*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2063,7 +2491,9 @@
                             ],
                             "guid": "FWRpP?{4NG",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2073,7 +2503,9 @@
                             ],
                             "guid": "hJB5iIv5=D",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2083,7 +2515,9 @@
                             ],
                             "guid": "k2Yaf/-8E$",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2093,7 +2527,9 @@
                             ],
                             "guid": "Kn`=y;]#+?",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2103,7 +2539,9 @@
                             ],
                             "guid": "rE|HIw=mT[",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2113,7 +2551,9 @@
                             ],
                             "guid": "m#zAv(6]w>",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2123,7 +2563,9 @@
                             ],
                             "guid": "uC,/(A8IyD",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2133,7 +2575,9 @@
                             ],
                             "guid": "HIgH:&DAq#",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2143,7 +2587,9 @@
                             ],
                             "guid": "eWsjW?>d|G",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2153,7 +2599,9 @@
                             ],
                             "guid": "QX$RIarIHq",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2163,7 +2611,9 @@
                             ],
                             "guid": "d#}ThE@5D9",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2173,7 +2623,9 @@
                             ],
                             "guid": "sh?c~Au&gy",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2183,7 +2635,9 @@
                             ],
                             "guid": "CWxT>5]xBs",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2193,7 +2647,9 @@
                             ],
                             "guid": "J`@>_8Fo-?",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2203,7 +2659,9 @@
                             ],
                             "guid": "d?gVHPe/mb",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2213,7 +2671,9 @@
                             ],
                             "guid": "j(YJ%tpf*,",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2223,7 +2683,9 @@
                             ],
                             "guid": "II?%coeHWv",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2233,7 +2695,9 @@
                             ],
                             "guid": "ulZyO$j-=<",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2243,7 +2707,9 @@
                             ],
                             "guid": "Is?ML<44M=",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2253,7 +2719,9 @@
                             ],
                             "guid": "Kn$FkN12Ed",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2263,7 +2731,9 @@
                             ],
                             "guid": "y-^45Q>W<g",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2273,7 +2743,9 @@
                             ],
                             "guid": "f7XV~u!$_A",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2283,7 +2755,9 @@
                             ],
                             "guid": "PsLRtp+wRV",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2293,7 +2767,9 @@
                             ],
                             "guid": "Q89_#i/`IH",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2303,7 +2779,9 @@
                             ],
                             "guid": "Kb&$O(%o{p",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2313,7 +2791,9 @@
                             ],
                             "guid": "CDV1ygZL9^",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2323,7 +2803,9 @@
                             ],
                             "guid": "t@=lDU+`[&",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2333,7 +2815,9 @@
                             ],
                             "guid": "lQA@2yul`{",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2343,7 +2827,9 @@
                             ],
                             "guid": "n!E|^_3)J8",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2353,7 +2839,9 @@
                             ],
                             "guid": "koiz%v^Pss",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2363,7 +2851,9 @@
                             ],
                             "guid": "f?wL]E.(dh",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2373,7 +2863,9 @@
                             ],
                             "guid": "r41W@wCZfq",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2383,7 +2875,9 @@
                             ],
                             "guid": "}4x/fe<LO",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2393,7 +2887,9 @@
                             ],
                             "guid": "E]jQR}e@Sf",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2403,7 +2899,9 @@
                             ],
                             "guid": "qJSC#}k@#~",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2413,7 +2911,9 @@
                             ],
                             "guid": "KU^*e*CULl",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2423,7 +2923,9 @@
                             ],
                             "guid": "P;{os&YgC^",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2433,7 +2935,9 @@
                             ],
                             "guid": "pWhe+HUj$$",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2443,7 +2947,9 @@
                             ],
                             "guid": "l^#`*^g1hm",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2453,7 +2959,9 @@
                             ],
                             "guid": "L]4t?/,Yb2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2463,7 +2971,9 @@
                             ],
                             "guid": "j*7t#s,g[n",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2473,7 +2983,9 @@
                             ],
                             "guid": "db];wjZiCd",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2483,7 +2995,9 @@
                             ],
                             "guid": "y0mRZTeRsC",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2493,7 +3007,9 @@
                             ],
                             "guid": "Bud7]ThM@W",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2503,7 +3019,9 @@
                             ],
                             "guid": "iQI13n;lF0",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2513,7 +3031,9 @@
                             ],
                             "guid": "wN9O0oe(l:",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2523,7 +3043,9 @@
                             ],
                             "guid": "tZ$S[3OJju",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2533,7 +3055,9 @@
                             ],
                             "guid": "caXzW$DFVT",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2543,7 +3067,9 @@
                             ],
                             "guid": "zl8h(q@`fR",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2553,7 +3079,9 @@
                             ],
                             "guid": "G5zL33(Mf_",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2563,7 +3091,9 @@
                             ],
                             "guid": "K(O,P4Tm}4",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2573,7 +3103,9 @@
                             ],
                             "guid": "N?EduHWj}S",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2583,7 +3115,9 @@
                             ],
                             "guid": "nZ{hL4rtN6",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2593,7 +3127,9 @@
                             ],
                             "guid": "G8K5ul2<af",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2603,7 +3139,9 @@
                             ],
                             "guid": "iF2ASItDhh",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2613,7 +3151,9 @@
                             ],
                             "guid": "AP>bp<jHo8",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2623,7 +3163,9 @@
                             ],
                             "guid": "6g#PrXlr!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2633,7 +3175,9 @@
                             ],
                             "guid": "tStDC8;Uj6",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2643,7 +3187,9 @@
                             ],
                             "guid": "Ly5WQ&6NCj",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Vom-Gen-zum-Protein"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2653,7 +3199,9 @@
                             ],
                             "guid": "j7uY]f#F>J",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2663,7 +3211,9 @@
                             ],
                             "guid": "CiZC}*PO)=",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2673,7 +3223,9 @@
                             ],
                             "guid": "v<G~%;JQ$[",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2683,7 +3235,9 @@
                             ],
                             "guid": "ui7LRXJP+n",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2693,7 +3247,9 @@
                             ],
                             "guid": "gMzJat5-4S",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2703,7 +3259,9 @@
                             ],
                             "guid": "wG~tvxhr`?",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2713,7 +3271,9 @@
                             ],
                             "guid": "N&a0wMhd^r",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2723,7 +3283,9 @@
                             ],
                             "guid": "NF`]cG2w@=",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2733,7 +3295,9 @@
                             ],
                             "guid": "fU[>E{&e_Z",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2743,7 +3307,9 @@
                             ],
                             "guid": "csh8o9TqN`",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2753,7 +3319,9 @@
                             ],
                             "guid": "r]Oo.@tDUA",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2763,7 +3331,9 @@
                             ],
                             "guid": "q+U-_WHCI8",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2773,7 +3343,9 @@
                             ],
                             "guid": "OV&,|`pA(2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2783,7 +3355,9 @@
                             ],
                             "guid": "y+8Un[U9{D",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2793,7 +3367,9 @@
                             ],
                             "guid": "zAo;{^17xE",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2803,7 +3379,9 @@
                             ],
                             "guid": "CPU|v)l;li",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2813,7 +3391,9 @@
                             ],
                             "guid": "iYHy+BvXh?",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2823,7 +3403,9 @@
                             ],
                             "guid": "Q._e{|D8%#",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2833,7 +3415,9 @@
                             ],
                             "guid": "Iu{54os!$r",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2843,7 +3427,9 @@
                             ],
                             "guid": "w<y1fkRQ$B",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2853,7 +3439,9 @@
                             ],
                             "guid": "tyQnb2*iWE",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2863,7 +3451,9 @@
                             ],
                             "guid": "kS9$9Zl`Wd",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2873,7 +3463,9 @@
                             ],
                             "guid": "f,V>/ueUGI",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2883,7 +3475,9 @@
                             ],
                             "guid": "tS9NZ#cG{O",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2893,7 +3487,9 @@
                             ],
                             "guid": "QiWmrlmT#_",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2903,7 +3499,9 @@
                             ],
                             "guid": "tQap+%.M]=",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2913,7 +3511,9 @@
                             ],
                             "guid": "J5:QsNS#S!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2923,7 +3523,9 @@
                             ],
                             "guid": "b(PY]9!5y|",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2933,7 +3535,9 @@
                             ],
                             "guid": "m6oJaQ3D5s",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2943,7 +3547,9 @@
                             ],
                             "guid": "Lr:E{9Q*=Y",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2953,7 +3559,9 @@
                             ],
                             "guid": "LrEDuTS&MD",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2963,7 +3571,9 @@
                             ],
                             "guid": "Fbh%S7*obp",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2973,7 +3583,9 @@
                             ],
                             "guid": "r(Mh/!AO+F",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2983,7 +3595,9 @@
                             ],
                             "guid": "Gs/mF-mR*|",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -2993,7 +3607,9 @@
                             ],
                             "guid": "qON@.`RG7x",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Modifikation"
+                            ]
                         }
                     ]
                 },
@@ -3019,7 +3635,9 @@
                             ],
                             "guid": "Af1@]=6?^X",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3029,7 +3647,9 @@
                             ],
                             "guid": "jUAA].!K]<",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3039,7 +3659,9 @@
                             ],
                             "guid": "B_Q/M+F=%#",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3049,7 +3671,9 @@
                             ],
                             "guid": "PT.sFzs*o,",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3059,7 +3683,9 @@
                             ],
                             "guid": "AU}SVt.%P*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3069,7 +3695,9 @@
                             ],
                             "guid": "Cn;I2hwj5p",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3079,17 +3707,21 @@
                             ],
                             "guid": "dahx[r?2z)",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist eine deklaration (mit Beispiel Code)?<div>{{c1::<div>eine Variable bekommt einen Datentyp zugewiesen</div><div>Bsp.: int Zahl1</div>}}<br></div>",
+                                "Was ist eine Deklaration (mit Beispiel Code)?<div>{{c1::<div>eine Variable bekommt einen Datentyp zugewiesen</div><div>Bsp.: int Zahl1</div>}}<br></div>",
                                 "Bei der Deklaration wird nur der Datentyp spezifiziert. Es wird noch kein Platz im RAM dafür geschaffen!!"
                             ],
                             "guid": "b_2643}|O|",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3099,7 +3731,9 @@
                             ],
                             "guid": "lvers*yl!]",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3109,7 +3743,9 @@
                             ],
                             "guid": "O]X;XR#I6k",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3119,7 +3755,9 @@
                             ],
                             "guid": "G{N!w#[,-.",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3129,7 +3767,9 @@
                             ],
                             "guid": "J>aZ?J%^n",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3139,7 +3779,9 @@
                             ],
                             "guid": "mw]-i]5Y+*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3149,7 +3791,9 @@
                             ],
                             "guid": "j]]]-dD+()",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3159,7 +3803,9 @@
                             ],
                             "guid": "IQA;W`u`}m",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3169,7 +3815,9 @@
                             ],
                             "guid": "tX92KRuTo/",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3179,7 +3827,9 @@
                             ],
                             "guid": "nc<9nkakRy",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3189,7 +3839,9 @@
                             ],
                             "guid": "O-c#Gt%j<z",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3199,7 +3851,9 @@
                             ],
                             "guid": "H8:yh&wF6L",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3209,7 +3863,9 @@
                             ],
                             "guid": "tAR~{RaNnn",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3219,7 +3875,9 @@
                             ],
                             "guid": "p.mCG&%_v`",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3229,7 +3887,9 @@
                             ],
                             "guid": "DiA(3(_&+Q",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3239,7 +3899,9 @@
                             ],
                             "guid": "kZOvZ)xpp6",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3249,7 +3911,9 @@
                             ],
                             "guid": "B}On~YS(p<",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3259,7 +3923,9 @@
                             ],
                             "guid": "y,Fzm%5D54",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3269,7 +3935,9 @@
                             ],
                             "guid": "N*%5F4b}<[",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3279,7 +3947,9 @@
                             ],
                             "guid": "FICDtmi={M",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3289,7 +3959,9 @@
                             ],
                             "guid": "BY-`t~@yi9",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3299,7 +3971,9 @@
                             ],
                             "guid": "CT>Y6<+;`y",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3309,7 +3983,9 @@
                             ],
                             "guid": "D;qS7~z]#v",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3319,7 +3995,9 @@
                             ],
                             "guid": "heqao4y.Lb",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3329,7 +4007,9 @@
                             ],
                             "guid": "cDYMMl.A9W",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3339,7 +4019,9 @@
                             ],
                             "guid": "LyVu<ON4Q`",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3349,7 +4031,9 @@
                             ],
                             "guid": "i/E#!M@S>3",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3359,7 +4043,9 @@
                             ],
                             "guid": "nCsr;ww0,2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3369,7 +4055,9 @@
                             ],
                             "guid": "K`vZq)EePh",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3379,7 +4067,9 @@
                             ],
                             "guid": "E!xT~y.%gH",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3389,7 +4079,9 @@
                             ],
                             "guid": "rOAr&Hpd_x",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3399,7 +4091,9 @@
                             ],
                             "guid": "naoN>]hlBT",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3409,7 +4103,9 @@
                             ],
                             "guid": "g00BV.QNfc",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3419,7 +4115,9 @@
                             ],
                             "guid": "q@$>Z};Ioz",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3429,7 +4127,9 @@
                             ],
                             "guid": "mzY,E3~^mW",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3439,7 +4139,9 @@
                             ],
                             "guid": "BL90>>4p^",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3449,7 +4151,9 @@
                             ],
                             "guid": "PU.-keZ&!%",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
                         }
                     ]
                 },
@@ -3503,7 +4207,9 @@
                             ],
                             "guid": "p3^]CFSdlm",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3513,7 +4219,9 @@
                             ],
                             "guid": "keO;/sXznC",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3523,7 +4231,9 @@
                             ],
                             "guid": "h(7gMp1C3>",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3533,7 +4243,9 @@
                             ],
                             "guid": "Q@EYQURo+!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3543,7 +4255,9 @@
                             ],
                             "guid": "q@Z!EW!lNE",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3553,7 +4267,9 @@
                             ],
                             "guid": "FAP/KkIc61",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3563,7 +4279,9 @@
                             ],
                             "guid": "mqcaXr.+p(",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3573,7 +4291,9 @@
                             ],
                             "guid": "lLx~j+Jp)l",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3583,7 +4303,9 @@
                             ],
                             "guid": "k7aj-pJgHu",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3593,7 +4315,9 @@
                             ],
                             "guid": "LjG}rW!hw]",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3603,7 +4327,9 @@
                             ],
                             "guid": "JDM:^Bg=O[",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3613,7 +4339,9 @@
                             ],
                             "guid": "mfdYc&Yv[Z",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3623,7 +4351,9 @@
                             ],
                             "guid": "GcpxjoOEL0",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3633,7 +4363,9 @@
                             ],
                             "guid": "wF+uY`DGR(",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3643,7 +4375,9 @@
                             ],
                             "guid": "k)H?/KlOa+",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3653,7 +4387,9 @@
                             ],
                             "guid": "Ov,F3[}8N3",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3663,7 +4399,9 @@
                             ],
                             "guid": "DrzN;ux2OI",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3673,7 +4411,9 @@
                             ],
                             "guid": "JyCUFt#P/r",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3683,7 +4423,9 @@
                             ],
                             "guid": "PRT_av3>6S",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3693,7 +4435,9 @@
                             ],
                             "guid": "E$g4^?3}m&",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3703,7 +4447,9 @@
                             ],
                             "guid": "o8vw9a9B~s",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3713,7 +4459,9 @@
                             ],
                             "guid": "d`Rl#;bHPV",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3723,7 +4471,9 @@
                             ],
                             "guid": "Mn$[wr@{p~",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3733,7 +4483,9 @@
                             ],
                             "guid": "vwD1(x8#cm",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3743,7 +4495,9 @@
                             ],
                             "guid": "u)k=kVV}@2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3753,7 +4507,9 @@
                             ],
                             "guid": "OA_(:vj[wg",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3763,7 +4519,9 @@
                             ],
                             "guid": "P.74{Z/!yJ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3773,7 +4531,9 @@
                             ],
                             "guid": "O*sAh9y]X`",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3783,7 +4543,9 @@
                             ],
                             "guid": "J=?h66i*CE",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3793,7 +4555,9 @@
                             ],
                             "guid": "jlRMm)Jl|B",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3803,7 +4567,9 @@
                             ],
                             "guid": "h6zh*(e6Aa",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3813,7 +4579,9 @@
                             ],
                             "guid": "NGasf-&_!R",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3823,7 +4591,9 @@
                             ],
                             "guid": "A}w,OEZoUX",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3833,7 +4603,9 @@
                             ],
                             "guid": "K=}/<y5r9^",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3843,7 +4615,9 @@
                             ],
                             "guid": "Azp+);|nwd",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3853,7 +4627,9 @@
                             ],
                             "guid": "z-e8U!ZDbw",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3863,7 +4639,9 @@
                             ],
                             "guid": "q2O4M[`zuJ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Einführung-in-die-Mechanik"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3873,7 +4651,9 @@
                             ],
                             "guid": "kgTT~Mb4L^",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3883,7 +4663,9 @@
                             ],
                             "guid": "EbzE$!(Qr{",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3893,7 +4675,9 @@
                             ],
                             "guid": "iYR+81OF<!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3903,7 +4687,9 @@
                             ],
                             "guid": "pftH&6>xe_",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3913,7 +4699,9 @@
                             ],
                             "guid": "tu>i5lv32/",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3923,7 +4711,9 @@
                             ],
                             "guid": "M^()vY^<0j",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3933,7 +4723,9 @@
                             ],
                             "guid": "bcPy-x$r/t",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3943,7 +4735,9 @@
                             ],
                             "guid": "PZ)1M.Goq#",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3953,7 +4747,9 @@
                             ],
                             "guid": "zPgY3+1c8b",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3963,7 +4759,9 @@
                             ],
                             "guid": "j:L3h=yk-R",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3973,7 +4771,9 @@
                             ],
                             "guid": "IlrLESH&WI",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3983,7 +4783,9 @@
                             ],
                             "guid": "t%:&r[ZBhv",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -3993,7 +4795,9 @@
                             ],
                             "guid": "J38v,0H$Zb",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4003,7 +4807,9 @@
                             ],
                             "guid": "Ip?F9Z(]*4",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4013,7 +4819,9 @@
                             ],
                             "guid": "d?PEfLVptw",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Physik::Newtonsche-Axiome"
+                            ]
                         }
                     ]
                 }
