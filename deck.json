@@ -726,7 +726,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie nennt man die Winkel den die Gruppen, die links und rechts an der Peptidbindung haben?<div>{{c1:: Diederwinkel: -180° bis +180°}}<br></div>",
+                                "Wie nennt man die Winkel den die Gruppen, die links und rechts an der Peptidbindung haben?<div>{{c1:: Diederwinkel}}<br></div>",
                                 ""
                             ],
                             "guid": "s:}^Mbk(%1",
@@ -870,7 +870,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was haben Asparagin und Glutamin gemeinsam?<div>{{c1::<div>Sie besitzen statt eine Säuregruppe eine Säureamidgruppe<br></div><div>NH<sub>2</sub> ersetzt OH</div>}}<br></div>",
+                                "Was haben Asparagin und Glutamin gemeinsam?<div>{{c1::<div>Sie besitzen statt einer Säuregruppe eine Säureamidgruppe<br></div><div>NH<sub>2</sub> ersetzt OH</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "Fk(~w.VSZD",
@@ -2174,7 +2174,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie heißt die Bindung, die zwischen 2 Ribosen im DNA-Rückrat vorliegt?<div>{{c1::Phosphodieserbindung}}<br></div>",
+                                "Wie heißt die Bindung, die zwischen 2 Ribosen im DNA-Rückrat vorliegt?<div>{{c1::Phosphodiesterbindung}}<br></div>",
                                 "<img src=\"Untitled-55eb2ab502a23cb87b2118a4928fcbcf95c8693f.png\">"
                             ],
                             "guid": "u{X.h}a^`K",
@@ -2414,7 +2414,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Funktion des Sigma-Faktors?{{c1::<div>Durch den Sigma-Faktor wird die Polymerase passend auf dem DNA Strang ausgerichtet.</div>}}",
+                                "Was ist die Funktion des Sigma-Faktors?<div>{{c1::Durch den Sigma-Faktor wird die Polymerase passend auf dem DNA Strang ausgerichtet.}}</div>",
                                 "<img src=\"Untitled-645352d50c6b56c05d7d3a53366d70aad56d0cd6.png\">"
                             ],
                             "guid": "z<>//#H-hC",
