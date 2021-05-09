@@ -24,3 +24,10 @@ https://github.com/Stvad/CrowdAnki#import
 * click on the link "Download latest beta" and just click on the downloaded file
 
 To download and install these addons you have to go, in Anki to Tools -> Add-ons -> Get Add-ons and paste the numbers above into the box.
+
+### Custom Background
+If you want to get a prettier Anki background, download the following Add-on:
+* 1210908941
+
+You have to set your Anki to dark mode in the settings!
+* Tools -> Preferences -> Night mode
