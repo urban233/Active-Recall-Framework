@@ -34,7 +34,6 @@
                         "Untitled-b3e7de9bbe567db576479cbbd00d783d0868059a.png",
                         "Untitled-ca24c6c4e629a6f4d73cce22b1fac82324c16e4d.png",
                         "Untitled-df120052e57e91c7a4f7dd0f9a79e446c918780d.png",
-                        "Untitled-f2fd8eabdf6c99e61e5f3dfa6c7c0e2e72e5d738.png",
                         "paste-1828c78399f8c4a2dfaacb1a31b5cdd97c37ce6c.jpg",
                         "paste-4ca044a25f7a839eb388f8b1f84c6e1a8e046934.jpg"
                     ],
@@ -49,47 +48,9 @@
                             ],
                             "guid": "xrA!}5Kg^j",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie häufig kommt jedes dieser Isotope ungefähr vor?<div>{{c1::<div>99,9 % Protium</div>\n<div>0,015 % Deuterium</div>\n<div>10<sup>-16&nbsp;</sup>% Tritum</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "hDRX[Ei;/j",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das besondere an Tritium?<div>{{c1::Es ist ein Beta<sup>-</sup>-Strahler (Sendet Elektronen aus)}}<br></div>",
-                                ""
-                            ],
-                            "guid": "ELoI$<7H=s",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das besondere an Deuterium?<div>{{c1::In höheren Organismen wie Mäusen wirkt es toxisch. In niedriegen Organismen, wie Algenstämmen, wirkt es nicht toxisch. Es wird sogar für den Zellstoffwechsel verwendet.}}<br></div>",
-                                ""
-                            ],
-                            "guid": "RdveE%J6./",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wieso kann man Deuterium über eine Elektrolyse von Wasser anreichern?<div>{{c1::Weil sich Protium deutlich schnelle abscheidet, als Deuterium.}}<br></div>",
-                                ""
-                            ],
-                            "guid": "qh}J}{:u!s",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -99,7 +60,9 @@
                             ],
                             "guid": "iH4+hSP(Y@",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -109,7 +72,9 @@
                             ],
                             "guid": "D^}`/H?)5Y",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -119,7 +84,9 @@
                             ],
                             "guid": "AT6A&Do|HO",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -129,7 +96,9 @@
                             ],
                             "guid": "Ew%=(u_ke)",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -139,7 +108,9 @@
                             ],
                             "guid": "e0->ds!K$H",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -149,7 +120,9 @@
                             ],
                             "guid": "ltp1h,JGKc",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -159,7 +132,9 @@
                             ],
                             "guid": "A:4Mzetyae",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -169,7 +144,9 @@
                             ],
                             "guid": "I`xk{.+1(s",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -179,7 +156,9 @@
                             ],
                             "guid": "qxA)gR%]42",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -189,27 +168,9 @@
                             ],
                             "guid": "M~~qGEi{>&",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie ist das GG von Ortho- und Parawasserstoff?<div>{{c1::bei Raumtemp.: 75% Orthowasserstoff}}<br></div>",
-                                ""
-                            ],
-                            "guid": "BFg7e5+aYl",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>Was versteht man unter naszierenden Wasserstoff?<br></div>{{c1::sehr reaktive H-Atome}}",
-                                ""
-                            ],
-                            "guid": "I&vH%=tkdq",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -219,7 +180,9 @@
                             ],
                             "guid": "D?-x5+9=kD",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -229,7 +192,9 @@
                             ],
                             "guid": "L0XoVu5p0~",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -239,7 +204,9 @@
                             ],
                             "guid": "e.2FiE%`wZ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -249,7 +216,9 @@
                             ],
                             "guid": "beNJBbjHn5",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -259,7 +228,9 @@
                             ],
                             "guid": "t;(rAzxQ*?",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -269,7 +240,9 @@
                             ],
                             "guid": "nWvwtg%0G.",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -279,7 +252,9 @@
                             ],
                             "guid": "KEA38a9Pu0",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -289,7 +264,9 @@
                             ],
                             "guid": "zGy94i[<O5",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -299,17 +276,9 @@
                             ],
                             "guid": "MtC!z0MWeM",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wo wird die Knallgasreaktion technisch eingesetzt?<div>{{c1::Beim Danielschen Brenner, um Temperaturen von 2700 °C zuerreichen}}<br></div>",
-                                "<img src=\"Untitled-f2fd8eabdf6c99e61e5f3dfa6c7c0e2e72e5d738.png\">"
-                            ],
-                            "guid": "yAOSQ<`},K",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -319,7 +288,9 @@
                             ],
                             "guid": "cRAZC:L2`e",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -329,7 +300,9 @@
                             ],
                             "guid": "gYiBb<pe4%",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -339,7 +312,9 @@
                             ],
                             "guid": "dC{4-*1?4K",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -349,7 +324,9 @@
                             ],
                             "guid": "VTOlLu}i(",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -359,27 +336,9 @@
                             ],
                             "guid": "CDd6ktY=Sb",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was können die meisten Übergangsmetalle mit Wasserstoff machen?<div>{{c1::Sie können den Wasserstoff in ihren Metallgitter binden (speichern)}}<br></div>",
-                                ""
-                            ],
-                            "guid": "cHb~(K/xK6",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welches Metall hat das stärkste Lösungsvermögen, in Bezug auf Wasserstoff?<div>{{c1::Paladium mit 870 mL Wasserstoff, auf 1mL Paladium}}<br></div>",
-                                ""
-                            ],
-                            "guid": "N<P>C|&)e]",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -389,7 +348,9 @@
                             ],
                             "guid": "h=T03n5%cu",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -399,7 +360,9 @@
                             ],
                             "guid": "ASUzu~0qOj",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -409,7 +372,9 @@
                             ],
                             "guid": "v0FbKeFdV9",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -419,7 +384,9 @@
                             ],
                             "guid": "A/ROAZvh<B",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -429,7 +396,9 @@
                             ],
                             "guid": "qpynb],@G$",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -439,7 +408,9 @@
                             ],
                             "guid": "B]qx8_SYC-",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -449,7 +420,9 @@
                             ],
                             "guid": "xLKI*;%v|^",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -459,7 +432,9 @@
                             ],
                             "guid": "q{|8fJk-c#",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -469,7 +444,9 @@
                             ],
                             "guid": "IGY)2!|.u>",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -479,7 +456,9 @@
                             ],
                             "guid": "dWL_0>WHzP",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -489,7 +468,9 @@
                             ],
                             "guid": "rl7St#0v7.",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -499,7 +480,9 @@
                             ],
                             "guid": "qc&.O,hG9z",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -509,7 +492,9 @@
                             ],
                             "guid": "D`?]Kg>cu.",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -519,7 +504,9 @@
                             ],
                             "guid": "c.q_R<Devi",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -529,7 +516,9 @@
                             ],
                             "guid": "b/BW},4R]9",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -539,7 +528,9 @@
                             ],
                             "guid": "P].h10wO}G",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -549,7 +540,9 @@
                             ],
                             "guid": "Q/v!$~dQxo",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -559,17 +552,9 @@
                             ],
                             "guid": "pu1umV70C<",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welches Halogenid ist schwer in Wasser löslich?<div>{{c1::LiF}}</div>",
-                                ""
-                            ],
-                            "guid": "wB>Ku*,{rQ",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -579,7 +564,9 @@
                             ],
                             "guid": "lh(1G=wc0P",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -589,17 +576,9 @@
                             ],
                             "guid": "Qqr627(}n1",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie geht es dir?<div>{{c1::noch gut}}</div>",
-                                ""
-                            ],
-                            "guid": "bZIG?rF!C:",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         }
                     ]
                 },
@@ -2486,7 +2465,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie sind die Gene bei Eykaryoten organisiert?<div>{{c1::Ein eukaryotisches Gen besteht aus Introns und Exons (wobei Introns die Eigenschaft haben, kein Protein zu kodieren)}}<br></div>",
+                                "Wie sind die Gene bei Eukaryoten organisiert?<div>{{c1::Ein eukaryotisches Gen besteht aus Introns und Exons (wobei Introns die Eigenschaft haben, kein Protein zu kodieren)}}<br></div>",
                                 ""
                             ],
                             "guid": "FWRpP?{4NG",
