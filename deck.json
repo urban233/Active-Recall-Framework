@@ -4316,7 +4316,9 @@
                         "Untitled-d05814bb7bdab14f85e404e512a85843935d7b15.png",
                         "Untitled-e4ff4bb8553f4dceb02ce26e3b980e5842f96e31.png",
                         "Untitled-ec74b2cf03083b1916a90e42543f61de26a8d4d7.png",
-                        "Untitled-fe8d123ab1d142ae11d98216334755b7acaea99c.png"
+                        "Untitled-fe8d123ab1d142ae11d98216334755b7acaea99c.png",
+                        "paste-394d072acb9292492bcd75f6de3d38033f662b81.jpg",
+                        "paste-f05c20003b02cb9e379e757d490e72c0c555ec76.jpg"
                     ],
                     "mid": 1604391419185,
                     "name": "Physik",
@@ -4943,6 +4945,18 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Physik::Newtonsche-Axiome"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Leite das Gravitationsgestzt aus folgender Erfahrung her:<div>\"Massen ziehen sich gegenseitig an (z.B. Planetensystem)\"</div><div>{{c1::<div>1. Proportionalität zwischen Kraft und Abstand, und Kraft und Masse aufstellen</div><div><img src=\"paste-394d072acb9292492bcd75f6de3d38033f662b81.jpg\"><br></div><div>2. Einführung der Gravitationskonstanten und zuweisen der vektoriellen Eigenschaft</div><div><img src=\"paste-f05c20003b02cb9e379e757d490e72c0c555ec76.jpg\"></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "p+J94{1A3#",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Gravitationsgesetz"
                             ]
                         }
                     ]
