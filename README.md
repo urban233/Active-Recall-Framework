@@ -6,8 +6,9 @@ A Guide on how to import, export and commiting is here:
 https://github.com/Stvad/CrowdAnki#import
 
 ### Important note:
-* You need to install GitHub Desktop!
-* You have to overwrite the deck.josn and the media directory!
+* You need to either install GitHub Desktop or **GitKraken**!
+* GitKraken is preferred, because you can collaborate better with GitKraken, than with GitHub Desktop.
+* Everytime you export your Anki collection, you have to **overwrite** the deck.josn and the media directory!
 
 ### I made a lot of changes in the Active-Recall-Framework deck: 
 1. I used flags to indicate problematic cards
