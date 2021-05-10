@@ -4160,6 +4160,149 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "63276aff-b166-11eb-a62b-448a5b8ef3a7",
+                    "deck_config_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-5f803caf62173957c122df319b2fc313ea6dee76.jpg",
+                        "paste-6ae7c47f9d379aac4f4ad4370a0726ea62c902b2.jpg",
+                        "paste-7276beef79e42deff3c190a42ec56d02553f087d.jpg",
+                        "paste-9e75dd7e33f32a590e40540d1c44ce4bb28ebba5.jpg",
+                        "paste-f08fa537c68eaac64847cc5526feb81c7220e9a0.jpg",
+                        "paste-f3f134f0de46394a39d893d58ff25895a9248a91.jpg",
+                        "paste-febfea2d49e3762ade4f15f1e4197ec8a3f12201.jpg",
+                        "paste-ffd9540526fb6e3a3ef26f3809bde82c0cfc2d41.jpg"
+                    ],
+                    "name": "Mathe",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt der Satz von Schwarz?<div>{{c1::Die Reihenfolge der gemischten Ableitungen spielt keine Rolle}}</div>",
+                                "<img src=\"paste-6ae7c47f9d379aac4f4ad4370a0726ea62c902b2.jpg\">"
+                            ],
+                            "guid": "Q.G&?4J`cZ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann kommen Ableitungen x.Ordnung vor?<div>{{c1::Bei Funktionen mehrerer veränderlicher}}</div>",
+                                "X ist hier ein Platzhalter für 1., 2., 3. und so weiter"
+                            ],
+                            "guid": "b(1W%$to)V",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie bildet man die Ableitung 1. Ordnung?<div>{{c1::man leitet nach jeder Variablen für sich ab}}</div>",
+                                "<img src=\"paste-f08fa537c68eaac64847cc5526feb81c7220e9a0.jpg\">"
+                            ],
+                            "guid": "PO-Q$(d$|Y",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie bestimmt man die kritischen Punkte einer Funktion mehrerer veränderlicher?<div>{{c1::<div>- Ableitungen 1. Ordnung bilden</div><div>- Ableitungen gleich 0 setzten<br></div><div>- entstandenes Gleichungssystem lösen</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "KTe)2St!2&",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist der Gradient aufgebaut?<div>{{c1::er ist eine Matrix bestehend aus den Ableitungen 1. Ordnung}}</div>",
+                                "<img src=\"paste-febfea2d49e3762ade4f15f1e4197ec8a3f12201.jpg\">"
+                            ],
+                            "guid": "K(zA}>tc5R",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Hesse-Matrix aufgebaut?<div>{{c1::es ist eine Matrix, bestehend aus den Ableitungen 2. Ordnung}}</div>",
+                                "<img src=\"paste-5f803caf62173957c122df319b2fc313ea6dee76.jpg\">"
+                            ],
+                            "guid": "C|uj^TUSp!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man den Typ der kritischen Stelle ermitteln?<div>{{c1::Indem man die Determinante der Hesse-Matrix berechnet}}</div>",
+                                "<img src=\"paste-7276beef79e42deff3c190a42ec56d02553f087d.jpg\">"
+                            ],
+                            "guid": "y7DW5xoVzm",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann das totale Differential bestimmt werden?<div>{{c1::Indem man die Ableitung 1. Ordnung mit dx, bzw. dy, dx, ... multipliziert}}</div>",
+                                "Für eine Funktion bestehend aus 2 veränderlichen:<div><img src=\"paste-ffd9540526fb6e3a3ef26f3809bde82c0cfc2d41.jpg\"><br></div>"
+                            ],
+                            "guid": "C:zyemiAP(",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Lagrange-Funktion definiert?<div>{{c1::<img src=\"paste-9e75dd7e33f32a590e40540d1c44ce4bb28ebba5.jpg\">}}<br></div>",
+                                "Bei der Lagrange-Funktion wird die Funktion mit der Nebenbedingung addiert. Die Nebenbedingung wird allerdings noch mit dem Faktor Lambda multipliziert."
+                            ],
+                            "guid": "zb=*Fg6z|n",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie geht man bei der Berechnung eines Mehrfachintegrals vor?<div>{{c1::</div><div>- man integriert von innen nach außen</div><div>- die Stammfunktion der vorangegangen Integration ist Grundlage für die folgende Integration</div><div>}}</div>",
+                                "<img src=\"paste-f3f134f0de46394a39d893d58ff25895a9248a91.jpg\"><div>In diesem Fall wird zuerst nach z integriert. Die Stammfunktion die sich daraus ergibt, wird dann nach y integriert und so weiter.</div>"
+                            ],
+                            "guid": "f@Nxdv<@=k",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Funktion-mehrerer-veränderlicher"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "7b88c47a-a2ab-11eb-aca5-14f6d86a1eaf",
                     "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
                     "desc": "",
@@ -4885,6 +5028,48 @@
                 "perDay": 9999
             },
             "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
             "timer": 0
         }
     ],
