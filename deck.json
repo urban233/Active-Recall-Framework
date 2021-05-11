@@ -2249,7 +2249,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist das besondere, wenn man DNA zum schmelzen bringt?<div>{{c1::Die DNA hat einen unspezifischen Schmelzpunkt, der von der GC-Konzentration und der Länge des Doppelstranges anhängt. Zudem liegt ein dynamisches GG beim schmelzen vor. Das heißt im Moment, wo DNA-Stränge getrennt werden, bilden sich wieder neue Doppelstränge (Erklärung des dynamischen GG)}}</div>",
+                                "Was ist das besondere, wenn man DNA zum schmelzen bringt?<div>{{c1::Die DNA hat einen unspezifischen Schmelzpunkt. Es liegt ein dynamisches GG beim schmelzen vor.}}</div>",
                                 "Die Abbildung zeigt, das schon ab 80 °C ca. 15 % der DNA einsträngig vorliegt. Somit verhält sich der Schmelzprozess&nbsp;<span style=\"font-weight: 600;\">nicht&nbsp;</span>wie bei Wasser (Bei Wasser ist dieser klar definiert).<div><img src=\"Untitled-4c5432b5600c2f08c0ed56b1d2e455b67cc9068f.png\"><br></div>"
                             ],
                             "guid": "t7Gp,2#_u:",
@@ -2729,19 +2729,20 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie findet der Zellaufschluss bei der Plasmid-Präperationen statt?<div><br></div><div>{{c1::Durch die Zugabe von NaOH und SDS werden die Zellen unter sehr alkalischen Bedingungen (pH: 12) aufgeschlossen. Dannach wird die Lösung angesäuert (pH: 7). Durch die Ansäuerung kann koagulieren die Proteine, gDNA und andere Zelltrümmer. Die Plasmide liegen dann renaturiert in der Lösung vor.}}<br></div>",
+                                "Wie findet der Zellaufschluss bei der Plasmid-Präperationen statt?<div><br></div><div>{{c1::Durch die Zugabe von NaOH und SDS werden die Zellen unter sehr alkalischen Bedingungen (pH: 12) aufgeschlossen. Dannach wird die Lösung angesäuert (pH: 7). Die Plasmide liegen dann renaturiert in der Lösung vor.}}<br></div>",
                                 "<img src=\"Untitled-8b8f6840c47cdf8b26280e9a14dedbdb11514bdb.png\">"
                             ],
                             "guid": "PsLRtp+wRV",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Genetik::DNA-Präp"
+                                "Genetik::DNA-Präp",
+                                "Probleme::Verständnis"
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist das besondere beim Zellaufschluss von Plasmid-Präperationen?<div><br></div><div>{{c1::Da der Plasmid im Verhältnis zum gDNA (Genom-DNA) relativ klein ist (kBp zu MBp bis GBp) und zirkulär angeordnet, kann es viel schneller renaturieren, als eine große gDNA. Somit gelangen die Plasmide in die Lösung und fallen trotz des pH-Umschwungs nicht aus.}}<br></div>",
+                                "Was ist das besondere beim Zellaufschluss von Plasmid-Präperationen?<div><br></div><div>{{c1::Da der Plasmid im Verhältnis zur gDNA (Genom-DNA) relativ klein ist (kBp zu MBp bis GBp) und zirkulär angeordnet, kann es viel schneller renaturieren, als eine große gDNA. Somit gelangen die Plasmide in die Lösung und fallen trotz des pH-Umschwungs nicht aus.}}<br></div>",
                                 "<img src=\"Untitled-92d1710288cb0defc0dae77c25c5952cc94220d3.png\">"
                             ],
                             "guid": "Q89_#i/`IH",
@@ -2801,7 +2802,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert die Silikagel–Methodik?<div><br></div><div>{{c1::Liegt eine hohe Konzentration an NaCl vor, so WW es mit den negativ Geladenen Silikaten. Mit den Natrium-Ionen WW dann die DNA sodass eine Adsorption der DNA an der Silikatoberfläche entsteht. Dann werden die Reinigungsschritte vorgenommen.}}<br></div>",
+                                "Wie funktioniert die Silikagel–Methodik?<div><br></div><div>{{c1::Liegt eine hohe Konzentration an NaCl vor, so WW es mit den negativ geladenen Silikaten.&nbsp;</div><div>Mit den Natrium-Ionen WW dann die DNA sodass eine Adsorption der DNA an der Silikatoberfläche entsteht. Dann werden die Reinigungsschritte vorgenommen.}}<br></div>",
                                 "<img src=\"Untitled-9c41de008f27c9c490d25a1df00695c5ffa26eaf.png\"><div><br></div>"
                             ],
                             "guid": "n!E|^_3)J8",
@@ -2861,7 +2862,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist eine Adsorbens?<div><br></div><div>{{c1::Hier bei der DNA-Präperation ist es die Silikatoberfläche, also die Oberfläche mit der die DNA über die Natrium-Ionen WW.}}<br></div>",
+                                "Was ist eine Adsorbens bei der DNA-Präperation?<div><br></div><div>{{c1::Hier bei der DNA-Präperation ist es die Silikatoberfläche, also die Oberfläche mit der die DNA über die Natrium-Ionen WW.}}<br></div>",
                                 ""
                             ],
                             "guid": "E]jQR}e@Sf",
@@ -2885,7 +2886,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Warum muss eine Spektroskopie und eine Gelelektrophorese durchgeführt werden?<div><br></div><div>{{c1::Da die UV-Spektroskopie nur überprüft in welchen Maße Verunreinigungen vorliegen und <span style=\"font-weight:600\">nicht </span>ob die Stranglänge der DNA korrekt ist, muss zusätzlich eine Gelelektrophorese durchgeführt werden.}}<br></div>",
+                                "Warum muss eine Spektroskopie und eine Gelelektrophorese nach der DNA-Präparation durchgeführt werden?<div><br></div><div>{{c1::Da die UV-Spektroskopie nur überprüft in welchen Maße Verunreinigungen vorliegen und <span style=\"font-weight:600\">nicht </span>ob die Stranglänge der DNA korrekt ist, muss zusätzlich eine Gelelektrophorese durchgeführt werden.}}<br></div>",
                                 "<img src=\"Untitled-b70209975ea05f8756111d569515842efef2428a.png\">"
                             ],
                             "guid": "KU^*e*CULl",
@@ -2969,7 +2970,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie lautet die tertiärstruktur der tRNA?<div><br></div><div>{{c1::+/- Komplex}}<br></div>",
+                                "Wie lautet die Tertiärstruktur der tRNA?<div><br></div><div>{{c1::+/- Komplex}}<br></div>",
                                 "<img src=\"Untitled-1f89a85c8d27cb1683845b098bc228781eee8b3b.png\">"
                             ],
                             "guid": "y0mRZTeRsC",
@@ -3042,7 +3043,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Welche Stellen hat das Ribosom?<div><br></div><div>{{c1::<div>A-Stelle: \"Andockstelle\"</div>\n<div>P-Stelle:  \"Parkstelle\"</div>\n<div>E-Stelle: Exit</div>}}<br></div>",
-                                ""
+                                "Begriffe in Anführungszeichen sind keine offiziellen Begriffe. Diese dienen nur als Merkhilfe."
                             ],
                             "guid": "zl8h(q@`fR",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -3377,7 +3378,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wieso wird die Bakterien-DNA nicht von den Restriktionsenzymen zerschnitten?<div>{{c1::Weil an den Sequenzen, an den die Restriktionsenzyme schneiden, die DNA Methyliert wurde}}<br></div>",
+                                "Wieso wird die Bakterien-DNA nicht von den Restriktionsenzymen zerschnitten?<div>{{c1::Weil an den Sequenzen, an den die Restriktionsenzyme schneiden, die DNA Methyliert wurde.}}<br></div>",
                                 "<img src=\"Untitled-10324fe955c563c88748ec1ce9b2157be478ee72.png\">"
                             ],
                             "guid": "Q._e{|D8%#",
@@ -3545,7 +3546,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie findet die DNA-Markierung statt?<div>1.) {{c1::Nicks in DNA setzen}}&nbsp;</div><div>2.) {{c1::DNA-Polymerase &amp; gelabeltes-dNTP}}&nbsp;</div><div>3.) {{c1:Nicks werden aufgefüllt und dabei verschoben (daher der Name „Nick-Translation“müsste eigentlich „Nick-Translokation“ heißen …)}}<br></div>",
+                                "Wie findet die DNA-Markierung statt?<div>1.) {{c1::Nicks in DNA setzen}}</div><div>2.) {{c1::DNA-Polymerase &amp; gelabeltes-dNTP}}</div><div>3.) {{c1::Nicks werden aufgefüllt und dabei verschoben (daher der Name „Nick-Translation“müsste eigentlich „Nick-Translokation“ heißen …)}}</div>",
                                 "<img src=\"Untitled-bea359a70b4ab69f57d6626dbf1e037d2901c583.png\">"
                             ],
                             "guid": "Fbh%S7*obp",
@@ -3589,6 +3590,46 @@
                             "tags": [
                                 "Genetik::DNA-Modifikation"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wovon hängt der Schmelzbereich der DNA ab?<div>{{c1::Von der GC-Konzentration und der Länge des Doppelstranges.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "KF.G>4#Qu8",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist gemeint, wenn von einem dynamischen GG beim schmelzen der DNA gesprochen wird?<br>{{c1::Das heißt im Moment, wo DNA-Stränge getrennt werden, bilden sich wieder neue Doppelstränge}}<br>",
+                                "<img src=\"Untitled-4c5432b5600c2f08c0ed56b1d2e455b67cc9068f.png\">"
+                            ],
+                            "guid": "m&F${PQclZ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert bei der Zugabe von NaOH und SDS, bei der&nbsp;Plasmid-Präperationen?<div>{{c1::Die Zellen werden unter diesen alkalischen Bedingungen aufgeschlossen.}}</div>",
+                                ""
+                            ],
+                            "guid": "r$x>p?<02j",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was geschieht, wenn man bei der&nbsp;Plasmid-Präperationen, das alkalische Medium ansäuert?<div>{{c1::Durch die Ansäuerung koagulieren die Proteine, gDNA und andere Zelltrümmer.}}<br></div>",
+                                "<img src=\"Untitled-8b8f6840c47cdf8b26280e9a14dedbdb11514bdb.png\">"
+                            ],
+                            "guid": "M`9KX}Y}lC",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
                         }
                     ]
                 },
@@ -4140,7 +4181,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "63276aff-b166-11eb-a62b-448a5b8ef3a7",
-                    "deck_config_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
+                    "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -4244,7 +4285,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann das totale Differential bestimmt werden?<div>{{c1::Indem man die Ableitung 1. Ordnung mit dx, bzw. dy, dx, ... multipliziert}}</div>",
+                                "Wie kann das totale Differential bestimmt werden?<div>{{c1::Indem man die Ableitung 1. Ordnung mit dx, bzw. dy, dz, ... multipliziert}}</div>",
                                 "Für eine Funktion bestehend aus 2 veränderlichen:<div><img src=\"paste-ffd9540526fb6e3a3ef26f3809bde82c0cfc2d41.jpg\"><br></div>"
                             ],
                             "guid": "C:zyemiAP(",
@@ -5021,48 +5062,6 @@
                 "perDay": 9999
             },
             "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Standard",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
             "timer": 0
         }
     ],
