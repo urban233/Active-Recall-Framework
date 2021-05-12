@@ -3163,7 +3163,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann die RNA-Polymerase noch gennant werden?{{c1::<div>Transkriptase</div>}}",
+                                "Wie kann die RNA-Polymerase noch gennant werden?<div>{{c1::<div>Transkriptase</div>}}</div>",
                                 ""
                             ],
                             "guid": "vT`n<XG@*{",
@@ -3307,7 +3307,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche strukturelle Besonderheit gibt es bei eukariyotischer mRNA?<div>{{c1::Eine Cap die ans 5'-Ende angehängt wird und ein Poly-A-Tail am 3'-Ende}}<br></div>",
+                                "Welche strukturelle Besonderheit gibt es bei eukaryotischer mRNA?<div>{{c1::Eine Cap die ans 5'-Ende angehängt wird und ein Poly-A-Tail am 3'-Ende}}<br></div>",
                                 "<img src=\"Untitled-6356c854c481b9fe7c039adf4253efec2673df0d.png\">"
                             ],
                             "guid": "Kn`=y;]#+?",
@@ -3403,7 +3403,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind Plasmide?<div><br></div><div>{{c1::Plasmide sind extrachromosolmale Nukleinsäuren. Diese tragen die Informationen, die nicht überlebenswichtig sind.}}<br></div>",
+                                "Was sind Plasmide?<div>{{c1::Plasmide sind extrachromosolmale Nukleinsäuren. Diese tragen die Informationen, die nicht überlebenswichtig sind.}}<br></div>",
                                 ""
                             ],
                             "guid": "sh?c~Au&gy",
@@ -3415,7 +3415,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist RNA?<div><br></div><div>{{c1::RNAs sind Transkripte, die in Retroviren vorkommen. Außerdem sind sie der Bauplan für die Proteinbiosynthese.}}<br></div>",
+                                "Was ist RNA?<div>{{c1::RNAs sind Transkripte, die in Retroviren vorkommen. Außerdem sind sie der Bauplan für die Proteinbiosynthese.}}<br></div>",
                                 ""
                             ],
                             "guid": "CWxT>5]xBs",
@@ -3463,7 +3463,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Probleme gibt es bei der Isolierung?{{c1::<div><ul><li><li>vorhandene DNAsen</li>\n<li>mechanische Scherkräfte</li>\n<li>Proteinverunreinigungen</li>\n<li>weitere Kontaminationen</li>\n<li>geringe Konzentration</li>}}<br></li></ul></div>",
+                                "Welche Probleme gibt es bei der Isolierung?<div>{{c1::<div><ul><li>vorhandene DNAsen</li>\n<li>mechanische Scherkräfte</li>\n<li>Proteinverunreinigungen</li>\n<li>weitere Kontaminationen</li>\n<li>geringe Konzentration</li>}}<br></ul></div></div>",
                                 ""
                             ],
                             "guid": "II?%coeHWv",
@@ -3475,7 +3475,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie können die Probleme gelöst werden?{{c1::<div><ul><li><li>DNAse-Inhibitoren, sterile Gerätschaften, Reinstchemikalien ⇒ vorhandene DNAsen</li>\n<li>Langsames Pipettieren, kein starkes Schütteln ⇒ mechanische Scherkräfte</li>\n<li>Phenol, chaotrope Salze ⇒ Proteinverunreinigungen</li>\n<li>Steriles Arbeiten, QM ⇒ weitere Kontaminationen</li>\n<li>Alkoholfällung ⇒ geringe Konzentration</li>}}<br></li></ul></div>",
+                                "Wie können die Probleme bei der DNA-Präperation gelöst werden?<div>{{c1::<div><ul><li>DNAse-Inhibitoren, sterile Gerätschaften, Reinstchemikalien ⇒ vorhandene DNAsen</li>\n<li>Langsames Pipettieren, kein starkes Schütteln ⇒ mechanische Scherkräfte</li>\n<li>Phenol, chaotrope Salze ⇒ Proteinverunreinigungen</li>\n<li>Steriles Arbeiten, QM ⇒ weitere Kontaminationen</li>\n<li>Alkoholfällung ⇒ geringe Konzentration</li>}}<br></ul></div></div>",
                                 "<img src=\"paste-89018c72653de57f9947a97677f607930316383f.jpg\">"
                             ],
                             "guid": "ulZyO$j-=<",
@@ -3511,7 +3511,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Formen des Zellaufschlusses gibt es?<div><br></div><div>{{c1::Mechanische, chemische und biochemische (Enzymatisch)}}<br></div>",
+                                "Welche Formen des Zellaufschlusses gibt es?<div>{{c1::Mechanische, chemische und biochemische (Enzymatisch)}}<br></div>",
                                 "<img src=\"paste-22677acc03ed218186e5ce1f2dea019fc5d56143.jpg\">"
                             ],
                             "guid": "y-^45Q>W<g",
@@ -3523,7 +3523,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie findet die Abtrennung der Proteine grob statt?<div><br></div><div>{{c1::Das Zellextrakt, Lyse durch NaOH und SDS, wird zentrifugiert, oder filtriert.}}<br></div>",
+                                "Wie findet die Abtrennung der Proteine grob statt?<div><br></div><div>{{c1::Das Zellextrakt wird durch NaOH und SDS lysiert, danach zentrifugiert, oder filtriert.}}<br></div>",
                                 "<img src=\"Untitled-e9827b95d47a8f317333f5b9d3c8bad59c2e0fd3.png\">"
                             ],
                             "guid": "f7XV~u!$_A",
@@ -3548,7 +3548,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist das besondere beim Zellaufschluss von Plasmid-Präperationen?<div><br></div><div>{{c1::Da der Plasmid im Verhältnis zur gDNA (Genom-DNA) relativ klein ist (kBp zu MBp bis GBp) und zirkulär angeordnet, kann es viel schneller renaturieren, als eine große gDNA. Somit gelangen die Plasmide in die Lösung und fallen trotz des pH-Umschwungs nicht aus.}}<br></div>",
+                                "Was ist das besondere beim Zellaufschluss von Plasmid-Präperationen?<div>{{c1::Da der Plasmid im Verhältnis zur gDNA (Genom-DNA) relativ klein ist (kBp zu MBp bis GBp) und zirkulär angeordnet, kann es viel schneller renaturieren, als eine große gDNA. Somit gelangen die Plasmide in die Lösung und fallen trotz des pH-Umschwungs nicht aus.}}<br></div>",
                                 "<img src=\"Untitled-92d1710288cb0defc0dae77c25c5952cc94220d3.png\">"
                             ],
                             "guid": "Q89_#i/`IH",
@@ -3560,7 +3560,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Warum können die Plasmide so schnell renaturieren?<div><br></div><div>{{c1::Da es sich um einen geschlossen Ring handelt, kann es keine 2 Einzelstränge geben. Somit können Plasmide schneller renaturieren, da die Diffusion der Einzelstränge nicht stattfinden kann.}}<br></div>",
+                                "Warum können die Plasmide so schnell renaturieren?<div>{{c1::Da es sich um einen geschlossen Ring handelt, kann es keine 2 Einzelstränge geben. Somit können Plasmide schneller renaturieren, da die Diffusion der Einzelstränge nicht stattfinden kann.}}<br></div>",
                                 ""
                             ],
                             "guid": "Kb&$O(%o{p",
@@ -3572,7 +3572,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist mit Deproteinierung gemeint?<div><br></div><div>{{c1::Damit ist ein Reinigungschritt gemeint, bei dem die Proteine in dem Gemisch entfernt werden sollen.}}<br></div>",
+                                "Was ist mit Deproteinierung gemeint?<div>{{c1::Damit ist ein Reinigungschritt gemeint, bei dem die Proteine in dem Gemisch entfernt werden sollen.}}<br></div>",
                                 ""
                             ],
                             "guid": "CDV1ygZL9^",
@@ -3584,7 +3584,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Methoden gibt es zur Deproteinierung?<div><br></div><div>{{c1::<div>Extraktion mit Phenol/Chloroform</div>\n<div>Silikagel–Methodik</div>}}<br></div>",
+                                "Welche Methoden gibt es zur Deproteinierung?<div>{{c1::<div>Extraktion mit Phenol/Chloroform</div>\n<div>Silikagel–Methodik</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "t@=lDU+`[&",
@@ -3596,7 +3596,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert die Extraktion mit Phenol/Chloroform?<div><br></div><div>{{c1::Das Zellextrakt wird mit Phenol versetzt. Durch das Phenol bilden sich 3 Phasen. Eine wässrige Phase, welche DNA und RNA enthält. Eine Interphase worin sich die Protein befinden und eine Phenolphase. Das Chloroform wird verwendet um die Phenolreste in der wässrigen Phase zu entfernen.}}<br></div>",
+                                "Wie funktioniert die Extraktion mit Phenol/Chloroform?<div>{{c1::Das Zellextrakt wird mit Phenol versetzt. Durch das Phenol bilden sich 3 Phasen. Eine wässrige Phase, welche DNA und RNA enthält. Eine Interphase worin sich die Protein befinden und eine Phenolphase. Das Chloroform wird verwendet um die Phenolreste in der wässrigen Phase zu entfernen.}}<br></div>",
                                 "<img src=\"Untitled-d39f0e7c042cae31dd35b40b27c1ed9a83cf8db8.png\">"
                             ],
                             "guid": "lQA@2yul`{",
@@ -3620,7 +3620,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie wird die RNA-Verunreinigung beseitigt?<div><br></div><div>{{c1::In dem man dem Extrakt RNasen (Ribonukleasen) hinzugibt, die die RNA zerschneiden}}<br></div>",
+                                "Wie wird die RNA-Verunreinigung beseitigt?<div>{{c1::In dem man dem Extrakt RNasen (Ribonukleasen) hinzugibt, die die RNA zerschneiden}}<br></div>",
                                 ""
                             ],
                             "guid": "koiz%v^Pss",
@@ -3632,7 +3632,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann man die DNA aufkonzentrieren?<div><br></div><div>{{c1::Indem man das Präzipitat mit Ethanol oder Isoprop reinigt. Zusätzlich sollte eine hohe Salzkonzentration vorherrschen (Natriumchlorid oder Ammoniumsalze)}}<br></div>",
+                                "Wie kann man die DNA aufkonzentrieren?<div>{{c1::Indem man das Präzipitat mit Ethanol oder Isoprop reinigt. Zusätzlich sollte eine hohe Salzkonzentration vorherrschen (Natriumchlorid oder Ammoniumsalze)}}<br></div>",
                                 "<img src=\"Untitled-75f97d6d17a67784236c138e9d90e26ed35b58af.png\">"
                             ],
                             "guid": "f?wL]E.(dh",
@@ -3644,7 +3644,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was bedeutet eluieren?<div><br></div><div>{{c1::Mit eluieren ist gemeint, dass ein Stoff von einer Adsorbens gelöst wird}}<br></div>",
+                                "Was bedeutet eluieren?<div>{{c1::Mit eluieren ist gemeint, dass ein Stoff von einer Adsorbens gelöst wird}}<br></div>",
                                 ""
                             ],
                             "guid": "r41W@wCZfq",
@@ -3656,7 +3656,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann man die DNA wieder eluieren?<div><br></div><div>{{c1::Man kann die DNA wieder eluieren, indem man dest. Wasser hinzugibt, welches die Natrium-Ionen wieder in Lösung bringt.}}<br></div>",
+                                "Wie kann man die DNA wieder von der Silikatoberfläche eluieren?<div>{{c1::Indem man dest. Wasser hinzugibt, welches die Natrium-Ionen wieder in Lösung bringt.}}<br></div>",
                                 ""
                             ],
                             "guid": "}4x/fe<LO",
@@ -3668,7 +3668,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist eine Adsorbens bei der DNA-Präperation?<div><br></div><div>{{c1::Hier bei der DNA-Präperation ist es die Silikatoberfläche, also die Oberfläche mit der die DNA über die Natrium-Ionen WW.}}<br></div>",
+                                "Was ist eine Adsorbens bei der DNA-Präperation?<div>{{c1::Hier bei der DNA-Präperation ist es die Silikatoberfläche, also die Oberfläche mit der die DNA über die Natrium-Ionen WW.}}<br></div>",
                                 ""
                             ],
                             "guid": "E]jQR}e@Sf",
@@ -3680,7 +3680,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Mit welchen Methoden kann die Reinheit der isolierten DNA überprüft werden?<div><br></div><div>{{c1::<div>UV-Spektroskopie</div>\n<div>Gelelektrophorese</div>}}<br></div>",
+                                "Mit welchen Methoden kann die Reinheit der isolierten DNA überprüft werden?<div>{{c1::<div>UV-Spektroskopie</div>\n<div>Gelelektrophorese</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "qJSC#}k@#~",
@@ -3692,7 +3692,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Warum muss eine Spektroskopie und eine Gelelektrophorese nach der DNA-Präparation durchgeführt werden?<div><br></div><div>{{c1::Da die UV-Spektroskopie nur überprüft in welchen Maße Verunreinigungen vorliegen und <span style=\"font-weight:600\">nicht </span>ob die Stranglänge der DNA korrekt ist, muss zusätzlich eine Gelelektrophorese durchgeführt werden.}}<br></div>",
+                                "Warum muss eine Spektroskopie und eine Gelelektrophorese nach der DNA-Präparation durchgeführt werden?<div>{{c1::Da die UV-Spektroskopie nur überprüft in welchen Maße Verunreinigungen vorliegen und <span style=\"font-weight:600\">nicht </span>ob die Stranglänge der DNA korrekt ist, muss zusätzlich eine Gelelektrophorese durchgeführt werden.}}<br></div>",
                                 "<img src=\"Untitled-b70209975ea05f8756111d569515842efef2428a.png\">"
                             ],
                             "guid": "KU^*e*CULl",
@@ -3728,7 +3728,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie läuft die Präperation von Phagen-DNA grob ab?<div><br></div><div>{{c1::Ziemlich analog zur DNA-Präperation, nur das die Phagen zuerst Bakterienzellen infizieren.}}<br></div>",
+                                "Wie läuft die Präperation von Phagen-DNA grob ab?<div>{{c1::Ziemlich analog zur DNA-Präperation, nur das die Phagen zuerst Bakterienzellen infizieren.}}<br></div>",
                                 "<img src=\"Untitled-54a6f971775318cd8a718ac04792558919d6a422.png\"><div><img src=\"Untitled-b807ae8b3261ab4795185d6f8819c20dc8591ee5.png\"><br></div>"
                             ],
                             "guid": "l^#`*^g1hm",
@@ -3752,7 +3752,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Transfer-RNA (tRNA)?<div><br></div><div>{{c1::Erkennen das Codon der mRNA und tragen eine aktivierte AS. Außerdem besitzten sie eine ausgeprägte Faltstruktur.}}<br></div>",
+                                "Was ist die Transfer-RNA (tRNA)?<div>{{c1::Erkennen das Codon der mRNA und tragen eine aktivierte AS. Außerdem besitzten sie eine ausgeprägte Faltstruktur.}}<br></div>",
                                 ""
                             ],
                             "guid": "j*7t#s,g[n",
@@ -3788,7 +3788,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche strukturellen Besonderheiten gibt es bei der tRNA?<div><br></div><div>{{c1::<div>Aminosäure-Bindestelle</div>\n<div>D-Schleife</div>\n<div>T-Schleife</div>\n<div>Anticodon</div>}}<br></div>",
+                                "Welche Strukturelemente gibt es bei der tRNA?<div>{{c1::<div>Aminosäure-Bindestelle</div>\n<div>D-Schleife</div>\n<div>T-Schleife</div>\n<div>Anticodon</div>}}<br></div>",
                                 "<img src=\"Untitled-9a3ad250d895ee9fb00f14306e09a2b61c6ae114.png\">"
                             ],
                             "guid": "Bud7]ThM@W",
@@ -3800,7 +3800,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie heißt das Enzym, das die AS auf die tRNA überträgt?<div><br></div><div>{{c1::Aminoacyl-t-RNA-Synthetase}}<br></div>",
+                                "Wie heißt das Enzym, das die AS auf die tRNA überträgt?<div>{{c1::Aminoacyl-t-RNA-Synthetase}}<br></div>",
                                 ""
                             ],
                             "guid": "iQI13n;lF0",
@@ -3824,7 +3824,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was besagt die Wobble-Theorie?<div><br></div><div>{{c1::Die Anticodone der tRNAs können mit mehreren Codonen WW, obwohl diese nicht komplett komplementär sind}}<br></div>",
+                                "Was besagt die Wobble-Theorie?<div>{{c1::Die Anticodone der tRNAs können mit mehreren Codonen WW, obwohl diese nicht komplett komplementär sind}}<br></div>",
                                 ""
                             ],
                             "guid": "tZ$S[3OJju",
@@ -3836,7 +3836,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Warum gibt es die Wobble-Theorie?<div><br></div><div>{{c1::Es gibt mehrere tRNAs (31) für eine AS (20), aber weniger als Codons (61) ⇒ viele tRNA mit Anticodons passend zu mehreren Codons}}<br></div>",
+                                "Warum gibt es die Wobble-Theorie?<div>{{c1::Es gibt mehrere tRNAs (31) für eine AS (20), aber weniger als Codons (61) ⇒ viele tRNA mit Anticodons passend zu mehreren Codons}}<br></div>",
                                 "<img src=\"Untitled-dbca0b5b897d94abb08c23de8deeae02e279ec28.png\">"
                             ],
                             "guid": "caXzW$DFVT",
@@ -3884,7 +3884,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie groß sind die Untereinheiten des prokaryotischen Ribosoms?<div><br></div><div>{{c1::<div>Kleine: 30s</div>\n<div>Große: 50s</div>\n<div>Zusammen: 70s</div>}}<br></div>",
+                                "Wie groß sind die Untereinheiten des prokaryotischen Ribosoms?<div>{{c1::<div>Kleine: 30s</div>\n<div>Große: 50s</div>\n<div>Zusammen: 70s</div>}}<br></div>",
                                 "<img src=\"Untitled-8e0d82e84067a86d5937547bed004257818ada17.png\">"
                             ],
                             "guid": "N?EduHWj}S",
@@ -3956,7 +3956,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind Polyribosomen?<div><br></div><div>{{c1::Es ist eine mRNA, an der mehrere Ribosome gleichzeitig translatieren}}<br></div>",
+                                "Was sind Polyribosomen?<div>{{c1::Es ist eine mRNA, an der mehrere Ribosome gleichzeitig translatieren}}<br></div>",
                                 "<img src=\"Untitled-2967ae0551a6226a526691afc8d2eae7b82cc045.png\">"
                             ],
                             "guid": "tStDC8;Uj6",
@@ -3968,7 +3968,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Shine-Dalgarno-Sequenz?<div><br></div><div>{{c1::Es ist eine Sequenz, die nur bei Prokaryoten vorkommt. Die Sequenz dient als Teil der ribosomalen Bindungsstelle, das von den Ribosomen erkannt wird. (Im Prinzip der Startpunkt der Translation)}}<br></div>",
+                                "Was ist die Shine-Dalgarno-Sequenz?<div>{{c1::Es ist eine Sequenz, die nur bei Prokaryoten vorkommt. Die Sequenz dient als Teil der ribosomalen Bindungsstelle, das von den Ribosomen erkannt wird. (Im Prinzip der Startpunkt der Translation)}}<br></div>",
                                 "<img src=\"Untitled-2f8e33326835763359c4a6f7fc8154e12b070948.png\">"
                             ],
                             "guid": "Ly5WQ&6NCj",
@@ -3992,7 +3992,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Enzymklassen werden bei der Modifikation von Enzymen eingesetzt?<div>{{c1::<div>Endo-/ Exonukleasen</div>\n<div>Ligasen</div>\n<div>Polymerasen</div>\n<div>Modifikationsenzyme</div>}}<br></div>",
+                                "Welche Enzymklassen werden bei der Modifikation von DNA eingesetzt?<div>{{c1::<div>Endo-/ Exonukleasen</div>\n<div>Ligasen</div>\n<div>Polymerasen</div>\n<div>Modifikationsenzyme</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "CiZC}*PO)=",
@@ -4112,7 +4112,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie bauen die Nukleasen die DNA ab?<div>{{c1::Sie bauen die DNA ab, indem sie die Phosphordiester-Bindung hydrolysieren}}<br></div>",
+                                "Wie bauen die Nukleasen die DNA ab?<div>{{c1::Indem sie die Phosphordiester-Bindung hydrolysieren}}<br></div>",
                                 ""
                             ],
                             "guid": "q+U-_WHCI8",
@@ -4136,8 +4136,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie wählen die Nukleasen ihre Hydrolysestelle aus?<div>{{c1::Es gibt 2 Klassen: die Nukleasen, die unspezifisch und die die Sequenzspezifisch vorgehen}}<br></div>",
-                                "<img src=\"Untitled-a63c9708175b4ceae4d6331d7b761166e6ae0796.png\">"
+                                "In welche 2 Klassen kann man die Nukleasen einteilen, in Bezug auf die Hydrolysestelle?<div>{{c1::Die Nukleasen, die unspezifisch und die die Sequenzspezifisch vorgehen}}<br></div>",
+                                "<div>Gilt auch für Exonukleasen!<br></div><img src=\"Untitled-a63c9708175b4ceae4d6331d7b761166e6ae0796.png\">"
                             ],
                             "guid": "y+8Un[U9{D",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -4196,7 +4196,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was heißt eine methylierte DNA?<div>{{c1::An manchen Nukelotiden befindet sich ein Methylrest, der normalerweise dort nicht gebunden ist}}<br></div>",
+                                "Was ist eine methylierte DNA?<div>{{c1::An manchen Nukelotiden befindet sich ein Methylrest, der normalerweise dort nicht gebunden ist}}<br></div>",
                                 "<img src=\"Untitled-74e4774c268dcd9d48a5dd8c90383d0ca4e10e74.png\">"
                             ],
                             "guid": "Iu{54os!$r",
@@ -4244,7 +4244,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie werden Restriktionsenzyme im Labor benutzt?<div>{{c1::Es wird ein Reagenz angesetzt das aus: DNA, Reaktionspuffer und Restriktionsenzymen besteht. Das Reagenz wird bei entsprechender Temperatur inkubiert und anschließend analysiert oder präpariert}}<br></div>",
+                                "Wie verwendet man Restriktionsenzyme im Labor?<div>{{c1::Es wird ein Reagenz angesetzt das aus: DNA, Reaktionspuffer und Restriktionsenzymen besteht.&nbsp;</div><div>Das Reagenz wird bei entsprechender Temperatur inkubiert und anschließend analysiert oder präpariert}}<br></div>",
                                 "<img src=\"Untitled-2c74cceae3b10bd24ec26d9ccd90c2cfd9d828e7.png\">"
                             ],
                             "guid": "f,V>/ueUGI",
@@ -4292,7 +4292,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie läuft die Ligase-Reaktion ab?{{c1::<div>Die Ligase benötigt zuerst ATP und schließt dann den break, indem sie das Phosphatende mit dem Hydroxyende des anderen Nukleotids zusammenfügt.<br></div><div>Es kann auch ein Doppelstrangbruch wieder zusammengefügt werden (aber weniger effizient)</div>}}",
+                                "Wie läuft die Ligase-Reaktion ab?<div>{{c1::<div>Die Ligase benötigt zuerst ATP und schließt dann den break, indem sie das 5'-Phosphatende mit dem 3'-Hydroxyende des anderen Nukleotids zusammenfügt.<br></div><div>Es kann auch ein Doppelstrangbruch wieder zusammengefügt werden (aber weniger effizient)</div>}}</div>",
                                 "<img src=\"Untitled-96294f9513b423cc192f39665bd5df9770539c93.png\">"
                             ],
                             "guid": "J5:QsNS#S!",
@@ -4305,7 +4305,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie kann ein Primer neben der PCR-Definition, noch definiert werden?<div>{{c1::Ein Primer ist eine ssDNA mit einem dsDNA-Anteil, das an dessen Ende gepaart ist und ein freies 3'-OH aufweist}}<br></div>",
-                                "<img src=\"Untitled-cbac2b7696896b90ef1c45e57dee3ff7a57bbe9b.png\">"
+                                "<img src=\"Untitled-cbac2b7696896b90ef1c45e57dee3ff7a57bbe9b.png\"><div>ssDNA = single strand DNA</div><div>dsDNA = double strand DNA</div>"
                             ],
                             "guid": "b(PY]9!5y|",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -4364,7 +4364,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Funktion der alkalischen Phosphatase?<div>{{c1::entfernt hydrolytisch Phosphatgruppen}}<br></div>",
+                                "Was ist die Funktion der alkalischen Phosphatase?<div>{{c1::entfernt hydrolytisch Phosphatgruppen am 5'-Ende der DNA}}<br></div>",
                                 "<img src=\"Untitled-7b02b1e352d9c8c99922fa5f22cc09b25e16e50e.png\">"
                             ],
                             "guid": "r(Mh/!AO+F",
@@ -4376,7 +4376,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Funktion der Polynukleotidkinase?<div>{{c1::fügt Phospatgruppen ans 5`-Ende der DNA.}}<br></div>",
+                                "Was ist die Funktion der Polynukleotidkinase?<div>{{c1::fügt Phospatgruppen ans 5`-Ende der DNA unter ATP verbrauch.}}<br></div>",
                                 "<img src=\"Untitled-c3b2bcc7ada9d71dcd18d55718a51f0c61b02341.png\">"
                             ],
                             "guid": "Gs/mF-mR*|",
@@ -4436,6 +4436,18 @@
                             "guid": "M`9KX}Y}lC",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kann man die DNA von der Silikatsäule mit dest. Wasser eluieren?<div>{{c1::Weil dadurch die Natrium-Ionen wieder in Lösung kommen, wodurch auf der Säule ein negativer Ladungsüberschuss herrscht und die DNA somit abgestoßen wird}}</div>",
+                                "DNA ist immer ein Poly-Anion"
+                            ],
+                            "guid": "dQ.Ey#ORO_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         }
                     ]
                 },
@@ -5055,7 +5067,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist der Gradient aufgebaut?<div>{{c1::er ist eine Matrix bestehend aus den Ableitungen 1. Ordnung}}</div>",
+                                "Aus was besteht der Gradient?<div>{{c1::er ist eine Matrix bestehend aus den Ableitungen 1. Ordnung}}</div>",
                                 "<img src=\"paste-febfea2d49e3762ade4f15f1e4197ec8a3f12201.jpg\">"
                             ],
                             "guid": "K(zA}>tc5R",
@@ -5067,7 +5079,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist die Hesse-Matrix aufgebaut?<div>{{c1::es ist eine Matrix, bestehend aus den Ableitungen 2. Ordnung}}</div>",
+                                "Aus was besteht die Hesse-Matrix?<div>{{c1::es ist eine Matrix, bestehend aus den Ableitungen 2. Ordnung}}</div>",
                                 "<img src=\"paste-5f803caf62173957c122df319b2fc313ea6dee76.jpg\">"
                             ],
                             "guid": "C|uj^TUSp!",
@@ -5091,7 +5103,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann das totale Differential bestimmt werden?<div>{{c1::Indem man die Ableitung 1. Ordnung mit dx, bzw. dy, dz, ... multipliziert}}</div>",
+                                "Wie kann das totale Differential bestimmt werden?<div>{{c1::Indem man die Ableitung 1. Ordnung mit deren Differential (dx, bzw. dy, dz, ...) multipliziert}}</div>",
                                 "Für eine Funktion bestehend aus 2 veränderlichen:<div><img src=\"paste-ffd9540526fb6e3a3ef26f3809bde82c0cfc2d41.jpg\"><br></div>"
                             ],
                             "guid": "C:zyemiAP(",
@@ -5305,7 +5317,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist die Frequenz definiert?<div>{{c1::\\nu = \\frac{n}{t}[/$] ⇒ [$][\\nu] = \\frac {1}{s}}}<br></div>",
+                                "Wie ist die Frequenz definiert?<div>{{c1::\\( \\nu = \\frac{n}{t} \\) ⇒ \\( [\\nu] = \\frac {1}{s} \\)}}<br></div>",
                                 ""
                             ],
                             "guid": "mfdYc&Yv[Z",
@@ -5317,7 +5329,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist die Kreisfrequenz definiert?<div>{{c1::\\omega = 2 *\\pi * \\nu[/$] ⇒ [$][\\omega] = \\frac{1}{s}}}<br></div>",
+                                "Wie ist die Kreisfrequenz definiert?<div>{{c1::\\( \\omega = 2 *\\pi * \\nu \\) ⇒ \\( [\\omega] = \\frac{1}{s} \\)}}<br></div>",
                                 ""
                             ],
                             "guid": "GcpxjoOEL0",
@@ -5329,7 +5341,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist die Periodendauer definiert?<div>{{c1::T = \\frac {1}{\\nu} = \\frac{2 \\pi}{\\omega}[/$] ⇒ [$]T = s}}<br></div>",
+                                "Wie ist die Periodendauer definiert?<div>{{c1::\\( T = \\frac {1}{\\nu} = \\frac{2 \\pi}{\\omega}\\) ⇒ \\(T = s\\)}}<br></div>",
                                 ""
                             ],
                             "guid": "wF+uY`DGR(",
@@ -5341,7 +5353,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist ein ebener Winkel definiert?<div>{{c1::\\alpha = \\frac{b}{r}}}<br></div>",
+                                "Wie ist ein ebener Winkel definiert?<div>{{c1::\\(\\alpha = \\frac{b}{r}\\)}}<br></div>",
                                 "<img src=\"Untitled-b4b215b0a39ce33ff10879ae79e6bd5065c19618.png\">"
                             ],
                             "guid": "k)H?/KlOa+",
@@ -5915,7 +5927,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Biochemie::Proteinreinigung"
+                "Genetik::DNA-Präp"
             ],
             "tmpls": [
                 {
