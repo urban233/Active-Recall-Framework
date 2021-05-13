@@ -3523,7 +3523,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie findet die Abtrennung der Proteine grob statt?<div><br></div><div>{{c1::Das Zellextrakt wird durch NaOH und SDS lysiert, danach zentrifugiert, oder filtriert.}}<br></div>",
+                                "Wie findet die Abtrennung der Proteine grob statt?<div>{{c1::Das Zellextrakt wird durch NaOH und SDS lysiert, danach zentrifugiert, oder filtriert.}}<br></div>",
                                 "<img src=\"Untitled-e9827b95d47a8f317333f5b9d3c8bad59c2e0fd3.png\">"
                             ],
                             "guid": "f7XV~u!$_A",
@@ -3535,14 +3535,13 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie findet der Zellaufschluss bei der Plasmid-Präperationen statt?<div><br></div><div>{{c1::Durch die Zugabe von NaOH und SDS werden die Zellen unter sehr alkalischen Bedingungen (pH: 12) aufgeschlossen. Dannach wird die Lösung angesäuert (pH: 7). Die Plasmide liegen dann renaturiert in der Lösung vor.}}<br></div>",
+                                "Wie findet der Zellaufschluss bei der Plasmid-Präperationen statt?<div>{{c1::Durch die Zugabe von NaOH und SDS werden die Zellen unter sehr alkalischen Bedingungen (pH: 12) aufgeschlossen. Dannach wird die Lösung angesäuert (pH: 7). Die Plasmide liegen dann renaturiert in der Lösung vor.}}<br></div>",
                                 "<img src=\"Untitled-8b8f6840c47cdf8b26280e9a14dedbdb11514bdb.png\">"
                             ],
                             "guid": "PsLRtp+wRV",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Genetik::DNA-Präp",
-                                "Probleme::Verständnis"
+                                "Genetik::DNA-Präp"
                             ]
                         },
                         {
@@ -3776,7 +3775,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie lautet die Tertiärstruktur der tRNA?<div><br></div><div>{{c1::+/- Komplex}}<br></div>",
+                                "Wie lautet die Tertiärstruktur der tRNA?<div>{{c1::+/- Komplex}}<br></div>",
                                 "<img src=\"Untitled-1f89a85c8d27cb1683845b098bc228781eee8b3b.png\">"
                             ],
                             "guid": "y0mRZTeRsC",
@@ -5449,7 +5448,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was besagt das Superpositionsprinzip der Bewegung?<div>{{c1::Führt ein Körper mehrere Bewegungen gleichzeitig aus, überlagern Wsich diese Bewegungen <span style=\"font-weight:600\">ohne </span>sich zu stören.}}<br></div>",
+                                "Was besagt das Superpositionsprinzip der Bewegung?<div>{{c1::Führt ein Körper mehrere Bewegungen gleichzeitig aus, überlagern sich diese Bewegungen <span style=\"font-weight:600\">ohne </span>sich zu stören.}}<br></div>",
                                 ""
                             ],
                             "guid": "Mn$[wr@{p~",
@@ -5581,7 +5580,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann die momentan Beschleunigung beschrieben werden?<div>{{c1::<img src=\"Untitled-2e37b7e57ae15f24e0b212b43b858631a65afae2.png\">}}<br></div>",
+                                "Wie kann die momentan Beschleunigung beschrieben werden, wenn diese gradlinig vollzogen wird?<div>{{c1::<img src=\"Untitled-2e37b7e57ae15f24e0b212b43b858631a65afae2.png\">}}<br></div>",
                                 ""
                             ],
                             "guid": "K=}/<y5r9^",
@@ -5653,7 +5652,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die träge Masse?<div>{{c1::Die träge Masse drückt die Trägheit/das Beharrungsvermögendes Körpers gegenüber einer Bewegungsänderung aus)}}<br></div>",
+                                "Was ist die träge Masse?<div>{{c1::Die träge Masse drückt die Trägheit bzw. das Beharrungsvermögenden eines Körpers gegenüber einer Bewegungsänderung aus)}}<br></div>",
                                 ""
                             ],
                             "guid": "iYR+81OF<!",
@@ -5701,7 +5700,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist der Imupls mathematisch beschrieben?<div>{{c1::<img src=\"Untitled-55b8378913d039489cbf0c76abfa695b6c43f096.png\">}}<br></div>",
+                                "Wie ist der Impuls mathematisch beschrieben?<div>{{c1::<img src=\"Untitled-55b8378913d039489cbf0c76abfa695b6c43f096.png\">}}<br></div>",
                                 ""
                             ],
                             "guid": "bcPy-x$r/t",
@@ -5749,7 +5748,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was besagt das Galileische Trägheitsgesetz?<div>{{c1::Ein Massenpunkt verharrt in einem Zustand der Ruhe oder gleichförmigengradlinigen Bewegung mit konstanter Geschwindigkeit, solange keine Kräfteauf ihn einwirken.}}<br></div>",
+                                "Was besagt das Galileische Trägheitsgesetz?<div>{{c1::Ein Massenpunkt verharrt in einem Zustand der Ruhe oder gleichförmigengradlinigen Bewegung mit konstanter Geschwindigkeit, solange keine Kräfte auf ihn einwirken.}}<br></div>",
                                 ""
                             ],
                             "guid": "IlrLESH&WI",
