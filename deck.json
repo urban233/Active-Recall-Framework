@@ -4523,7 +4523,11 @@
                         {
                             "__type__": "Note",
                             "fields": [
+<<<<<<< HEAD
                                 "Wie ist die Definition einer PCR?<div>{{c1::Def: enzymatische Vermehrung (=„Amplifikation“) eines durch synthetische Oligonukleotidprimer begrenzten Ziel(-DNA)fragments in einer zyklischen Reaktion mit den Segmenten}}<br></div>",
+=======
+                                "Wie ist die Definition einer PCR?<div>{{c1::Def: enzymatische Vermehrung (=„Amplifikation“) eines durch synthetische ligonukleotidprimer begrenzten Ziel(-DNA)fragments in einer zyklischen Reaktion mit den Segmenten}}<br></div>",
+>>>>>>> main
                                 "<img src=\"paste-9bef9a3dbf39c95aa316aeaf625a9e2b04cbcef3.jpg\">"
                             ],
                             "guid": "d,vWeNES_/",
