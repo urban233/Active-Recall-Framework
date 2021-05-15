@@ -1159,7 +1159,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie hoch ist eine Windung, in der alpha - Helix in nm?<div>{{c1::0.54 nm}}<br></div>",
+                                "Wie hoch ist eine Windung, in der \\(\\alpha\\)-Helix in nm?<div>{{c1::0.54 nm}}<br></div>",
                                 ""
                             ],
                             "guid": "JEsHeJYyjp",
@@ -1316,7 +1316,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wo kommt die ßalphaß- Einheit vor und zu was dient sie?<div>{{c1::<div>- in Proteinen</div><div>- zur Stabilisierung</div>}}<br></div>",
+                                "Wo kommt die \\(\\beta \\alpha \\beta\\)-Einheit vor und zu was dient sie?<div>{{c1::<div>- in Proteinen</div><div>- zur Stabilisierung</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "IL@wVoK[B$",
@@ -2148,7 +2148,8 @@
                             "guid": "cg$q|2GBX@",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Proteinreinigung"
+                                "Biochemie::Proteinreinigung",
+                                "Probleme::ZuKomplizierteKarte"
                             ]
                         },
                         {
@@ -2166,7 +2167,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wodurch erfolgt der erste Schritt der Proteinreinigung und -charaktarisierung?{{c1::<div>durch Ultraschall und enzymatische Lyse (Lysozym)</div>}}",
+                                "Wodurch erfolgt der erste Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>durch Ultraschall und enzymatische Lyse (Lysozym)</div>}}</div>",
                                 "Ultraschall: vibrierendes Titanstäbchensystem, welches kurzzeitig Raum in der Suspension beansprucht → kurzzeitige Entstehung von Hohlräumen, welche kollabieren → Rückstoß → Aufspaltung durch Scherkraft<div>Lyse: Lysozym</div>"
                             ],
                             "guid": "hAb=KEe!,K",
@@ -2226,7 +2227,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div>\n<div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div>\n<div>irreversibel</div><div><br></div>\n<div>oder Aussalzen:</div>\n<div>Salz entzieht Protein Hydratwasser</div>\n<div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div>\n<div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div>\n<div>reversibel</div>}}<br></div>",
+                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>oder Aussalzen:</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "InT`Vk<~p*",
@@ -2310,7 +2311,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert die IMAC?<div>{{c1::Ni^{2+} bildet mit geeigneten Liganden oktaedrische Komplexe}}<br></div>",
+                                "Warum werden \\(Ni^{2+}\\) bei der&nbsp;IMAC verwendet?<div>{{c1::\\(Ni^{2+}\\) bildet mit geeigneten Liganden oktaedrische Komplexe aus}}<br></div>",
                                 "<img src=\"paste-14f7053f8af0d682c8ecd5e3a049659f0b2a48f4.jpg\">"
                             ],
                             "guid": "cY1_>v/!C)",
@@ -2346,7 +2347,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie können die Vorgänge unter Verwendung des His-Tags bei der IMAC ablaufen?<div>{{c1::<div>- an genetische Sequenz wird ein His-Tag gehängt (an N- oder C-Terminus)</div>\n<div>- proteinhaltige Lsg. über IMAC-Säule mit His-Tag → Bindung an Säule, da hohe Affinität</div>\n<div>- Lösen des Proteins durch Imidazol, weil es noch stärker an die Säule bindet. Dadurch verdrängt es das Protein</div>}}<br></div>",
+                                "Wie können die Vorgänge, unter Verwendung des His-Tags, bei der IMAC ablaufen?<div>{{c1::<div>- an genetische Sequenz wird ein His-Tag gehängt (an N- oder C-Terminus)</div>\n<div>- proteinhaltige Lsg. über IMAC-Säule mit His-Tag → Bindung an Säule, da hohe Affinität</div>\n<div>- Lösen des Proteins durch Imidazol, weil es noch stärker an die Säule bindet. Dadurch verdrängt es das Protein</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "pOuEeDG?wf",
@@ -2388,7 +2389,8 @@
                             "guid": "=x}#mJ*$^",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Proteinreinigung"
+                                "Biochemie::Proteinreinigung",
+                                "Probleme::ZuKomplizierteKarte"
                             ]
                         },
                         {
@@ -2514,7 +2516,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wo bewegen sich die Ionen in der PAGE?<div>{{c1::Ein Molekül bewegt sich im elektrischen Feld}}<br></div>",
+                                "Wo bewegen sich die Ionen in der PAGE?<div>{{c1::Die Ionen bewegen sich im elektrischen Feld}}<br></div>",
                                 ""
                             ],
                             "guid": "L]ZN/-3e+x",
@@ -2538,7 +2540,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was kann man über die Größe eines Proteins im Bezug auf dessen Strecke sagen?<div>{{c1::<div>Je kleiner ein Protein ist, desto weiter kommt es</div>\n<div>log(Molekulargewicht) = R_f</div>}}<br></div>",
+                                "Was kann man über die Größe eines Proteins im Bezug auf dessen Strecke sagen?<div>{{c1::<div>Je kleiner ein Protein ist, desto weiter läuft es im Gel.</div>\n<div>\\(log(Molekulargewicht) = R_f\\)</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "yej{,9D`PP",
@@ -2592,7 +2594,8 @@
                             "guid": "AYKU6drapC",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Proteinreinigung"
+                                "Biochemie::Proteinreinigung",
+                                "Probleme::Verständnis"
                             ]
                         },
                         {
@@ -2742,14 +2745,13 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie werden die Proteine aufgetrennt?<div>{{c1::nach Größe}}</div>",
+                                "Wie werden die Proteine bei der SDS PAGE aufgetrennt?<div>{{c1::nach der Größe}}</div>",
                                 ""
                             ],
                             "guid": "wk+R&-!T_-",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Proteinreinigung",
-                                "Probleme::Verständnis"
+                                "Biochemie::Proteinreinigung"
                             ]
                         },
                         {
@@ -2761,7 +2763,8 @@
                             "guid": "m|go*pPXu]",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Proteinreinigung"
+                                "Biochemie::Proteinreinigung",
+                                "Probleme::Verständnis"
                             ]
                         },
                         {
@@ -2811,6 +2814,26 @@
                                 ""
                             ],
                             "guid": "d8NtVWa_5p",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip der pH-Präzipitation?<div>{{c1::<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div><div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div><div>irreversibel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "f,vv,QWNEw",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip des Aussalzen?<div>{{c1::<div>Salz entzieht Protein Hydratwasser (Hydrathülle)</div><div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div><div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div><div>reversibel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "OF8.7cFxb!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
                         }
@@ -4523,11 +4546,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< HEAD
                                 "Wie ist die Definition einer PCR?<div>{{c1::Def: enzymatische Vermehrung (=„Amplifikation“) eines durch synthetische Oligonukleotidprimer begrenzten Ziel(-DNA)fragments in einer zyklischen Reaktion mit den Segmenten}}<br></div>",
-=======
-                                "Wie ist die Definition einer PCR?<div>{{c1::Def: enzymatische Vermehrung (=„Amplifikation“) eines durch synthetische ligonukleotidprimer begrenzten Ziel(-DNA)fragments in einer zyklischen Reaktion mit den Segmenten}}<br></div>",
->>>>>>> main
                                 "<img src=\"paste-9bef9a3dbf39c95aa316aeaf625a9e2b04cbcef3.jpg\">"
                             ],
                             "guid": "d,vWeNES_/",
