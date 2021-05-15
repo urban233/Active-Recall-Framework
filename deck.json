@@ -132,6 +132,7 @@
                 "ffd20ce4f0a8405d812c935f30d7cacb-oa-2-Q.svg",
                 "ffd20ce4f0a8405d812c935f30d7cacb-oa-O.svg"
             ],
+            "mid": 1611498335938,
             "name": "Aminosäuren",
             "notes": [
                 {
@@ -11237,17 +11238,31 @@
                     "media_files": [
                         "Untitled-38ceb8806ceabe9a467e06e71c0278898cb54737.png",
                         "Untitled-8b20d8ad3b14c79b1df610d3025b81151eb260bc.png",
+                        "paste-01cac73294ddcea5c7d638c76e71efc805cf6107.jpg",
+                        "paste-09003cf66b209f339190e93fda046291d02adb2f.jpg",
                         "paste-0dc6a13a10c52f82e8a405511d9432947240b8e5.jpg",
                         "paste-14f7053f8af0d682c8ecd5e3a049659f0b2a48f4.jpg",
+                        "paste-1f6cf3ec5bbb69fd693bd10df92ecfd0a4ddd557.jpg",
+                        "paste-36b96f2bf8ac2b67c933a57ae9cb96ccaece4c86.jpg",
                         "paste-387834fa6cfcc72bb7a20594e2bbb78bf01d85cc.jpg",
                         "paste-48e1ffe6ea8084c344119a9c174df1732196bbaa.jpg",
+                        "paste-525a8ae2ce55d3b5188a0e7941a28e3b8b237c33.jpg",
+                        "paste-5474a9201b7817a99196ba88aad7d8bdfbc22df7.jpg",
+                        "paste-580b8808a3e9fea2c89e5c20c473cacbff8b88f2.jpg",
                         "paste-6793de30b4bd58551574cd0cbdbbadde117f3bf2.jpg",
                         "paste-6d3c9df4b87155bc16e33028aa2cee2c87a935c2.jpg",
                         "paste-844c25d39ef75f198c09f7ad936f377ebc66b973.jpg",
+                        "paste-8bff8c237030719ef990130b061ebfdadbe99edb.jpg",
                         "paste-959af3781550a1aeebe0d394600f36b9aae5d731.jpg",
+                        "paste-a8e6de1bd1e64f9322fd8516c801d6c19fe646be.jpg",
+                        "paste-a9b8f48144bc83b3feaa59dd69adf73638c8a7c9.jpg",
+                        "paste-a9ba24a53a2066b04911e8b6de29c5101c6d85ec.jpg",
                         "paste-ab2594c3e059b8b5e6d51c6cb079f9dc55206e92.jpg",
+                        "paste-ae115fd370dab59997368d0320c066af9a80a2c8.jpg",
+                        "paste-af0ced64916c2ade22e1acd9482e72ce00d32dc3.jpg",
                         "paste-b0724b5baf625f2cb1b6e92dfb5c066968c3643e.jpg",
                         "paste-d578331580628aaaba55d41e406daf5bf2ada8a0.jpg",
+                        "paste-ece3b489b7bd64f4be328090dfe412389996d3e2.jpg",
                         "paste-ecff4146cebbf4beeb4a198108f4b3a4f81b7d14.jpg",
                         "paste-f49ad8e2d0ba2a59da061486a5dc1c9acca2b44a.jpg"
                     ],
@@ -11317,11 +11332,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Wie hoch ist eine Windung, in der \\(\\alpha\\)-Helix in nm?<div>{{c1::0.54 nm}}<br></div>",
-=======
                                 "Durch welche Reaktion bilden sich Proteine?<div>{{c1::Die Aminosäuren bilden eine Peptidbindung, unter der Abspaltung von Wasser aus}}<br></div>",
->>>>>>> Stashed changes
                                 ""
                             ],
                             "guid": "d+Wzh%U/Xl",
@@ -11477,11 +11488,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Wo kommt die \\(\\beta \\alpha \\beta\\)-Einheit vor und zu was dient sie?<div>{{c1::<div>- in Proteinen</div><div>- zur Stabilisierung</div>}}<br></div>",
-=======
                                 "Wo liegt der pKa von Histidin und wie liegt die Aminosäure dort vor?<div>{{c1::6.5 und protoniert}}<br></div>",
->>>>>>> Stashed changes
                                 ""
                             ],
                             "guid": "pF7:k>#9>6",
@@ -12301,12 +12308,7 @@
                             "guid": "wxD+Bq)L-s",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-<<<<<<< Updated upstream
-                                "Biochemie::Proteinreinigung",
-                                "Probleme::ZuKomplizierteKarte"
-=======
                                 "Biochemie::Proteine"
->>>>>>> Stashed changes
                             ]
                         },
                         {
@@ -12324,13 +12326,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Wodurch erfolgt der erste Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>durch Ultraschall und enzymatische Lyse (Lysozym)</div>}}</div>",
-                                "Ultraschall: vibrierendes Titanstäbchensystem, welches kurzzeitig Raum in der Suspension beansprucht → kurzzeitige Entstehung von Hohlräumen, welche kollabieren → Rückstoß → Aufspaltung durch Scherkraft<div>Lyse: Lysozym</div>"
-=======
                                 "Was versteht man unter der Primärstruktur?<div>{{c1::lineare Reihenfolge der Aminosäuren}}<br></div>",
                                 ""
->>>>>>> Stashed changes
                             ],
                             "guid": "oVe,1}PFT9",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -12389,11 +12386,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>oder Aussalzen:</div>}}<br></div>",
-=======
                                 "Was ist die koordinierte Regulation?<div>{{c1::Abstimmung von einzelnen Aktivitäten im Multienzymkomplex}}</div>",
->>>>>>> Stashed changes
                                 ""
                             ],
                             "guid": "yn?Nwq`{pm",
@@ -12477,13 +12470,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Warum werden \\(Ni^{2+}\\) bei der&nbsp;IMAC verwendet?<div>{{c1::\\(Ni^{2+}\\) bildet mit geeigneten Liganden oktaedrische Komplexe aus}}<br></div>",
-                                "<img src=\"paste-14f7053f8af0d682c8ecd5e3a049659f0b2a48f4.jpg\">"
-=======
                                 "Was bewirkt das Pyroglutamat?<div>{{c1::-&nbsp;Abbauschutz für das Protein}}<br></div>",
                                 ""
->>>>>>> Stashed changes
                             ],
                             "guid": "0./eR:jSq",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -12518,13 +12506,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Wie können die Vorgänge, unter Verwendung des His-Tags, bei der IMAC ablaufen?<div>{{c1::<div>- an genetische Sequenz wird ein His-Tag gehängt (an N- oder C-Terminus)</div>\n<div>- proteinhaltige Lsg. über IMAC-Säule mit His-Tag → Bindung an Säule, da hohe Affinität</div>\n<div>- Lösen des Proteins durch Imidazol, weil es noch stärker an die Säule bindet. Dadurch verdrängt es das Protein</div>}}<br></div>",
-                                ""
-=======
                                 "Wie findet die Regulation über die&nbsp;Proteinphosphorylierung statt?<div>{{c1::<div>der <b>unphosphorylierter</b> Zustand ist <b>inaktiv</b></div><div><b>Aktivierung</b> durch Kinase, die ein Monophosphat an Ser, Thr oder Tyr bindet (Unter ATP verbrauch)</div><div><b>Inaktivierung</b> durch Phosphatase, die das Monophosphat an Ser, Thr oder Tyr löst (Unter Wasserabspaltung)</div><div><br></div><div>manche Proteine sind auch ohne Phosphatrest aktiv und durch Phosphorylierung inaktiv</div>}}<br></div>",
                                 "<img src=\"paste-6793de30b4bd58551574cd0cbdbbadde117f3bf2.jpg\">"
->>>>>>> Stashed changes
                             ],
                             "guid": "ckgXdOou-d",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -12565,12 +12548,7 @@
                             "guid": "INaB]%(U.N",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-<<<<<<< Updated upstream
-                                "Biochemie::Proteinreinigung",
-                                "Probleme::ZuKomplizierteKarte"
-=======
                                 "Biochemie::Proteine"
->>>>>>> Stashed changes
                             ]
                         },
                         {
@@ -12696,11 +12674,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Wo bewegen sich die Ionen in der PAGE?<div>{{c1::Die Ionen bewegen sich im elektrischen Feld}}<br></div>",
-=======
                                 "Was kann man mit den Daten der Massenspektroskopie erlangen?<div>{{c1::Man kann damit über verschiedene Datenbanken das Protein identifizieren}}<br></div>",
->>>>>>> Stashed changes
                                 ""
                             ],
                             "guid": "i*1L4-q~$z",
@@ -12724,11 +12698,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Was kann man über die Größe eines Proteins im Bezug auf dessen Strecke sagen?<div>{{c1::<div>Je kleiner ein Protein ist, desto weiter läuft es im Gel.</div>\n<div>\\(log(Molekulargewicht) = R_f\\)</div>}}<br></div>",
-=======
                                 "<div>Wie erkennt man das Zielprotein?<br></div><div>{{c1::<div>- einfügen eines Plasmid (z.B. in Eschi), in dem das Zielprotein codiert ist</div>\n<div>- Test/ Assay- System, welches die Aktivität überprüft</div>\n<div>- Enzym katalysiert die Einstellung eines Gleichgewichtes</div>\n<div>- spezifische Aktivität : Enzymaktivität/ mg Protein → möglichst viel Aktivität&nbsp; &nbsp; &nbsp; &nbsp;vorhanden</div>}}<br></div>",
->>>>>>> Stashed changes
                                 ""
                             ],
                             "guid": "cg$q|2GBX@",
@@ -12782,8 +12752,7 @@
                             "guid": "tPGV+2he9R",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Proteinreinigung",
-                                "Probleme::Verständnis"
+                                "Biochemie::Proteinreinigung"
                             ]
                         },
                         {
@@ -12933,11 +12902,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Wie werden die Proteine bei der SDS PAGE aufgetrennt?<div>{{c1::nach der Größe}}</div>",
-=======
                                 "Wie können die Vorgänge unter Verwendung des His-Tags bei der IMAC ablaufen?<div>{{c1::<div>- an genetische Sequenz wird ein His-Tag gehängt (an N- oder C-Terminus)</div>\n<div>- proteinhaltige Lsg. über IMAC-Säule mit His-Tag → Bindung an Säule, da hohe Affinität</div>\n<div>- Lösen des Proteins durch Imidazol, weil es noch stärker an die Säule bindet. Dadurch verdrängt es das Protein</div>}}<br></div>",
->>>>>>> Stashed changes
                                 ""
                             ],
                             "guid": "pOuEeDG?wf",
@@ -12955,8 +12920,7 @@
                             "guid": "JPDFgcE&w>",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Proteinreinigung",
-                                "Probleme::Verständnis"
+                                "Biochemie::Proteinreinigung"
                             ]
                         },
                         {
@@ -13015,157 +12979,10 @@
                             ],
                             "guid": "Pa4c6;B1aj",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-<<<<<<< Updated upstream
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Prinzip der pH-Präzipitation?<div>{{c1::<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div><div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div><div>irreversibel</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "f,vv,QWNEw",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Prinzip des Aussalzen?<div>{{c1::<div>Salz entzieht Protein Hydratwasser (Hydrathülle)</div><div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div><div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div><div>reversibel</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "OF8.7cFxb!",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        }
-                    ]
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "7b88523c-a2ab-11eb-a0f7-14f6d86a1eaf",
-                    "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "Untitled-084afa68f3654968ccafcdfc18ffb733108cd77e.png",
-                        "Untitled-0941efddc14a3026f601ea55aa40799b0a1e6293.png",
-                        "Untitled-0b92cdf52a81e975a75ea2ea6fd4a766c7ce684f.png",
-                        "Untitled-0d122cc72c2b65e0dbef9d50d4997aa3e6516c10.png",
-                        "Untitled-0e7f70b4200a0df2d3d9499cd9a26e3a099cb716.png",
-                        "Untitled-10324fe955c563c88748ec1ce9b2157be478ee72.png",
-                        "Untitled-10704235851ba0ed4be526d7216053aebcb97539.png",
-                        "Untitled-16f9a1667b763353a128510eb75fb16c5d241791.png",
-                        "Untitled-19c6e8bfad3840e65a14bf258f1a6a5abfcf97c4.png",
-                        "Untitled-1efa40519495b1276b2d55cfb0bf7b2f233fad4f.png",
-                        "Untitled-1f89a85c8d27cb1683845b098bc228781eee8b3b.png",
-                        "Untitled-22b89b4aef508ebfb52a5a65f86fe9973cd80664.png",
-                        "Untitled-2967ae0551a6226a526691afc8d2eae7b82cc045.png",
-                        "Untitled-2bac1afbc6ebbb0250074d6d37a6fde76120fc53.png",
-                        "Untitled-2c74cceae3b10bd24ec26d9ccd90c2cfd9d828e7.png",
-                        "Untitled-2f8e33326835763359c4a6f7fc8154e12b070948.png",
-                        "Untitled-3794a07b9bd00fc187669cb667c3b41e07621fb2.png",
-                        "Untitled-3d5cfa107fb8415512ed50be746fe412e55b88a9.png",
-                        "Untitled-3d9961e3229ae53693fa2c535622c381bc0c9f7d.png",
-                        "Untitled-4c5432b5600c2f08c0ed56b1d2e455b67cc9068f.png",
-                        "Untitled-4fe74c7c539a3391eeab1b0bc68dc45d53609b37.png",
-                        "Untitled-50ae652f29007087250f5e82033aa225f0305c9c.png",
-                        "Untitled-539a92a9a727f017d1c4fb4c59b9c2c0e5afb189.png",
-                        "Untitled-54a6f971775318cd8a718ac04792558919d6a422.png",
-                        "Untitled-55eb2ab502a23cb87b2118a4928fcbcf95c8693f.png",
-                        "Untitled-5db160593b17ba93f5bc6121c7efb22e0924e1dc.png",
-                        "Untitled-6356c854c481b9fe7c039adf4253efec2673df0d.png",
-                        "Untitled-645352d50c6b56c05d7d3a53366d70aad56d0cd6.png",
-                        "Untitled-66c5320ca38458ff3d00d989c43363b9361fd9dc.png",
-                        "Untitled-67d1a1b5bd2acdf46551b217e1f7031c805f06ac.png",
-                        "Untitled-6aa99152a4ff8f5691af6ebb2d3783bd7fe98898.png",
-                        "Untitled-74e4774c268dcd9d48a5dd8c90383d0ca4e10e74.png",
-                        "Untitled-75f97d6d17a67784236c138e9d90e26ed35b58af.png",
-                        "Untitled-7b02b1e352d9c8c99922fa5f22cc09b25e16e50e.png",
-                        "Untitled-8b8f6840c47cdf8b26280e9a14dedbdb11514bdb.png",
-                        "Untitled-8e0d82e84067a86d5937547bed004257818ada17.png",
-                        "Untitled-920c8a585ac19054a146d13a8736936a1398b043.png",
-                        "Untitled-92d1710288cb0defc0dae77c25c5952cc94220d3.png",
-                        "Untitled-96294f9513b423cc192f39665bd5df9770539c93.png",
-                        "Untitled-9a3ad250d895ee9fb00f14306e09a2b61c6ae114.png",
-                        "Untitled-9c41de008f27c9c490d25a1df00695c5ffa26eaf.png",
-                        "Untitled-a1678914ed33485b1038b14034e6a77b85f80dc4.png",
-                        "Untitled-a21763ccdb0a3ee472438f1842a0a1dd0ee8e13f.png",
-                        "Untitled-a63c9708175b4ceae4d6331d7b761166e6ae0796.png",
-                        "Untitled-a78728e94b95ed6f7f67e85b260d6290d2cbb5db.png",
-                        "Untitled-a78c64e8ff915d5bb940067d66601e4420645e0b.png",
-                        "Untitled-a8320fccbe5a58bde80fadbed239781b3cc018c4.png",
-                        "Untitled-a9da9fe52951ddc5da3df5b4aaa36248e0e5e5b8.png",
-                        "Untitled-b02fe0e4041e6269593b9d7a72899926986f8288.png",
-                        "Untitled-b240d1a71e3ca1b8212b903c8a0e6ed57d1dafd0.png",
-                        "Untitled-b6a954371a1d6da6d024a25ce18df4b9ec57357c.png",
-                        "Untitled-b70209975ea05f8756111d569515842efef2428a.png",
-                        "Untitled-b807ae8b3261ab4795185d6f8819c20dc8591ee5.png",
-                        "Untitled-bb6490bdb277d39c070f33f05ac8f360e798b9ea.png",
-                        "Untitled-bb9ad7ee99dc56cdb6a2dea88760953dcee5649b.png",
-                        "Untitled-bea359a70b4ab69f57d6626dbf1e037d2901c583.png",
-                        "Untitled-c3b2bcc7ada9d71dcd18d55718a51f0c61b02341.png",
-                        "Untitled-ca53ead77e7ac1ec26ef473858f6b7e7cddae749.png",
-                        "Untitled-cbac2b7696896b90ef1c45e57dee3ff7a57bbe9b.png",
-                        "Untitled-d10548e65cff5da70cb34e17268ad4439d6ef050.png",
-                        "Untitled-d39f0e7c042cae31dd35b40b27c1ed9a83cf8db8.png",
-                        "Untitled-d71e7b8d36d14523f3369520938356c8ca4b262e.png",
-                        "Untitled-d9079ca4d843f77a03aaf09195bde9fd24e6711c.png",
-                        "Untitled-dbca0b5b897d94abb08c23de8deeae02e279ec28.png",
-                        "Untitled-dc8e24f1c86e0789a4aabfed73fa7035e0b4c11b.png",
-                        "Untitled-e5775e7bcc80c7f88632d0e80a66d99303078a50.png",
-                        "Untitled-e89e390250243aa3ba5769f046ccfd05d6585fd2.png",
-                        "Untitled-e9827b95d47a8f317333f5b9d3c8bad59c2e0fd3.png",
-                        "Untitled-f318ef8bc8be091bef28a788ceeb3f387df123fa.png",
-                        "Untitled-f327b79a4b5ae4688f18451d0c9be0d868014bb9.png",
-                        "Untitled-f8c33f9035ec0d75d11922ef5b8e779e6bcac491.png",
-                        "paste-0508d11b84c24e74556f32947ef991cd05f72dd3.jpg",
-                        "paste-0f0be56d155413a2b81af4f435d789a5f11984ca.jpg",
-                        "paste-1c73e32b5f8469f398bdbcec42745472bbb94a0e.jpg",
-                        "paste-22677acc03ed218186e5ce1f2dea019fc5d56143.jpg",
-                        "paste-255644b417086c3aa29e840b4ba7ddc4af7cc760.jpg",
-                        "paste-2780f9c43a44ec39b0224fee198b482a03f475bb.jpg",
-                        "paste-2e00053e22bb9f621af6a6f8652167cbb1bdedfa.jpg",
-                        "paste-3a936e3c3a4e94bc4f4b64c20fab14677612093c.jpg",
-                        "paste-5277268c8bd763eeaa52fdc89550481211cd5aa2.jpg",
-                        "paste-5c437410f9c61dced8a3b805d83137d0f731cc4d.jpg",
-                        "paste-5e8bb5a51c15d248bf543f7ec5cb04345049293e.jpg",
-                        "paste-625a17ea40fafc171217cdd99dfb40ca8890752f.jpg",
-                        "paste-637d9a5ceb3e8609511d23e73dc73ff7027f101a.jpg",
-                        "paste-6403b1526ffee8b144b2b0f801bdf2c315728305.jpg",
-                        "paste-78b02e7c559ab8c94350882556698a1028a2d0b3.jpg",
-                        "paste-89018c72653de57f9947a97677f607930316383f.jpg",
-                        "paste-897dde2bc8bf755c763184c594b7fea068b5be42.jpg",
-                        "paste-8c552ac785b209802f485d2f8b9b2c93930fd67e.jpg",
-                        "paste-920c2e2e1d45f0da3aaebd36db91ddeec90d4867.jpg",
-                        "paste-94bc93f6396c2e341b5701b64c2c555031cd9ab2.jpg",
-                        "paste-9920983b2333b33a7caac1b53baf8e511e71d504.jpg",
-                        "paste-9bef9a3dbf39c95aa316aeaf625a9e2b04cbcef3.jpg",
-                        "paste-a36eb462a7996e3b04b97fef6e4e6d81018f8c85.jpg",
-                        "paste-ad136faaedd97c5ffeb446a6c6e2018c1759ed43.jpg",
-                        "paste-aec09cbb0f8f4a737d2cec97dc1d386167628272.jpg",
-                        "paste-b5db01a34a809591e1e4ef2813277fc80e707a4d.jpg",
-                        "paste-b91a30c8777cfafa89ad10cb058ee985f635cb1f.jpg",
-                        "paste-cc27e5b6eea89c5a8346da6cecd625ea0cc68170.jpg",
-                        "paste-dfc217f645e5b4321ad0b27bb11b21204bb99eab.jpg",
-                        "paste-e73900418c8aa42f05214e64e1d6087487c83e02.jpg",
-                        "paste-ebe00d922f7468343516e5ec73e2c46489cc4f27.jpg",
-                        "paste-f28be64ab88ef79b0c0b8ec9176e742044eb8aed.jpg",
-                        "paste-f6ce758463a14123060886b0457bca768e7733ef.jpg",
-                        "paste-f9082d52a2970bfd3bc487e214550f5d5321badb.jpg",
-                        "paste-f9b4793619d228910e4340fd934b25f7281c7976.jpg"
-                    ],
-                    "mid": 1604391419185,
-                    "name": "Genetik",
-                    "notes": [
-=======
                             "tags": [
                                 "Biochemie::Proteinreinigung"
                             ]
                         },
->>>>>>> Stashed changes
                         {
                             "__type__": "Note",
                             "fields": [
@@ -13500,6 +13317,222 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Zu was reagiert das Enzym mit seinem Substrat?<br></div>{{c1::Zum Enzym-Substrat-Komplex}}",
+                                ""
+                            ],
+                            "guid": "eC&^&BkgX(",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Reaktion vom Enzym-Substrat-Komplex zu Enzym + Substrat?<div>{{c1::<div>schnell und reversibel</div>\n<div>k= Zerfallkonstante</div>}}<br></div>",
+                                "<img src=\"paste-a9ba24a53a2066b04911e8b6de29c5101c6d85ec.jpg\">"
+                            ],
+                            "guid": "l6u#>hlAcJ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Reaktion vom Enzym-Substrat-Komplex zu Enzym + Produkt?<div>{{c1::<div>langsam</div> <div>k= Zerfallkonstante</div>}}<br></div>",
+                                "<img src=\"paste-36b96f2bf8ac2b67c933a57ae9cb96ccaece4c86.jpg\">"
+                            ],
+                            "guid": "Nd-snFV+My",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Geschwindigkeit des Zerfalls zurück in Enzym und Substrat, des Enzymsubstratkomplexes?<div>{{c1::<div>[ES] = Konzentration an Enzym und Substrat<br></div><div><img src=\"paste-525a8ae2ce55d3b5188a0e7941a28e3b8b237c33.jpg\"></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "F;<>e@7}Kg",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Geschwindigkeit der Umsetzung zu Enzym und Produkt, des Enzymsubstratkomplexes?<div>{{c1::<div>[ES] = Konzentration an Enzym und Substrat<br></div><div><img src=\"paste-a9b8f48144bc83b3feaa59dd69adf73638c8a7c9.jpg\"></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Dv~v.I6f:7",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kann bei dem Enzym-Substrat-Komplex k<sub>-2</sub> vernachlässigt werden?<div>{{c1::da es zu Beginn der Reaktion gegen 0 läuft}}<br></div>",
+                                ""
+                            ],
+                            "guid": "rg$p<5VGmI",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Geschwindigkeit der Enzym-Substrat-Bildung im Verhältnis zum Enzym-Substrat-Zerfall?<div>{{c1::gleich groß}}<br></div>",
+                                ""
+                            ],
+                            "guid": "sOr7x(O,Gz",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Konzentration von Enzym und Substrat berechnet?<div>{{c1::<img src=\"paste-5474a9201b7817a99196ba88aad7d8bdfbc22df7.jpg\">}}<br></div>",
+                                "<img src=\"paste-1f6cf3ec5bbb69fd693bd10df92ecfd0a4ddd557.jpg\"><div><img src=\"paste-09003cf66b209f339190e93fda046291d02adb2f.jpg\"><br></div>"
+                            ],
+                            "guid": "Qoq2i3Q{ox",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum spielt das Substrat im Enzym+Substrat keine Rolle?<div>{{c1::da ein Substratüberschuss vorliegt und nur sehr wenig Substrat am Enzym gebunden ist}}<br></div>",
+                                ""
+                            ],
+                            "guid": "LLIc(i(1U$",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Gesamtmenge an Substrat?<div>{{c1::frei}}</div>",
+                                "<img src=\"paste-01cac73294ddcea5c7d638c76e71efc805cf6107.jpg\">"
+                            ],
+                            "guid": "kY$6]XijZa",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Gesamtmenge an Enzym?<div>{{c1::<img src=\"paste-580b8808a3e9fea2c89e5c20c473cacbff8b88f2.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "lC^dfYO#xN",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Geschwindigkeit des Enzym-Substrat-Komplexes berechnet?<div>{{c1::<img src=\"paste-8bff8c237030719ef990130b061ebfdadbe99edb.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "pcgeit%cMv",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann ist die maximale Geschwindigkeit beim Enzym-Substrat-Komplex erreicht?<div>{{c1::Wenn alle Bindungsstellen am Enzym gesättigt sind}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Ca&uP|z|7G",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was gibt die Michaelis-Menten-Konstante K<sub>m</sub>&nbsp;an?<div>{{c1::<div>die Substratkonzentration, bei der die halbe Maximalgeschwindigkeit eines Enzyms erreicht ist</div>\n<div>ist somit ein Maß für die Substrataffinität</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "tF~6b/xt!m",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Geschwindigkeit des Enzym-Substrat-Komplexes berechnet, wenn die Konzentration an Substrat kleiner als K<sub>m</sub>&nbsp;ist?<div>{{c1::<img src=\"paste-ece3b489b7bd64f4be328090dfe412389996d3e2.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "DaOI3mOKgl",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Geschwindigkeit des Enzym-Substrat-Komplexes berechnet, wenn die Konzentration an Substrat gleich K<sub>m</sub>&nbsp;ist?<div>{{c1::<img src=\"paste-af0ced64916c2ade22e1acd9482e72ce00d32dc3.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "gV9t%df}bT",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Geschwindigkeit des Enzym-Substrat-Komplexes berechnet, wenn die Konzentration an Substrat größer als K<sub>m</sub>&nbsp;ist?<div>{{c1::<img src=\"paste-ae115fd370dab59997368d0320c066af9a80a2c8.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Pp<t?(.y=r",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann k<sub>2</sub>&nbsp;beim Enzym-Substrat-Komplex berechnet werden?<div>{{c1::<img src=\"paste-a8e6de1bd1e64f9322fd8516c801d6c19fe646be.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "ow^6wD23DF",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
                             ]
                         }
                     ]
@@ -14854,13 +14887,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-<<<<<<< Updated upstream
-                                "Wie ist die Definition einer PCR?<div>{{c1::Def: enzymatische Vermehrung (=„Amplifikation“) eines durch synthetische Oligonukleotidprimer begrenzten Ziel(-DNA)fragments in einer zyklischen Reaktion mit den Segmenten}}<br></div>",
-                                "<img src=\"paste-9bef9a3dbf39c95aa316aeaf625a9e2b04cbcef3.jpg\">"
-=======
                                 "Wie baut die Exonuklease die DNA ab?<div>{{c1::Sie entfernt ein Nukleotid nacheinander. Sie kann beide Stränge, aber auch nur einen Strang abbauen}}<br></div>",
                                 "<img src=\"Untitled-f318ef8bc8be091bef28a788ceeb3f387df123fa.png\">"
->>>>>>> Stashed changes
                             ],
                             "guid": "OV&,|`pA(2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -16184,7 +16212,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was besagt das Superpositionsprinzip der Bewegung?<div>{{c1::Führt ein Körper mehrere Bewegungen gleichzeitig aus, überlagern Wsich diese Bewegungen <span style=\"font-weight:600\">ohne </span>sich zu stören.}}<br></div>",
+                                "Was besagt das Superpositionsprinzip der Bewegung?<div>{{c1::Führt ein Körper mehrere Bewegungen gleichzeitig aus, überlagern sich diese Bewegungen <span style=\"font-weight:600\">ohne </span>sich zu stören.}}<br></div>",
                                 ""
                             ],
                             "guid": "Mn$[wr@{p~",
@@ -16472,7 +16500,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann der Umstand erklärt werden, das ein Massepunkt in Ruhe oder gradlinig gleichförmiger Bewegung verharrt, solange keine Kräfte auf ihm einwirken?<div>{{c1::Durch die Integration des des Grundgesetzes der Mechanik.}}<br></div>",
+                                "Wie kann der Umstand erklärt werden, das ein Massepunkt in Ruhe oder gradlinig gleichförmiger Bewegung verharrt, solange keine Kräfte auf ihm einwirken?<div>{{c1::Durch die Integration des Grundgesetzes der Mechanik.}}<br></div>",
                                 "<img src=\"Untitled-b0a9c7809315b69904415a569139ab5d60c9ac43.png\">"
                             ],
                             "guid": "j:L3h=yk-R",
@@ -16508,7 +16536,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was drückt das 2. Newtonsche Axiom physikalisch aus?<div>{{c1::<div>Die Kraft ist eine Wechselwirkungsgröße, die nur zwischen physikalischen Systemen bestehen kann und niemals in isolierten System.<br></div><div>Somit übt das physikalischen Systeme <b>a</b> eine Kraft auf das physikalischen System <b>b </b>aus, und umgekehrt.</div>}}<br></div>",
+                                "Was drückt das 2. Newtonsche Axiom physikalisch aus?<div>{{c1::<div>Die Kraft ist eine Wechselwirkungsgröße, die nur zwischen physikalischen Systemen bestehen kann und niemals in isolierten Systemen.<br></div><div>Somit übt das physikalischen Systeme <b>a</b> eine Kraft auf das physikalischen System <b>b </b>aus, und umgekehrt.</div>}}<br></div>",
                                 "<img src=\"Untitled-d05814bb7bdab14f85e404e512a85843935d7b15.png\">"
                             ],
                             "guid": "J38v,0H$Zb",
@@ -16544,7 +16572,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Leite das Gravitationsgestzt aus folgender Erfahrung her:<div>\"Massen ziehen sich gegenseitig an (z.B. Planetensystem)\"</div><div>{{c1::<div>1. Proportionalität zwischen Kraft und Abstand, und Kraft und Masse aufstellen</div><div><img src=\"paste-394d072acb9292492bcd75f6de3d38033f662b81.jpg\"><br></div><div>2. Einführung der Gravitationskonstanten und zuweisen der vektoriellen Eigenschaft</div><div><img src=\"paste-f05c20003b02cb9e379e757d490e72c0c555ec76.jpg\"></div>}}<br></div>",
+                                "Leite das Gravitationsgesetz aus folgender Erfahrung her:<div>\"Massen ziehen sich gegenseitig an (z.B. Planetensystem)\"</div><div>{{c1::<div>1. Proportionalität zwischen Kraft und Abstand, und Kraft und Masse aufstellen</div><div><img src=\"paste-394d072acb9292492bcd75f6de3d38033f662b81.jpg\"><br></div><div>2. Einführung der Gravitationskonstanten und zuweisen der vektoriellen Eigenschaft</div><div><img src=\"paste-f05c20003b02cb9e379e757d490e72c0c555ec76.jpg\"></div>}}<br></div>",
                                 ""
                             ],
                             "guid": "p+J94{1A3#",
