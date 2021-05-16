@@ -11243,10 +11243,16 @@
                         "paste-0dc6a13a10c52f82e8a405511d9432947240b8e5.jpg",
                         "paste-14f7053f8af0d682c8ecd5e3a049659f0b2a48f4.jpg",
                         "paste-1f6cf3ec5bbb69fd693bd10df92ecfd0a4ddd557.jpg",
+                        "paste-21914c257333cb4c2b04f51444c74f6539640ee9.jpg",
+                        "paste-21ab73a795c80112b423659377c6e62a5d834b04.jpg",
+                        "paste-228428d889129f6092f704fe5ded20834729ec13.jpg",
+                        "paste-2b09380c60e62ef7a99ffca3d8d88eb7bab5718c.jpg",
                         "paste-36b96f2bf8ac2b67c933a57ae9cb96ccaece4c86.jpg",
                         "paste-387834fa6cfcc72bb7a20594e2bbb78bf01d85cc.jpg",
+                        "paste-3bef30cae120e3c1e40e18ab58803933c4ccf563.jpg",
                         "paste-48e1ffe6ea8084c344119a9c174df1732196bbaa.jpg",
                         "paste-525a8ae2ce55d3b5188a0e7941a28e3b8b237c33.jpg",
+                        "paste-5372fcb5845d5bef7eecdb0ccf18e25d58d8aaf1.jpg",
                         "paste-5474a9201b7817a99196ba88aad7d8bdfbc22df7.jpg",
                         "paste-580b8808a3e9fea2c89e5c20c473cacbff8b88f2.jpg",
                         "paste-6793de30b4bd58551574cd0cbdbbadde117f3bf2.jpg",
@@ -11261,7 +11267,9 @@
                         "paste-ae115fd370dab59997368d0320c066af9a80a2c8.jpg",
                         "paste-af0ced64916c2ade22e1acd9482e72ce00d32dc3.jpg",
                         "paste-b0724b5baf625f2cb1b6e92dfb5c066968c3643e.jpg",
+                        "paste-b12f6064f2c659594389f37304dc54b051005869.jpg",
                         "paste-d578331580628aaaba55d41e406daf5bf2ada8a0.jpg",
+                        "paste-dbb46b84b70adec04b1f5cf7436bb61e0e21944a.jpg",
                         "paste-ece3b489b7bd64f4be328090dfe412389996d3e2.jpg",
                         "paste-ecff4146cebbf4beeb4a198108f4b3a4f81b7d14.jpg",
                         "paste-f49ad8e2d0ba2a59da061486a5dc1c9acca2b44a.jpg"
@@ -13530,6 +13538,270 @@
                                 ""
                             ],
                             "guid": "ow^6wD23DF",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind prosthetische Gruppen?<div>{{c1::kleine organische Moleküle sind fest an Enzym gebunden}}<br></div>",
+                                ""
+                            ],
+                            "guid": "vLLPa#hwh$",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sind die kleinen organischen Moleküle an dem Coenzym bzw. Cosubstrat gebunden?<div>{{c1::lose}}<br></div>",
+                                ""
+                            ],
+                            "guid": "u`Fn@hZR=t",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür ist die Regulation bei Enzymen wichtig?<div>{{c1::da mehrere 1000 Reaktionen gleichzeitig ablaufen und durch die Regulation eine Koordinierung der Reaktionen stattfindet.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "qvdY)5W~jt",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine sehr schnelle Regulation?<div>{{c1::die Regulation auf Proteinebene}}<br></div>",
+                                ""
+                            ],
+                            "guid": "u:9g]hYuD.",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Feedbackhemmung?<div>{{c1::<div>Endprodukt eines Stoffwechselweges hemmt ersten Schritt</div>\n<div>Hemmung ist reversibel</div>\n<div>Bindung eines negativen allosterischen Effektors</div>}}<br></div>",
+                                "<img src=\"paste-5372fcb5845d5bef7eecdb0ccf18e25d58d8aaf1.jpg\">"
+                            ],
+                            "guid": "sBE^:l&Ud[",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die allosterische Regulation?<div>{{c1::<div>wenn c(ADP) hoch ist,dann wird viel ATP hergestellt</div>\n<div>ADP zeigt Energiemangel an</div>\n<div>ADP bindet an anderer Stelle am Protein →positiver allosterischer Effektor</div>}}<br></div>",
+                                "<img src=\"paste-21914c257333cb4c2b04f51444c74f6539640ee9.jpg\">"
+                            ],
+                            "guid": "KGgHz%?NvZ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ADP bei der allosterischen Regulation?<div>{{c1::ADP: positiver allosterischer Effektor, da durch dessen Bindung die Aktivität des Enzyms gesteigert wird}}<br></div>",
+                                ""
+                            ],
+                            "guid": "IHqRb6{G$W",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein negativer allosterischer Effektor?<div>{{c1::ein Inhibitor (siehe Feedbackhemmung)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "G^ty5Ep=@5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich Myoglobin in der Allosterie?<div>{{c1::hyperbole Kinetik (wie bei Michaelis-Menden)}}<br></div>",
+                                "<img src=\"paste-3bef30cae120e3c1e40e18ab58803933c4ccf563.jpg\">"
+                            ],
+                            "guid": "O8xd.x%TLX",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich Hämoglobin in der Allosterie?<div>{{c1::sigmoide Kinetik}}<br></div>",
+                                "<img src=\"paste-3bef30cae120e3c1e40e18ab58803933c4ccf563.jpg\">"
+                            ],
+                            "guid": "o>e^I>#X71",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Funktion hat Hämoglobin im Körper?<div>{{c1::O<sub>2</sub>-Transporter im Blut}}<br></div>",
+                                ""
+                            ],
+                            "guid": "w<BKBYc1t[",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Funktion hat Myoglobin im Körper?<div>{{c1::O<sub>2</sub>-Speicher im Muskel}}<br></div>",
+                                ""
+                            ],
+                            "guid": "dZ,`_5.X>5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Worauf weist es hin, wenn ein Enzym eine sigmoide Kinetik hat?<div>{{c1::ist ein Zeichen, für vorliegende Allosterie → Regulation}}<br></div>",
+                                ""
+                            ],
+                            "guid": "B^`8(-FB:B",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet die sigmoide Allosterie bei Hämoglobin?{{c1::<div>Hämoglobin wird durch die positiven allosterischen Effektoren H<sup>+</sup>&nbsp;und CO<sub>2&nbsp;</sub>reguliert und diese fördern somit die Sauerstofffreisetzung von Hämoglobin.</div>}}",
+                                ""
+                            ],
+                            "guid": "I]=_PotAH3",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der tense-Zustand bei Untereinheiten?<div><div>{{c1::<div><div>gespannter Zustand (Viereck)</div>\n<div>uneffektiverer Zustand → schlechte Kooperativität</div>\n<div>L=Ligand</div></div><div><img src=\"paste-dbb46b84b70adec04b1f5cf7436bb61e0e21944a.jpg\"></div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "G/?=([;Gvp",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Was ist der relax-Zustand bei Untereinheiten?<br></div><div><div>{{c1::<div><div>entspannter Zustand (Kreis: L=Ligand)</div>\n<div>effektiverer Zustand → gute Kooperativität</div></div><div><img src=\"paste-dbb46b84b70adec04b1f5cf7436bb61e0e21944a.jpg\"></div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "KB5F)_2=r!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was erhöht die Wahrscheinlichkeit, das alle Untereinheiten im relax-Zustand vorliegen?<div>{{c1::die Bindung eines Liganden an eine Untereinheit}}<br></div>",
+                                "<img src=\"paste-2b09380c60e62ef7a99ffca3d8d88eb7bab5718c.jpg\">"
+                            ],
+                            "guid": "v^WeWGf`Rz",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine posttranslationale Modifizierung (ptm)?<div>{{c1::Proteinphosphorylierung}}<br></div>",
+                                ""
+                            ],
+                            "guid": "O<rqb=_QVr",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann kann die Proteinphosphorylierung stattfinden?<div>{{c1::<div>überall, wo Hydroxygruppen an Proteinen vorhanden sind</div>\n<div>→ wo Aminosäureseitenkette: Serin, Threonin, Tyrosin</div>}}<br></div>",
+                                "<img src=\"paste-21ab73a795c80112b423659377c6e62a5d834b04.jpg\">"
+                            ],
+                            "guid": "f>0kSoVzTZ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie läuft die Proteinphosphorylierung ab?<div>{{c1::<div>unter Katalyse einer Kinase wird der Gammaphosphatrest von ATP mit der Hydroxygruppe verestert → phosphoryliertes Enzym</div>\n<div>Phosphatase beschleunigt die Gleichgewichtseinstellung der Hydrolyse des Enzyms → Zurückgewinnung der Hydroxygruppe</div>}}<br></div>",
+                                "<img src=\"paste-228428d889129f6092f704fe5ded20834729ec13.jpg\"><div>Beispiel:</div><div><img src=\"paste-b12f6064f2c659594389f37304dc54b051005869.jpg\"><br></div>"
+                            ],
+                            "guid": "GVn6Ig%mot",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wovon ist die Aktivität eines Proteins bei der Proteinphosphorylierung abhängig?<div>{{c1::vom Phosphorylierungsstatus (phosphoryliert oder nicht) und Phosphorylierungsmuster (Welche Serine oder Threonine liegen phosphoryliert vor), welche abhängig von Kinasen und Phosphatasen sind}}<br></div>",
+                                ""
+                            ],
+                            "guid": "sZ`=#6lE[c",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert wenn Tyrosin phosphoryliert wird?<div>{{c1::<div>sehr selten</div>\n<div>ist verknüpft mit Wachstum und Proliferation</div>\n<div>gestörte Tyrosinphosphorylierung → Tumorentstehung, da zu viel Wachstum</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "uFg#-8`/#t",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Enzyme"
