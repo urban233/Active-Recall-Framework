@@ -11734,7 +11734,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie hoch ist eine Windung, in der alpha - Helix in nm?<div>{{c1::0.54 nm}}<br></div>",
+                                "Wie hoch ist eine Windung, in der \\(\\alpha\\)-Helix in nm?<div>{{c1::0.54 nm}}<br></div>",
                                 ""
                             ],
                             "guid": "JEsHeJYyjp",
@@ -11803,16 +11803,6 @@
                             "tags": [
                                 "Biochemie::Proteine"
                             ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das zweite wichtige Sekundärstrukturelement?<div>{{c1::ß- Faltblatt}}<br></div>",
-                                ""
-                            ],
-                            "guid": "Chu:A5ExL]",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -11889,7 +11879,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist ein Supersekundärstrukturelement?<div>{{c1::ßalphaß- Einheit (Kombination aus den Sekundärstrukturelementen)}}<br></div>",
+                                "Was ist ein Supersekundärstrukturelement?<div>{{c1::\\(\\beta \\alpha \\beta\\) -Einheit (Kombination aus den Sekundärstrukturelementen)}}<br></div>",
                                 ""
                             ],
                             "guid": "p=4XxdlGo&",
@@ -11901,7 +11891,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wo kommt die ßalphaß- Einheit vor und zu was dient sie?<div>{{c1::<div>- in Proteinen</div><div>- zur Stabilisierung</div>}}<br></div>",
+                                "Wo kommt die \\(\\beta \\alpha \\beta\\)-Einheit vor und zu was dient sie?<div>{{c1::<div>- in Proteinen</div><div>- zur Stabilisierung</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "IL@wVoK[B$",
@@ -12189,7 +12179,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Womit sind die hydrophoben Domänen verknüpft?<div>{{c1::mit alpha-helikalen Domänen}}<br></div>",
+                                "Womit sind die hydrophoben Domänen verknüpft?<div>{{c1::mit \\(\\alpha\\)-helikalen Domänen}}<br></div>",
                                 ""
                             ],
                             "guid": "b^5qnZH8ri",
@@ -12670,7 +12660,27 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was kann man mit einem sauber gereinigtem Protein machen?<div>{{c1::<div>sequenzieren</div>\n<div>mit Hilfe der Massenspektroskopie vermessen</div>\n<div>kristallisieren</div>\n<div>NMR: ermitteln der 3D- Struktur</div>}}<br></div>",
+							    "Wie funktioniert die Phosphorylierung an Ser, Thr und Tyr und was wird dadurch reguliert?<div>{{c1::<div>- an Hydroxygruppe wird ein Phosphatrest angefügt</div><div>- eine Phosphatgruppe kann diverse WBB bilden</div><div>- unphosphorylierte Zustand (Phosphatase spaltet unterVerwendung von Wasser Phosphatrest ab) → inaktiv</div><div>- Kinase fügt Phosphatrest an → aktiv</div><div>- manche Proteine sind auch ohne Phosphatrest aktiv und durch Phosphorylierung inaktiv (durch Phosphatase wieder aktiv)</div><div>- Regulation der Proteine in Eigenschaft und Aktivität</div>}}<br></div><div><div></div></div>",
+                                ""
+                            ],
+                            "guid": "mt(7D%n-U7",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das zweite wichtige Sekundärstrukturelement?<div>{{c1::ß- Faltblatt}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Chu:A5ExL]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [																																																																																																																																																																		
+                                "Was kann man mit einem sauber gereinigtem Protein machen?<div>{{c1::<div>sequenzieren</div>\n<div>mit Hilfe der Massenspektroskopie vermessen</div>\n<div>kristallisieren (Röntgenstrukturanalyse)</div>\n<div>NMR: ermitteln der 3D- Struktur</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "H3a;NMFl*8",
@@ -12701,6 +12711,7 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
+														
                             ]
                         },
                         {
@@ -12713,6 +12724,7 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
+															   
                             ]
                         },
                         {
@@ -12730,8 +12742,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wodurch erfolgt der erste Schritt der Proteinreinigung und -charaktarisierung?{{c1::<div>durch Ultraschall (vibrierendes Titanstäbchensystem, welches kurzzeitig Raum in der Suspension beansprucht → kurzzeitige Entstehung von Hohlräumen, welche kollabieren → Rückstoß → Aufspaltung durch Scherkraft) und enzymatische Lyse (Lysozym)</div>}}",
-                                ""
+                                "Wodurch erfolgt der erste Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>durch Ultraschall und enzymatische Lyse (Lysozym)</div>}}</div>",
+                                "Ultraschall: vibrierendes Titanstäbchensystem, welches kurzzeitig Raum in der Suspension beansprucht → kurzzeitige Entstehung von Hohlräumen, welche kollabieren → Rückstoß → Aufspaltung durch Scherkraft<div>Lyse: Lysozym</div>"
                             ],
                             "guid": "hAb=KEe!,K",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -12802,7 +12814,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wozu dient die Proteinchromatographie?<div>{{c1::Voteilung der Proteine im Überstand}}<br></div>",
+                                "Wozu dient die Proteinchromatographie?<div>{{c1::Vorteilung der Proteine im Überstand}}<br></div>",
                                 ""
                             ],
                             "guid": "iTXUo9kE$$",
@@ -12874,7 +12886,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert die IMAC?<div>{{c1::Ni^{2+} bildet mit geeigneten Liganden oktaedrische Komplexe}}<br></div>",
+                                "Warum werden \\(Ni^{2+}\\) bei der&nbsp;IMAC verwendet?<div>{{c1::\\(Ni^{2+}\\) bildet mit geeigneten Liganden oktaedrische Komplexe aus}}<br></div>",
                                 "<img src=\"paste-14f7053f8af0d682c8ecd5e3a049659f0b2a48f4.jpg\">"
                             ],
                             "guid": "cY1_>v/!C)",
@@ -12910,7 +12922,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie können die Vorgänge unter Verwendung des His-Tags bei der IMAC ablaufen?<div>{{c1::<div>- an genetische Sequenz wird ein His-Tag gehängt (an N- oder C-Terminus)</div>\n<div>- proteinhaltige Lsg. über IMAC-Säule mit His-Tag → Bindung an Säule, da hohe Affinität</div>\n<div>- Lösen des Proteins durch Imidazol, weil es noch stärker an die Säule bindet. Dadurch verdrängt es das Protein</div>}}<br></div>",
+                                "Wie können die Vorgänge, unter Verwendung des His-Tags, bei der IMAC ablaufen?<div>{{c1::<div>- an genetische Sequenz wird ein His-Tag gehängt (an N- oder C-Terminus)</div>\n<div>- proteinhaltige Lsg. über IMAC-Säule mit His-Tag → Bindung an Säule, da hohe Affinität</div>\n<div>- Lösen des Proteins durch Imidazol, weil es noch stärker an die Säule bindet. Dadurch verdrängt es das Protein</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "pOuEeDG?wf",
@@ -12953,6 +12965,7 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
+															   
                             ]
                         },
                         {
@@ -12982,7 +12995,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wozu dient am Anfang die niedrige c(Imidazol) bei der IMAC?<div>{{c1::Zum Abwaschen der Proteine von der Säule, welche in ihrer natürlichen Sequenz Histidin enthalten}}<br></div>",
+                                "Wozu dient am Anfang der IMAC&nbsp;die niedrige c(Imidazol)?<div>{{c1::Zum Abwaschen der Proteine von der Säule, welche in ihrer natürlichen Sequenz Histidin enthalten}}<br></div>",
                                 ""
                             ],
                             "guid": "Pa4c6;B1aj",
@@ -12994,7 +13007,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Warum wir bei der IMAC die c(Imidazol) 10x nach der niedrigen Konzentration erhöht?<div>{{c1::His-Tag-Protein wird runter gespült und für Fraktionierung gesammelt}}<br></div>",
+                                "Warum wird bei der IMAC die c(Imidazol) 10x nach der niedrigen Konzentration erhöht?<div>{{c1::His-Tag-Protein wird runter gespült und für Fraktionierung gesammelt}}<br></div>",
                                 ""
                             ],
                             "guid": "O<I-vd#F8v",
@@ -13006,7 +13019,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Warum werden bei der IMAC Lösungen über die Säule gegeben?<div>{{c1::<div>zum Waschen der Säule</div>\n<div>anschließend wieder Lagerung in EDTA</div>}}<br></div>",
+                                "Warum werden bei der IMAC, Lösungen über die Säule gegeben?<div>{{c1::<div>zum Waschen der Säule</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "of187Q<LT3",
@@ -13078,7 +13091,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wo bewegen sich die Ionen in der PAGE?<div>{{c1::Ein Molekül bewegt sich im elektrischen Feld}}<br></div>",
+                                "Wo bewegen sich die Ionen in der PAGE?<div>{{c1::Die Ionen bewegen sich im elektrischen Feld}}<br></div>",
                                 ""
                             ],
                             "guid": "L]ZN/-3e+x",
@@ -13102,7 +13115,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was kann man über die Größe eines Proteins im Bezug auf dessen Strecke sagen?<div>{{c1::<div>Je kleiner ein Protein ist, desto weiter kommt es</div>\n<div>log(Molekulargewicht) = R_f</div>}}<br></div>",
+                                "Was kann man über die Größe eines Proteins im Bezug auf dessen Strecke sagen?<div>{{c1::<div>Je kleiner ein Protein ist, desto weiter läuft es im Gel.</div>\n<div>\\(log(Molekulargewicht) = R_f\\)</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "yej{,9D`PP",
@@ -13126,7 +13139,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie wird der R<sub>f</sub>&nbsp;berechnet?<div>{{c1::<div>Ausmessen der Gesamtlaufstrecke (Länge des Gels)</div>\n<div>Ausmessen der Strecke, die das Protein zurück gelegt hat</div>\n<div>→ Laufstrecke (Protein)/ Laufstrecke (Gel)</div>}}<br></div>",
+                                "Wie wird der R<sub>f</sub>&nbsp;berechnet?<div>{{c1::<div>Ausmessen der Gesamtlaufstrecke (Länge des Gels)</div>\n<div>Ausmessen der Strecke, die das Protein zurück gelegt hat</div>\n<div>→ \\(R_f = \\frac{Laufstrecke (Protein)}{Laufstrecke (Gel)}\\)</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "nvK@(G*D[B",
@@ -13157,6 +13170,7 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
+														
                             ]
                         },
                         {
@@ -13186,7 +13200,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie werden die Proteine bei der SDS PAGE vorbehandelt?<div>{{c1::<div>- Sie werden mit Sodiumdodecylsulfat (SDS) denaturiert</div>\n<div>- hydrophobe Kohlenwasserstoffkette am SDS wechselwirkt mit hydrophoben Bereich des Proteins (im Inneren des Proteins)</div>\n<div>→ SDS zieht Protein auseinander und entfaltet es in eine einheitliche Stäbchenstruktur</div>\n<div>- SDS bringt negative Ladung, wodurch das Protein eine negative Oberfläche hat</div>}}<br></div>",
+                                "Womit werden die Proteine bei der SDS PAGE vorbehandelt?<div>{{c1::<div>- Sie werden mit Sodiumdodecylsulfat (SDS) denaturiert</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "rEC.l=ojq|",
@@ -13198,7 +13212,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was bewirkt die reduzierende PAGE?<div>{{c1::Reduktionsmittel wird um Disulfidbrücken gegeben (Reduktion zur Thiolen (SH))}}<br></div>",
+                                "Was bewirkt die reduzierende PAGE?<div>{{c1::Reduktionsmittel wird um Disulfidbrücken gegeben (Reduktion zu Thiolen (SH))}}<br></div>",
                                 ""
                             ],
                             "guid": "RiWx1]Kl@I",
@@ -13306,7 +13320,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie werden die Proteine aufgetrennt?<div>{{c1::nach Größe}}</div>",
+                                "Wie werden die Proteine bei der SDS PAGE aufgetrennt?<div>{{c1::nach der Größe}}</div>",
                                 ""
                             ],
                             "guid": "wk+R&-!T_-",
@@ -13325,6 +13339,7 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
+														
                             ]
                         },
                         {
@@ -13890,19 +13905,41 @@
                         "Untitled-f318ef8bc8be091bef28a788ceeb3f387df123fa.png",
                         "Untitled-f327b79a4b5ae4688f18451d0c9be0d868014bb9.png",
                         "Untitled-f8c33f9035ec0d75d11922ef5b8e779e6bcac491.png",
+																			 
+																			 
                         "paste-1c73e32b5f8469f398bdbcec42745472bbb94a0e.jpg",
                         "paste-22677acc03ed218186e5ce1f2dea019fc5d56143.jpg",
                         "paste-255644b417086c3aa29e840b4ba7ddc4af7cc760.jpg",
                         "paste-2780f9c43a44ec39b0224fee198b482a03f475bb.jpg",
+																			 
+																			 
+																			 
+																			 
                         "paste-5e8bb5a51c15d248bf543f7ec5cb04345049293e.jpg",
+																			 
+																			 
+																			 
+																			 
                         "paste-89018c72653de57f9947a97677f607930316383f.jpg",
                         "paste-897dde2bc8bf755c763184c594b7fea068b5be42.jpg",
+																			 
                         "paste-920c2e2e1d45f0da3aaebd36db91ddeec90d4867.jpg",
+																			 
                         "paste-9920983b2333b33a7caac1b53baf8e511e71d504.jpg",
+																			 
+																			 
+																			 
+																			 
+																			 
                         "paste-b91a30c8777cfafa89ad10cb058ee985f635cb1f.jpg",
                         "paste-cc27e5b6eea89c5a8346da6cecd625ea0cc68170.jpg",
+																			 
+																			 
+																			 
+																			 
                         "paste-f6ce758463a14123060886b0457bca768e7733ef.jpg",
                         "paste-f9082d52a2970bfd3bc487e214550f5d5321badb.jpg"
+																			
                     ],
                     "mid": 1604391419185,
                     "name": "Genetik",
@@ -14558,7 +14595,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie findet die Abtrennung der Proteine grob statt?<div><br></div><div>{{c1::Das Zellextrakt wird durch NaOH und SDS lysiert, danach zentrifugiert, oder filtriert.}}<br></div>",
+                                "Wie findet die Abtrennung der Proteine grob statt?<div>{{c1::Das Zellextrakt wird durch NaOH und SDS lysiert, danach zentrifugiert, oder filtriert.}}<br></div>",
                                 "<img src=\"Untitled-e9827b95d47a8f317333f5b9d3c8bad59c2e0fd3.png\">"
                             ],
                             "guid": "f7XV~u!$_A",
@@ -14570,7 +14607,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie findet der Zellaufschluss bei der Plasmid-Präperationen statt?<div><br></div><div>{{c1::Durch die Zugabe von NaOH und SDS werden die Zellen unter sehr alkalischen Bedingungen (pH: 12) aufgeschlossen. Dannach wird die Lösung angesäuert (pH: 7). Die Plasmide liegen dann renaturiert in der Lösung vor.}}<br></div>",
+                                "Wie findet der Zellaufschluss bei der Plasmid-Präperationen statt?<div>{{c1::Durch die Zugabe von NaOH und SDS werden die Zellen unter sehr alkalischen Bedingungen (pH: 12) aufgeschlossen. Dannach wird die Lösung angesäuert (pH: 7). Die Plasmide liegen dann renaturiert in der Lösung vor.}}<br></div>",
                                 "<img src=\"Untitled-8b8f6840c47cdf8b26280e9a14dedbdb11514bdb.png\">"
                             ],
                             "guid": "PsLRtp+wRV",
@@ -14811,7 +14848,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie lautet die Tertiärstruktur der tRNA?<div><br></div><div>{{c1::+/- Komplex}}<br></div>",
+                                "Wie lautet die Tertiärstruktur der tRNA?<div>{{c1::+/- Komplex}}<br></div>",
                                 "<img src=\"Untitled-1f89a85c8d27cb1683845b098bc228781eee8b3b.png\">"
                             ],
                             "guid": "y0mRZTeRsC",
@@ -15440,7 +15477,9 @@
                             ],
                             "guid": "KF.G>4#Qu8",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -15451,6 +15490,8 @@
                             "guid": "m&F${PQclZ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
+													 
+							 
                         },
                         {
                             "__type__": "Note",
@@ -15460,7 +15501,9 @@
                             ],
                             "guid": "r$x>p?<02j",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Size-&-NAs"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -15470,7 +15513,9 @@
                             ],
                             "guid": "M`9KX}Y}lC",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::DNA-Präp"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -15482,6 +15527,342 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Genetik::DNA-Präp"
+                            ]
+						  
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Definition einer PCR?<div>{{c1::Def: enzymatische Vermehrung (=„Amplifikation“) eines durch synthetische Oligonukleotidprimer begrenzten Ziel(-DNA)fragments in einer zyklischen Reaktion mit den Segmenten}}<br></div>",
+                                "<img src=\"paste-9bef9a3dbf39c95aa316aeaf625a9e2b04cbcef3.jpg\">"
+                            ],
+                            "guid": "d,vWeNES_/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aus welchen 3 Schritten besteht ein PCR-Zyklus?<div>{{c1::„Denaturierung“ → „Annealing“ → „Elongation“}}<br></div>",
+                                "<img src=\"paste-f28be64ab88ef79b0c0b8ec9176e742044eb8aed.jpg\">"
+                            ],
+                            "guid": "h}gS*6z=:8",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was wird dem PCR Ansatz grob hinzugegeben?<div>{{c1::<div>Desoxynukleotide</div>\n<div>Taq-Polymerase</div>\n<div>Puffer</div>\n<div>Magnesium-Ionen</div>\n<div>Primer (Oligonukleotide)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "~[j97k^$G",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert bei den 3 Schritten eines PCR-Zykluses?<div>{{c1::<div>(I) Denaturierung der DNA-Matrize</div>\n<div>(II) Anlagerung der Primer</div>\n<div>(III) Verlängerung der Primer</div>}}<br></div>",
+                                "<img src=\"paste-6403b1526ffee8b144b2b0f801bdf2c315728305.jpg\">"
+                            ],
+                            "guid": "P(Bo>G*llN",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann entstehen lange Produkte bei der PCR?<div>{{c1::Lange Produkte bilden sich in den ersten Zyklen aus}}<br></div>",
+                                ""
+                            ],
+                            "guid": "HIUu{%%|n",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum entstehen lange Produkte bei der PCR?<div>{{c1::Weil die Taq-Polymerase nicht weiß wann der 2. Primer Abschnitt kommt. Somit synthetisiert sie den ganzen Strang vom 1. Primer an.}}<br></div>",
+                                "<img src=\"paste-ebe00d922f7468343516e5ec73e2c46489cc4f27.jpg\">"
+                            ],
+                            "guid": "BvC!/E`(6W",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man die Schmelztemperatur fürs Primer-Annealing berechnen?<div>{{c1::\\(T_m=[A,T]*2 °C + [G,C]*4 °C\\)}}<br></div>",
+                                "<img src=\"paste-5277268c8bd763eeaa52fdc89550481211cd5aa2.jpg\">"
+                            ],
+                            "guid": "bMfONOt~i$",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso können keine Primer eingestzt werden, die 8 Nukleotide lang sind?<div>{{c1::Weil es zu viele Hybridisierungsstellen auf der DNA geben würde}}<br></div>",
+                                "<img src=\"paste-b5db01a34a809591e1e4ef2813277fc80e707a4d.jpg\"><br>"
+                            ],
+                            "guid": "GnpvTTm~kJ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn die Annealing Temperatur zu hoch ist?<div>{{c1::Die Primer binden nicht an den DNA-Einzelstrang}}<br></div>",
+                                "<img src=\"paste-8c552ac785b209802f485d2f8b9b2c93930fd67e.jpg\">"
+                            ],
+                            "guid": "NR56J6.TCX",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn die Annealing Temperatur zu niedrig ist?<div>{{c1::Der Primer würde auch an Stellen binden, die nicht komplett komplementär sind}}<br></div>",
+                                "<img src=\"paste-e73900418c8aa42f05214e64e1d6087487c83e02.jpg\">"
+                            ],
+                            "guid": "L,SwuR&AWR",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn die Annealing Temperatur passend ist?<div>{{c1::Der Primer bindet an dem DNA-Abschnitt, zu der er komplett komplementär ist}}<br></div>",
+                                "<img src=\"paste-0f0be56d155413a2b81af4f435d789a5f11984ca.jpg\">"
+                            ],
+                            "guid": "x9>>3&#FpF",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Gründe, das eine PCR scheitert?<div>{{c1::<img src=\"paste-78b02e7c559ab8c94350882556698a1028a2d0b3.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "e4.zCBd3D?",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann ssDNA mittels einer PCR hergestellt werden?<div>{{c1::<div>Man gibt die Primer A in normaler Konzentration und Primer B in geringer Konzentration in den PCR-Ansatz.</div>\n<div>Dann lässt man ca. 20 Zyklen eine normale PCR ablaufen und anschließend ergibt sich eine Linear-PCR.</div>}}<br></div>",
+                                "<img src=\"paste-a36eb462a7996e3b04b97fef6e4e6d81018f8c85.jpg\">"
+                            ],
+                            "guid": "NY44!pB`Lp",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum ergibt sich die Linear-PCR aus der normalen PCR, wenn die Primer Konzentrationen unterschiedlich sind?<div>{{c1::Weil der Primer A nach der normalen PCR aufgebraucht ist, bleibt nur noch der Primer B übrig, wodurch nur noch Einzelstränge synthetisiert werden können.}}<br></div>",
+                                "<img src=\"paste-dfc217f645e5b4321ad0b27bb11b21204bb99eab.jpg\">"
+                            ],
+                            "guid": "K4h=.eU0Iw",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert eine Nested-PCR?<div>{{c1::Ziemlich analog zu einer normalen PCR, außer das 2 Primer-<span style=\"font-weight:600\">Paare </span>verwendet werden.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Eu>:fO|Yo]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 2 Varianten der Nested-PCR gibt es?<div>{{c1::<div>2-Tube</div>\n<div>1-Tube (closed-system)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "POq,Qw.!=w",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie läuft die 2-Tube Variante der Nested-PCR ab?<div>{{c1::Zuerst wird eine PCR mit dem 1. Primer-Paar durchgeführt. Anschließend wird in einem 2. Tube das 2. Primer-Paar hinzugegeben und wieder eine PCR durchgeführt.}}<br></div>",
+                                "<img src=\"paste-637d9a5ceb3e8609511d23e73dc73ff7027f101a.jpg\">"
+                            ],
+                            "guid": "dM3Q,klZV&",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie läuft die 1-Tube Variante der Nested-PCR ab?<div>{{c1::Es werden direkt beide Primer-Paare in den Reaktionsansatz gegeben. Und dann nacheinander die PCRs der unterschiedlichen Primer-Paare durchgeführt.}}<br></div>",
+                                "<img src=\"paste-5c437410f9c61dced8a3b805d83137d0f731cc4d.jpg\"><div><img src=\"paste-ad136faaedd97c5ffeb446a6c6e2018c1759ed43.jpg\"><br></div>"
+                            ],
+                            "guid": "d:f`J4g`Vz",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie werden die Primer-Paare bei der 1-Tube Variante der Nested-PCR gesteuert?<div>{{c1::Die Primer-Paar Verwendung, wird über die Annealing-Temperatur gesteuert.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "o)jGDJm@,Q",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Warmstart PCR?<div>{{c1::Die Taq-Polymerase wird durch Antikörper oder chemische Modifikation blockiert}}<br></div>",
+                                "<img src=\"paste-3a936e3c3a4e94bc4f4b64c20fab14677612093c.jpg\">"
+                            ],
+                            "guid": "sDTgwBJdX6",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Vorteil einer Warmstart PCR?<div>{{c1::Durch die Blockierung der Taq-Polymerase, entfällen zu frühe WW mit den Primern im Reaktionsansatz}}<br></div>",
+                                "<img src=\"paste-aec09cbb0f8f4a737d2cec97dc1d386167628272.jpg\">"
+                            ],
+                            "guid": "s~qHa.]kFA",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die blockierte Taq-Polymerase wieder aktiviert werden?<div>{{c1::Durch eine Initialdenaturierung}}<br></div>",
+                                "<img src=\"paste-0508d11b84c24e74556f32947ef991cd05f72dd3.jpg\">"
+                            ],
+                            "guid": "k$5Zw[7ltc",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet RT-PCR?<div>{{c1::Reverse-Transkriptase-PCR}}<br></div>",
+                                ""
+                            ],
+                            "guid": "HzfU/rA@6-",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie läuft eine RT-PCR grob ab?<div>1. {{c1::Präperation von RNA}}</div><div>2. {{c1::Herstellung der cDNA}}</div><div>3. {{c1::PCR mit generierten cDNA}}</div>",
+                                "<img src=\"paste-2e00053e22bb9f621af6a6f8652167cbb1bdedfa.jpg\">"
+                            ],
+                            "guid": "QN;92o+J#]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird die RT-PCR verwendet?<div>{{c1::immer wenn eine Form von RNA als Vorlage dient}}<br></div>",
+                                "<img src=\"paste-625a17ea40fafc171217cdd99dfb40ca8890752f.jpg\">"
+                            ],
+                            "guid": "K[+swPCI<2",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip der RT-PCR?<div>{{c1::Es wird ein RNA/DNA-Hybrid, durch die Reverse Transkriptase erstellt. Dieser Hybrid wird dann als Template Strang für die DNA-Synthese verwendet.}}<br></div>",
+                                "<img src=\"paste-94bc93f6396c2e341b5701b64c2c555031cd9ab2.jpg\">"
+                            ],
+                            "guid": "Pf8qFi=YX(",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was wird in den Ansatz der RT-PCR gegeben?<div>{{c1::Es werden Primer, Desoxynukleotide und die Reverse Transkriptase in den Ansatz gegeben}}<br></div>",
+                                ""
+                            ],
+                            "guid": "BG<Ej^t9Ra",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Worin unterscheiden sich One-Step vom Two-Step Verfahren bei der RT-PCR?<div>{{c1::Beim One-Step wird der RNA/DNA-Hybrid und die dsDNA in einem Tube hergestellt und beim Two-Step wird zuerst die cDNA und danach in einem 2. Tube die dsDNA hergestellt.}}<br></div>",
+                                "<img src=\"paste-f9b4793619d228910e4340fd934b25f7281c7976.jpg\">"
+                            ],
+                            "guid": "cJQO{[s`bX",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::PCR"
                             ]
                         }
                     ]
@@ -16616,7 +16997,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann die momentan Beschleunigung beschrieben werden?<div>{{c1::<img src=\"Untitled-2e37b7e57ae15f24e0b212b43b858631a65afae2.png\">}}<br></div>",
+                                "Wie kann die momentan Beschleunigung beschrieben werden, wenn diese gradlinig vollzogen wird?<div>{{c1::<img src=\"Untitled-2e37b7e57ae15f24e0b212b43b858631a65afae2.png\">}}<br></div>",
                                 ""
                             ],
                             "guid": "K=}/<y5r9^",
@@ -16688,7 +17069,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die träge Masse?<div>{{c1::Die träge Masse drückt die Trägheit/das Beharrungsvermögendes Körpers gegenüber einer Bewegungsänderung aus)}}<br></div>",
+                                "Was ist die träge Masse?<div>{{c1::Die träge Masse drückt die Trägheit bzw. das Beharrungsvermögenden eines Körpers gegenüber einer Bewegungsänderung aus)}}<br></div>",
                                 ""
                             ],
                             "guid": "iYR+81OF<!",
@@ -16736,7 +17117,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist der Imupls mathematisch beschrieben?<div>{{c1::<img src=\"Untitled-55b8378913d039489cbf0c76abfa695b6c43f096.png\">}}<br></div>",
+                                "Wie ist der Impuls mathematisch beschrieben?<div>{{c1::<img src=\"Untitled-55b8378913d039489cbf0c76abfa695b6c43f096.png\">}}<br></div>",
                                 ""
                             ],
                             "guid": "bcPy-x$r/t",
@@ -16772,7 +17153,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann der Umstand erklärt werden, das ein Massepunkt in Ruhe oder gradlinig gleichförmiger Bewegung verharrt, solange keine Kräfte auf ihm einwirken?<div>{{c1::Durch die Integration des Grundgesetzes der Mechanik.}}<br></div>",
+                                "Wie kann der Umstand erklärt werden, das ein Massepunkt in Ruhe oder gradlinig gleichförmiger Bewegung verharrt, solange keine Kräfte auf ihm einwirken?<div>{{c1::Durch die Integration des des Grundgesetzes der Mechanik.}}<br></div>",
                                 "<img src=\"Untitled-b0a9c7809315b69904415a569139ab5d60c9ac43.png\">"
                             ],
                             "guid": "j:L3h=yk-R",
@@ -16784,7 +17165,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was besagt das Galileische Trägheitsgesetz?<div>{{c1::Ein Massenpunkt verharrt in einem Zustand der Ruhe oder gleichförmigengradlinigen Bewegung mit konstanter Geschwindigkeit, solange keine Kräfteauf ihn einwirken.}}<br></div>",
+                                "Was besagt das Galileische Trägheitsgesetz?<div>{{c1::Ein Massenpunkt verharrt in einem Zustand der Ruhe oder gleichförmigengradlinigen Bewegung mit konstanter Geschwindigkeit, solange keine Kräfte auf ihn einwirken.}}<br></div>",
                                 ""
                             ],
                             "guid": "IlrLESH&WI",
@@ -16808,7 +17189,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was drückt das 2. Newtonsche Axiom physikalisch aus?<div>{{c1::<div>Die Kraft ist eine Wechselwirkungsgröße, die nur zwischen physikalischen Systemen bestehen kann und niemals in isolierten Systemen.<br></div><div>Somit übt das physikalischen Systeme <b>a</b> eine Kraft auf das physikalischen System <b>b </b>aus, und umgekehrt.</div>}}<br></div>",
+                                "Was drückt das 2. Newtonsche Axiom physikalisch aus?<div>{{c1::<div>Die Kraft ist eine Wechselwirkungsgröße, die nur zwischen physikalischen Systemen bestehen kann und niemals in isolierten System.<br></div><div>Somit übt das physikalischen Systeme <b>a</b> eine Kraft auf das physikalischen System <b>b </b>aus, und umgekehrt.</div>}}<br></div>",
                                 "<img src=\"Untitled-d05814bb7bdab14f85e404e512a85843935d7b15.png\">"
                             ],
                             "guid": "J38v,0H$Zb",
@@ -16844,7 +17225,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Leite das Gravitationsgesetz aus folgender Erfahrung her:<div>\"Massen ziehen sich gegenseitig an (z.B. Planetensystem)\"</div><div>{{c1::<div>1. Proportionalität zwischen Kraft und Abstand, und Kraft und Masse aufstellen</div><div><img src=\"paste-394d072acb9292492bcd75f6de3d38033f662b81.jpg\"><br></div><div>2. Einführung der Gravitationskonstanten und zuweisen der vektoriellen Eigenschaft</div><div><img src=\"paste-f05c20003b02cb9e379e757d490e72c0c555ec76.jpg\"></div>}}<br></div>",
+                                "Leite das Gravitationsgestzt aus folgender Erfahrung her:<div>\"Massen ziehen sich gegenseitig an (z.B. Planetensystem)\"</div><div>{{c1::<div>1. Proportionalität zwischen Kraft und Abstand, und Kraft und Masse aufstellen</div><div><img src=\"paste-394d072acb9292492bcd75f6de3d38033f662b81.jpg\"><br></div><div>2. Einführung der Gravitationskonstanten und zuweisen der vektoriellen Eigenschaft</div><div><img src=\"paste-f05c20003b02cb9e379e757d490e72c0c555ec76.jpg\"></div>}}<br></div>",
                                 ""
                             ],
                             "guid": "p+J94{1A3#",
