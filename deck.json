@@ -6698,6 +6698,30 @@
                             "tags": [
                                 "Mathe::Funktion-mehrerer-veränderlicher"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Kreuzprodukt anschaulich?<div>{{c1::Es bildet ein Vektor der senkrecht auf der aufgespannten Fläche der beiden anderen Vektoren steht.}}</div>",
+                                ""
+                            ],
+                            "guid": "H``]+XhMf/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Vektoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet orthogonal?<div>{{c1::Wenn die beiden Vektoren im 90° Winkel zueinander stehen.}}</div>",
+                                ""
+                            ],
+                            "guid": "E`b)tKbev~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Mathe::Vektoren"
+                            ]
                         }
                     ]
                 },
