@@ -931,7 +931,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Nenne die neu entstandenen Proteineigenschaften.<div>{{c1::<div>- Acetylierung am Aminoende</div><div>- Hydroxylierung von Prolin</div><div>- y(gamma) - Carboxyglutamat</div><div>- Pyroglutamat</div><div>- Anhängen von Zuckermustern</div><div>- Anhängen von Fettsäuren an a(alpha) - NH<sub>2</sub>&nbsp;oder Cys - SH</div><div>- Phosphorylierung an Ser, Thr, Tyr</div>}}<br></div>",
+                                "Nenne die neu entstandenen Proteineigenschaften.<div>{{c1::<div>- Acetylierung am Aminoende</div><div>- Hydroxylierung von Prolin</div><div>- \\(\\gamma\\)-Carboxyglutamat</div><div>- Pyroglutamat</div><div>- Anhängen von Zuckermustern</div><div>- Anhängen von Fettsäuren an \\(\\alpha\\) - NH<sub>2</sub>&nbsp;oder Cys - SH</div><div>- Phosphorylierung an Ser, Thr, Tyr</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "d>jl0-Tt$I",
@@ -1114,7 +1114,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wodurch gibt es eine zusätzliche Stabilisierung, der alpha-Helix?<div>{{c1::In dem sich 2 alpha-Helix- Spiralen umeinander wickeln.}}</div>",
+                                "Wodurch gibt es eine zusätzliche Stabilisierung, der \\(\\alpha\\)-Helix?<div>{{c1::In dem sich 2 \\(\\alpha\\)-Helix- Spiralen umeinander wickeln.}}</div>",
                                 "<img src=\"paste-d578331580628aaaba55d41e406daf5bf2ada8a0.jpg\">"
                             ],
                             "guid": "EiN{A>z/5)",
@@ -1150,7 +1150,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wo taucht die superspiralisierte alpha-Helix auf?<div>{{c1::<div>- Myosin/ Tropomyosin</div>\n<div>- Keratin</div>}}<br></div>",
+                                "Wo taucht die superspiralisierte \\(\\alpha\\)-Helix auf?<div>{{c1::<div>- Myosin/ Tropomyosin</div>\n<div>- Keratin</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "jovlG!h|Ou",
@@ -2807,8 +2807,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind Lyasen?<div>{{c1::<div>sie werden auch Synthasen genannt</div>\n<div>z.B. Aldolase</div>}}<br></div>",
-                                ""
+                                "Welche Enzyme sind zum Beispiel, Lyasen?<div>{{c1::<div>z.B. Aldolase</div>}}<br></div>",
+                                "sie werden auch Synthasen genannt"
                             ],
                             "guid": "qU*>8o=>{,",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -2831,7 +2831,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind Isomerasen?<div>{{c1::z.B. Triosephosphatisomerase}}<br></div>",
+                                "Welches Enzym ist zum Beispiel eine Isomerase?<div>{{c1::z.B. Triosephosphatisomerase}}<br></div>",
                                 ""
                             ],
                             "guid": "xmaQ*0u*`r",
@@ -3119,7 +3119,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist die Reaktion vom Enzym-Substrat-Komplex zu Enzym + Substrat?<div>{{c1::<div>schnell und reversibel</div>\n<div>k= Zerfallkonstante</div>}}<br></div>",
+                                "Wie ist die Reaktion vom&nbsp;&nbsp;Enzym + Substrat&nbsp;zu Enzym-Substrat-Komplex?<div>{{c1::<div>schnell und reversibel</div>\n<div>k= Zerfallkonstante</div>}}<br></div>",
                                 "<img src=\"paste-a9ba24a53a2066b04911e8b6de29c5101c6d85ec.jpg\">"
                             ],
                             "guid": "l6u#>hlAcJ",
@@ -3143,7 +3143,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist die Geschwindigkeit des Zerfalls zurück in Enzym und Substrat, des Enzymsubstratkomplexes?<div>{{c1::<div>[ES] = Konzentration an Enzym und Substrat<br></div><div><img src=\"paste-525a8ae2ce55d3b5188a0e7941a28e3b8b237c33.jpg\"></div>}}<br></div>",
+                                "Wie ist die Geschwindigkeit des Zerfalls zurück in Enzym und Substrat, des Enzymsubstratkomplexes (Formel)?<div>{{c1::<div>[ES] = Konzentration an Enzym und Substrat<br></div><div><img src=\"paste-525a8ae2ce55d3b5188a0e7941a28e3b8b237c33.jpg\"></div>}}<br></div>",
                                 ""
                             ],
                             "guid": "F;<>e@7}Kg",
@@ -5653,6 +5653,7 @@
                     "media_files": [
                         "paste-9fdbd15a91978cf70c19db8f08f61b53d27c3006.jpg"
                     ],
+                    "mid": 1604391419185,
                     "name": "Informatik",
                     "notes": [
                         {
@@ -5794,18 +5795,6 @@
                                 "\"Übergeben\" heißt in der Programmiersprache auch \"zuweisen\""
                             ],
                             "guid": "J>aZ?J%^n",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche der folgenden Variablennamen können in C# verwendet werden?<div>a. i123<br>b. 2i13<br>c. Wrox.com<br>d. decimal<br>e. Fläche<br>f. Dday<br>g. _J_S_Bach<br>h. float<br>i. time2GetJiggyWhithIt<br></div><div><br></div><div>es dürfen {{c1::a. d. e. f. g. i.}} verwendet werden</div>",
-                                ""
-                            ],
-                            "guid": "mw]-i]5Y+*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Informatik::Basics-und-Variablen"
@@ -6181,6 +6170,390 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Symbol hat der Zuweisungsoperator?<div>{{c1::=}}</div>",
+                                "Bsp.:&nbsp;int x = 12, y = 14;"
+                            ],
+                            "guid": "n82Z{(4z0~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dient der Zuweisungsoperator?<div>{{c1::Zuweisung eines Wertes, an eine Variable}}</div>",
+                                "x = 13;"
+                            ],
+                            "guid": "c7L0oRp|8P",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 3 Möglichkeiten gibt es Strings mit Variablen zuverketten?<div>{{c1::<div>1. Verkettung von 2 Variablen mit +</div><div>3. Verkettung von string und Variablen mit +</div><div>5. Einbauen der Variablen durch {} in den string</div>}}<br></div>",
+                                "<div><b><u>Beispiele:</u></b></div>1. Verkettung von zwei Variablen durch das +-Zeichen:<br>string s1 = \"Hallo \";<br>string s2 = \"Welt\";<br>Console.WriteLine(s1 + s2);<div><br></div><div>3. Verkettung von Variablen und String-Konstanten<br>string sS1 = \"Hallo, wie groß bist Du?\";<br>int sI2 = 188;<br>string sS2 = sS1 + \"\\nIch bin \" + sI2 + \" cm groß\";<br>Console.WriteLine(sS2);<br></div><div><br></div><div>5. Einlesen einer String Variablen<br>int iAlter = 21, iGroesse = 168;<br>Console.WriteLine(\"Mein Alter ist \" + iAlter + \" und ich bin \" + iGroesse + \" cm groß.\");<br>Console.WriteLine(\"Mein Alter ist {0} und ich bin {1} cm groß.\", iAlter, iGroesse);<br></div>"
+                            ],
+                            "guid": "OcHs!A[[0w",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso ist bei folgenden Code das Ergebnis ganzzahlig, obwohl das Ergebnis den Datentyp double hat?<div><br></div><div>double dErgebnis = iZahl1 / 2;<br>// Division AUCH ganzzahlig trotz Ergebnis Datentyp! Also 5<br></div><div><br></div><div>{{c1::Weil 2 Integer Zahlen dividiert werden, also 2 Ganzezahlen.}}</div>",
+                                ""
+                            ],
+                            "guid": "EnSi]0Pua$",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kommt bei folgenden Code, ein Ergbnis mit Gleichtkommazahl heraus?<div><br></div><div>Console.WriteLine(\"Gleitkomma Division\");<br>dErgebnis = iZahl1 / 2.0;<br></div><div><br></div><div>{{c1::Weil die 2.0 eine double Zahl darstellt. iZahl wird dann implizit in double konvertiert.}}</div>",
+                                "// Wegen 2.0 implizite Konvertierung von iZahl1 in double → Gleitkomma Division<br>Console.WriteLine(\"{0} / 2 = {1}\", dZahl1, dErgebnis); // Gleitkomma Division: 5,5"
+                            ],
+                            "guid": "DmJkVTF:_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Ergebnis liefert der Modulo-Operator?<div>{{c1::den Ganzzahligen Rest einer Division}}</div>",
+                                "<b><u>Beispiele:</u></b><div>11 % 5 = 1<br>17 % 3 = 2<br></div>"
+                            ],
+                            "guid": "bD8F~wdOCf",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Syntax, wenn die folgende Variable, um den Wert 1, inkrimitiert werden soll?<div>int i = 3;<br></div><div><br></div><div>{{c1::i = i + 1;}}<br></div>",
+                                ""
+                            ],
+                            "guid": "r>2jj>>j4$",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Syntax, wenn die folgende Variable, um den Wert 1, dekrimitiert werden soll?<div>int i = 3;<br></div><div><br></div><div>{{c1::i = i - 1;}}</div>",
+                                ""
+                            ],
+                            "guid": "Ghe3we,]I/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Kurzform, wenn man mit 1 inkrementieren bzw. dekrementieren&nbsp;will?<div>{{c1::Inkrement: ++i}}</div><div>{{c2::Dekrement --i}}</div>",
+                                "i steht hier für eine verwendete Variable. Man muss es also nicht zwinged i nennen!"
+                            ],
+                            "guid": "e*F{s^7XA+",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Präfix-Notation für das inkrementieren bzw. dekrementieren?<div>{{c1::<div>++i</div><div>--i</div>}}<br></div>",
+                                "Präfix =&gt; vor der Variablen"
+                            ],
+                            "guid": "KnGBfn&GK5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Postfix-Notation für das inkrementieren bzw. dekrementieren?<div>{{c1::<div>i++</div><div>i--</div>}}</div>",
+                                "Postfix =&gt; hinter der Variablen"
+                            ],
+                            "guid": "tw8WPtwsj]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator für&nbsp;{{c2::var1 erhält Wert von var2}}, lautet \"{{c1::=}}\".",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "PILm)6`&gK",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator für&nbsp;{{c2::var1 erhält Wert der Summe var1 + var2}}, lautet \"{{c1::+=}}\".",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "kWET$nM4|X",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator für&nbsp;{{c2::var1 erhält Wert der Differenz var1 - var2}}, lautet \"{{c1::-=}}\".",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "M;}dZt?:_S",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator für&nbsp;{{c2::var1 erhält Wert des Produkts var1 * var2}}, lautet \"{{c1::*=}}\".",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "v*oksS.PpO",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator für&nbsp;{{c2::var1 erhält Wert der Division var1 / var2}}, lautet \"{{c1::/=}}\".",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "rE&$3aQ0nZ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator für&nbsp;{{c2::var1 erhält Restwert nach Division von var1<br>durch var2}}, lautet \"{{c1::%=}}\".",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "NMr]6Ph%D{",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können die mathematischen Methoden in C# aufgerufen werden?<div>{{c1::Math.XYX()}}</div>",
+                                "Die Math-Class sit schon in der Bib system. Heißt sie muss nicht extra importiert werden!"
+                            ],
+                            "guid": "cJmgUKeNef",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Vergleichsoperator \"{{c1::==}}\" wird dann verwendet, wenn der Vergleich \"{{c2::gleich}}\" gemeint ist.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "j4AwF@k,*h",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Vergleichsoperator \"{{c1::!=}}\" wird dann verwendet, wenn der Vergleich \"{{c2::ungleich}}\" gemeint ist.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "xD:{H$:{&?",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Vergleichsoperator \"{{c1::&lt;}}\" wird dann verwendet, wenn der Vergleich \"{{c2::kleiner}}\" gemeint ist.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "vi5DK7x!v[",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Vergleichsoperator \"{{c1::&lt;=}}\" wird dann verwendet, wenn der Vergleich \"{{c2::kleiner gleich}}\" gemeint ist.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "rpL1)SBR!|",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Vergleichsoperator \"{{c1::&gt;}}\" wird dann verwendet, wenn der Vergleich \"{{c2::größer}}\" gemeint ist.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "FqqJOD{#m|",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Vergleichsoperator \"{{c1::&gt;=}}\" wird dann verwendet, wenn der Vergleich \"{{c2::größer gleich}}\" gemeint ist.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "x0%CO3X}3`",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür verwendet man die Vergleichsoperatoren?<div>{{c1::Für die Fallunterscheidung bei if-else-statements und bei while- oder for-Schleifen}}</div>",
+                                ""
+                            ],
+                            "guid": "Q?MirsXF8w",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür verwendet man die logischen Operatoren?<div>{{c1::um mehrere Bedinungen der Vergleichsoperatoren zu verknüpfen}}</div>",
+                                ""
+                            ],
+                            "guid": "mYs+tO|{I:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator \"{{c1::&amp;&amp;}}\" wird verwendet, wenn ein logisches \"{{c2::UND}}\" verwendet werden soll.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "KjnG_&4lBK",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator \"{{c1::||}}\" wird verwendet, wenn ein logisches \"{{c2::ODER}}\" verwendet werden soll.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "G%Uu{Me~HL",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Operator \"{{c1::!}}\" wird verwendet, wenn ein logisches \"{{c2::NICHT}}\" verwendet werden soll.",
+                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
+                            ],
+                            "guid": "nK[7Lh*@ik",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird das logische UND <b>true</b>?<div>{{c1::wenn beide Ausdrücke <b>true </b>sind}}<br></div>",
+                                ""
+                            ],
+                            "guid": "h(:V%H=}PN",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird das logische ODER&nbsp;<b>true</b>?<div>{{c1::wenn eine der beiden Ausdrücke&nbsp;oder beide Ausdrücke&nbsp;<b>true&nbsp;</b>sind}}</div>",
+                                "Heißt, ODER ist dann <b>false</b>, wenn beide <b>false </b>sind!"
+                            ],
+                            "guid": "JHF~Pb7t_P",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird das logische Nicht&nbsp;<b>true</b>?<div>{{c1::Wenn der vorangegangene Ausdruck <b>false </b>ist}}</div>",
+                                "es kehrt false and true immer um!"
+                            ],
+                            "guid": "I}?shi<wj",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Operatoren"
                             ]
                         }
                     ]
@@ -7116,9 +7489,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "Biochemie::Enzyme"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
