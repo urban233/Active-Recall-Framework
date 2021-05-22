@@ -2759,7 +2759,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind Transferasen?<div>{{c1::Kinasen}}<br></div>",
+                                "Welche Enzmye sind Transferasen?<div>{{c1::Kinasen}}<br></div>",
                                 ""
                             ],
                             "guid": "bL+I`r90g.",
@@ -2783,7 +2783,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind Hydrolasen?<div>{{c1::ATPase, Nuklease, Protease}}<br></div>",
+                                "Welche Enzyme sind Hydrolasen?<div>{{c1::ATPase, Nuklease, Protease}}<br></div>",
                                 ""
                             ],
                             "guid": "M(}[MWMpp4",
@@ -3155,7 +3155,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie ist die Geschwindigkeit der Umsetzung zu Enzym und Produkt, des Enzymsubstratkomplexes?<div>{{c1::<div>[ES] = Konzentration an Enzym und Substrat<br></div><div><img src=\"paste-a9b8f48144bc83b3feaa59dd69adf73638c8a7c9.jpg\"></div>}}<br></div>",
+                                "Wie ist die Geschwindigkeit der Umsetzung zu Enzym und Produkt, des Enzymsubstratkomplexes (Formel)?<div>{{c1::<div>[ES] = Konzentration an Enzym und Substrat<br></div><div><img src=\"paste-a9b8f48144bc83b3feaa59dd69adf73638c8a7c9.jpg\"></div>}}<br></div>",
                                 ""
                             ],
                             "guid": "Dv~v.I6f:7",
@@ -3443,7 +3443,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie verhält sich Hämoglobin in der Allosterie?<div>{{c1::sigmoide Kinetik}}<br></div>",
+                                "Hämoglobin besitzt {{c1::sigmoide Kinetik}}, wodurch es eine {{c2::Allosterie}} hat?",
                                 "<img src=\"paste-3bef30cae120e3c1e40e18ab58803933c4ccf563.jpg\">"
                             ],
                             "guid": "o>e^I>#X71",
@@ -3491,7 +3491,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was bedeutet die sigmoide Allosterie bei Hämoglobin?{{c1::<div>Hämoglobin wird durch die positiven allosterischen Effektoren H<sup>+</sup>&nbsp;und CO<sub>2&nbsp;</sub>reguliert und diese fördern somit die Sauerstofffreisetzung von Hämoglobin.</div>}}",
+                                "Was bedeutet die sigmoide Allosterie bei Hämoglobin?<div>{{c1::<div>Hämoglobin wird durch die <b>positiven allosterischen Effektoren H<sup>+</sup>&nbsp;und CO<sub>2&nbsp;</sub>reguliert</b> und diese fördern somit die Sauerstofffreisetzung von Hämoglobin.</div>}}</div>",
                                 ""
                             ],
                             "guid": "I]=_PotAH3",
@@ -3575,8 +3575,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wovon ist die Aktivität eines Proteins bei der Proteinphosphorylierung abhängig?<div>{{c1::vom Phosphorylierungsstatus (phosphoryliert oder nicht) und Phosphorylierungsmuster (Welche Serine oder Threonine liegen phosphoryliert vor), welche abhängig von Kinasen und Phosphatasen sind}}<br></div>",
-                                ""
+                                "Wovon ist die Aktivität eines Proteins bei der Proteinphosphorylierung abhängig?<div>{{c1::vom Phosphorylierungsstatus und Phosphorylierungsmuster}}</div>",
+                                "Phosphorylierungsstatus (phosphoryliert oder nicht)<div>Phosphorylierungsmuster (Welche Serine oder Threonine liegen phosphoryliert vor), welche abhängig von Kinasen und Phosphatasen sind<br></div>"
                             ],
                             "guid": "sZ`=#6lE[c",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
@@ -3685,17 +3685,28 @@
                         "paste-22677acc03ed218186e5ce1f2dea019fc5d56143.jpg",
                         "paste-255644b417086c3aa29e840b4ba7ddc4af7cc760.jpg",
                         "paste-2780f9c43a44ec39b0224fee198b482a03f475bb.jpg",
+                        "paste-28f7057ebe830207298a92ceac6306e4f38771ca.jpg",
+                        "paste-2c93749da0934aa3b2bb9b2511adb24edff987b1.jpg",
                         "paste-2e00053e22bb9f621af6a6f8652167cbb1bdedfa.jpg",
                         "paste-3a936e3c3a4e94bc4f4b64c20fab14677612093c.jpg",
+                        "paste-3df9d6901ee397b217c3d41b63124a1bca946e3c.jpg",
+                        "paste-41d610e2884d9256baf25dd2bbf15eeb45c2f872.jpg",
+                        "paste-4c7c20a2380307d02b4fc50b617204e0685e5ee6.jpg",
+                        "paste-50b99b20752f314ef62cc11b921c08c3d5481d0f.jpg",
+                        "paste-5134759e525b87fb5c7235036c137842974a3b71.jpg",
                         "paste-5277268c8bd763eeaa52fdc89550481211cd5aa2.jpg",
+                        "paste-5658304b229d88560247692e0a389af400e7a324.jpg",
                         "paste-5c437410f9c61dced8a3b805d83137d0f731cc4d.jpg",
                         "paste-5e8bb5a51c15d248bf543f7ec5cb04345049293e.jpg",
+                        "paste-616aec7d5d2cbe0bf32d297597a383e76fbdb907.jpg",
                         "paste-625a17ea40fafc171217cdd99dfb40ca8890752f.jpg",
                         "paste-637d9a5ceb3e8609511d23e73dc73ff7027f101a.jpg",
                         "paste-6403b1526ffee8b144b2b0f801bdf2c315728305.jpg",
                         "paste-78b02e7c559ab8c94350882556698a1028a2d0b3.jpg",
+                        "paste-7a095877c2a2394f1597dab00eddf39dc4e2128a.jpg",
                         "paste-89018c72653de57f9947a97677f607930316383f.jpg",
                         "paste-897dde2bc8bf755c763184c594b7fea068b5be42.jpg",
+                        "paste-8a49e916e7cc217fa6194e6106212c32b8893522.jpg",
                         "paste-8c552ac785b209802f485d2f8b9b2c93930fd67e.jpg",
                         "paste-920c2e2e1d45f0da3aaebd36db91ddeec90d4867.jpg",
                         "paste-94bc93f6396c2e341b5701b64c2c555031cd9ab2.jpg",
@@ -3706,7 +3717,10 @@
                         "paste-aec09cbb0f8f4a737d2cec97dc1d386167628272.jpg",
                         "paste-b5db01a34a809591e1e4ef2813277fc80e707a4d.jpg",
                         "paste-b91a30c8777cfafa89ad10cb058ee985f635cb1f.jpg",
+                        "paste-bf621229381dcd2493f67ed48d2bcea71e252512.jpg",
                         "paste-cc27e5b6eea89c5a8346da6cecd625ea0cc68170.jpg",
+                        "paste-d34c3f80ef3a872c28a4cd8f40575406e8376c3b.jpg",
+                        "paste-d6ee75c4500d2cdc190580a40c8246a62178d3b9.jpg",
                         "paste-dfc217f645e5b4321ad0b27bb11b21204bb99eab.jpg",
                         "paste-e73900418c8aa42f05214e64e1d6087487c83e02.jpg",
                         "paste-ebe00d922f7468343516e5ec73e2c46489cc4f27.jpg",
@@ -5637,6 +5651,198 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Genetik::PCR"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist das molecular cloning definiert?<div>{{c1::Kombination aus Vektor und interessierenden DNA-Fragment}}</div>",
+                                "<img src=\"paste-bf621229381dcd2493f67ed48d2bcea71e252512.jpg\">"
+                            ],
+                            "guid": "xfC_6#EecA",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die groben Schritte einer Klonierung?<div>1. {{c1::DNA-Präparation von Vektor<br>und interessierendem Fragment}}<br>2. {{c1::Schneiden beider DNA-Moleküle (Vektor, Insert)<br>mit passend gewählten Restriktionsenzymen}}<br>3. {{c1::Ligation der DNA-Moleküle (Vektor + Insert)}}<br>4. {{c1::Einschleusen in Wirtszellen}}<br>5. {{c1::Selektion / Vermehrung}}<br>6. {{c1::Präparation des Plasmid / Phagenkonstrukts}}<br>7. {{c1::Überprüfung<br></div>(Präparation -&gt; Restriktion oder Sequenzierung)}}",
+                                "<img src=\"paste-4c7c20a2380307d02b4fc50b617204e0685e5ee6.jpg\">"
+                            ],
+                            "guid": "EV~Tu,~be$",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen klonen und klonieren?{{c1::<div>Beim klonen entsteht ein erbgleiches&nbsp;Individum, bei klonieren erstellt man ein vermehrungsfähiges</div>DNA-Konstrukt (z.B. Plasmidklon)}}<div></div>",
+                                "<img src=\"paste-5134759e525b87fb5c7235036c137842974a3b71.jpg\">"
+                            ],
+                            "guid": "JUs!o@YFS@",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird das DNA-Fragment mit dem Vektor Plasmid verbunden?<div>{{c1::Über die DNA-Ligase}}</div>",
+                                ""
+                            ],
+                            "guid": "C-._%)5^Xd",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was erhält man, wenn nicht individuelle DNA-Fragmente ligiert werden, sondern z.B. unselektierte Fragmente aus einem kompletten Genom in Vektoren eingebaut wurden?<div>{{c1::Man erhält durch alle Vektoren zusammen eine Genomische Bibliothek.}}</div>",
+                                "<img src=\"paste-d6ee75c4500d2cdc190580a40c8246a62178d3b9.jpg\">"
+                            ],
+                            "guid": "wZ]v(J#_T.",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 2 Möglichkeiten gibt es, um DNA beim Cloning in die Zelle zu transportieren?<div>{{c1::Die Transformation und Infektion (bei Bakterien mit Phagen)}}</div>",
+                                "<img src=\"paste-28f7057ebe830207298a92ceac6306e4f38771ca.jpg\">"
+                            ],
+                            "guid": "P-[/j/OzE8",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die chemische Transformation beim Cloning?<div>{{c1::Die Zellen werden durch Ca<sup>2+</sup>&nbsp;kompetent gemacht. Somit können sie den Plasmid besser aufnehmen.}}<br></div>",
+                                "Zusätzlich gibt es noch ein definiertes Temperatur-Profil<div><img src=\"paste-5658304b229d88560247692e0a389af400e7a324.jpg\"><br></div>"
+                            ],
+                            "guid": "DS{<wz]*Ex",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert die Elektroporation beim Cloning?<div>{{c1::<div>Die Zellen werden aufgereinigt, das keine Ionen mehr in der Lösung vorliegen.</div><div>Dann wird ein elektrischer Shock durchgeführt.</div>}}<br></div>",
+                                "<img src=\"paste-d34c3f80ef3a872c28a4cd8f40575406e8376c3b.jpg\">"
+                            ],
+                            "guid": "uNFC][D|y*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür sorgt das Ca<sup>2+</sup>&nbsp;bei der chemischen Transformation?<div>{{c1::Die Zellmembran wird permeabler für die Plasmide, wodurch diese in die Zelle diffundieren können.}}</div>",
+                                ""
+                            ],
+                            "guid": "o1+5g?Jrfh",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür sorgt der Elektroschock bei der Elektroporation?<div>{{c1::Durch die starke Feldstärke außerhalb der Zelle, wird der Plasmid durch die elektromotorische Kraft in das innere der Zellen gedrückt, da dort eine geringe Feldstärke vorliegt.}}</div>",
+                                ""
+                            ],
+                            "guid": "rd)f**<r*E",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man die erfolgreich transformierten Zellen von den <b>nicht </b>transformierten Zellen&nbsp;selektieren?<div>{{c1::Indem man in den Plasmid eine Resi gegen ein Antibiotikum einbaut. Dann werden die Zellen in einem Medium kultiviert, welches das Antibiotikum enthält.}}</div>",
+                                "<img src=\"paste-50b99b20752f314ef62cc11b921c08c3d5481d0f.jpg\">"
+                            ],
+                            "guid": "yzZ<<<QC<z",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 2 verschiedenen Formen von Plasmiden gibt es, in Bezug auf deren Replikation?<div>{{c1::<div>Non-integrative plasmids =&gt; autonome Vermehrung</div><div>Episome =&gt; episomale Vermehrung</div>}}<br></div>",
+                                "autonome Vermehrung: bleibt für sich ohne sich in die Genom-DNA einzubauen.<div>episomale Vermehrung: Plasmid baut sich in die genomische DNA des Bakteriums ein<br></div><div><img src=\"paste-8a49e916e7cc217fa6194e6106212c32b8893522.jpg\"><br></div>"
+                            ],
+                            "guid": "FpoM]92%Ub",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 2 Phagen werden für die Klonierung eingesetzt?<div>{{c1::Lambda und M13}}</div>",
+                                "<img src=\"paste-616aec7d5d2cbe0bf32d297597a383e76fbdb907.jpg\">"
+                            ],
+                            "guid": "B3nRO[voVN",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo dockt der M13 Virus an die Zelle an?<div>{{c1::am F-Pilus des Bakteriums}}</div>",
+                                "<img src=\"paste-41d610e2884d9256baf25dd2bbf15eeb45c2f872.jpg\">"
+                            ],
+                            "guid": "A>Z<1wE1>w",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied der Viren Lambda und M13, bei deren Vermehrung und Wirtszelle?<div>{{c1::<div>Wenn Lambda im lytischen Zyklus ist, zerstört es den Wirt.</div><div>M13 repliziert sich in der Zelle ohne den Wirt zu töten.</div>}}<br></div>",
+                                "<img src=\"paste-3df9d6901ee397b217c3d41b63124a1bca946e3c.jpg\">"
+                            ],
+                            "guid": "c6erHh7/3P",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 2 Fortpflanzungszyklen hat Lambda?<div>{{c1::den lytischen und lysogenen}}</div>",
+                                "<img src=\"paste-2c93749da0934aa3b2bb9b2511adb24edff987b1.jpg\"><div><img src=\"paste-7a095877c2a2394f1597dab00eddf39dc4e2128a.jpg\"><br><div><br></div></div>"
+                            ],
+                            "guid": "K7gG!XJ+1+",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
                             ]
                         }
                     ]
