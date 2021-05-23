@@ -175,7 +175,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Eigenschaften hat atomarer Wasserstoff?{{c1:<div><ul><li>Radikalisches Verhalten</li>\n<li>Starke Tendenz zur Rekombination → ermöglicht viele Reaktionen bei Raumtemperatur</li>}}<br></ul></div>",
+                                "Welche Eigenschaften hat atomarer Wasserstoff?<div>{{c1::<div><ul><li></li><li>Radikalisches Verhalten</li>\n<li>Starke Tendenz zur Rekombination → ermöglicht viele Reaktionen bei Raumtemperatur</li>}}<br></ul></div></div>",
                                 ""
                             ],
                             "guid": "D?-x5+9=kD",
@@ -4401,8 +4401,7 @@
                             "guid": "PsLRtp+wRV",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Genetik::DNA-Präp",
-                                "Probleme::Verständnis"
+                                "Genetik::DNA-Präp"
                             ]
                         },
                         {
