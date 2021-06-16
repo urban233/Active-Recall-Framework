@@ -8279,9 +8279,22 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "csm_FHG-05-197-12_e167bfe0ca.jpg"
+            ],
             "name": "Fragen",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
+                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
+                    ],
+                    "guid": "x/,N,!rndE",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "d6042e00-5e4f-11eb-8a94-448a5b8ef3a7",
