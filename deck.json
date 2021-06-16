@@ -1064,6 +1064,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Was macht das wichtige Sekundärstrukturelement?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
+                                ""
+                            ],
+                            "guid": "KIuz.oNS6L",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Was ist der Abstand der alpha-Helix?<div>{{c1::n → n+4}}<br></div>",
                                 ""
                             ],
@@ -1201,18 +1214,6 @@
                                 ""
                             ],
                             "guid": "k7^xL*HlNE",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteine"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was gehört ebenfalls zu den wichtigen Sekundärstrukturelementen?<div>{{c1::ß- Schleife bzw. ß- turn}}<br></div>",
-                                ""
-                            ],
-                            "guid": "zwyu^R/qb*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteine"
@@ -1588,6 +1589,19 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was hat ein Protein nach der Translation?<div>{{c1::hydrophobe Reste}}</div>",
+                                ""
+                            ],
+                            "guid": "q}2TRIkIpL",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
                             ]
                         },
                         {
@@ -2121,18 +2135,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div>\n<div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div>\n<div>irreversibel</div><div><br></div>\n<div>oder Aussalzen:</div>\n<div>Salz entzieht Protein Hydratwasser</div>\n<div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div>\n<div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div>\n<div>reversibel</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "InT`Vk<~p*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Wozu dient die Proteinchromatographie?<div>{{c1::Vorteilung der Proteine im Überstand}}<br></div>",
                                 ""
                             ],
@@ -2505,18 +2507,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was passiert wenn viel Methylenbisacylamid in einer Lösung ist?<div>{{c1::<div>Je mehr Methylenbisacrylamid in einer Lösung ist, desto mehr Vernetzungen können generiert werden.</div><div><br></div>\n<div>Je mehr Vernetzungen generiert werden, umso kleiner sind die Poren in dem Acrlyacrylamidgel.</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "CH4b~U|3&B",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Womit werden die Proteine bei der SDS PAGE vorbehandelt?<div>{{c1::<div>- Sie werden mit Sodiumdodecylsulfat (SDS) denaturiert</div>}}<br></div>",
                                 ""
                             ],
@@ -2653,6 +2643,90 @@
                                 ""
                             ],
                             "guid": "m|go*pPXu]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn man die Proteine mit SDS vorbehandelt?<div>{{c1::<div>Die hydrophobe Kohlenwasserstoffkette am SDS wechselwirkt mit hydrophoben Bereich des Proteins (im Inneren des Proteins)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "b?%3G0%2u)",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Lösung wird die IMAC Säule gelagert?<div>{{c1::EDTA}}<br></div>",
+                                ""
+                            ],
+                            "guid": "vX}Oe~TG5*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn die hydrophobe Kohlenwasserstoffkette am SDS mit dem hydrophoben Bereich des Proteins wechselwirkt?<div>{{c1::<div>SDS zieht Protein auseinander und entfaltet es in eine einheitliche Stäbchenstruktur<br></div><div>SDS bringt negative Ladung, wodurch das Protein eine negative Oberfläche bekommt</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "K+!4):a+z1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>SDS PAGE:</div>Je mehr {{c1::Methylenbisacrylamid}} in einer Lösung ist, desto mehr {{c2::Vernetzungen}} können generiert werden.",
+                                ""
+                            ],
+                            "guid": "C|xPd/dV`X",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "SDS PAGE:<div>Je mehr {{c1::Vernetzungen}} generiert werden, umso kleiner sind die {{c2::Poren}} in dem {{c2::Acrlyacrylamidgel}}.<br></div>",
+                                ""
+                            ],
+                            "guid": "d8NtVWa_5p",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip der pH-Präzipitation?<div>{{c1::<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div><div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div><div>irreversibel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "f,vv,QWNEw",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip des Aussalzen?<div>{{c1::<div>Salz entzieht Protein Hydratwasser (Hydrathülle)</div><div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div><div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div><div>reversibel</div>}}<br></div>",
+                                "<img src=\"paste-1451381b744e965b0f72c4f7655570c56a45e54b.jpg\">"
+                            ],
+                            "guid": "OF8.7cFxb!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
@@ -3021,6 +3095,30 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div>\n<div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div>\n<div>irreversibel</div><div><br></div>\n<div>oder Aussalzen:</div>\n<div>Salz entzieht Protein Hydratwasser</div>\n<div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div>\n<div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div>\n<div>reversibel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "InT`Vk<~p*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert wenn viel Methylenbisacylamid in einer Lösung ist?<div>{{c1::<div>Je mehr Methylenbisacrylamid in einer Lösung ist, desto mehr Vernetzungen können generiert werden.</div><div><br></div>\n<div>Je mehr Vernetzungen generiert werden, umso kleiner sind die Poren in dem Acrlyacrylamidgel.</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "CH4b~U|3&B",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "<div>Zu was reagiert das Enzym mit seinem Substrat?<br></div>{{c1::Zum Enzym-Substrat-Komplex}}",
                                 ""
                             ],
@@ -3232,6 +3330,18 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was gehört ebenfalls zu den wichtigen Sekundärstrukturelementen?<div>{{c1::ß- Schleife bzw. ß- turn}}<br></div>",
+                                ""
+                            ],
+                            "guid": "zwyu^R/qb*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
                             ]
                         },
                         {
@@ -3501,111 +3611,13 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was macht das wichtige Sekundärstrukturelement?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
-                                ""
+                                "Was ist der erste Schritt des Aktivierungszyklus der G-Proteine?<div>{{c1::An GPCR kann Ligand binden (gelb). Solange er aber nicht besetzt ist, hat es auf seiner cytoplasmatischen Seite ein G-Protein(stimulatorisch) gebunden.}}<br></div>",
+                                "<img src=\"paste-b9a18e78876ffd87ec06e07e11ede6bb3dae22a5.jpg\">"
                             ],
-                            "guid": "KIuz.oNS6L",
+                            "guid": "qlCg^3NLy5",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Proteine",
-                                "Probleme::Verständnis"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was hat ein Protein nach der Translation?<div>{{c1::hydrophobe Reste}}</div>",
-                                ""
-                            ],
-                            "guid": "q}2TRIkIpL",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteine",
-                                "Probleme::Verständnis"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was passiert, wenn man die Proteine mit SDS vorbehandelt?<div>{{c1::<div>Die hydrophobe Kohlenwasserstoffkette am SDS wechselwirkt mit hydrophoben Bereich des Proteins (im Inneren des Proteins)</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "b?%3G0%2u)",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "In welcher Lösung wird die IMAC Säule gelagert?<div>{{c1::EDTA}}<br></div>",
-                                ""
-                            ],
-                            "guid": "vX}Oe~TG5*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was passiert, wenn die hydrophobe Kohlenwasserstoffkette am SDS mit dem hydrophoben Bereich des Proteins wechselwirkt?<div>{{c1::<div>SDS zieht Protein auseinander und entfaltet es in eine einheitliche Stäbchenstruktur<br></div><div>SDS bringt negative Ladung, wodurch das Protein eine negative Oberfläche bekommt</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "K+!4):a+z1",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>SDS PAGE:</div>Je mehr {{c1::Methylenbisacrylamid}} in einer Lösung ist, desto mehr {{c2::Vernetzungen}} können generiert werden.",
-                                ""
-                            ],
-                            "guid": "C|xPd/dV`X",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "SDS PAGE:<div>Je mehr {{c1::Vernetzungen}} generiert werden, umso kleiner sind die {{c2::Poren}} in dem {{c2::Acrlyacrylamidgel}}.<br></div>",
-                                ""
-                            ],
-                            "guid": "d8NtVWa_5p",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Prinzip der pH-Präzipitation?<div>{{c1::<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div><div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div><div>irreversibel</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "f,vv,QWNEw",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Prinzip des Aussalzen?<div>{{c1::<div>Salz entzieht Protein Hydratwasser (Hydrathülle)</div><div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div><div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div><div>reversibel</div>}}<br></div>",
-                                "<img src=\"paste-1451381b744e965b0f72c4f7655570c56a45e54b.jpg\">"
-                            ],
-                            "guid": "OF8.7cFxb!",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
+                                "Biochemie::Enzyme"
                             ]
                         },
                         {
@@ -3625,18 +3637,6 @@
                                 "<img src=\"paste-105fef2115a3618725c1857f9f0f2cda6c17d788.jpg\"><div><img src=\"paste-467c8a7fd32541300f37f870b0c36cdce35698f5.jpg\"><br></div>"
                             ],
                             "guid": "J[/W7Y&&Iy",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Enzyme"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist der erste Schritt des Aktivierungszyklus der G-Proteine?<div>{{c1::An GPCR kann Ligand binden (gelb). Solange er aber nicht besetzt ist, hat es auf seiner cytoplasmatischen Seite ein G-Protein(stimulatorisch) gebunden.}}<br></div>",
-                                "<img src=\"paste-b9a18e78876ffd87ec06e07e11ede6bb3dae22a5.jpg\">"
-                            ],
-                            "guid": "qlCg^3NLy5",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Enzyme"
@@ -3810,14 +3810,19 @@
                         "Untitled-f327b79a4b5ae4688f18451d0c9be0d868014bb9.png",
                         "Untitled-f8c33f9035ec0d75d11922ef5b8e779e6bcac491.png",
                         "paste-001373509fcdd74bf2c2349973de763ec51609a4.jpg",
+                        "paste-019c75a090e4d39f730516548cfd9862f6580e74.jpg",
                         "paste-04b35fe1f7f2d5c01fc606ea023a76fcd7cec58e.jpg",
                         "paste-0508d11b84c24e74556f32947ef991cd05f72dd3.jpg",
                         "paste-06041e74c793efaea862196b59320899d8525935.jpg",
                         "paste-0996b67b108351dad0b487d4bc3e4170e0140ec7.jpg",
                         "paste-0f0be56d155413a2b81af4f435d789a5f11984ca.jpg",
+                        "paste-168e533d0a07c7c9843e5c82c46529a8cbb51abf.jpg",
+                        "paste-19477d3714ff05d1f7b92dfd8df4a4800a3b22e4.jpg",
                         "paste-1c73e32b5f8469f398bdbcec42745472bbb94a0e.jpg",
+                        "paste-1e881761cf96374718b81e27da97ca3cb1b47ac8.jpg",
                         "paste-22677acc03ed218186e5ce1f2dea019fc5d56143.jpg",
                         "paste-255644b417086c3aa29e840b4ba7ddc4af7cc760.jpg",
+                        "paste-2722a453cac3a18365b7b3a29e25039d91afa613.jpg",
                         "paste-2759fea800efbaee92415962a30f397029e72acc.jpg",
                         "paste-2780f9c43a44ec39b0224fee198b482a03f475bb.jpg",
                         "paste-28f7057ebe830207298a92ceac6306e4f38771ca.jpg",
@@ -3826,14 +3831,20 @@
                         "paste-2e00053e22bb9f621af6a6f8652167cbb1bdedfa.jpg",
                         "paste-31e5134dea340d734f1f90708e25f5b06dee9333.jpg",
                         "paste-3525a52c4d3b170232d93854226aa64fe4234844.jpg",
+                        "paste-3566afa3ec5d5b239943b55447a5aa08c895bd08.jpg",
                         "paste-38c4f96a2f5baa596bd85c28c48b6e347375749f.jpg",
+                        "paste-38fdcf4cbdf0d7baea443f37dc263190d086b471.jpg",
                         "paste-3a936e3c3a4e94bc4f4b64c20fab14677612093c.jpg",
                         "paste-3df9d6901ee397b217c3d41b63124a1bca946e3c.jpg",
+                        "paste-4196b4c32cbc26729997aeb6258fc0c1f65c744e.jpg",
                         "paste-41d610e2884d9256baf25dd2bbf15eeb45c2f872.jpg",
                         "paste-4233ac8a27d875f40fb677848391b5d686fe2fbf.jpg",
+                        "paste-4700a642b4e61c0bbf279b3551e6831f7a41b81d.jpg",
+                        "paste-4a5c0a1ee223f47d63de07977c7763e4dd5fa409.jpg",
                         "paste-4aa7ef5aae347df4cbba07f5a8d2e17bc334c99a.jpg",
                         "paste-4c7c20a2380307d02b4fc50b617204e0685e5ee6.jpg",
                         "paste-4e9dcff0db68a2c15e54b2a8a891f84836b01f69.jpg",
+                        "paste-501a119aca577f1f4f8e564e3f44d485eac9f4ee.jpg",
                         "paste-50b99b20752f314ef62cc11b921c08c3d5481d0f.jpg",
                         "paste-5134759e525b87fb5c7235036c137842974a3b71.jpg",
                         "paste-5277268c8bd763eeaa52fdc89550481211cd5aa2.jpg",
@@ -3846,6 +3857,10 @@
                         "paste-625a17ea40fafc171217cdd99dfb40ca8890752f.jpg",
                         "paste-637d9a5ceb3e8609511d23e73dc73ff7027f101a.jpg",
                         "paste-6403b1526ffee8b144b2b0f801bdf2c315728305.jpg",
+                        "paste-6828284475d30a94e2208f99928efc017577aee4.jpg",
+                        "paste-70945b9a461df5d007f7b4be752b3f779acf402f.jpg",
+                        "paste-7246c316205a5192dd2e87155a043dc5bcde2b1f.jpg",
+                        "paste-72caa5f2dceb722a0ef684c362db8f59a8472891.jpg",
                         "paste-7514f870681700af0a1ee219e05817c89d60bd74.jpg",
                         "paste-76ae65d5aac342cfabb708109c09d54163015f6a.jpg",
                         "paste-780bb8e664a57d1eddd9b29d82222e0c570d0d9a.jpg",
@@ -3853,7 +3868,9 @@
                         "paste-7a095877c2a2394f1597dab00eddf39dc4e2128a.jpg",
                         "paste-7af7631def98322cc325dd4314f996a0db837c6b.jpg",
                         "paste-7c3ee347737eaecfe34cf6513e2ab66705f4c928.jpg",
+                        "paste-7f78db2c05731626e6341fc4088d01ce13fbfc7f.jpg",
                         "paste-827ebdb8ca4b4c79520f4e769cc2371f1e9e0fe0.jpg",
+                        "paste-832523bafdcc24c538536c534ae9028f47360a38.jpg",
                         "paste-88f89f198c2f5b4caf3494307042cea60b9e623d.jpg",
                         "paste-89018c72653de57f9947a97677f607930316383f.jpg",
                         "paste-897dde2bc8bf755c763184c594b7fea068b5be42.jpg",
@@ -3862,6 +3879,7 @@
                         "paste-8af71096ca6f52447e08a7aa42657ded3f7943d6.jpg",
                         "paste-8c552ac785b209802f485d2f8b9b2c93930fd67e.jpg",
                         "paste-8dc5cc46d7f2861e524f08e797c3ee576cd0c216.jpg",
+                        "paste-91a729f5f7ccfaf104af0b9fce689d4893aef563.jpg",
                         "paste-920c2e2e1d45f0da3aaebd36db91ddeec90d4867.jpg",
                         "paste-9225e01c600e1efe405004a989143f5fcfeceae7.jpg",
                         "paste-92beeb69dc2caa33b624522c8e3d9f39c1422cc8.jpg",
@@ -3875,36 +3893,53 @@
                         "paste-a3069f90c981123cbf7e90b215ade20a7d2b2343.jpg",
                         "paste-a36eb462a7996e3b04b97fef6e4e6d81018f8c85.jpg",
                         "paste-a558a6d1ef760c3f4f567087424494f1d493cddd.jpg",
+                        "paste-a7ea90d2f502d3d35c2881fe04129d9401fa0acf.jpg",
+                        "paste-ac3b51395c92c4a1af91392ad0651b1a294ffeeb.jpg",
+                        "paste-acdf5b75aa6ea2dfa67aedd34af7ef49b695f1d3.jpg",
                         "paste-ad136faaedd97c5ffeb446a6c6e2018c1759ed43.jpg",
+                        "paste-ad5a00bf5a0573784942785b35dcbd0905e3c3b8.jpg",
                         "paste-ad8fc94248547f580a2266de9d7cb3d44b5677ec.jpg",
                         "paste-aec09cbb0f8f4a737d2cec97dc1d386167628272.jpg",
+                        "paste-b1411728d94bc8e729e11dc58e690d22c8e742a0.jpg",
                         "paste-b5db01a34a809591e1e4ef2813277fc80e707a4d.jpg",
                         "paste-b720c97a8eb51236188e3e37f6ee1667acfbf28d.jpg",
                         "paste-b91a30c8777cfafa89ad10cb058ee985f635cb1f.jpg",
+                        "paste-ba75362a21f5cf70dc5f3186bb5eca2cc97f5e6e.jpg",
                         "paste-bb552bc720588f081dcec8b96bfe0da705c54711.jpg",
                         "paste-be324750209c6755b4c18f8a4411ae49b50d47e4.jpg",
                         "paste-be6f169c69d6d5e01e9652f99cdb001d8ca0a593.jpg",
+                        "paste-bf13746bf7b4953d791f31064dc302c7fc69fd07.jpg",
                         "paste-bf621229381dcd2493f67ed48d2bcea71e252512.jpg",
                         "paste-c2df2d36cf9e4162281f38f3a4d976abef920b6f.jpg",
+                        "paste-c31b24c479f89039911874b638edca58fec11b12.jpg",
                         "paste-c3836b16d29f23ee5d9f296fd514d3874ddd984d.jpg",
+                        "paste-c4a35d209d7abb7f2d9fd24bcb2af7f912f2d42a.jpg",
                         "paste-c7f066e38a9acac239545cc4a26ad8354bf116f6.jpg",
+                        "paste-cb3d8efadfb16137c9f68e7060f153dd44ccb88a.jpg",
+                        "paste-cbb067f1d30a2e54977f00a442c27594b2351a0b.jpg",
                         "paste-cc27e5b6eea89c5a8346da6cecd625ea0cc68170.jpg",
                         "paste-d25eb5993d20e4b8dced005f96081cf523e367e2.jpg",
                         "paste-d34c3f80ef3a872c28a4cd8f40575406e8376c3b.jpg",
                         "paste-d6ee75c4500d2cdc190580a40c8246a62178d3b9.jpg",
+                        "paste-daf4716bfbf0d6d2e1c26a5fcc889cb1ae96a9c3.jpg",
                         "paste-de5e09736cf4fc1d59c2b276a57b48bbf435ccca.jpg",
                         "paste-df8fb4752baf58ffcec8ac74dd03e459a4c95a7e.jpg",
                         "paste-dfc217f645e5b4321ad0b27bb11b21204bb99eab.jpg",
+                        "paste-e037aa5f6d59eb522f210c301d79cbdb5300637e.jpg",
                         "paste-e5e1fec656235fbc32784ae58bc2e75cc3189004.jpg",
                         "paste-e73900418c8aa42f05214e64e1d6087487c83e02.jpg",
+                        "paste-e83e0bb7460621109cbfe24031a3c18a87877c71.jpg",
+                        "paste-eabba53f8b12d42601e5d6833e0c85010820905e.jpg",
                         "paste-ebe00d922f7468343516e5ec73e2c46489cc4f27.jpg",
+                        "paste-ec35124463d23b6b4391216463c0adb3f5f3959c.jpg",
                         "paste-f28be64ab88ef79b0c0b8ec9176e742044eb8aed.jpg",
                         "paste-f47031646ed0d2496525503c0641856da3eac137.jpg",
                         "paste-f6ce758463a14123060886b0457bca768e7733ef.jpg",
                         "paste-f85b8ef35454336f8f1925395a86c4dc6c209ffb.jpg",
                         "paste-f8f906b2dcb02bea165c5256025962ff0642d4f8.jpg",
                         "paste-f9082d52a2970bfd3bc487e214550f5d5321badb.jpg",
-                        "paste-f9b4793619d228910e4340fd934b25f7281c7976.jpg"
+                        "paste-f9b4793619d228910e4340fd934b25f7281c7976.jpg",
+                        "paste-fec17b343a5eab347f70ab0469558436db203c58.jpg"
                     ],
                     "mid": 1611498335938,
                     "name": "Genetik",
@@ -6594,6 +6629,426 @@
                             "guid": "kqfQrA;Nm$",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein orf?<div>{{c1::Open-reading-frame}}</div>",
+                                ""
+                            ],
+                            "guid": "NiJcffA3~[",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum sollte man einen orf klonieren?<div>{{c1::damit man das Protein in seiner Reinform zur Verfügung hat}}</div>",
+                                "<img src=\"paste-1e881761cf96374718b81e27da97ca3cb1b47ac8.jpg\">"
+                            ],
+                            "guid": "nzpq]`!t&!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für eine Voraussetzung braucht der Expressionsplasmid, wenn dort ein orf eingebaut werden soll?<div>{{c1::</div><div>er braucht ein Promotor der sich vor dem orf befindet</div><div>er braucht die shine-Dalgarno Sequenz, die als Ribosombindestelle fungiert</div><div>}}</div>",
+                                "<img src=\"paste-e83e0bb7460621109cbfe24031a3c18a87877c71.jpg\"><div><img src=\"paste-eabba53f8b12d42601e5d6833e0c85010820905e.jpg\"><br></div>"
+                            ],
+                            "guid": "K%.}R;w0?l",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Transkriptionsrate des orf's erhöht werden?<div>{{c1::indem ein starker Promotor verwendet wird}}</div>",
+                                "<img src=\"paste-72caa5f2dceb722a0ef684c362db8f59a8472891.jpg\">"
+                            ],
+                            "guid": "zK}YX|FtVz",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich ein cis Kontrollelement, bei Expressionsvektoren?<div>{{c1::es bezieht sich nur auf das jeweilige Gen zwischen dem Promotor und Terminator}}</div>",
+                                "<img src=\"paste-3566afa3ec5d5b239943b55447a5aa08c895bd08.jpg\">"
+                            ],
+                            "guid": "y0.JowKGDR",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich ein trans Kontrollelement, bei Expressionsvektoren?<div>{{c1::meistens eine Art von Protein, welches den Promotor regulieren kann}}</div>",
+                                "<img src=\"paste-ec35124463d23b6b4391216463c0adb3f5f3959c.jpg\">"
+                            ],
+                            "guid": "l$if|rGzg9",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert die Induktion bei cis-Elementen?<div>{{c1::Das Gen kann durch einen geeigneten Metaboliten aktiviert werden. Ausgangszutand ist <b>in</b>aktiv}}<br></div>",
+                                "<img src=\"paste-7f78db2c05731626e6341fc4088d01ce13fbfc7f.jpg\">"
+                            ],
+                            "guid": "N24&N%Pr3p",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert die Repsression bei cis-Elementen?<div>{{c1::Das Gen kann durch einen geeigneten Metaboliten deaktiviert werden. Ausgangszutand ist&nbsp;<b>aktiv</b>}}<br></div>",
+                                "<img src=\"paste-19477d3714ff05d1f7b92dfd8df4a4800a3b22e4.jpg\">"
+                            ],
+                            "guid": "DPr:j-;Sqs",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche cis-Elemente hat der <i>lac</i>-Promotor?<div>{{c1::eine Induktion}}</div>",
+                                "<img src=\"paste-4196b4c32cbc26729997aeb6258fc0c1f65c744e.jpg\">"
+                            ],
+                            "guid": "Nw|S*OfS=]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche cis-Elemente hat der <i>trp</i>-Promotor?<div>{{c1::eine Induktion und eine Repression}}</div>",
+                                "<img src=\"paste-c4a35d209d7abb7f2d9fd24bcb2af7f912f2d42a.jpg\">"
+                            ],
+                            "guid": "JTJ-KocAkH",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche cis-Elemente hat der&nbsp;<i>\\(\\lambda\\:P_L\\)</i>-Promotor?<div>{{c1::eine Repression und eine Induktion, die über die Temperatur steuerbar ist}}</div>",
+                                ""
+                            ],
+                            "guid": "A9Hy*X11@m",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie genau funktioniert die Repression des lac-operons?<div>{{c1::Wenn der Organismus ausreichend Glucose hat, bindet&nbsp; der lac-Repressor an den Operator}}</div>",
+                                "<img src=\"paste-fec17b343a5eab347f70ab0469558436db203c58.jpg\">"
+                            ],
+                            "guid": "p#|MWcm}2-",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie genau funktioniert die Induktion des lac-operons?<div>{{c1::<div>Sobald nicht genügend Glucose in der Zelle ist, erhöht sich die Konzentration von AMP.</div><div>Dadurch bindet sich das CRP vor dem Promotor und bindet das AMP.</div><div>Induktormoleküle binden danach an den lac-Repressor, wodurch die Transkription ermöglicht wird.</div>}}<br></div>",
+                                "<img src=\"paste-acdf5b75aa6ea2dfa67aedd34af7ef49b695f1d3.jpg\"><div><img src=\"paste-b1411728d94bc8e729e11dc58e690d22c8e742a0.jpg\"><br></div>"
+                            ],
+                            "guid": "K8gYH#j5<M",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie findet die Regulation des pL-Promotors statt?<div>{{c1::Durch eine entsprechende Temperatur bindet das Repressormolekül an den Promotor. Wird die Temperatur erhöht, verändert sich die Konformation des Repressorproteins wodurch es sich vom Promotor löst.}}</div>",
+                                "<img src=\"paste-ac3b51395c92c4a1af91392ad0651b1a294ffeeb.jpg\">"
+                            ],
+                            "guid": "QsWkg(W+ry",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was versteht man unter dem 2-Plasmid-Expressionssystem?<div>{{c1::Es gibt 2 Plasmide, bei einem Plasmid ist die RNA-Polymerase die für den 2. Plasmid gebraucht wird.}}</div>",
+                                "<img src=\"paste-cbb067f1d30a2e54977f00a442c27594b2351a0b.jpg\">"
+                            ],
+                            "guid": "q#2^G>vegm",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist auf den Plasmiden des 2-Plasmid-Expressionssystems?<div>{{c1::<div>Auf dem 1. Plasmid ist ein orf für eine Phagen RNA-Polymerase.</div><div>Auf dem 2. Plasmid ist der orf des Zielproteins mit einem Promotor für die obige Polymerase</div>}}<br></div>",
+                                "<img src=\"paste-70945b9a461df5d007f7b4be752b3f779acf402f.jpg\">"
+                            ],
+                            "guid": "MH:Cn1b|s+",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert das 2-Plasmid-Expressionssystems?<div>{{c1::<div>1. Die RNA-Polymerase wird gebildet</div><div>2. bakterielle RNA-Polymerase wird durch ein Detegenz zerstört</div><div>3. gebildete Phagen-RNA-Polymerase transkribiert den Ziel-orf auf dem 2.Plasmid</div><div>4. Translation der Transkripte</div>}}<br></div>",
+                                "<img src=\"paste-7246c316205a5192dd2e87155a043dc5bcde2b1f.jpg\">"
+                            ],
+                            "guid": "ro6Q?5ja$[",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der grobe Ablauf des Antikörperscreening bei der Genklonierung?<div>1. {{c1::mRNA -&gt; cDNA-Präparation aus interessierendem Organismus}}</div><div>2. {{c1::cDNA-Expressions-Bibliothek erstellen}}</div><div>3. {{c1::E.coli transformieren und die orfs exprimieren lassen}}</div><div>--- Identifikation positiver Klone ---</div><div>4. {{c2::E.coli ausplattieren}}</div><div>5. {{c2::Platte auf Folie übertragen}}</div><div>6. {{c2::Applizieren spezifischer Antikörper}}</div><div>7. {{c2::2. Antikörper, markiert}}</div><div>8.&nbsp;{{c2::Detektion}}</div>",
+                                "<img src=\"paste-4700a642b4e61c0bbf279b3551e6831f7a41b81d.jpg\"><div><img src=\"paste-daf4716bfbf0d6d2e1c26a5fcc889cb1ae96a9c3.jpg\"><br></div>"
+                            ],
+                            "guid": "t0`{zwC(R[",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die beiden Methoden des reverse genetic way?<div>1. {{c1::Proteinreinigung -&gt; Protein-(Teil)Sequenzierung -&gt;&nbsp;Markerite Oligonukleotide -&gt;&nbsp;Screening&nbsp;-&gt;&nbsp;Klon}}<br></div><div><br></div><div>2. {{c2::Proteinreinigung&nbsp;-&gt;&nbsp;Antikörper&nbsp; -&gt;&nbsp;Expressionsbibliothek / Antikörper-Screening&nbsp;-&gt;&nbsp;Klon}}<br></div>",
+                                "<img src=\"paste-cb3d8efadfb16137c9f68e7060f153dd44ccb88a.jpg\">"
+                            ],
+                            "guid": "mPD}l}8@7m",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Fusionsprotein?<div>{{c1::\"Proteine, die aus mindestens 2 Anteilen unterschiedlicher Herkunft bestehen, gentechnologisch hergestellt durch Fusion der betreffenden Protein-kodierenden Bereiche, entweder in einem Expressionsvektor oder gentechnologisch integriert in einem Wirtsgenom.\"}}</div>",
+                                "<img src=\"paste-38fdcf4cbdf0d7baea443f37dc263190d086b471.jpg\">"
+                            ],
+                            "guid": "H_Ti2i6i{H",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Können Fusionen an N- und C-terminalen Enden kontruiert werden?<div>{{c1::Ja können sie}}</div>",
+                                "<img src=\"paste-6828284475d30a94e2208f99928efc017577aee4.jpg\">"
+                            ],
+                            "guid": "fR~K}l*E/x",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die beiden Voraussetzungen für die Klonierung von Fusionsproteinen?<div>Die beiden Fusionspartner müssen<br>1. {{c1::im selben Leseraster liegen und}}<br>2. {{c1::dürfen nicht durch ein Stop-Codon getrennt sein.}}<br></div>",
+                                "<img src=\"paste-501a119aca577f1f4f8e564e3f44d485eac9f4ee.jpg\">"
+                            ],
+                            "guid": "g|h)>$s{9}",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Klassen von Fusionsproteinen gibt es?<div>-&nbsp;{{c1::antigenen Epitopen}}</div><div>-&nbsp;{{c1::Affinitätstags}}</div><div>-&nbsp;{{c1::Reporterproteine}}</div><div>-&nbsp;{{c1::Fluoreszenzproteinen}}</div>",
+                                "<img src=\"paste-019c75a090e4d39f730516548cfd9862f6580e74.jpg\">"
+                            ],
+                            "guid": "vM}.M-ycF8",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür dienen antigenen Epitopen Fusionsproteine?<div>{{c1::einfache, immunologische Identifizierung mit käuflichen Standard-Antikörpern.}}<br></div>",
+                                "<img src=\"paste-168e533d0a07c7c9843e5c82c46529a8cbb51abf.jpg\">"
+                            ],
+                            "guid": "BSS6$(-Ih/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür dienen Affinitätstags bei Fusionsproteine?<div>{{c1::schnelle und effiziente Reinigung des Proteins.}}<br></div>",
+                                "<img src=\"paste-c31b24c479f89039911874b638edca58fec11b12.jpg\">"
+                            ],
+                            "guid": "BY-vqjL:$z",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dienen Reporterproteine bei Fusionsproteinen?<div>{{c1::einfache Identifizierung / Quantifizierung des exprimierten Proteins.}}</div>",
+                                "<img src=\"paste-a7ea90d2f502d3d35c2881fe04129d9401fa0acf.jpg\">"
+                            ],
+                            "guid": "gXP-2RI>f%",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu werden&nbsp;Fluoreszenzproteinen bei den Fusionsproteinen eingesetzt?<div>{{c1::Visualisierung der subzellulären Lokalisation}}<br></div>",
+                                "<img src=\"paste-bf13746bf7b4953d791f31064dc302c7fc69fd07.jpg\">"
+                            ],
+                            "guid": "slQS:`#5SG",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können unerwünschte Fusionsanteile abgespalten werden?<div>{{c1::<div>Indem eine&nbsp;Endopeptidase-Erkennungsstelle mit im Klonierungsvektor eingebaut wird.</div><div>An dieser&nbsp;Endopeptidase-Erkennungsstelle schneiden dann Restriktionspeptidasen.</div>}}<br></div>",
+                                "<img src=\"paste-e037aa5f6d59eb522f210c301d79cbdb5300637e.jpg\">"
+                            ],
+                            "guid": "mE2n`P`kF%",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann eine Überexpression von Fusionsproteinen in E.coli erreicht werden?<div>{{c1::Es wird ein Exportsignal vor den orf mit in den Expressionsvektor kloniert}}</div>",
+                                "<img src=\"paste-ad5a00bf5a0573784942785b35dcbd0905e3c3b8.jpg\">"
+                            ],
+                            "guid": "d3H]$c8rY.",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bewirkt das Exportsignal vor dem orf bei der Überexpression von&nbsp;Fusionsproteinen in E.coli?<div>{{c1::Es ermöglicht den Export aus der Telle in den Intermembran-Raum}}</div>",
+                                "<img src=\"paste-832523bafdcc24c538536c534ae9028f47360a38.jpg\">"
+                            ],
+                            "guid": "G<A^L,jQ,4",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied in Bezug auf die Immobilisierung zwischen den Blots und dem Microarray?<div>{{c1::Bei den Blots werden die Targets und bei dem Microarray werden die Sonden immobilisiert}}</div>",
+                                "<img src=\"paste-ba75362a21f5cf70dc5f3186bb5eca2cc97f5e6e.jpg\">"
+                            ],
+                            "guid": "nFH%(m}?}W",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Microarray"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied in Bezug auf die Makierung zwischen den Blots und dem Microarray?<div>{{c1::Bei den Blots werden die Sonden und bei dem Microarray werden die Targets markiert}}</div>",
+                                "<img src=\"paste-4a5c0a1ee223f47d63de07977c7763e4dd5fa409.jpg\">"
+                            ],
+                            "guid": "z>Oe[7;w)n",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Microarray"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied in Bezug auf die Hybridisierung zwischen den Blots und dem Microarray?<div>{{c1::Bei den Blots werden die Sonden und bei dem Microarray werden die Targets auf dem Träger hybridisiert}}</div>",
+                                "<img src=\"paste-2722a453cac3a18365b7b3a29e25039d91afa613.jpg\">"
+                            ],
+                            "guid": "Bxhjt3rtbh",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Microarray"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie läuft die 2-Farb-Detektion beim Mircoarray grob ab?<div>1. {{c1::Präparation von cDNA aus 2 unterschiedlichen Quellen}}<br>2. {{c1::markieren mit 2 unterschiedlichen Farbstoffen}}<br>3. {{c1::Gleichzeitig auf den selben Chip hybridisieren}}<br>4. {{c1::Komparative Analyse von Genexpressionsmustern zwischen}}<br></div>",
+                                "<img src=\"paste-91a729f5f7ccfaf104af0b9fce689d4893aef563.jpg\">"
+                            ],
+                            "guid": "PwY>mFW;sE",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Microarray"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist das Versuchskonzept des DNA-Mircoarray's?<div>1. {{c1::Aus mRNA wird cDNA hergestellt -&gt; Sonden}}</div><div>2. {{c1::cDNA wird auf Träger&nbsp;immobilisiert}}</div><div>3. {{c1::markierte Targets werden über den Chip gegeben}}</div><div>4. {{c1::Hybridisierung der Targets die mit den Sonden übereinstimmen}}</div>",
+                                ""
+                            ],
+                            "guid": "j@J6~H1~qV",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Microarray"
+                            ]
                         }
                     ]
                 },
@@ -6607,7 +7062,12 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
-                        "paste-9fdbd15a91978cf70c19db8f08f61b53d27c3006.jpg"
+                        "paste-59615f27ee463aee0700274016946e475b99e768.jpg",
+                        "paste-7d7256b5ca0e70dce0be709e8fbc03e5a98bae33.jpg",
+                        "paste-937a404684a6dbe29aa79181bf2d4b7913e338f3.jpg",
+                        "paste-9fdbd15a91978cf70c19db8f08f61b53d27c3006.jpg",
+                        "paste-b87b057f99abcb22edd37e4e07df00f56aedb640.jpg",
+                        "paste-b954072826f5c800b054446696c7168c54f1dc22.jpg"
                     ],
                     "mid": 1604391419185,
                     "name": "Informatik",
@@ -6751,18 +7211,6 @@
                                 "\"Übergeben\" heißt in der Programmiersprache auch \"zuweisen\""
                             ],
                             "guid": "J>aZ?J%^n",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche der folgenden Variablennamen können in C# verwendet werden?<div>a. i123<br>b. 2i13<br>c. Wrox.com<br>d. decimal<br>e. Fläche<br>f. Dday<br>g. _J_S_Bach<br>h. float<br>i. time2GetJiggyWhithIt<br></div><div><br></div><div>es dürfen {{c1::a. d. e. f. g. i.}} verwendet werden</div>",
-                                ""
-                            ],
-                            "guid": "mw]-i]5Y+*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Informatik::Basics-und-Variablen"
@@ -7522,6 +7970,162 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Informatik::Operatoren"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche der folgenden Variablennamen können in C# verwendet werden?<div>a. i123<br>b. 2i13<br>c. Wrox.com<br>d. decimal<br>e. Fläche<br>f. Dday<br>g. _J_S_Bach<br>h. float<br>i. time2GetJiggyWhithIt<br></div><div><br></div><div>es dürfen {{c1::a. d. e. f. g. i.}} verwendet werden</div>",
+                                ""
+                            ],
+                            "guid": "mw]-i]5Y+*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was was besteht das .NET Framework?<div>1. {{c1::Common Language Runtime(CLR)}}<br></div><div>2. {{c1::classlibrary}}<br></div>",
+                                "<img src=\"paste-59615f27ee463aee0700274016946e475b99e768.jpg\">"
+                            ],
+                            "guid": "s[??AdNx,V",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu wird die Common Language Runtime benötigt?<div>{{c1::Damit der Code ausgeführt werden kann, ohne die Runtime ist es <b>nicht </b>möglich C#-Code oder C# Programme auszuführen}}<br></div>",
+                                "<img src=\"paste-937a404684a6dbe29aa79181bf2d4b7913e338f3.jpg\">"
+                            ],
+                            "guid": "Ete,OGYG*h",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die class library die im .NET Framework enthalten ist?<div>{{c1::Sammlung von Klassen, Interfaces, Variablentypen für Daten und weiteren die direkt benutzt werden können}}</div>",
+                                "<img src=\"paste-b954072826f5c800b054446696c7168c54f1dc22.jpg\">"
+                            ],
+                            "guid": "B!jZ!cA0?+",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist IDE ausgeschrieben?<div>{{c1::<b>I</b>ntegrated <b>D</b>evelopment <b>E</b>nvironment}}<br></div>",
+                                ""
+                            ],
+                            "guid": "wz>bF[^vjt",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet es seinen Code zu kompilieren?<div>{{c1::Der Quellcode wird durch einen Compiler in maschinenlesbaren Code umgewandelt und anschließend ausgeführt}}</div>",
+                                "Fun Fact: Bei C# und Java wird zwingend ein Compiler benötigt, bei Python reicht ein Interpreter<div><br></div><div><img src=\"paste-7d7256b5ca0e70dce0be709e8fbc03e5a98bae33.jpg\"><br></div>"
+                            ],
+                            "guid": "E5~De&gJCE",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die beiden großen Aufgaben des Compilers?<div>{{c1::<div>Quelltext auf Syntaxfehler prüfen</div><div>Quelltext in Maschinencode übersetzten</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "zpmaU:97V_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was braucht ein C#-Programm zwingend, damit es ausgeführt werden kann?<div>{{c1::die Main() methode, die in der Programm Klasse definiert ist}}</div>",
+                                "<img src=\"paste-b87b057f99abcb22edd37e4e07df00f56aedb640.jpg\">"
+                            ],
+                            "guid": "tIK27Qwup_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Datentyp Integer braucht {{c1::4}} Byte Speicherplatz.",
+                                ""
+                            ],
+                            "guid": "yk1vb!v57;",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Datentyp Short braucht {{c1::2}} Byte Speicherplatz.",
+                                ""
+                            ],
+                            "guid": "GUX9j5AJAQ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Datentyp long braucht {{c1::8}} Byte Speicherplatz.",
+                                ""
+                            ],
+                            "guid": "F#}Pa@4HCH",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Datentyp float braucht {{c1::4}} Byte Speicherplatz.",
+                                ""
+                            ],
+                            "guid": "ycn-KH%diB",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Datentyp double braucht {{c1::8}} Byte Speicherplatz.",
+                                ""
+                            ],
+                            "guid": "s+M+{f2fem",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
                             ]
                         }
                     ]
@@ -8391,20 +8995,20 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
-                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
+                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
+                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
                     ],
-                    "guid": "F>v-@=id2}",
+                    "guid": "x/,N,!rndE",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
-                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
+                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
+                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
                     ],
-                    "guid": "x/,N,!rndE",
+                    "guid": "F>v-@=id2}",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 }
@@ -8445,7 +9049,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 0
+                "perDay": 50
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
