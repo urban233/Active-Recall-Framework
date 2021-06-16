@@ -594,6 +594,7 @@
                     "media_files": [
                         "Untitled-38ceb8806ceabe9a467e06e71c0278898cb54737.png",
                         "Untitled-8b20d8ad3b14c79b1df610d3025b81151eb260bc.png",
+                        "Untitled-e877041addb8a69d2a5b59c254dff9993e683e76.png",
                         "paste-01cac73294ddcea5c7d638c76e71efc805cf6107.jpg",
                         "paste-09003cf66b209f339190e93fda046291d02adb2f.jpg",
                         "paste-0dc6a13a10c52f82e8a405511d9432947240b8e5.jpg",
@@ -3615,7 +3616,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wer ist lost?<div>{{c1::gerhard}}</div>",
-                                ""
+                                "<img src=\"Untitled-e877041addb8a69d2a5b59c254dff9993e683e76.png\">"
                             ],
                             "guid": "rwT`ALeKzn",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
