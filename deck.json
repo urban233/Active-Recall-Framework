@@ -636,6 +636,7 @@
                         "paste-b12f6064f2c659594389f37304dc54b051005869.jpg",
                         "paste-b22152ab587fedc29712f844927634867bbfb203.jpg",
                         "paste-b320886b861cda84fe1ade3ab65ded18a4fdeff2.jpg",
+                        "paste-b9a18e78876ffd87ec06e07e11ede6bb3dae22a5.jpg",
                         "paste-b9aac22d460897f1cb9fcfc352cab15ef3d67de2.jpg",
                         "paste-c199ef6232a2d01d438062320a674c0e064c70da.jpg",
                         "paste-cf9d4ad787c53b57814bfb72b635e920077d8bc9.jpg",
@@ -1052,19 +1053,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was macht das wichtige Sekundärstrukturelement?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
-                                ""
-                            ],
-                            "guid": "KIuz.oNS6L",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteine",
-                                "Probleme::Verständnis"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Was ist der Abstand der alpha-Helix?<div>{{c1::n → n+4}}<br></div>",
                                 ""
                             ],
@@ -1202,6 +1190,18 @@
                                 ""
                             ],
                             "guid": "k7^xL*HlNE",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was gehört ebenfalls zu den wichtigen Sekundärstrukturelementen?<div>{{c1::ß- Schleife bzw. ß- turn}}<br></div>",
+                                ""
+                            ],
+                            "guid": "zwyu^R/qb*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteine"
@@ -1577,19 +1577,6 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteine"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was hat ein Protein nach der Translation?<div>{{c1::hydrophobe Reste}}</div>",
-                                ""
-                            ],
-                            "guid": "q}2TRIkIpL",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteine",
-                                "Probleme::Verständnis"
                             ]
                         },
                         {
@@ -2123,6 +2110,18 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div>\n<div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div>\n<div>irreversibel</div><div><br></div>\n<div>oder Aussalzen:</div>\n<div>Salz entzieht Protein Hydratwasser</div>\n<div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div>\n<div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div>\n<div>reversibel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "InT`Vk<~p*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Wozu dient die Proteinchromatographie?<div>{{c1::Vorteilung der Proteine im Überstand}}<br></div>",
                                 ""
                             ],
@@ -2495,6 +2494,18 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Was passiert wenn viel Methylenbisacylamid in einer Lösung ist?<div>{{c1::<div>Je mehr Methylenbisacrylamid in einer Lösung ist, desto mehr Vernetzungen können generiert werden.</div><div><br></div>\n<div>Je mehr Vernetzungen generiert werden, umso kleiner sind die Poren in dem Acrlyacrylamidgel.</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "CH4b~U|3&B",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Womit werden die Proteine bei der SDS PAGE vorbehandelt?<div>{{c1::<div>- Sie werden mit Sodiumdodecylsulfat (SDS) denaturiert</div>}}<br></div>",
                                 ""
                             ],
@@ -2631,90 +2642,6 @@
                                 ""
                             ],
                             "guid": "m|go*pPXu]",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was passiert, wenn man die Proteine mit SDS vorbehandelt?<div>{{c1::<div>Die hydrophobe Kohlenwasserstoffkette am SDS wechselwirkt mit hydrophoben Bereich des Proteins (im Inneren des Proteins)</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "b?%3G0%2u)",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "In welcher Lösung wird die IMAC Säule gelagert?<div>{{c1::EDTA}}<br></div>",
-                                ""
-                            ],
-                            "guid": "vX}Oe~TG5*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was passiert, wenn die hydrophobe Kohlenwasserstoffkette am SDS mit dem hydrophoben Bereich des Proteins wechselwirkt?<div>{{c1::<div>SDS zieht Protein auseinander und entfaltet es in eine einheitliche Stäbchenstruktur<br></div><div>SDS bringt negative Ladung, wodurch das Protein eine negative Oberfläche bekommt</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "K+!4):a+z1",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>SDS PAGE:</div>Je mehr {{c1::Methylenbisacrylamid}} in einer Lösung ist, desto mehr {{c2::Vernetzungen}} können generiert werden.",
-                                ""
-                            ],
-                            "guid": "C|xPd/dV`X",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "SDS PAGE:<div>Je mehr {{c1::Vernetzungen}} generiert werden, umso kleiner sind die {{c2::Poren}} in dem {{c2::Acrlyacrylamidgel}}.<br></div>",
-                                ""
-                            ],
-                            "guid": "d8NtVWa_5p",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Prinzip der pH-Präzipitation?<div>{{c1::<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div><div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div><div>irreversibel</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "f,vv,QWNEw",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Prinzip des Aussalzen?<div>{{c1::<div>Salz entzieht Protein Hydratwasser (Hydrathülle)</div><div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div><div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div><div>reversibel</div>}}<br></div>",
-                                "<img src=\"paste-1451381b744e965b0f72c4f7655570c56a45e54b.jpg\">"
-                            ],
-                            "guid": "OF8.7cFxb!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
@@ -3083,30 +3010,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div>\n<div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div>\n<div>irreversibel</div><div><br></div>\n<div>oder Aussalzen:</div>\n<div>Salz entzieht Protein Hydratwasser</div>\n<div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div>\n<div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div>\n<div>reversibel</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "InT`Vk<~p*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was passiert wenn viel Methylenbisacylamid in einer Lösung ist?<div>{{c1::<div>Je mehr Methylenbisacrylamid in einer Lösung ist, desto mehr Vernetzungen können generiert werden.</div><div><br></div>\n<div>Je mehr Vernetzungen generiert werden, umso kleiner sind die Poren in dem Acrlyacrylamidgel.</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "CH4b~U|3&B",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "<div>Zu was reagiert das Enzym mit seinem Substrat?<br></div>{{c1::Zum Enzym-Substrat-Komplex}}",
                                 ""
                             ],
@@ -3318,18 +3221,6 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Enzyme"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was gehört ebenfalls zu den wichtigen Sekundärstrukturelementen?<div>{{c1::ß- Schleife bzw. ß- turn}}<br></div>",
-                                ""
-                            ],
-                            "guid": "zwyu^R/qb*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteine"
                             ]
                         },
                         {
@@ -3595,6 +3486,128 @@
                             "tags": [
                                 "Biochemie::Enzyme"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was macht das wichtige Sekundärstrukturelement?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
+                                ""
+                            ],
+                            "guid": "KIuz.oNS6L",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was hat ein Protein nach der Translation?<div>{{c1::hydrophobe Reste}}</div>",
+                                ""
+                            ],
+                            "guid": "q}2TRIkIpL",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn man die Proteine mit SDS vorbehandelt?<div>{{c1::<div>Die hydrophobe Kohlenwasserstoffkette am SDS wechselwirkt mit hydrophoben Bereich des Proteins (im Inneren des Proteins)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "b?%3G0%2u)",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Lösung wird die IMAC Säule gelagert?<div>{{c1::EDTA}}<br></div>",
+                                ""
+                            ],
+                            "guid": "vX}Oe~TG5*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn die hydrophobe Kohlenwasserstoffkette am SDS mit dem hydrophoben Bereich des Proteins wechselwirkt?<div>{{c1::<div>SDS zieht Protein auseinander und entfaltet es in eine einheitliche Stäbchenstruktur<br></div><div>SDS bringt negative Ladung, wodurch das Protein eine negative Oberfläche bekommt</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "K+!4):a+z1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>SDS PAGE:</div>Je mehr {{c1::Methylenbisacrylamid}} in einer Lösung ist, desto mehr {{c2::Vernetzungen}} können generiert werden.",
+                                ""
+                            ],
+                            "guid": "C|xPd/dV`X",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "SDS PAGE:<div>Je mehr {{c1::Vernetzungen}} generiert werden, umso kleiner sind die {{c2::Poren}} in dem {{c2::Acrlyacrylamidgel}}.<br></div>",
+                                ""
+                            ],
+                            "guid": "d8NtVWa_5p",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip der pH-Präzipitation?<div>{{c1::<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div><div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div><div>irreversibel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "f,vv,QWNEw",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip des Aussalzen?<div>{{c1::<div>Salz entzieht Protein Hydratwasser (Hydrathülle)</div><div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div><div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div><div>reversibel</div>}}<br></div>",
+                                "<img src=\"paste-1451381b744e965b0f72c4f7655570c56a45e54b.jpg\">"
+                            ],
+                            "guid": "OF8.7cFxb!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der erste Schritt des Aktivierungszyklus der G-Proteine?<div>{{c1::An GPCR kann Ligand binden (gelb). Solange er aber nicht besetzt ist, hat es auf seiner cytoplasmatischen Seite ein G-Protein(stimulatorisch) gebunden. Durch \\(\\alpha\\)- und \\(\\gamma\\)-Untereinheit gibt es die Möglichkeit sich in die Zellmembran zu inserieren}}<br></div>",
+                                "<img src=\"paste-b9a18e78876ffd87ec06e07e11ede6bb3dae22a5.jpg\">"
+                            ],
+                            "guid": "qlCg^3NLy5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
                         }
                     ]
                 },
@@ -3679,11 +3692,8 @@
                         "Untitled-f318ef8bc8be091bef28a788ceeb3f387df123fa.png",
                         "Untitled-f327b79a4b5ae4688f18451d0c9be0d868014bb9.png",
                         "Untitled-f8c33f9035ec0d75d11922ef5b8e779e6bcac491.png",
-                        "paste-001373509fcdd74bf2c2349973de763ec51609a4.jpg",
-                        "paste-04b35fe1f7f2d5c01fc606ea023a76fcd7cec58e.jpg",
                         "paste-0508d11b84c24e74556f32947ef991cd05f72dd3.jpg",
                         "paste-06041e74c793efaea862196b59320899d8525935.jpg",
-                        "paste-0996b67b108351dad0b487d4bc3e4170e0140ec7.jpg",
                         "paste-0f0be56d155413a2b81af4f435d789a5f11984ca.jpg",
                         "paste-1c73e32b5f8469f398bdbcec42745472bbb94a0e.jpg",
                         "paste-22677acc03ed218186e5ce1f2dea019fc5d56143.jpg",
@@ -3703,12 +3713,10 @@
                         "paste-4233ac8a27d875f40fb677848391b5d686fe2fbf.jpg",
                         "paste-4aa7ef5aae347df4cbba07f5a8d2e17bc334c99a.jpg",
                         "paste-4c7c20a2380307d02b4fc50b617204e0685e5ee6.jpg",
-                        "paste-4e9dcff0db68a2c15e54b2a8a891f84836b01f69.jpg",
                         "paste-50b99b20752f314ef62cc11b921c08c3d5481d0f.jpg",
                         "paste-5134759e525b87fb5c7235036c137842974a3b71.jpg",
                         "paste-5277268c8bd763eeaa52fdc89550481211cd5aa2.jpg",
                         "paste-52da86cdb0c71506900a37546a55782e3c80f4ac.jpg",
-                        "paste-52f667cdc34c1f767f0bd2b1945927d9b9e0590e.jpg",
                         "paste-5658304b229d88560247692e0a389af400e7a324.jpg",
                         "paste-5c437410f9c61dced8a3b805d83137d0f731cc4d.jpg",
                         "paste-5e8bb5a51c15d248bf543f7ec5cb04345049293e.jpg",
@@ -3722,54 +3730,38 @@
                         "paste-7a095877c2a2394f1597dab00eddf39dc4e2128a.jpg",
                         "paste-7af7631def98322cc325dd4314f996a0db837c6b.jpg",
                         "paste-7c3ee347737eaecfe34cf6513e2ab66705f4c928.jpg",
-                        "paste-827ebdb8ca4b4c79520f4e769cc2371f1e9e0fe0.jpg",
                         "paste-88f89f198c2f5b4caf3494307042cea60b9e623d.jpg",
                         "paste-89018c72653de57f9947a97677f607930316383f.jpg",
                         "paste-897dde2bc8bf755c763184c594b7fea068b5be42.jpg",
-                        "paste-89913cf6bf49dc90a565893904890c2baa384f8f.jpg",
                         "paste-8a49e916e7cc217fa6194e6106212c32b8893522.jpg",
                         "paste-8af71096ca6f52447e08a7aa42657ded3f7943d6.jpg",
                         "paste-8c552ac785b209802f485d2f8b9b2c93930fd67e.jpg",
                         "paste-8dc5cc46d7f2861e524f08e797c3ee576cd0c216.jpg",
                         "paste-920c2e2e1d45f0da3aaebd36db91ddeec90d4867.jpg",
-                        "paste-9225e01c600e1efe405004a989143f5fcfeceae7.jpg",
-                        "paste-92beeb69dc2caa33b624522c8e3d9f39c1422cc8.jpg",
-                        "paste-92cbd4e8715a11164e97ab78c9c1eb9189da746f.jpg",
                         "paste-94bc93f6396c2e341b5701b64c2c555031cd9ab2.jpg",
-                        "paste-976869725f4a2287fea244bb9fd653610ddb0825.jpg",
                         "paste-9920983b2333b33a7caac1b53baf8e511e71d504.jpg",
-                        "paste-99ddc787905e88e29011e6eaf0cda9499eaf7ecd.jpg",
                         "paste-9bef9a3dbf39c95aa316aeaf625a9e2b04cbcef3.jpg",
                         "paste-a0b2b9e54e16200238c44899b0ba43d74a95910b.jpg",
                         "paste-a3069f90c981123cbf7e90b215ade20a7d2b2343.jpg",
                         "paste-a36eb462a7996e3b04b97fef6e4e6d81018f8c85.jpg",
                         "paste-ad136faaedd97c5ffeb446a6c6e2018c1759ed43.jpg",
-                        "paste-ad8fc94248547f580a2266de9d7cb3d44b5677ec.jpg",
                         "paste-aec09cbb0f8f4a737d2cec97dc1d386167628272.jpg",
                         "paste-b5db01a34a809591e1e4ef2813277fc80e707a4d.jpg",
-                        "paste-b720c97a8eb51236188e3e37f6ee1667acfbf28d.jpg",
                         "paste-b91a30c8777cfafa89ad10cb058ee985f635cb1f.jpg",
                         "paste-bb552bc720588f081dcec8b96bfe0da705c54711.jpg",
-                        "paste-be324750209c6755b4c18f8a4411ae49b50d47e4.jpg",
-                        "paste-be6f169c69d6d5e01e9652f99cdb001d8ca0a593.jpg",
                         "paste-bf621229381dcd2493f67ed48d2bcea71e252512.jpg",
-                        "paste-c2df2d36cf9e4162281f38f3a4d976abef920b6f.jpg",
                         "paste-c3836b16d29f23ee5d9f296fd514d3874ddd984d.jpg",
-                        "paste-c7f066e38a9acac239545cc4a26ad8354bf116f6.jpg",
                         "paste-cc27e5b6eea89c5a8346da6cecd625ea0cc68170.jpg",
-                        "paste-d25eb5993d20e4b8dced005f96081cf523e367e2.jpg",
                         "paste-d34c3f80ef3a872c28a4cd8f40575406e8376c3b.jpg",
                         "paste-d6ee75c4500d2cdc190580a40c8246a62178d3b9.jpg",
                         "paste-de5e09736cf4fc1d59c2b276a57b48bbf435ccca.jpg",
                         "paste-df8fb4752baf58ffcec8ac74dd03e459a4c95a7e.jpg",
                         "paste-dfc217f645e5b4321ad0b27bb11b21204bb99eab.jpg",
-                        "paste-e5e1fec656235fbc32784ae58bc2e75cc3189004.jpg",
                         "paste-e73900418c8aa42f05214e64e1d6087487c83e02.jpg",
                         "paste-ebe00d922f7468343516e5ec73e2c46489cc4f27.jpg",
                         "paste-f28be64ab88ef79b0c0b8ec9176e742044eb8aed.jpg",
                         "paste-f47031646ed0d2496525503c0641856da3eac137.jpg",
                         "paste-f6ce758463a14123060886b0457bca768e7733ef.jpg",
-                        "paste-f85b8ef35454336f8f1925395a86c4dc6c209ffb.jpg",
                         "paste-f9082d52a2970bfd3bc487e214550f5d5321badb.jpg",
                         "paste-f9b4793619d228910e4340fd934b25f7281c7976.jpg"
                     ],
@@ -6211,226 +6203,6 @@
                             "tags": [
                                 "Genetik::Cloning"
                             ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann man sein Zielfragment identifizieren?<div>{{c1::Indem es biochemisch, chemisch oder physikalisch markiert wird und als Sonde eingesetzt wird.}}</div>",
-                                "<img src=\"paste-ad8fc94248547f580a2266de9d7cb3d44b5677ec.jpg\">"
-                            ],
-                            "guid": "z<Ot*&S;]H",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Methoden können zur Identifizierung des Fragment of interest verwendet werden?<div>{{c1::<div>Southern-Blot</div><div>Nothern-Blot</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "BCPZso8+a-",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Target des Southern-Blots?<div>{{c1::DNA, vornehmlich genomische DNA}}</div>",
-                                "<img src=\"paste-4e9dcff0db68a2c15e54b2a8a891f84836b01f69.jpg\">"
-                            ],
-                            "guid": "LL=gcdlrF7",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Target des Northern-Blots?<div>{{c1::RNA, vornehmlich die mRNA}}</div>",
-                                "<img src=\"paste-c7f066e38a9acac239545cc4a26ad8354bf116f6.jpg\">"
-                            ],
-                            "guid": "HHYf!Ns5Q,",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie funktioniert ein Blot im allgemeinen?<div>{{c1::Das Target (DNA oder RNA) wird auf ein Gel aufgetrennt und auf eine Folie übertragen. Anschlißend wird mit der Sonde hybridisiert.}}</div>",
-                                "<img src=\"paste-e5e1fec656235fbc32784ae58bc2e75cc3189004.jpg\">"
-                            ],
-                            "guid": "hz<x*L}<f_",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie läuft die DNA-Makrierung für die Blots ab?<div>{{c1::Über eine Nick-Translation mit markierten dNTPs oder über eine PCR mit markierten dNTPs&nbsp;}}</div>",
-                                "<img src=\"paste-001373509fcdd74bf2c2349973de763ec51609a4.jpg\">"
-                            ],
-                            "guid": "nf`Y8c<|3C",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "An welcher stelle des Nukleotids, werden die markierten dNTPs eingebaut?<div>{{c1::Die dNTPs werden an der Nukleinbase eingebaut}}</div>",
-                                "<img src=\"paste-f85b8ef35454336f8f1925395a86c4dc6c209ffb.jpg\">"
-                            ],
-                            "guid": "O[cPnQZ-Do",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie findet die Hybridiserung statt, wenn Biotin dUTP an die DNA gebunden wurde?<div>{{c1::<div>Das Streptavidin ist mit einer Peroxidase verbunden und bindet an das Biotin dUTP.</div><div>Daraufhin reagiert 3,3 DAB oder AEC über die Peroxidase zu einem farbigen Präzipitat.</div>}}<br></div>",
-                                "<img src=\"paste-be324750209c6755b4c18f8a4411ae49b50d47e4.jpg\"><div><img src=\"paste-827ebdb8ca4b4c79520f4e769cc2371f1e9e0fe0.jpg\"><br></div>"
-                            ],
-                            "guid": "PxkWQ*eUrB",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie findet die Hybridiserung statt, wenn Digoxigenin dUTP an die DNA gebunden wurde?<div>{{c1::<div>Eine Bindungsstruktur welche mit einer alkalischen Phosphatase verbunden ist, bindet an das Digoxigenin dUTP.&nbsp;</div><div>Daraufhin reagiert BCIP und NBT, über die alkalische Phosphatase zu einem blau präzipitierten Indolfarbstoff.</div>}}<br></div>",
-                                "<img src=\"paste-0996b67b108351dad0b487d4bc3e4170e0140ec7.jpg\"><div><img src=\"paste-04b35fe1f7f2d5c01fc606ea023a76fcd7cec58e.jpg\"><br></div>"
-                            ],
-                            "guid": "BgpcYL*c=J",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann die Sonde CY3/CY5-dUTP nachgewiesen werden?<div>{{c1::Indem es mit Licht oder einem Laser angeregt wird und mit einer Kamera aufgezeichnet wird}}</div>",
-                                "<img src=\"paste-89913cf6bf49dc90a565893904890c2baa384f8f.jpg\">"
-                            ],
-                            "guid": "KQtp$q~5@i",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann die Sonde Bio-dUTP nachgewiesen werden?<div>{{c1::Über einen Farbstoffniederschlag, welcher durch ein Streptavidin-<br>Peroxidase Konjugat ausgelöst wird.}}<div></div></div>",
-                                "<img src=\"paste-be6f169c69d6d5e01e9652f99cdb001d8ca0a593.jpg\">"
-                            ],
-                            "guid": "h2]j`-oVdd",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann die Sonde Dig-dUTP nachgewiesen werden?<div>{{c1::Über einen Farbstoffniederschlag, welcher durch ein Anti-Dig-alkalische<br>Phosphatase-Konjugat&nbsp;ausgelöst wird.}}<br></div>",
-                                "<img src=\"paste-976869725f4a2287fea244bb9fd653610ddb0825.jpg\">"
-                            ],
-                            "guid": "ug-jG[4f#N",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist der grobe Ablauf eines Southern-Blots?<div>{{c1::<div>- Präperation der gDNA -&gt;&nbsp;Generierung definierter Fragmentlängen über Restriktionsenzymen</div><div>-&nbsp;Agarosegelelektrophorese mit DNA-Farbstoff</div><div>-&nbsp;Transfer auf Blottingfolie</div>}}<br></div>",
-                                "<img src=\"paste-52f667cdc34c1f767f0bd2b1945927d9b9e0590e.jpg\"><div><img src=\"paste-92beeb69dc2caa33b624522c8e3d9f39c1422cc8.jpg\"><br></div><div><img src=\"paste-d25eb5993d20e4b8dced005f96081cf523e367e2.jpg\"><br></div>"
-                            ],
-                            "guid": "k9hy<P;/u6",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wann wird die Sonde beim Southern-Blot hinzugegeben?<div>{{c1::Nachdem das Agarosegel durchgelaufen ist und es auf eine Membran übertragen wurde.}}</div>",
-                                "<img src=\"paste-c2df2d36cf9e4162281f38f3a4d976abef920b6f.jpg\">"
-                            ],
-                            "guid": "QR)!r~,LLz",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann der Southern-Blot bei Vaterschaftstests genutzt werden?<div>{{c1::<div>Es werden die Loci des Vaters und des Kindes auf einem Agarosegel aufgetrennt.</div><div>Danach werden die Fragmente über passende Sonden auf der Membran farblich markiert.</div>}}<br></div>",
-                                "<img src=\"paste-b720c97a8eb51236188e3e37f6ee1667acfbf28d.jpg\">"
-                            ],
-                            "guid": "fSrB.RF%/i",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist der Unterschied zwischen Southern- und Nothern-Blot?<div>{{c1::Beim Nothern-Blot wird RNA verwendet und keine DNA, wie beim Southern-Blot}}<br></div>",
-                                ""
-                            ],
-                            "guid": "ey7P/>p?t2",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Warum müssen Restriktionsenzyme beim Southern-Blot eingesetzt werden?<div>{{c1::Weil die gDNA in definierte Fragmente zerlegt werden muss.}}</div>",
-                                ""
-                            ],
-                            "guid": "nex)bB6sn~",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Warum müssen Restriktionsenzyme beim Northern-Blot <b>nicht </b>eingesetzt werden?<div>{{c1::Weil die RNA schon durch die definierten Transkripte, definierte Fragmentlängen haben.}}</div>",
-                                ""
-                            ],
-                            "guid": "m?,p#2$rf2",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was muss beim Northern-Blot mit den RNA Strang nicht gemacht werden, beim Southern-Blot mit der DNA aber schon?<div>{{c1::Die DNA muss erst in einzelsträngige DNA denaturiert werden. --&gt; sstrDNA}}</div>",
-                                ""
-                            ],
-                            "guid": "G{8y~?O(:Y",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie wird eine gDNA-Bibliothek bei einem Plasmidvektor kloniert?<div>{{c1::<div>1. gDNA und Plasmid mit gleichen Restriktionsenzymen schneiden</div><div>2. gDNA Fragmente mit Plasmiden ligieren</div><div>3. in E.coli transformieren</div><div>4. auf Antibiotikamedium ausplattieren</div>}}<br></div>",
-                                "<img src=\"paste-99ddc787905e88e29011e6eaf0cda9499eaf7ecd.jpg\">"
-                            ],
-                            "guid": "Q|+]H6:j`|",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie wird eine gDNA-Bibliothek bei einem Phagenvektor kloniert?<div>{{c1::<div>1. gDNA und Lambda-DNA mit gleichen Restriktionsenzymen schneiden</div><div>2. gDNA Fragmente mit Lambda-DNA&nbsp;ligieren</div><div>3. in E.coli transformieren</div><div>4. auf Antibiotikamedium ausplattieren</div>}}<br></div>",
-                                "<img src=\"paste-9225e01c600e1efe405004a989143f5fcfeceae7.jpg\">"
-                            ],
-                            "guid": "d}4kRSN,+t",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie wird eine cDNA-Bibliothek kloniert?<div>{{c1::<div>1. mRNA-Präparation<br>2. reverse Transkription in cDNA<br>3. Doppelstrangsynthese (cDNA Erststrang -&gt; Zweitstrang)<br>4. Klonierung in Vektoren<br>5. Transformation &amp; Ausplattieren<br></div>}}</div>",
-                                "<img src=\"paste-92cbd4e8715a11164e97ab78c9c1eb9189da746f.jpg\">"
-                            ],
-                            "guid": "n3VMx?{)3T",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
                         }
                     ]
                 },
@@ -6588,6 +6360,18 @@
                                 "\"Übergeben\" heißt in der Programmiersprache auch \"zuweisen\""
                             ],
                             "guid": "J>aZ?J%^n",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche der folgenden Variablennamen können in C# verwendet werden?<div>a. i123<br>b. 2i13<br>c. Wrox.com<br>d. decimal<br>e. Fläche<br>f. Dday<br>g. _J_S_Bach<br>h. float<br>i. time2GetJiggyWhithIt<br></div><div><br></div><div>es dürfen {{c1::a. d. e. f. g. i.}} verwendet werden</div>",
+                                ""
+                            ],
+                            "guid": "mw]-i]5Y+*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Informatik::Basics-und-Variablen"
@@ -8246,7 +8030,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 0
+                "perDay": 50
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -8306,7 +8090,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Biochemie::Enzyme"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
