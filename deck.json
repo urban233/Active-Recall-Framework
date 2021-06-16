@@ -8280,17 +8280,28 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+<<<<<<< HEAD
                 "paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg"
+=======
+                "csm_FHG-05-197-12_e167bfe0ca.jpg"
+>>>>>>> main
             ],
             "name": "Fragen",
             "notes": [
                 {
                     "__type__": "Note",
                     "fields": [
+<<<<<<< HEAD
                         "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
                         "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
                     ],
                     "guid": "F>v-@=id2}",
+=======
+                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
+                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
+                    ],
+                    "guid": "x/,N,!rndE",
+>>>>>>> main
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 }
