@@ -1859,7 +1859,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie findet die Regulation über die&nbsp;Proteinphosphorylierung statt?<div>{{c1::<div>der <b>unphosphorylierter</b> Zustand ist <b>inaktiv</b></div><div><b>Aktivierung</b> durch Kinase, die ein Monophosphat an Ser, Thr oder Tyr bindet (Unter ATP verbrauch)</div><div><b>Inaktivierung</b> durch Phosphatase, die das Monophosphat an Ser, Thr oder Tyr löst (Unter Wasserabspaltung)</div><div><br></div><div>manche Proteine sind auch ohne Phosphatrest aktiv und durch Phosphorylierung inaktiv</div>}}<br></div>",
+                                "Wie findet die Regulation über die&nbsp;Proteinphosphorylierung statt?<div>{{c1::<div>der <b>unphosphorylierter</b> Zustand ist <b>inaktiv</b></div><div><b>Aktivierung</b> durch Kinase, die ein Monophosphat an Ser, Thr oder Tyr bindet (Unter ATP-Verbrauch)</div><div><b>Inaktivierung</b> durch Phosphatase, die das Monophosphat an Ser, Thr oder Tyr löst (Unter Wasserabspaltung)</div><div><br></div><div>manche Proteine sind auch ohne Phosphatrest aktiv und durch Phosphorylierung inaktiv</div>}}<br></div>",
                                 "<img src=\"paste-6793de30b4bd58551574cd0cbdbbadde117f3bf2.jpg\">"
                             ],
                             "guid": "ckgXdOou-d",
@@ -3611,8 +3611,13 @@
                         {
                             "__type__": "Note",
                             "fields": [
+<<<<<<< Updated upstream
                                 "Was ist der erste Schritt des Aktivierungszyklus der G-Proteine?<div>{{c1::An GPCR kann Ligand binden (gelb). Solange er aber nicht besetzt ist, hat es auf seiner cytoplasmatischen Seite ein G-Protein(stimulatorisch) gebunden.}}<br></div>",
                                 "<img src=\"paste-b9a18e78876ffd87ec06e07e11ede6bb3dae22a5.jpg\">"
+=======
+                                "Was macht die \\(\\alpha\\) - Helix?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
+                                ""
+>>>>>>> Stashed changes
                             ],
                             "guid": "qlCg^3NLy5",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
