@@ -642,6 +642,8 @@
                         "paste-7777013cda9d5ecfed1bdaeb6a82a09408fab423.jpg",
                         "paste-7bae036327b1b46ac089d245cb0a6f7dd86d8b9e.jpg",
                         "paste-7c1efe0ffc3bc1797070f58ccdce9d4f328d0ddf.jpg",
+                        "paste-7e0d0bb3b15a2620d849c1658ed02a96183fc944.jpg",
+                        "paste-7fc840e1782c683a6afa32752fd75d458a8efd8d.jpg",
                         "paste-844c25d39ef75f198c09f7ad936f377ebc66b973.jpg",
                         "paste-8bff8c237030719ef990130b061ebfdadbe99edb.jpg",
                         "paste-959af3781550a1aeebe0d394600f36b9aae5d731.jpg",
@@ -4100,6 +4102,210 @@
                                 ""
                             ],
                             "guid": "mk,kC1<N`!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Für was dient Glucose-6-Phosphat als sehr gutes Edukt?<div>{{c1::für die Glykogensynthese und den Pentosephosphatweg}}</div>",
+                                ""
+                            ],
+                            "guid": "F([ci2yM<R",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Als was arbeitet die Pyruvatkinase?<div>{{c1::als Tetramer}}</div>",
+                                ""
+                            ],
+                            "guid": "e})+>^(Ex7",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Durch was wird die Pyruvatkinase aktiviert?<div>{{c1::durch Fructose-1,6-bisphosphat}}</div>",
+                                "<img src=\"paste-7fc840e1782c683a6afa32752fd75d458a8efd8d.jpg\">"
+                            ],
+                            "guid": "AF-20D5MX*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was hat einen negativen allosterischen Effekt auf die Pyruvatkinase?<div>{{c1::ATP (genug Energie) und Alanin (genug Baustoffe)}}</div>",
+                                "<img src=\"paste-7fc840e1782c683a6afa32752fd75d458a8efd8d.jpg\">"
+                            ],
+                            "guid": "M$9hBr:A-B",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Pyruvatkinase in der Leber durch wenig vorhandener Glucose inhibiert?<div>{{c1::durch eine niedrige c(Glucose) wird das Hormon Glukagon viel ausgeschüttet. Dadurch wird ein G-Protein aktiviert. Auf Grund dessen entsteht cAMP, welches die Proteinkinase A aktiviert. Somit wird die Pyruvatkinase phosphoryliert. Auf Grund dessen ist sie weniger aktiv und somit gehemmt.}}</div>",
+                                "<img src=\"paste-7e0d0bb3b15a2620d849c1658ed02a96183fc944.jpg\">"
+                            ],
+                            "guid": "d9*|2)#CuX",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was heißt es für die Leber wenn die Pyruvatkinase inhibiert wird?<div>{{c1::Die Leber wird am Glucoseverbrauch gehindert.}}</div>",
+                                ""
+                            ],
+                            "guid": "jd}i@`f6h7",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann der Glucosestoffwechsel reguliert werden?<div>{{c1::durch Glucosetransporter}}</div>",
+                                ""
+                            ],
+                            "guid": ":wFD;+|7v",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie werden Glucosetransporter abgekürzt?<div>{{c1::GLUT}}</div>",
+                                ""
+                            ],
+                            "guid": "Bk0Z&=4Erh",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo befinden sich GLUT1 und GLUT3?<div>{{c1::in allen Säugerzellen}}</div>",
+                                ""
+                            ],
+                            "guid": "d2.p:`O,!z",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Glucosetransporter befinden sich in allen Säugerzellen?<div>{{c1::GLUT1 und GLUT3}}</div>",
+                                ""
+                            ],
+                            "guid": "bPR8+f2Z?b",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür sind GLUT1 und GLUT3 zuständig?<div>{{c1::für die Grundversorgung mit Glucose -&gt; ständiger Glucosetransport in die Zelle}}</div>",
+                                ""
+                            ],
+                            "guid": "loR-!(K2*s",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Glucosetransporter sind für die Grundversorgung mit Glucose zuständig?{{c1::<div>GLUT1 und GLUT3</div>}}",
+                                ""
+                            ],
+                            "guid": "dOc$l`IQeZ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welcher Glucosetransporter kommt in der Leber vor?<div>{{c1::GLUT2}}</div>",
+                                ""
+                            ],
+                            "guid": "Pr7B^i3XC_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo kommt GLUT2 vor?<div>{{c1::in der Leber}}</div>",
+                                ""
+                            ],
+                            "guid": "vnfZZe:u53",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann tritt die Glucose in die Leber ein?<div>{{c1::wenn der Blutzuckerspiegel ausreichend hoch ist}}</div>",
+                                ""
+                            ],
+                            "guid": "LktQxR]z)O",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo kommt der Glucosetransporter GLUT4 vor?<div>{{c1::in Muskel- und Fettzellen}}</div>",
+                                ""
+                            ],
+                            "guid": "O0`4<WTwiL",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welcher Glucosetransporter kommt in Muskel- und Fettzellen vor?<div>{{c1::GLUT4}}</div>",
+                                ""
+                            ],
+                            "guid": "FVx;!6u++b",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Kohlenhydrate"
