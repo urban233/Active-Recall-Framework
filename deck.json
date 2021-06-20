@@ -1037,7 +1037,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was erhält das Protein, durch das Anhängen von Fettsäuren an a(alpha)- NH<sub>2</sub>&nbsp;oder Cys -SH und was ist dadurch möglich?<div>{{c1::durch lange Kohlenwasserstoffketten erhält das Protein einen unpolaren/hydrophoben Anker         → Einlagerung in Lipidmembran möglich}}<br></div>",
+                                "Was erhält das Protein, durch das Anhängen von Fettsäuren an \\(\\alpha\\)- NH<sub>2</sub>&nbsp;oder Cys -SH und was ist dadurch möglich?<div><div>{{c1::durch lange Kohlenwasserstoffketten erhält das Protein einen unpolaren/hydrophoben Anker         → Einlagerung in Lipidmembran möglich}}<br></div></div>",
                                 ""
                             ],
                             "guid": "bBFf3~L@d{",
@@ -1085,20 +1085,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was macht die Carbonylgruppe in der \\(\\alpha\\)-Helix?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
-                                ""
-                            ],
-                            "guid": "KIuz.oNS6L",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteine",
-                                "Probleme::Verständnis"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist der Abstand der alpha-Helix?<div>{{c1::n → n+4}}<br></div>",
+                                "Was ist der Abstand der \\(\\alpha\\)-Helix?<div>{{c1::n → n+4}}<br></div>",
                                 ""
                             ],
                             "guid": "mk~Ddt>2AL",
@@ -1110,7 +1097,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie viele Aminosäuren enthält eine Windung in einer alpha-Helix?<div>{{c1::3.6}}<br></div>",
+                                "Wie viele Aminosäuren enthält eine Windung in einer \\(\\alpha\\)-Helix?<div>{{c1::3.6}}<br></div>",
                                 ""
                             ],
                             "guid": "G!FfGAN,4^",
@@ -1134,7 +1121,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie viele Reste gibt es im Durchschnitt an der alpha-Helix?<div>{{c1::10}}</div>",
+                                "Wie viele Reste gibt es im Durchschnitt an der \\(\\alpha\\)-Helix?<div>{{c1::10}}</div>",
                                 ""
                             ],
                             "guid": "o,:8r#psQ}",
@@ -1235,6 +1222,18 @@
                                 ""
                             ],
                             "guid": "k7^xL*HlNE",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was gehört ebenfalls zu den wichtigen Sekundärstrukturelementen?<div>{{c1::ß- Schleife bzw. ß- turn}}<br></div>",
+                                ""
+                            ],
+                            "guid": "zwyu^R/qb*",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteine"
@@ -1610,19 +1609,6 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteine"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was hat ein Protein nach der Translation?<div>{{c1::hydrophobe Reste}}</div>",
-                                ""
-                            ],
-                            "guid": "q}2TRIkIpL",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteine",
-                                "Probleme::Verständnis"
                             ]
                         },
                         {
@@ -2156,6 +2142,18 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div>\n<div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div>\n<div>irreversibel</div><div><br></div>\n<div>oder Aussalzen:</div>\n<div>Salz entzieht Protein Hydratwasser</div>\n<div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div>\n<div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div>\n<div>reversibel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "InT`Vk<~p*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Wozu dient die Proteinchromatographie?<div>{{c1::Vorteilung der Proteine im Überstand}}<br></div>",
                                 ""
                             ],
@@ -2528,6 +2526,18 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Was passiert wenn viel Methylenbisacylamid in einer Lösung ist?<div>{{c1::<div>Je mehr Methylenbisacrylamid in einer Lösung ist, desto mehr Vernetzungen können generiert werden.</div><div><br></div>\n<div>Je mehr Vernetzungen generiert werden, umso kleiner sind die Poren in dem Acrlyacrylamidgel.</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "CH4b~U|3&B",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Womit werden die Proteine bei der SDS PAGE vorbehandelt?<div>{{c1::<div>- Sie werden mit Sodiumdodecylsulfat (SDS) denaturiert</div>}}<br></div>",
                                 ""
                             ],
@@ -2664,90 +2674,6 @@
                                 ""
                             ],
                             "guid": "m|go*pPXu]",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was passiert, wenn man die Proteine mit SDS vorbehandelt?<div>{{c1::<div>Die hydrophobe Kohlenwasserstoffkette am SDS wechselwirkt mit hydrophoben Bereich des Proteins (im Inneren des Proteins)</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "b?%3G0%2u)",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "In welcher Lösung wird die IMAC Säule gelagert?<div>{{c1::EDTA}}<br></div>",
-                                ""
-                            ],
-                            "guid": "vX}Oe~TG5*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was passiert, wenn die hydrophobe Kohlenwasserstoffkette am SDS mit dem hydrophoben Bereich des Proteins wechselwirkt?<div>{{c1::<div>SDS zieht Protein auseinander und entfaltet es in eine einheitliche Stäbchenstruktur<br></div><div>SDS bringt negative Ladung, wodurch das Protein eine negative Oberfläche bekommt</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "K+!4):a+z1",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>SDS PAGE:</div>Je mehr {{c1::Methylenbisacrylamid}} in einer Lösung ist, desto mehr {{c2::Vernetzungen}} können generiert werden.",
-                                ""
-                            ],
-                            "guid": "C|xPd/dV`X",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "SDS PAGE:<div>Je mehr {{c1::Vernetzungen}} generiert werden, umso kleiner sind die {{c2::Poren}} in dem {{c2::Acrlyacrylamidgel}}.<br></div>",
-                                ""
-                            ],
-                            "guid": "d8NtVWa_5p",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Prinzip der pH-Präzipitation?<div>{{c1::<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div><div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div><div>irreversibel</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "f,vv,QWNEw",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist das Prinzip des Aussalzen?<div>{{c1::<div>Salz entzieht Protein Hydratwasser (Hydrathülle)</div><div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div><div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div><div>reversibel</div>}}<br></div>",
-                                "<img src=\"paste-1451381b744e965b0f72c4f7655570c56a45e54b.jpg\">"
-                            ],
-                            "guid": "OF8.7cFxb!",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Proteinreinigung"
@@ -3116,30 +3042,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert der dritte Schritt der Proteinreinigung und -charaktarisierung?<div>{{c1::<div>pH- Präzipitation:</div>\n<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div>\n<div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div>\n<div>irreversibel</div><div><br></div>\n<div>oder Aussalzen:</div>\n<div>Salz entzieht Protein Hydratwasser</div>\n<div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div>\n<div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div>\n<div>reversibel</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "InT`Vk<~p*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was passiert wenn viel Methylenbisacylamid in einer Lösung ist?<div>{{c1::<div>Je mehr Methylenbisacrylamid in einer Lösung ist, desto mehr Vernetzungen können generiert werden.</div><div><br></div>\n<div>Je mehr Vernetzungen generiert werden, umso kleiner sind die Poren in dem Acrlyacrylamidgel.</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "CH4b~U|3&B",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteinreinigung"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "<div>Zu was reagiert das Enzym mit seinem Substrat?<br></div>{{c1::Zum Enzym-Substrat-Komplex}}",
                                 ""
                             ],
@@ -3351,18 +3253,6 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Enzyme"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was gehört ebenfalls zu den wichtigen Sekundärstrukturelementen?<div>{{c1::ß- Schleife bzw. ß- turn}}<br></div>",
-                                ""
-                            ],
-                            "guid": "zwyu^R/qb*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Biochemie::Proteine"
                             ]
                         },
                         {
@@ -3632,13 +3522,111 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist der erste Schritt des Aktivierungszyklus der G-Proteine?<div>{{c1::An GPCR kann Ligand binden (gelb). Solange er aber nicht besetzt ist, hat es auf seiner cytoplasmatischen Seite ein G-Protein(stimulatorisch) gebunden.}}<br></div>",
-                                "<img src=\"paste-b9a18e78876ffd87ec06e07e11ede6bb3dae22a5.jpg\">"
+                                "Was macht die Carbonylgruppe in der \\(\\alpha\\)-Helix?<div>{{c1::eine Carbonylgruppe macht eine WBB zu einer NH-Funktion}}<br></div>",
+                                ""
                             ],
-                            "guid": "qlCg^3NLy5",
+                            "guid": "KIuz.oNS6L",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "Biochemie::Enzyme"
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was hat ein Protein nach der Translation?<div>{{c1::hydrophobe Reste}}</div>",
+                                ""
+                            ],
+                            "guid": "q}2TRIkIpL",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine",
+                                "Probleme::Verständnis"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn man die Proteine mit SDS vorbehandelt?<div>{{c1::<div>Die hydrophobe Kohlenwasserstoffkette am SDS wechselwirkt mit hydrophoben Bereich des Proteins (im Inneren des Proteins)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "b?%3G0%2u)",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Lösung wird die IMAC Säule gelagert?<div>{{c1::EDTA}}<br></div>",
+                                ""
+                            ],
+                            "guid": "vX}Oe~TG5*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn die hydrophobe Kohlenwasserstoffkette am SDS mit dem hydrophoben Bereich des Proteins wechselwirkt?<div>{{c1::<div>SDS zieht Protein auseinander und entfaltet es in eine einheitliche Stäbchenstruktur<br></div><div>SDS bringt negative Ladung, wodurch das Protein eine negative Oberfläche bekommt</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "K+!4):a+z1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>SDS PAGE:</div>Je mehr {{c1::Methylenbisacrylamid}} in einer Lösung ist, desto mehr {{c2::Vernetzungen}} können generiert werden.",
+                                ""
+                            ],
+                            "guid": "C|xPd/dV`X",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "SDS PAGE:<div>Je mehr {{c1::Vernetzungen}} generiert werden, umso kleiner sind die {{c2::Poren}} in dem {{c2::Acrlyacrylamidgel}}.<br></div>",
+                                ""
+                            ],
+                            "guid": "d8NtVWa_5p",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip der pH-Präzipitation?<div>{{c1::<div>in der Nähe des IEP: Löslichkeit des Proteins sinkt</div><div>starke Protonierung: Konformationsänderung, hydrophobe Bereiche des Proteins gelangen nach außen und Protein fällt aus</div><div>irreversibel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "f,vv,QWNEw",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip des Aussalzen?<div>{{c1::<div>Salz entzieht Protein Hydratwasser (Hydrathülle)</div><div>Konformationsänderung, hydrophobe patches aggregieren, sodass das Protein ausfällt</div><div>durch Puffer in Pellet wird Salz in Lösung verdünnt → Protein kann zurück in Lösung gehen</div><div>reversibel</div>}}<br></div>",
+                                "<img src=\"paste-1451381b744e965b0f72c4f7655570c56a45e54b.jpg\">"
+                            ],
+                            "guid": "OF8.7cFxb!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteinreinigung"
                             ]
                         },
                         {
@@ -3666,7 +3654,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was passiert nach der Konformationsänderung des GPCR's bei dem AKtivierungszyklus der G-Proteine?<div>{{c1::GDP wird von der \\(\\alpha\\)-Untereinheit frei gesetzt und GTP bindet an der \\(\\alpha\\)-Untereinheit. Dadurch erfolgt der GDP-GTP-Austausch.}}</div>",
+                                "Was ist der erste Schritt des Aktivierungszyklus der G-Proteine?<div>{{c1::An GPCR kann Ligand binden (gelb). Solange er aber nicht besetzt ist, hat es auf seiner cytoplasmatischen Seite ein G-Protein(stimulatorisch) gebunden.}}<br></div>",
+                                "<img src=\"paste-b9a18e78876ffd87ec06e07e11ede6bb3dae22a5.jpg\">"
+                            ],
+                            "guid": "qlCg^3NLy5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert nach der Konformationsänderung des GPCR's bei dem Aktivierungszyklus der G-Proteine?<div>{{c1::GDP wird von der \\(\\alpha\\)-Untereinheit frei gesetzt und GTP bindet an der \\(\\alpha\\)-Untereinheit. Dadurch erfolgt der GDP-GTP-Austausch.}}</div>",
                                 "<img src=\"paste-6495d189d25e4ef954b6aeafd633cfa6b4ded770.jpg\"><div><img src=\"paste-13f739c0e26ad3dab654373c1a2a8925504d8872.jpg\"><br></div>"
                             ],
                             "guid": "f|v{?_U[K6",
@@ -4306,6 +4306,42 @@
                                 ""
                             ],
                             "guid": "FVx;!6u++b",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wer nutzt nur Glucose als Brennstoff für die Energieversorgung?<div>{{c1::die Erythrocyten}}</div>",
+                                ""
+                            ],
+                            "guid": "sTLa~#6t1U",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was kann durch die Gluconeogenese erziehlt werden?<div>{{c1::aus Pyruvat wird Glucose hergestellt}}</div>",
+                                ""
+                            ],
+                            "guid": "sL/hQy-BV,",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was kann alles den Pyruvatpool füllen?<div>{{c1::<div>Glycerin aus Fetten</div><div>Aminosäuren(z.B. Alanin)</div><div>Lactat (Muskel)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Q3xNof5D>Z",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Kohlenhydrate"
@@ -7008,7 +7044,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert ein Blot im allgemeinen?<div>{{c1::Das Target (DNA oder RNA) wird auf ein Gel aufgetrennt und auf eine Folie übertragen. Anschlißend wird mit der Sonde hybridisiert.}}</div>",
+                                "Wie funktioniert ein Blot im allgemeinen?<div>{{c1::Das Target (DNA oder RNA) wird auf ein Gel aufgetrennt und auf eine Folie übertragen. Anschließend wird mit der Sonde hybridisiert.}}</div>",
                                 "<img src=\"paste-e5e1fec656235fbc32784ae58bc2e75cc3189004.jpg\">"
                             ],
                             "guid": "hz<x*L}<f_",
@@ -7804,6 +7840,18 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Welche der folgenden Variablennamen können in C# verwendet werden?<div>a. i123<br>b. 2i13<br>c. Wrox.com<br>d. decimal<br>e. Fläche<br>f. Dday<br>g. _J_S_Bach<br>h. float<br>i. time2GetJiggyWhithIt<br></div><div><br></div><div>es dürfen {{c1::a. d. e. f. g. i.}} verwendet werden</div>",
+                                ""
+                            ],
+                            "guid": "mw]-i]5Y+*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Informatik::Basics-und-Variablen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Warum führt folgender Code zu einem Compiler-Fehler?<br>long x;&nbsp;<div>x = 12;&nbsp;<div>long x = 14;</div></div><div><br></div><div>{{c1::Weil die Variable x 2 mal deklariert wird. Das ist in C# nicht möglich!}}</div>",
                                 ""
                             ],
@@ -8212,7 +8260,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wieso ist bei folgenden Code das Ergebnis ganzzahlig, obwohl das Ergebnis den Datentyp double hat?<div><br></div><div>double dErgebnis = iZahl1 / 2;<br>// Division AUCH ganzzahlig trotz Ergebnis Datentyp! Also 5<br></div><div><br></div><div>{{c1::Weil 2 Integer Zahlen dividiert werden, also 2 Ganzezahlen.}}</div>",
+                                "Wieso ist bei folgendem Code das Ergebnis ganzzahlig, obwohl das Ergebnis den Datentyp double hat?<div><br></div><div>double dErgebnis = iZahl1 / 2;<br>// Division AUCH ganzzahlig trotz Ergebnis Datentyp! Also 5<br></div><div><br></div><div>{{c1::Weil 2 Integer Zahlen dividiert werden, also 2 Ganzezahlen.}}</div>",
                                 ""
                             ],
                             "guid": "EnSi]0Pua$",
@@ -8560,19 +8608,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche der folgenden Variablennamen können in C# verwendet werden?<div>a. i123<br>b. 2i13<br>c. Wrox.com<br>d. decimal<br>e. Fläche<br>f. Dday<br>g. _J_S_Bach<br>h. float<br>i. time2GetJiggyWhithIt<br></div><div><br></div><div>es dürfen {{c1::a. d. e. f. g. i.}} verwendet werden</div>",
-                                ""
-                            ],
-                            "guid": "mw]-i]5Y+*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was was besteht das .NET Framework?<div>1. {{c1::Common Language Runtime(CLR)}}<br></div><div>2. {{c1::classlibrary}}<br></div>",
+                                "Aus was besteht das .NET Framework?<div>1. {{c1::Common Language Runtime(CLR)}}<br></div><div>2. {{c1::classlibrary}}<br></div>",
                                 "<img src=\"paste-59615f27ee463aee0700274016946e475b99e768.jpg\">"
                             ],
                             "guid": "s[??AdNx,V",
@@ -9580,20 +9616,20 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
-                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
+                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
+                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
                     ],
-                    "guid": "x/,N,!rndE",
+                    "guid": "F>v-@=id2}",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
-                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
+                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
+                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
                     ],
-                    "guid": "F>v-@=id2}",
+                    "guid": "x/,N,!rndE",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
