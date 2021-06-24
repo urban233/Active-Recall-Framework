@@ -661,7 +661,9 @@
                         "paste-8dd52533525745456a52955b25d03fb89eec62ac.jpg",
                         "paste-959af3781550a1aeebe0d394600f36b9aae5d731.jpg",
                         "paste-979547a48f9092654156afbc4d47c29c268d62f1.jpg",
+                        "paste-97a32a47cdcd0e77a9ed6c16ab9a491eb9238603.jpg",
                         "paste-998e170081dfaa8c32b2258641be5fca7a8f162f.jpg",
+                        "paste-a1830b66fcd036182e66fa5cdcb31eff0bb02a8b.jpg",
                         "paste-a30416dabbc4d5e5bdaa9dc88def3ae5d4c2b8c1.jpg",
                         "paste-a3ed76a8b824a8aa54327d991dfb015228497ec4.jpg",
                         "paste-a47e2f5f0633c1c889ba001e51c33c9ca12a9630.jpg",
@@ -4787,6 +4789,42 @@
                                 "<img src=\"paste-66805fe7cf0fd87bf4a6821661bad43aa783818a.jpg\">"
                             ],
                             "guid": "xI:D?~:O<d",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bewirkt die Phospholucomutase?<div>{{c1::Umwandlung von Glucose 1-phosphat in Glucose 6-phosphat}}</div>",
+                                "<img src=\"paste-97a32a47cdcd0e77a9ed6c16ab9a491eb9238603.jpg\">"
+                            ],
+                            "guid": "M][qe4&<Y-",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was geschieht mit der Phosphatgruppe der Phosphoglucomutase?<div>{{c1::<div>Die Phosphatgruppe des Serins der Phosphoglucomutase wird an Glucose 1-phosphat abgegeben -&gt; intermediäres Glucose 1,6-bisphosphat entsteht</div><div>Dadurch nimmt sie die Phosphatgruppe des Moleküls an ihren Serinrest</div>}}<br></div>",
+                                "<img src=\"paste-97a32a47cdcd0e77a9ed6c16ab9a491eb9238603.jpg\">"
+                            ],
+                            "guid": "cmAR.@&&=E",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was geschieht durch den Umbau der Phosphatgruppe bei der Phosphoglucomutase?<div>{{c1::Entstehung der Glucose-6-phosphat für Glykolyse und Enzymregenerierung}}</div>",
+                                "<img src=\"paste-a1830b66fcd036182e66fa5cdcb31eff0bb02a8b.jpg\">"
+                            ],
+                            "guid": "GuU?!oI-$m",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Kohlenhydrate"
