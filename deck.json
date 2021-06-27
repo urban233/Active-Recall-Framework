@@ -595,12 +595,14 @@
                         "Untitled-38ceb8806ceabe9a467e06e71c0278898cb54737.png",
                         "Untitled-8b20d8ad3b14c79b1df610d3025b81151eb260bc.png",
                         "Untitled-e877041addb8a69d2a5b59c254dff9993e683e76.png",
+                        "paste-00d04dc482c40eace24208c66095a129a7e37d8f.jpg",
                         "paste-018f7056f67d2136c98ff6e491c151ebbb3ebe2e.jpg",
                         "paste-01cac73294ddcea5c7d638c76e71efc805cf6107.jpg",
                         "paste-0286a5bd545d5472e75ec013b4a16db102a32cd0.jpg",
                         "paste-09003cf66b209f339190e93fda046291d02adb2f.jpg",
                         "paste-0dc6a13a10c52f82e8a405511d9432947240b8e5.jpg",
                         "paste-105fef2115a3618725c1857f9f0f2cda6c17d788.jpg",
+                        "paste-131170389dcf244a66ac59a3e335e405c76b8421.jpg",
                         "paste-13f739c0e26ad3dab654373c1a2a8925504d8872.jpg",
                         "paste-1451381b744e965b0f72c4f7655570c56a45e54b.jpg",
                         "paste-14f7053f8af0d682c8ecd5e3a049659f0b2a48f4.jpg",
@@ -626,12 +628,14 @@
                         "paste-467c8a7fd32541300f37f870b0c36cdce35698f5.jpg",
                         "paste-48e1ffe6ea8084c344119a9c174df1732196bbaa.jpg",
                         "paste-4ae35fad5bb7c2b06dc2229b5820ee5c685fc3dd.jpg",
+                        "paste-4bb76906fc62e741a448df7c608f1afc6611d978.jpg",
                         "paste-525a8ae2ce55d3b5188a0e7941a28e3b8b237c33.jpg",
                         "paste-52982cbfc636e5b7f164e9490466d21342572f52.jpg",
                         "paste-5372fcb5845d5bef7eecdb0ccf18e25d58d8aaf1.jpg",
                         "paste-541ad31236ead854b5fae02dac82909180c1d36c.jpg",
                         "paste-5474a9201b7817a99196ba88aad7d8bdfbc22df7.jpg",
                         "paste-580b8808a3e9fea2c89e5c20c473cacbff8b88f2.jpg",
+                        "paste-620095843e3cf87690fc4b637d14fd2aca698456.jpg",
                         "paste-629ceb138bec98be19db221c7f4fd12d8901811c.jpg",
                         "paste-6331b029476e7ef2ac2920cffeec31e5910a7101.jpg",
                         "paste-6495d189d25e4ef954b6aeafd633cfa6b4ded770.jpg",
@@ -651,6 +655,7 @@
                         "paste-751e9b7c16160bd401d6e63cf295897477915b42.jpg",
                         "paste-76f7dee4e21d0c53352d3173f842fb6b5df0f3b9.jpg",
                         "paste-7777013cda9d5ecfed1bdaeb6a82a09408fab423.jpg",
+                        "paste-77d6f6266afdb01035c7d5d5db197b6a65ff5411.jpg",
                         "paste-7bae036327b1b46ac089d245cb0a6f7dd86d8b9e.jpg",
                         "paste-7c1efe0ffc3bc1797070f58ccdce9d4f328d0ddf.jpg",
                         "paste-7e0d0bb3b15a2620d849c1658ed02a96183fc944.jpg",
@@ -1941,7 +1946,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wofür dient das gamma-Carboxyglutamat?<div>{{c1::für eine gute Blutgerinnung}}</div>",
+                                "Wofür dient das \\(\\gamma\\)-Carboxyglutamat?<div>{{c1::für eine gute Blutgerinnung}}</div>",
                                 ""
                             ],
                             "guid": "E:iNt.+=q1",
@@ -2085,7 +2090,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<div>Wie erkennt man das Zielprotein?<br></div><div>{{c1::<div>- einfügen eines Plasmid (z.B. in Eschi), in dem das Zielprotein codiert ist</div>\n<div>- Test/ Assay- System, welches die Aktivität überprüft</div>\n<div>- Enzym katalysiert die Einstellung eines Gleichgewichtes</div>\n<div>- spezifische Aktivität : Enzymaktivität/ mg Protein → möglichst viel Aktivität&nbsp; &nbsp; &nbsp; &nbsp;vorhanden</div>}}<br></div>",
+                                "<div>Wie erkennt man das Zielprotein?<br></div><div>{{c1::<div>- einfügen eines Plasmid (z.B. in Eschi), in dem das Zielprotein codiert ist</div>\n<div>- Test/ Assay- System, welches die Aktivität überprüft</div>\n<div>- Enzym katalysiert die Einstellung eines Gleichgewichtes</div>\n<div>- spezifische Aktivität : Enzymaktivität/ mg Protein → möglichst viel Aktivität&nbsp; &nbsp;&nbsp;</div><div>vorhanden</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "cg$q|2GBX@",
@@ -4521,7 +4526,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist der Sinn von Substratzyclen?<div>{{c1::Verstärkung von Stoffwechselsignalen}}</div>",
+                                "Was ist der Sinn von Substratzyklen?<div>{{c1::Verstärkung von Stoffwechselsignalen}}</div>",
                                 "<img src=\"paste-f80b6aad524ccf5e1d7d94f90fc634839a7c163d.jpg\">"
                             ],
                             "guid": "v|WUAL[VMz",
@@ -4545,7 +4550,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wozu dient der Cori-Zyklus?<div>{{c1::Als Ausgleich zwischen Muskel und Leber -&gt; Sauerstoff-Mangel im Muskel}}</div>",
+                                "Wozu dient der Cori-Zyklus?<div>{{c1::Als Sauerstoffausgleich zwischen Muskel und Leber -&gt; Sauerstoff-Mangel im Muskel}}</div>",
                                 "<img src=\"paste-e7bd3ba68681aa78a6149f058e58d99c2e9f6ceb.jpg\">"
                             ],
                             "guid": "wx6dG$ek2j",
@@ -4825,6 +4830,114 @@
                                 "<img src=\"paste-a1830b66fcd036182e66fa5cdcb31eff0bb02a8b.jpg\">"
                             ],
                             "guid": "GuU?!oI-$m",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was kommt nur in der Leber vor und fehlt in Muskel/Gehirn?<div>{{c1::Glucose-6-phosphat}}</div>",
+                                ""
+                            ],
+                            "guid": "r$3whT-cF5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kann Glucose-6-phosphat nicht in Muskel/Gehirn?<div>{{c1::auf Grund der negativen Ladung}}</div>",
+                                "<img src=\"paste-620095843e3cf87690fc4b637d14fd2aca698456.jpg\">"
+                            ],
+                            "guid": "ozT<F<5hI!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Durch welches Enzym wird die Glykogensynthese katalysiert?<div>{{c1::durch die Glykogensynthase}}</div>",
+                                ""
+                            ],
+                            "guid": "G:b^#NN%7!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Edukte der Glykogensynthese?<div>{{c1::aktivierte Glucose mit UDP + Glycogen (n residues)}}</div>",
+                                "<img src=\"paste-00d04dc482c40eace24208c66095a129a7e37d8f.jpg\">"
+                            ],
+                            "guid": "gI;<bGjy)X",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Produkte der Glykogensynthese?<div>{{c1::freigewordenes UDP + Glykogen (n+1 residues)}}</div>",
+                                "<img src=\"paste-131170389dcf244a66ac59a3e335e405c76b8421.jpg\">"
+                            ],
+                            "guid": "Q]Y_.;X:[O",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür steht die Abkürzung UDP-Glucose?<div>{{c1::Uridine diphosphat glucose}}</div>",
+                                "<img src=\"paste-4bb76906fc62e741a448df7c608f1afc6611d978.jpg\">"
+                            ],
+                            "guid": "v~imk?{amH",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Edukte, um UDP-Glucose herustellen?<div>{{c1::Glucose 1-phosphat + UTP}}</div>",
+                                "<img src=\"paste-77d6f6266afdb01035c7d5d5db197b6a65ff5411.jpg\">"
+                            ],
+                            "guid": "qsb}a;fb-B",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Produkte entstehen, wenn die Edukte Glucose 1-phosphat und UTP sind?<div>{{c1::UDP-Glucose + PP<sub>i</sub>}}<br></div>",
+                                "<img src=\"paste-77d6f6266afdb01035c7d5d5db197b6a65ff5411.jpg\">"
+                            ],
+                            "guid": "uW5SWJ`3>e",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet es wenn bei einer Reaktion PP<sub>i</sub>&nbsp;entsteht?<div>{{c1::PP<sub>i</sub>&nbsp;reagiert weiter mit Wasser zu 2 P<sub>i</sub>&nbsp;-&gt; hohe Energiefreisetzung}}<br></div>",
+                                ""
+                            ],
+                            "guid": "kgFRoh{1pD",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Kohlenhydrate"
@@ -5351,7 +5464,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind die Eigenschaften der RNA-Polymerase?<div>{{c1::<div>von 5' nach 3' eine RNA-Polymerase (mehrere RNA-Polymerase an einem Template-DNA Strang</div>\n<div>DNA-Helicase zur Entwindung der Helixstruktur</div>\n<div><strong>keine</strong> Proofreading Funktion</div>}}<br></div>",
+                                "Was sind die Eigenschaften der RNA-Polymerase?<div>{{c1::<div>von 5' nach 3' eine RNA-Polymerase (mehrere RNA-Polymerase an einem Template-DNA Strang)</div>\n<div>DNA-Helicase zur Entwindung der Helixstruktur</div>\n<div><strong>keine</strong> Proofreading Funktion</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "g$47p!y/XG",
@@ -5759,7 +5872,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Methoden gibt es zur Deproteinierung?<div>{{c1::<div>Extraktion mit Phenol/Chloroform</div>\n<div>Silikagel–Methodik</div>}}<br></div>",
+                                "Welche Methoden gibt es zur Deprotonierung?<div>{{c1::<div>Extraktion mit Phenol/Chloroform</div>\n<div>Silikagel–Methodik</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "t@=lDU+`[&",
@@ -6155,7 +6268,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Modifikationen der DNA können durch Enzyme erreicht werden?<div>{{c1::<div>abbauen</div>\n<div>schneiden</div>\n<div>verbinden</div>\n<div>aufbauen</div>\n<div>verlängern</div>\n<div>DNA zu RNA</div>\n<div>RNA zu DNA</div>\n<div>chemische Gruppen anhänge bzw. entfernen</div>}}<br></div>",
+                                "Welche Modifikationen der DNA können durch Enzyme erreicht werden?<div>{{c1::<div>abbauen</div>\n<div>schneiden</div>\n<div>verbinden</div>\n<div>aufbauen</div>\n<div>verlängern</div>\n<div>DNA zu RNA</div>\n<div>RNA zu DNA</div>\n<div>chemische Gruppen anhängen bzw. entfernen</div>}}<br></div>",
                                 ""
                             ],
                             "guid": "j7uY]f#F>J",
@@ -7547,7 +7660,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "An welcher stelle des Nukleotids, werden die markierten dNMPs eingebaut?<div>{{c1::Die dNMPs werden an der Nukleinbase eingebaut}}</div>",
+                                "An welcher Stelle des Nukleotids, werden die markierten dNMPs eingebaut?<div>{{c1::Die dNMPs werden an der Nukleinbase eingebaut}}</div>",
                                 "<img src=\"paste-f85b8ef35454336f8f1925395a86c4dc6c209ffb.jpg\">"
                             ],
                             "guid": "O[cPnQZ-Do",
