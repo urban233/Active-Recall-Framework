@@ -627,10 +627,12 @@
                         "paste-461be06ad1897409d0ff333a5bbf4069f5642e1d.jpg",
                         "paste-467c8a7fd32541300f37f870b0c36cdce35698f5.jpg",
                         "paste-48e1ffe6ea8084c344119a9c174df1732196bbaa.jpg",
+                        "paste-49261795ebc32b60e9f2394eb633c290f5739c54.jpg",
                         "paste-4ae35fad5bb7c2b06dc2229b5820ee5c685fc3dd.jpg",
                         "paste-4bb76906fc62e741a448df7c608f1afc6611d978.jpg",
                         "paste-525a8ae2ce55d3b5188a0e7941a28e3b8b237c33.jpg",
                         "paste-52982cbfc636e5b7f164e9490466d21342572f52.jpg",
+                        "paste-5319e749b0facc4b73fbfe9d4ac75dd1aecf1f8b.jpg",
                         "paste-5372fcb5845d5bef7eecdb0ccf18e25d58d8aaf1.jpg",
                         "paste-541ad31236ead854b5fae02dac82909180c1d36c.jpg",
                         "paste-5474a9201b7817a99196ba88aad7d8bdfbc22df7.jpg",
@@ -4938,6 +4940,126 @@
                                 ""
                             ],
                             "guid": "kgFRoh{1pD",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie arbeitet die Glykogensynthase?<div>{{c1::Sie arbeitet an den nicht reduzierenden Enden des Glykogens (4'-OH) und braucht Primer (Glc)<sub>4</sub>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "PU7Z^PtZI;",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Durch was wird der Primer (Glc)<sub>4</sub>&nbsp;für die Glykogensynthase hergestellt?<div>{{c1::durch das Protein Glykogenin}}</div>",
+                                "<img src=\"paste-5319e749b0facc4b73fbfe9d4ac75dd1aecf1f8b.jpg\">"
+                            ],
+                            "guid": "uO(8gywcZ`",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An was ist Glykogenin gebunden?<div>{{c1::an der Glykogensynthase}}</div>",
+                                ""
+                            ],
+                            "guid": "EZ7e=YWMD9",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An was ist die Glykogensynthase gebunden?<div>{{c1::an Glykogenin}}</div>",
+                                ""
+                            ],
+                            "guid": "mzH11lo]Y!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Von was hängt die Zahl der Glykogengranula ab?<div>{{c1::vom Glykogenin}}</div>",
+                                ""
+                            ],
+                            "guid": "N(sc7Y7Tif",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo von hängt die Größe eines Glykogengranulas ab?<div>{{c1::von der Kontaktzeit zwischen Glykogenin und Glykogensynthase}}</div>",
+                                ""
+                            ],
+                            "guid": "wL>Z;>#6o1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für Verzweigungen hat Glykogen?<div>{{c1::\\(\\alpha\\)-1,6 Verzweigungen}}</div>",
+                                ""
+                            ],
+                            "guid": "pUK_9*<n0C",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wodurch werden die \\(\\alpha\\)-1,6 Verzweigungen gebildet?<div>{{c1::durch ein branching enzym}}&nbsp;</div>",
+                                ""
+                            ],
+                            "guid": "c2mw2Uh/U(",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür dienen die \\(\\alpha\\)-1,6 Verzweigungen des Glykogens?<div>{{c1::<div>Löslichkeit des Glykogens steigt&nbsp;</div><div>viele nicht-reduzierenden Enden (4'-OH), wo Enzyme für Auf- und Abbau arbeiten</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "g[lG#[S?Mu",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie arbeitet das branching enzym für die \\(\\alpha\\)-1,6 Verzweigungen des Glykogens?<div>{{c1::Das branching Enzym nimmt einen 7-Block des Glucosemoleküls und lädt es sich auf einen Aspartatrest im. Dabei addiert es die \\(\\alpha\\)-1,6 Verzweigungen an einer anderen Stelle.}}</div>",
+                                "<img src=\"paste-49261795ebc32b60e9f2394eb633c290f5739c54.jpg\">"
+                            ],
+                            "guid": "MU2@:QMO(J",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Kohlenhydrate"
