@@ -600,6 +600,7 @@
                         "paste-01cac73294ddcea5c7d638c76e71efc805cf6107.jpg",
                         "paste-0286a5bd545d5472e75ec013b4a16db102a32cd0.jpg",
                         "paste-09003cf66b209f339190e93fda046291d02adb2f.jpg",
+                        "paste-0bbc8c012a21503435c19b8be1f51bb1f6cf181c.jpg",
                         "paste-0dc6a13a10c52f82e8a405511d9432947240b8e5.jpg",
                         "paste-105fef2115a3618725c1857f9f0f2cda6c17d788.jpg",
                         "paste-131170389dcf244a66ac59a3e335e405c76b8421.jpg",
@@ -616,6 +617,7 @@
                         "paste-2b09380c60e62ef7a99ffca3d8d88eb7bab5718c.jpg",
                         "paste-30e594bc997cf87ab62a612084fa72b9a082c287.jpg",
                         "paste-3249ddaf96b54fdcda10273f7019f53e20c70820.jpg",
+                        "paste-34e5c2b40eb7b3a04bd371a496cc66c460d45ce1.jpg",
                         "paste-36b96f2bf8ac2b67c933a57ae9cb96ccaece4c86.jpg",
                         "paste-387834fa6cfcc72bb7a20594e2bbb78bf01d85cc.jpg",
                         "paste-3bec05f6011f249c9fcefd6d8075a4f65bb750b4.jpg",
@@ -623,9 +625,11 @@
                         "paste-415d2e4c7410d2dee8ac6e49d412ce97468c5934.png",
                         "paste-41e8004efb5fa85968fcb26fb565af59d13496fa.jpg",
                         "paste-423c11a8f5940e4326ecebbb492c9611784e4211.jpg",
+                        "paste-460a9dc2b7f100e9feb2dd595f0efbb299f2eddc.jpg",
                         "paste-461378ddc34889a6e16406db2b2a6827b88d2ee6.jpg",
                         "paste-461be06ad1897409d0ff333a5bbf4069f5642e1d.jpg",
                         "paste-467c8a7fd32541300f37f870b0c36cdce35698f5.jpg",
+                        "paste-4866616e7fe978749d953e58dd7fef90c190100d.jpg",
                         "paste-48e1ffe6ea8084c344119a9c174df1732196bbaa.jpg",
                         "paste-49261795ebc32b60e9f2394eb633c290f5739c54.jpg",
                         "paste-4ae35fad5bb7c2b06dc2229b5820ee5c685fc3dd.jpg",
@@ -651,6 +655,7 @@
                         "paste-6d3c9df4b87155bc16e33028aa2cee2c87a935c2.jpg",
                         "paste-6d82f5cfa6df2e8c1090d5bdcb9af464bd4c6080.jpg",
                         "paste-6dad3b52f047e0135754a5aef21d3d71bf52a57e.jpg",
+                        "paste-707bb3ad3bb17db6f2cb931c7cf1a65f9367cfec.jpg",
                         "paste-72cb1db86fe3e59e3acea41d01b1c522877e0e87.jpg",
                         "paste-743c432bb34ec1f1cdee8aa682b3c8109619aa0c.jpg",
                         "paste-74fda7e519f23afc76244fae99207336ce3224c3.jpg",
@@ -660,11 +665,14 @@
                         "paste-77d6f6266afdb01035c7d5d5db197b6a65ff5411.jpg",
                         "paste-7bae036327b1b46ac089d245cb0a6f7dd86d8b9e.jpg",
                         "paste-7c1efe0ffc3bc1797070f58ccdce9d4f328d0ddf.jpg",
+                        "paste-7d020583475640354430aa780928e4a39bd2246d.jpg",
                         "paste-7e0d0bb3b15a2620d849c1658ed02a96183fc944.jpg",
                         "paste-7fc840e1782c683a6afa32752fd75d458a8efd8d.jpg",
                         "paste-844c25d39ef75f198c09f7ad936f377ebc66b973.jpg",
                         "paste-854c970f00c84861d20b4a351fbc8f0e377bd2c5.jpg",
+                        "paste-87401b7e9a67601099484da5099003edad03bf65.jpg",
                         "paste-8bff8c237030719ef990130b061ebfdadbe99edb.jpg",
+                        "paste-8cd6e377ba372f1a4b00e3b7f02700f4b19dbfb1.jpg",
                         "paste-8dd52533525745456a52955b25d03fb89eec62ac.jpg",
                         "paste-959af3781550a1aeebe0d394600f36b9aae5d731.jpg",
                         "paste-979547a48f9092654156afbc4d47c29c268d62f1.jpg",
@@ -701,6 +709,8 @@
                         "paste-dad21ad54d5f4151a0e31dcb38bd18b99335672b.jpg",
                         "paste-db6141c9458a5ef298c1f9b842e1c1d1fc0b02af.jpg",
                         "paste-dbb46b84b70adec04b1f5cf7436bb61e0e21944a.jpg",
+                        "paste-dc1c71f3f2786627a003f0fae3f8433659405728.jpg",
+                        "paste-dcce37438e9b4621fcd8cccf983984e8ed1150b0.jpg",
                         "paste-e76c5fa5f943301dc7bf6732d5439d56e5ca9aef.jpg",
                         "paste-e7bd3ba68681aa78a6149f058e58d99c2e9f6ceb.jpg",
                         "paste-ec922d760f04e5c0a3250b84d00c664d5aee9ccf.jpg",
@@ -5056,10 +5066,130 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie arbeitet das branching enzym für die \\(\\alpha\\)-1,6 Verzweigungen des Glykogens?<div>{{c1::Das branching Enzym nimmt einen 7-Block des Glucosemoleküls und lädt es sich auf einen Aspartatrest im. Dabei addiert es die \\(\\alpha\\)-1,6 Verzweigungen an einer anderen Stelle.}}</div>",
+                                "Wie arbeitet das branching enzym für die \\(\\alpha\\)-1,6 Verzweigungen des Glykogens?<div>{{c1::Das branching Enzym nimmt einen 7-Block des Glucosemoleküls und lädt es sich auf einen Aspartatrest. Dabei addiert es die \\(\\alpha\\)-1,6 Verzweigungen an einer anderen Stelle.}}</div>",
                                 "<img src=\"paste-49261795ebc32b60e9f2394eb633c290f5739c54.jpg\">"
                             ],
                             "guid": "MU2@:QMO(J",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten gibt es von der Phosphorylase?<div>{{c1::a und b in jeweils A- und T-Zustand}}</div>",
+                                "<img src=\"paste-4866616e7fe978749d953e58dd7fef90c190100d.jpg\">"
+                            ],
+                            "guid": "`LG_zL1R)",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Konformation kommt die Phosphorylase b am meisten vor?<div>{{c1::im T-Zustand}}</div>",
+                                "<img src=\"paste-707bb3ad3bb17db6f2cb931c7cf1a65f9367cfec.jpg\">"
+                            ],
+                            "guid": "G19fnJU!~|",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Phosphorylase ihre Konformation ändern?<div>{{c1::durch die Phosphorylierung</div><div>siehe grün und blau}}</div>",
+                                "<img src=\"paste-0bbc8c012a21503435c19b8be1f51bb1f6cf181c.jpg\">"
+                            ],
+                            "guid": "th*zK:%LO8",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die \\(\\alpha\\)-Helix im T-Zustand bei der allosterischen Regulation der Glykogenphosphorylase im Muskel?<div>{{c1::blockiert}}</div>",
+                                "<img src=\"paste-dcce37438e9b4621fcd8cccf983984e8ed1150b0.jpg\">"
+                            ],
+                            "guid": "i@uE{SeQt~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die \\(\\alpha\\)-Helix im T-Zustand aus dem aktiven Zentrum bei der allosterischen Regulation der Glykogenphosphorylase im Muskel gezogen?<div>{{c1::<img src=\"paste-8cd6e377ba372f1a4b00e3b7f02700f4b19dbfb1.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "HZI[4OWmU`",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was macht Glucose bei der allosterischen Regulation der Glykogenphosphorylase in der Leber?<div>{{c1::wirkt als negativer allosterischer Effektor und verschiebt die Phosphorylase a in Richtung des T-Zustandes}}</div>",
+                                "<img src=\"paste-87401b7e9a67601099484da5099003edad03bf65.jpg\">"
+                            ],
+                            "guid": "N>`f/,tux+",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wodurch wird die Phosphorylierung reguliert?<div>{{c1::durch die Phosphorylasekinase}}</div>",
+                                "<img src=\"paste-dc1c71f3f2786627a003f0fae3f8433659405728.jpg\">"
+                            ],
+                            "guid": "Q3mh}OzoeL",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was kann die Proteinkinase A noch noch phosphorylieren?<div>{{c1::die Glykogensythase-&gt;führt zur Deaktivierung-&gt;Glykogenabbau}}</div>",
+                                "<img src=\"paste-460a9dc2b7f100e9feb2dd595f0efbb299f2eddc.jpg\">"
+                            ],
+                            "guid": "K*ZrUT-{F!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert mit dem Glykogen bei einer Dephosphorylierung?<div>{{c1::inhibiert Glykogenabbau und stimuliert Glykogensynthese}}</div>",
+                                "<img src=\"paste-34e5c2b40eb7b3a04bd371a496cc66c460d45ce1.jpg\">"
+                            ],
+                            "guid": "H2>feXH#KO",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Gegenhormon von Adrenalin?<div>{{c1::Insulin}}</div>",
+                                "<img src=\"paste-7d020583475640354430aa780928e4a39bd2246d.jpg\">"
+                            ],
+                            "guid": "A5*gVGJR@d",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Kohlenhydrate"
