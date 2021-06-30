@@ -615,6 +615,7 @@
                         "paste-228428d889129f6092f704fe5ded20834729ec13.jpg",
                         "paste-262d0b1b63343c51e51fab6ab506e5fb450ebc0f.jpg",
                         "paste-2b09380c60e62ef7a99ffca3d8d88eb7bab5718c.jpg",
+                        "paste-2e8bfdd9f210b7da02d0cceef2e31f95f57b69e6.jpg",
                         "paste-30e594bc997cf87ab62a612084fa72b9a082c287.jpg",
                         "paste-3249ddaf96b54fdcda10273f7019f53e20c70820.jpg",
                         "paste-34e5c2b40eb7b3a04bd371a496cc66c460d45ce1.jpg",
@@ -634,6 +635,7 @@
                         "paste-49261795ebc32b60e9f2394eb633c290f5739c54.jpg",
                         "paste-4ae35fad5bb7c2b06dc2229b5820ee5c685fc3dd.jpg",
                         "paste-4bb76906fc62e741a448df7c608f1afc6611d978.jpg",
+                        "paste-4f6fb1f627f64dcc788ea91b4a15064e59e14864.jpg",
                         "paste-525a8ae2ce55d3b5188a0e7941a28e3b8b237c33.jpg",
                         "paste-52982cbfc636e5b7f164e9490466d21342572f52.jpg",
                         "paste-5319e749b0facc4b73fbfe9d4ac75dd1aecf1f8b.jpg",
@@ -668,12 +670,14 @@
                         "paste-7d020583475640354430aa780928e4a39bd2246d.jpg",
                         "paste-7e0d0bb3b15a2620d849c1658ed02a96183fc944.jpg",
                         "paste-7fc840e1782c683a6afa32752fd75d458a8efd8d.jpg",
+                        "paste-809cd8769f817801c28f7323d16968ecd0fe804c.jpg",
                         "paste-844c25d39ef75f198c09f7ad936f377ebc66b973.jpg",
                         "paste-854c970f00c84861d20b4a351fbc8f0e377bd2c5.jpg",
                         "paste-87401b7e9a67601099484da5099003edad03bf65.jpg",
                         "paste-8bff8c237030719ef990130b061ebfdadbe99edb.jpg",
                         "paste-8cd6e377ba372f1a4b00e3b7f02700f4b19dbfb1.jpg",
                         "paste-8dd52533525745456a52955b25d03fb89eec62ac.jpg",
+                        "paste-9087c3917653cc8dc13d065e491343074e7c29dd.jpg",
                         "paste-959af3781550a1aeebe0d394600f36b9aae5d731.jpg",
                         "paste-979547a48f9092654156afbc4d47c29c268d62f1.jpg",
                         "paste-97a32a47cdcd0e77a9ed6c16ab9a491eb9238603.jpg",
@@ -5193,6 +5197,54 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu neigen Lipide im wässrigen Milieu?<div>{{c1::zur Selbstaggregation -&gt; dadurch auch selbstreparierend}}</div>",
+                                "<img src=\"paste-4f6fb1f627f64dcc788ea91b4a15064e59e14864.jpg\">"
+                            ],
+                            "guid": "O2RW#ET)Km",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist ein Lipid aufgebaut?<div>{{c1::<img src=\"paste-809cd8769f817801c28f7323d16968ecd0fe804c.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "qq?2h4FKjk",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein wichtiges Lipid, welches die Nervenscheiden umgibt?<div>{{c1::Sphingomyelin}}</div>",
+                                "<img src=\"paste-9087c3917653cc8dc13d065e491343074e7c29dd.jpg\">"
+                            ],
+                            "guid": "HESE^%onsk",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welches Lipid wird nur in tierischen Organismen produziert?<div>{{c1::Cholesterin}}&nbsp;</div>",
+                                "<img src=\"paste-2e8bfdd9f210b7da02d0cceef2e31f95f57b69e6.jpg\">"
+                            ],
+                            "guid": "erga4/y6m/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
                             ]
                         }
                     ]
@@ -10589,7 +10641,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Biochemie::Kohlenhydrate"
+                "Biochemie::Membranen"
             ],
             "tmpls": [
                 {
