@@ -633,6 +633,8 @@
                         "paste-4866616e7fe978749d953e58dd7fef90c190100d.jpg",
                         "paste-48e1ffe6ea8084c344119a9c174df1732196bbaa.jpg",
                         "paste-49261795ebc32b60e9f2394eb633c290f5739c54.jpg",
+                        "paste-4acf26679298b5f456bbfd63e1a8130153a56ee7.jpg",
+                        "paste-4adf51a14a2369083e63961a2b7ddb6d7dc60957.jpg",
                         "paste-4ae35fad5bb7c2b06dc2229b5820ee5c685fc3dd.jpg",
                         "paste-4bb76906fc62e741a448df7c608f1afc6611d978.jpg",
                         "paste-4f6fb1f627f64dcc788ea91b4a15064e59e14864.jpg",
@@ -643,6 +645,7 @@
                         "paste-541ad31236ead854b5fae02dac82909180c1d36c.jpg",
                         "paste-5474a9201b7817a99196ba88aad7d8bdfbc22df7.jpg",
                         "paste-580b8808a3e9fea2c89e5c20c473cacbff8b88f2.jpg",
+                        "paste-5b5c09c962c44d3334c6bafa9cacb17d2bac7d03.jpg",
                         "paste-620095843e3cf87690fc4b637d14fd2aca698456.jpg",
                         "paste-629ceb138bec98be19db221c7f4fd12d8901811c.jpg",
                         "paste-6331b029476e7ef2ac2920cffeec31e5910a7101.jpg",
@@ -660,6 +663,7 @@
                         "paste-707bb3ad3bb17db6f2cb931c7cf1a65f9367cfec.jpg",
                         "paste-72cb1db86fe3e59e3acea41d01b1c522877e0e87.jpg",
                         "paste-743c432bb34ec1f1cdee8aa682b3c8109619aa0c.jpg",
+                        "paste-74672f9340d00cbb508f8c234664711a8f8a0dc4.jpg",
                         "paste-74fda7e519f23afc76244fae99207336ce3224c3.jpg",
                         "paste-751e9b7c16160bd401d6e63cf295897477915b42.jpg",
                         "paste-76f7dee4e21d0c53352d3173f842fb6b5df0f3b9.jpg",
@@ -687,6 +691,7 @@
                         "paste-a3ed76a8b824a8aa54327d991dfb015228497ec4.jpg",
                         "paste-a47e2f5f0633c1c889ba001e51c33c9ca12a9630.jpg",
                         "paste-a4e4a9647321978c76a2adbf738d176a2ccbaeed.jpg",
+                        "paste-a63f05771478302ec0e66e76bcf8c86178f13772.jpg",
                         "paste-a80c8c183e9a30549ab023aee8d5f23c4ee4d63a.jpg",
                         "paste-a8e6de1bd1e64f9322fd8516c801d6c19fe646be.jpg",
                         "paste-a9b8f48144bc83b3feaa59dd69adf73638c8a7c9.jpg",
@@ -708,6 +713,7 @@
                         "paste-c272bb38d222a024f3e6a360240605775f59f0bc.jpg",
                         "paste-c4d3f57d875aa5471cd674e477c4dba504050e19.jpg",
                         "paste-cf9d4ad787c53b57814bfb72b635e920077d8bc9.jpg",
+                        "paste-d0d3b8c2aa0b32a59f839b5071e6d3e39348c675.jpg",
                         "paste-d0e77198984e6a688a12f0196a4824eb5c750be2.jpg",
                         "paste-d578331580628aaaba55d41e406daf5bf2ada8a0.jpg",
                         "paste-dad21ad54d5f4151a0e31dcb38bd18b99335672b.jpg",
@@ -724,6 +730,7 @@
                         "paste-ef33e25b398364924af054124cb45c9268eff526.jpg",
                         "paste-ef641165a663107beb24f13b58351b0872efb74e.jpg",
                         "paste-f1b5a872a7151f5eeefd1331f283f2ed29ec7a86.jpg",
+                        "paste-f47e70705a3cfca49078edced439c2bcac893f4d.jpg",
                         "paste-f49ad8e2d0ba2a59da061486a5dc1c9acca2b44a.jpg",
                         "paste-f80b6aad524ccf5e1d7d94f90fc634839a7c163d.jpg",
                         "paste-f924dbef35590c92e1c9db317f27bcd0718c2de8.jpg",
@@ -5242,6 +5249,102 @@
                                 "<img src=\"paste-2e8bfdd9f210b7da02d0cceef2e31f95f57b69e6.jpg\">"
                             ],
                             "guid": "erga4/y6m/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu wird Cholesterin benötigt?<div>{{c1::um die Membranfluidität zu regulieren}}</div>",
+                                "<img src=\"paste-74672f9340d00cbb508f8c234664711a8f8a0dc4.jpg\">"
+                            ],
+                            "guid": "F^!YWi>.KM",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Membran bei niedriger Temperatur unter Cholesterineinfluss?<div>{{c1::flüssig}}</div>",
+                                "<img src=\"paste-74672f9340d00cbb508f8c234664711a8f8a0dc4.jpg\">"
+                            ],
+                            "guid": "ckIP|#z0Ji",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Membran bei hoher Temperatur unter Cholesterineinfluss?<div>{{c1::fest}}</div>",
+                                "<img src=\"paste-f47e70705a3cfca49078edced439c2bcac893f4d.jpg\">"
+                            ],
+                            "guid": "x7_Z4k.uQ&",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Durch was wird die Membranpermeabilität gemessen?<div>{{c1::black membrane system}}</div>",
+                                "<img src=\"paste-4adf51a14a2369083e63961a2b7ddb6d7dc60957.jpg\">"
+                            ],
+                            "guid": "i7WK@$v{O_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Einheit wird die Permeabilität der Membran angegeben?<div>{{c1::<img src=\"paste-5b5c09c962c44d3334c6bafa9cacb17d2bac7d03.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "q#4z|B!ZXc",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man die Proteine, welche die Membran komplett durchqueren und somit verbinden?<div>{{c1::integrale Membranproteine}}</div>",
+                                "<img src=\"paste-d0d3b8c2aa0b32a59f839b5071e6d3e39348c675.jpg\">"
+                            ],
+                            "guid": "wo[9V~@Lon",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind integrale Membranproteine?<div>{{c1::Proteine, welche die Membran komplett durchqueren und somit verbinden}}</div>",
+                                "<img src=\"paste-a63f05771478302ec0e66e76bcf8c86178f13772.jpg\">"
+                            ],
+                            "guid": "H/W3sSpDNi",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können Membranen noch verbunden werden, außer durch integrale Membranproteine?<div>{{c1::durch \\(\\beta\\)-Faltblätter}}</div>",
+                                "<img src=\"paste-4acf26679298b5f456bbfd63e1a8130153a56ee7.jpg\">"
+                            ],
+                            "guid": "gY[ok./p7Y",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Membranen"
