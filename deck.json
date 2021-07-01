@@ -601,8 +601,10 @@
                         "paste-0286a5bd545d5472e75ec013b4a16db102a32cd0.jpg",
                         "paste-09003cf66b209f339190e93fda046291d02adb2f.jpg",
                         "paste-0bbc8c012a21503435c19b8be1f51bb1f6cf181c.jpg",
+                        "paste-0cc2ae3c8e43581da0b31bf083720cd241c8fdde.jpg",
                         "paste-0dc6a13a10c52f82e8a405511d9432947240b8e5.jpg",
                         "paste-105fef2115a3618725c1857f9f0f2cda6c17d788.jpg",
+                        "paste-10aa7af64703c718485126d80babf0aa65efdc86.jpg",
                         "paste-131170389dcf244a66ac59a3e335e405c76b8421.jpg",
                         "paste-13f739c0e26ad3dab654373c1a2a8925504d8872.jpg",
                         "paste-1451381b744e965b0f72c4f7655570c56a45e54b.jpg",
@@ -610,6 +612,7 @@
                         "paste-1b9ffa510984800f27e6c44169336375ffcd7f9b.jpg",
                         "paste-1e91021a6593fe2f54c53e8454e654d8eb8b45f8.jpg",
                         "paste-1f6cf3ec5bbb69fd693bd10df92ecfd0a4ddd557.jpg",
+                        "paste-2000e3f246e5a857bcc6a5adb9daabf12084480c.jpg",
                         "paste-21914c257333cb4c2b04f51444c74f6539640ee9.jpg",
                         "paste-21ab73a795c80112b423659377c6e62a5d834b04.jpg",
                         "paste-228428d889129f6092f704fe5ded20834729ec13.jpg",
@@ -655,6 +658,7 @@
                         "paste-6793de30b4bd58551574cd0cbdbbadde117f3bf2.jpg",
                         "paste-6ac8693e01acc10d7b2e58510a46a95c418f1471.jpg",
                         "paste-6b708e1505e5f2a5ce965a6ea57f2d029f966cd7.jpg",
+                        "paste-6c40912afe1e8f1f52227c9a0fdfea2b3f2e5837.jpg",
                         "paste-6c4154d40e8dcb769494e411bc097a98b96e93cf.jpg",
                         "paste-6ce5fa0c60ca568141301c16ca4194e11526c174.jpg",
                         "paste-6d3c9df4b87155bc16e33028aa2cee2c87a935c2.jpg",
@@ -672,6 +676,7 @@
                         "paste-7bae036327b1b46ac089d245cb0a6f7dd86d8b9e.jpg",
                         "paste-7c1efe0ffc3bc1797070f58ccdce9d4f328d0ddf.jpg",
                         "paste-7d020583475640354430aa780928e4a39bd2246d.jpg",
+                        "paste-7d31f17031d3a20e6c776953adbe24fa2116b65b.jpg",
                         "paste-7e0d0bb3b15a2620d849c1658ed02a96183fc944.jpg",
                         "paste-7fc840e1782c683a6afa32752fd75d458a8efd8d.jpg",
                         "paste-809cd8769f817801c28f7323d16968ecd0fe804c.jpg",
@@ -711,8 +716,11 @@
                         "paste-c199ef6232a2d01d438062320a674c0e064c70da.jpg",
                         "paste-c1ac419bae1129eb17738f1d54038fb84b847d7b.jpg",
                         "paste-c272bb38d222a024f3e6a360240605775f59f0bc.jpg",
+                        "paste-c4525e4ecfb50ebac2b0a7b872ea19c4f6ab9dcb.jpg",
                         "paste-c4d3f57d875aa5471cd674e477c4dba504050e19.jpg",
+                        "paste-c7a4b060b85cdfdc707c384dacf517a93801384e.jpg",
                         "paste-cf9d4ad787c53b57814bfb72b635e920077d8bc9.jpg",
+                        "paste-d06296129426633cce04012b92f2c643366fba80.jpg",
                         "paste-d0d3b8c2aa0b32a59f839b5071e6d3e39348c675.jpg",
                         "paste-d0e77198984e6a688a12f0196a4824eb5c750be2.jpg",
                         "paste-d578331580628aaaba55d41e406daf5bf2ada8a0.jpg",
@@ -721,6 +729,7 @@
                         "paste-dbb46b84b70adec04b1f5cf7436bb61e0e21944a.jpg",
                         "paste-dc1c71f3f2786627a003f0fae3f8433659405728.jpg",
                         "paste-dcce37438e9b4621fcd8cccf983984e8ed1150b0.jpg",
+                        "paste-e051e1a975e699fd2b8ed6a6b4beb01ea3d60898.jpg",
                         "paste-e76c5fa5f943301dc7bf6732d5439d56e5ca9aef.jpg",
                         "paste-e7bd3ba68681aa78a6149f058e58d99c2e9f6ceb.jpg",
                         "paste-ec922d760f04e5c0a3250b84d00c664d5aee9ccf.jpg",
@@ -5345,6 +5354,102 @@
                                 "<img src=\"paste-4acf26679298b5f456bbfd63e1a8130153a56ee7.jpg\">"
                             ],
                             "guid": "gY[ok./p7Y",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was steht den integralen Membranproteinen gegenüber?<div>{{c1::die peripheren Membranproteine}}</div>",
+                                "<div>Bsp.:</div><div><img src=\"paste-10aa7af64703c718485126d80babf0aa65efdc86.jpg\"><br></div>"
+                            ],
+                            "guid": "IF>:=cumf~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert die Membranverankerung?<div>{{c1::Proteine halten sich durch hydrophobe Moleküle, welche nach der Translation an die Proteine angefügt werden, an der Membran fest.}}</div>",
+                                "<img src=\"paste-0cc2ae3c8e43581da0b31bf083720cd241c8fdde.jpg\">"
+                            ],
+                            "guid": "kV]BUnk7:]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was liefert ein Hydropathiediagramm?<div>{{c1::eine Voraussage von Transmembransequenzen}}</div>",
+                                "<img src=\"paste-2000e3f246e5a857bcc6a5adb9daabf12084480c.jpg\"><div><img src=\"paste-6c40912afe1e8f1f52227c9a0fdfea2b3f2e5837.jpg\"><br></div>"
+                            ],
+                            "guid": "cH]lqsB1P<",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was heißt die Abkürzung FRAP?<div>{{c1::<img src=\"paste-d06296129426633cce04012b92f2c643366fba80.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "u+9;NK(zE/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wodurch kann die Membrandiffusion gemessen werden?<div>{{c1::durch die FRAP</div><div>grün:fluoreszensierte Membran, durch Laser wird eine Bleichstelle erschaffen, Messung der Fluoreszenz durch Messung der Diffusion der Moleküle<br></div><div>}}</div>",
+                                "<img src=\"paste-c4525e4ecfb50ebac2b0a7b872ea19c4f6ab9dcb.jpg\">"
+                            ],
+                            "guid": "BmJ!5B4R,S",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Diffusion kann mit Hilfe von FRAP gemessen werden?<div>{{c1::die laterale}}</div>",
+                                "<img src=\"paste-c7a4b060b85cdfdc707c384dacf517a93801384e.jpg\">"
+                            ],
+                            "guid": "^<l4xCTUh",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Membrandiffusionsarten gibt es?<div>{{c1::laterale und transverse}}</div>",
+                                "<img src=\"paste-e051e1a975e699fd2b8ed6a6b4beb01ea3d60898.jpg\">"
+                            ],
+                            "guid": "et?NC](@GE",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die transverse Diffusion analysiert werden?<div>{{c1::durch die Elektronenspinresonanz}}</div>",
+                                "<img src=\"paste-7d31f17031d3a20e6c776953adbe24fa2116b65b.jpg\">"
+                            ],
+                            "guid": "QHAnfQa/u|",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Membranen"
