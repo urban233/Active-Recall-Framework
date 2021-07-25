@@ -592,6 +592,35 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "07caa59da3924d7186277022c0e522a8-ao-1-A.svg",
+                        "07caa59da3924d7186277022c0e522a8-ao-1-Q.svg",
+                        "07caa59da3924d7186277022c0e522a8-ao-2-A.svg",
+                        "07caa59da3924d7186277022c0e522a8-ao-2-Q.svg",
+                        "07caa59da3924d7186277022c0e522a8-ao-3-A.svg",
+                        "07caa59da3924d7186277022c0e522a8-ao-3-Q.svg",
+                        "07caa59da3924d7186277022c0e522a8-ao-O.svg",
+                        "2ed6ec4d30a94bdb9778251e41bc036f-ao-1-A.svg",
+                        "2ed6ec4d30a94bdb9778251e41bc036f-ao-1-Q.svg",
+                        "2ed6ec4d30a94bdb9778251e41bc036f-ao-2-A.svg",
+                        "2ed6ec4d30a94bdb9778251e41bc036f-ao-2-Q.svg",
+                        "2ed6ec4d30a94bdb9778251e41bc036f-ao-O.svg",
+                        "79b1cfabbeae41949d9b98ec05f5e6c6-ao-1-A.svg",
+                        "79b1cfabbeae41949d9b98ec05f5e6c6-ao-1-Q.svg",
+                        "79b1cfabbeae41949d9b98ec05f5e6c6-ao-2-A.svg",
+                        "79b1cfabbeae41949d9b98ec05f5e6c6-ao-2-Q.svg",
+                        "79b1cfabbeae41949d9b98ec05f5e6c6-ao-O.svg",
+                        "943e486d14ca4cdd93251db08d52604f-ao-1-A.svg",
+                        "943e486d14ca4cdd93251db08d52604f-ao-1-Q.svg",
+                        "943e486d14ca4cdd93251db08d52604f-ao-2-A.svg",
+                        "943e486d14ca4cdd93251db08d52604f-ao-2-Q.svg",
+                        "943e486d14ca4cdd93251db08d52604f-ao-O.svg",
+                        "Screenshot 2021-07-25 161810.jpg",
+                        "Untitled-967b05851756947674aaf0c53e0d19366ea3b3eb.png",
+                        "a7f6d34e12e24a7c86fa443f249e7f60-ao-1-A.svg",
+                        "a7f6d34e12e24a7c86fa443f249e7f60-ao-1-Q.svg",
+                        "a7f6d34e12e24a7c86fa443f249e7f60-ao-2-A.svg",
+                        "a7f6d34e12e24a7c86fa443f249e7f60-ao-2-Q.svg",
+                        "a7f6d34e12e24a7c86fa443f249e7f60-ao-O.svg",
                         "paste-0337c1b113ff719850d47530b811320749b136c6.jpg",
                         "paste-0a4a4eaf9763da1fcafdfbc184db05ed440a712b.jpg",
                         "paste-0ac64126345219d81b87b598a6dc4b697e341be0.jpg",
@@ -606,8 +635,10 @@
                         "paste-488f206300cafbf08abb84e1cfe437334d2d52f8.jpg",
                         "paste-4acf26679298b5f456bbfd63e1a8130153a56ee7.jpg",
                         "paste-4adf51a14a2369083e63961a2b7ddb6d7dc60957.jpg",
+                        "paste-50b3f541f70db0380bab7f8ad4651d9f75e4065a.jpg",
                         "paste-526f66d923b1324dd25d128f35c0d7f2fea5b593.jpg",
                         "paste-53c69d62075e9bc4fd984c3f9459abef1d2b3c36.jpg",
+                        "paste-53fa4fc36f5004d2c62ebc6345c507294336d0ba.jpg",
                         "paste-5862ba378325096d61f4bd612d8f3a50ea456bac.jpg",
                         "paste-5c481fce7cf02b65bcd6996faece378162f28d5b.jpg",
                         "paste-5d9873c9bd6b794ae12e676b5ea8744a1a5e1e30.jpg",
@@ -635,13 +666,18 @@
                         "paste-d5f5eb4aaee0633adf9351af720692bf2874e770.jpg",
                         "paste-d80f118d5655e6845a1571a77eeb4da55ccb2419.jpg",
                         "paste-d85916c733a95e368c81a143e3f001077063f40e.jpg",
+                        "paste-dae4d69b763d2da20130b382d2364dc5ac16e540.jpg",
                         "paste-dcffe26748e93a74ca894db74fcdb0581dfaa31a.jpg",
                         "paste-df93897694c220b01f429ed23bb64c6b7cff1e95.jpg",
                         "paste-dfa286949c1a707bf0662b4956941c20976e1e37.jpg",
                         "paste-e051e1a975e699fd2b8ed6a6b4beb01ea3d60898.jpg",
                         "paste-e4fa24c19816d023668d1e65ba93cbafc1c49587.jpg",
+                        "paste-e9ba613540619e82f678ff0642fd9ec4d14e62c4.jpg",
                         "paste-ea3214fbaa3f8d3ea477d28d70c10bceee49897c.jpg",
                         "paste-f052f025f05b8c902925d14e99fa8e488f162ea8.jpg",
+                        "paste-f0af3f4f71c5176d79223aa03f9e70cdbc2532f5.jpg",
+                        "paste-f13459582803e0159e07970efa91f8d8a28a5f4c.jpg",
+                        "paste-f57d8bfeb285cf05a4fc459df5a062c621ba7c22.jpg",
                         "paste-f9d20c0e0bb1a3cd93b4b896342ce1c595120174.jpg",
                         "paste-ffe650386705e4ad1ab91d5fd3fe0c9fce13657e.jpg"
                     ],
@@ -1305,6 +1341,405 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man einen Zucker der aus 5 C-Atomen besteht?<div>{{c1::Pentose}}</div>",
+                                ""
+                            ],
+                            "guid": "u+C|%$1}(m",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man einen Zucker der aus 6 C-Atomen besteht?<div>{{c1::Hexose}}</div>",
+                                ""
+                            ],
+                            "guid": "b3x&PL`&<U",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man einen Zucker der eine Aldeyhd-Gruppe besitzt?<div>{{c1::Aldose}}</div>",
+                                ""
+                            ],
+                            "guid": "ulo*G%%4q&",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man einen Zucker der eine Keto-Gruppe besitzt?<div>{{c1::Ketose}}</div>",
+                                ""
+                            ],
+                            "guid": "Hs[q}@idrg",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Proteoglykan?<div>{{c1::Dies ist ein Polysaccharid welches proteingebunden vorliegt. Ein Beispiel für ein Proteogylkan ist das Murein.}}<br></div>",
+                                "<img src=\"Untitled-967b05851756947674aaf0c53e0d19366ea3b3eb.png\">"
+                            ],
+                            "guid": "rgQ&:%3<?o",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Glykoprotein?<div>{{c1::Das sind Proteine, mit einem Zuckeranteil von 1 - 90% des Eigengewichts.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "E$/P1<Q>fo",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Vorteil von Glykoproteinen?<div>{{c1::Durch den gebundenen Zucker sind sie wasserlöslicher}}</div>",
+                                ""
+                            ],
+                            "guid": "w4t<qjzFn:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Reaktion der Glykogensynthese?<div>{{c1::UDP-Glucose + Glykogen → UDP + Glykogen}}<br></div>",
+                                "<img src=\"paste-50b3f541f70db0380bab7f8ad4651d9f75e4065a.jpg\">"
+                            ],
+                            "guid": "D;h?`-c5go",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Reaktion zur Gewinnung von UDP-Glucose?<div>{{c1::<img src=\"paste-f0af3f4f71c5176d79223aa03f9e70cdbc2532f5.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "wR)G_*=ZM}",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Art von Verzweigungen gibt es beim Glykogen?<div>{{c1::\\(\\alpha\\)-1,4 und \\(\\alpha\\)-1,6-Verzweigungen}}<br></div>",
+                                "<img src=\"paste-dae4d69b763d2da20130b382d2364dc5ac16e540.jpg\">"
+                            ],
+                            "guid": "E@#`AI0uwb",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welches Enzym spaltet \\(\\alpha\\)-1,4-Verweigungen?<div>{{c1::Phosphorylase}}<br></div>",
+                                "<img src=\"paste-53fa4fc36f5004d2c62ebc6345c507294336d0ba.jpg\">"
+                            ],
+                            "guid": "l{@Hd8+RXx",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welches Enzym spaltet \\(\\alpha\\)-1,6-Verweigungen?<div>{{c1::\\(\\alpha\\)-1,6-Glucosidase}}<br></div>",
+                                "<img src=\"paste-f57d8bfeb285cf05a4fc459df5a062c621ba7c22.jpg\">"
+                            ],
+                            "guid": "x7:Z6_~f{p",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was macht die Transferase beim entzweigen des Glykogens?<div>{{c1::Die <span style=\"font-weight:600\">Transferase</span> sorgt dann dafür, dass die Glucose-Moleküle die sich an der \\alpha-1,6-Verzweigungen befinden, an die untere Kette zu setzen.}}<br></div>",
+                                "<img src=\"paste-e9ba613540619e82f678ff0642fd9ec4d14e62c4.jpg\">"
+                            ],
+                            "guid": "v]vEMdSS%^",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Reaktion zum Glykogenabbau?<div>{{c1::<img src=\"paste-f13459582803e0159e07970efa91f8d8a28a5f4c.jpg\">}}<br></div>",
+                                "Beim Glykogenabbau wird das Glykogen-Molekül mithilfe von Hydrogenphosphat in Glucose-1-phosphat und Glykogen gespalten."
+                            ],
+                            "guid": "e&nz~|2P.:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "07caa59da3924d7186277022c0e522a8-ao-1",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-1-A.svg\" />",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-O.svg\" />"
+                            ],
+                            "guid": "q{EgQ,rk9=",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "07caa59da3924d7186277022c0e522a8-ao-2",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-2-A.svg\" />",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-O.svg\" />"
+                            ],
+                            "guid": "Oh!78i#ej@",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "07caa59da3924d7186277022c0e522a8-ao-3",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-3-A.svg\" />",
+                                "<img src=\"07caa59da3924d7186277022c0e522a8-ao-O.svg\" />"
+                            ],
+                            "guid": "qf}`kb}oei",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "943e486d14ca4cdd93251db08d52604f-ao-1",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"943e486d14ca4cdd93251db08d52604f-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"943e486d14ca4cdd93251db08d52604f-ao-1-A.svg\" />",
+                                "<img src=\"943e486d14ca4cdd93251db08d52604f-ao-O.svg\" />"
+                            ],
+                            "guid": "s`Z{mhGK(-",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "943e486d14ca4cdd93251db08d52604f-ao-2",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"943e486d14ca4cdd93251db08d52604f-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"943e486d14ca4cdd93251db08d52604f-ao-2-A.svg\" />",
+                                "<img src=\"943e486d14ca4cdd93251db08d52604f-ao-O.svg\" />"
+                            ],
+                            "guid": "Bg9T_C)HA,",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2ed6ec4d30a94bdb9778251e41bc036f-ao-1",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"2ed6ec4d30a94bdb9778251e41bc036f-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2ed6ec4d30a94bdb9778251e41bc036f-ao-1-A.svg\" />",
+                                "<img src=\"2ed6ec4d30a94bdb9778251e41bc036f-ao-O.svg\" />"
+                            ],
+                            "guid": "q6,lZVQ9b_",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2ed6ec4d30a94bdb9778251e41bc036f-ao-2",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"2ed6ec4d30a94bdb9778251e41bc036f-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2ed6ec4d30a94bdb9778251e41bc036f-ao-2-A.svg\" />",
+                                "<img src=\"2ed6ec4d30a94bdb9778251e41bc036f-ao-O.svg\" />"
+                            ],
+                            "guid": "E?eRYb>moW",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a7f6d34e12e24a7c86fa443f249e7f60-ao-1",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"a7f6d34e12e24a7c86fa443f249e7f60-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a7f6d34e12e24a7c86fa443f249e7f60-ao-1-A.svg\" />",
+                                "<img src=\"a7f6d34e12e24a7c86fa443f249e7f60-ao-O.svg\" />"
+                            ],
+                            "guid": "djL0d=k2-p",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a7f6d34e12e24a7c86fa443f249e7f60-ao-2",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"a7f6d34e12e24a7c86fa443f249e7f60-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a7f6d34e12e24a7c86fa443f249e7f60-ao-2-A.svg\" />",
+                                "<img src=\"a7f6d34e12e24a7c86fa443f249e7f60-ao-O.svg\" />"
+                            ],
+                            "guid": "J+y!n%`-CP",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "79b1cfabbeae41949d9b98ec05f5e6c6-ao-1",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"79b1cfabbeae41949d9b98ec05f5e6c6-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"79b1cfabbeae41949d9b98ec05f5e6c6-ao-1-A.svg\" />",
+                                "<img src=\"79b1cfabbeae41949d9b98ec05f5e6c6-ao-O.svg\" />"
+                            ],
+                            "guid": "q@Ucy3MCla",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "79b1cfabbeae41949d9b98ec05f5e6c6-ao-2",
+                                "",
+                                "<img src=\"Screenshot 2021-07-25 161810.jpg\" />",
+                                "<img src=\"79b1cfabbeae41949d9b98ec05f5e6c6-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"79b1cfabbeae41949d9b98ec05f5e6c6-ao-2-A.svg\" />",
+                                "<img src=\"79b1cfabbeae41949d9b98ec05f5e6c6-ao-O.svg\" />"
+                            ],
+                            "guid": "rL$(xpm_+J",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Kohlenhydrate"
                             ]
                         }
                     ]
@@ -5777,9 +6212,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "Biochemie::Membranen"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
@@ -5794,6 +6227,129 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": []
