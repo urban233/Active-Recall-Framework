@@ -585,6 +585,733 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "86b8ea11-ed2d-11eb-96c4-448a5b8ef3a7",
+                    "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-0337c1b113ff719850d47530b811320749b136c6.jpg",
+                        "paste-0a4a4eaf9763da1fcafdfbc184db05ed440a712b.jpg",
+                        "paste-0ac64126345219d81b87b598a6dc4b697e341be0.jpg",
+                        "paste-0c92ec6bb3aadf08f103edb17083ace41051847d.jpg",
+                        "paste-10aa7af64703c718485126d80babf0aa65efdc86.jpg",
+                        "paste-1664388a642a10ce0f794ae128a0dd61f11edc33.jpg",
+                        "paste-2000e3f246e5a857bcc6a5adb9daabf12084480c.jpg",
+                        "paste-20e9d119aec464584a3dd5ae7d4c00b59b63e1df.jpg",
+                        "paste-2b9890f1cb86c2ec0c481f2a91519b8c16761d1b.jpg",
+                        "paste-2e8bfdd9f210b7da02d0cceef2e31f95f57b69e6.jpg",
+                        "paste-46cc3df11d69819bf9276bff7a0f19d0523ec53d.jpg",
+                        "paste-488f206300cafbf08abb84e1cfe437334d2d52f8.jpg",
+                        "paste-4acf26679298b5f456bbfd63e1a8130153a56ee7.jpg",
+                        "paste-4adf51a14a2369083e63961a2b7ddb6d7dc60957.jpg",
+                        "paste-526f66d923b1324dd25d128f35c0d7f2fea5b593.jpg",
+                        "paste-53c69d62075e9bc4fd984c3f9459abef1d2b3c36.jpg",
+                        "paste-5862ba378325096d61f4bd612d8f3a50ea456bac.jpg",
+                        "paste-5c481fce7cf02b65bcd6996faece378162f28d5b.jpg",
+                        "paste-5d9873c9bd6b794ae12e676b5ea8744a1a5e1e30.jpg",
+                        "paste-61ff99062625b4c161c71ccf38ce9b11f13cf304.jpg",
+                        "paste-64bb27e45ab892e9788cc670cca06ec9e80e6688.jpg",
+                        "paste-6c40912afe1e8f1f52227c9a0fdfea2b3f2e5837.jpg",
+                        "paste-6cbffb959ea931bbfcedd8b7b87fe118abe3810a.jpg",
+                        "paste-6dd2c2c18f42f384ac55eac388798a155fc80fd9.jpg",
+                        "paste-71b61d00d5e4f8a9da1b35c964fd96c09f7a2650.jpg",
+                        "paste-74672f9340d00cbb508f8c234664711a8f8a0dc4.jpg",
+                        "paste-78e965be6e39aa49b754c8fd5299c040b7e7cbec.jpg",
+                        "paste-797e6e0956c9aa11b05cf0a3e384c526ec041935.jpg",
+                        "paste-853843e215d20ca3253148cbe92add926eb891ee.jpg",
+                        "paste-944e6e44851d56d1cfa008171b74d33a7c11ffac.jpg",
+                        "paste-9d1ad5441676cca27d443f5305bf62d9f4ee0519.jpg",
+                        "paste-9ea205ad81ad581a134327ddbaca63f6e92385ce.jpg",
+                        "paste-a63f05771478302ec0e66e76bcf8c86178f13772.jpg",
+                        "paste-a918d7c825a9bd102f2fe9ebd59909031d365f00.jpg",
+                        "paste-aa984e81c5dd2b02b1a7ad1708d45f1ba308e40c.jpg",
+                        "paste-b4131b1d4bd68e08fb14143c1987bef93c3255e8.jpg",
+                        "paste-b7062124047a180f825120f379dd2f73fb5d8692.jpg",
+                        "paste-bd7bed31af870726e24f6f6904f54969156ae6fc.jpg",
+                        "paste-d0d3b8c2aa0b32a59f839b5071e6d3e39348c675.jpg",
+                        "paste-d3977507534c17635587ab76a918c5d6bc675cc8.jpg",
+                        "paste-d5f5eb4aaee0633adf9351af720692bf2874e770.jpg",
+                        "paste-d80f118d5655e6845a1571a77eeb4da55ccb2419.jpg",
+                        "paste-d85916c733a95e368c81a143e3f001077063f40e.jpg",
+                        "paste-dcffe26748e93a74ca894db74fcdb0581dfaa31a.jpg",
+                        "paste-df93897694c220b01f429ed23bb64c6b7cff1e95.jpg",
+                        "paste-dfa286949c1a707bf0662b4956941c20976e1e37.jpg",
+                        "paste-e051e1a975e699fd2b8ed6a6b4beb01ea3d60898.jpg",
+                        "paste-e4fa24c19816d023668d1e65ba93cbafc1c49587.jpg",
+                        "paste-ea3214fbaa3f8d3ea477d28d70c10bceee49897c.jpg",
+                        "paste-f052f025f05b8c902925d14e99fa8e488f162ea8.jpg",
+                        "paste-f9d20c0e0bb1a3cd93b4b896342ce1c595120174.jpg",
+                        "paste-ffe650386705e4ad1ab91d5fd3fe0c9fce13657e.jpg"
+                    ],
+                    "name": "Biochemie-Vorbereitung",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welches Lipid wird nur in tierischen Organismen produziert?<div>{{c1::Cholesterin}}&nbsp;</div>",
+                                "<img src=\"paste-2e8bfdd9f210b7da02d0cceef2e31f95f57b69e6.jpg\">"
+                            ],
+                            "guid": "erga4/y6m/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu wird Cholesterin benötigt?<div>{{c1::um die Membranfluidität zu regulieren}}</div>",
+                                "<img src=\"paste-74672f9340d00cbb508f8c234664711a8f8a0dc4.jpg\">"
+                            ],
+                            "guid": "F^!YWi>.KM",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Durch was wird die Membranpermeabilität gemessen?<div>{{c1::black membrane system}}</div>",
+                                "<img src=\"paste-4adf51a14a2369083e63961a2b7ddb6d7dc60957.jpg\">"
+                            ],
+                            "guid": "i7WK@$v{O_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man die Proteine, welche die Membran komplett durchqueren und somit verbinden?<div>{{c1::integrale Membranproteine}}</div>",
+                                "<img src=\"paste-d0d3b8c2aa0b32a59f839b5071e6d3e39348c675.jpg\">"
+                            ],
+                            "guid": "wo[9V~@Lon",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind integrale Membranproteine?<div>{{c1::Proteine, welche die Membran komplett durchqueren und somit verbinden}}</div>",
+                                "<img src=\"paste-a63f05771478302ec0e66e76bcf8c86178f13772.jpg\">"
+                            ],
+                            "guid": "H/W3sSpDNi",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können Membranen noch verbunden werden, außer durch integrale Membranproteine?<div>{{c1::durch \\(\\beta\\)-Faltblätter}}</div>",
+                                "<img src=\"paste-4acf26679298b5f456bbfd63e1a8130153a56ee7.jpg\">"
+                            ],
+                            "guid": "gY[ok./p7Y",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was steht den integralen Membranproteinen gegenüber?<div>{{c1::die peripheren Membranproteine}}</div>",
+                                "<div>Bsp.:</div><div><img src=\"paste-10aa7af64703c718485126d80babf0aa65efdc86.jpg\"><br></div>"
+                            ],
+                            "guid": "IF>:=cumf~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was liefert ein Hydropathiediagramm?<div>{{c1::eine Voraussage von Transmembransequenzen}}</div>",
+                                "<img src=\"paste-2000e3f246e5a857bcc6a5adb9daabf12084480c.jpg\"><div><img src=\"paste-6c40912afe1e8f1f52227c9a0fdfea2b3f2e5837.jpg\"><br></div>"
+                            ],
+                            "guid": "cH]lqsB1P<",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Membrandiffusionsarten gibt es?<div>{{c1::laterale und transverse}}</div>",
+                                "<img src=\"paste-e051e1a975e699fd2b8ed6a6b4beb01ea3d60898.jpg\">"
+                            ],
+                            "guid": "et?NC](@GE",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für einen Charakter hat die Peptidbindung?<div>{{c1::Einen partiellen Doppelbindungscharakter}}</div>",
+                                "<img src=\"paste-1664388a642a10ce0f794ae128a0dd61f11edc33.jpg\">"
+                            ],
+                            "guid": "uZTxUwMzLk",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die logische Folgerung eines partiellen Doppelbindungscharakters?<div>{{c1::die Atome um die Bindung sind planar angeordnet --&gt; keine freie Drehbarkeit der Peptidbindung}}</div>",
+                                "<img src=\"paste-9d1ad5441676cca27d443f5305bf62d9f4ee0519.jpg\">"
+                            ],
+                            "guid": "H+d$ub#WQ5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Sekundärstrukturelemente gibt es?<div>{{c1::<div>\\(\\alpha\\)-Helix</div><div>\\(\\beta\\)-Faltblatt<br></div><div>\\(\\beta\\)-Schleife</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "p._oF2.H]z",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für eine Struktur hat die \\(\\alpha\\)-Helix?<div>{{c1::es ist eine linksherum gedrehte Spirale}}</div>",
+                                "<img src=\"paste-526f66d923b1324dd25d128f35c0d7f2fea5b593.jpg\">"
+                            ],
+                            "guid": "J}`t:JDOk,",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann eine Windung bei der \\(\\alpha\\)-Helix symbolisch ausgedrückt werden?<div>{{c1::n -&gt; n + 4}}</div>",
+                                "<img src=\"paste-f052f025f05b8c902925d14e99fa8e488f162ea8.jpg\">"
+                            ],
+                            "guid": "j%Nxe!g&j1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie hoch ist eine Spiralwindung der \\(\\alpha\\)-Helix?<div>{{c1::0,54 nm}}</div>",
+                                ""
+                            ],
+                            "guid": "qT4d^xv&(W",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die \\(\\alpha\\)-Helix stabilisiert?<div>{{c1::Die \\(\\alpha\\)-Helix wird durch WBB zwischen der C=O der ersten Aminosäure der Windung und der NH-Funktion der fünften Aminosäure der Windung.}}<br></div>",
+                                "<img src=\"paste-5c481fce7cf02b65bcd6996faece378162f28d5b.jpg\">"
+                            ],
+                            "guid": "k!0ep|:Gs8",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein coiled coil?<div>{{c1::eine superspiralisierten \\(\\alpha\\)-Helix, die durch 2 oder mehr \\(\\alpha\\)-Helices die sich ineinander winden gebildet.}}</div>",
+                                "<img src=\"paste-64bb27e45ab892e9788cc670cca06ec9e80e6688.jpg\">"
+                            ],
+                            "guid": "Bvbhsmng$>",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die logische Folgerung, für die höhere&nbsp;Stabilisierung bei einem coiled coil?<div>{{c1::&gt;1 \\(\\alpha\\)-Helix → coiled coil → höhere hydrophobe WW → bessere Stabilisierung}}<br></div>",
+                                "<img src=\"paste-aa984e81c5dd2b02b1a7ad1708d45f1ba308e40c.jpg\">"
+                            ],
+                            "guid": "#Y[&$P!kn",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für eine Struktur hat das \\(\\beta\\)-Faltblatt?<div>{{c1::Es hat eine Blattstruktur}}<br></div>",
+                                "<img src=\"paste-944e6e44851d56d1cfa008171b74d33a7c11ffac.jpg\">"
+                            ],
+                            "guid": "G-ZhiCVROc",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird das&nbsp;\\(\\beta\\)-Faltblatt stabilisiert?<div>{{c1::durch WBB zwischen unterschiedlichen Strängen stabilisiert. Diese WBB bestehen zwischen den C=O und den NH-Funktionen der einzelenen Stränge.}}<br></div>",
+                                "<img src=\"paste-488f206300cafbf08abb84e1cfe437334d2d52f8.jpg\">"
+                            ],
+                            "guid": "Ot5O[-&@9J",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was wird durch eine&nbsp;\\(\\beta\\)-Schleife erreicht?<div>{{c1::Eine Richtungsumkehr der Peptidkette}}</div>",
+                                "<img src=\"paste-b4131b1d4bd68e08fb14143c1987bef93c3255e8.jpg\">"
+                            ],
+                            "guid": "und,iR{H0#",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die&nbsp;\\(\\beta\\)-Schleife stabilisiert?<div>{{c1::durch eine WBB zwischen einem C=O und eine 3 Aminosäure entfernten NH-Funktion.}}<br></div>",
+                                "<img src=\"paste-6cbffb959ea931bbfcedd8b7b87fe118abe3810a.jpg\">"
+                            ],
+                            "guid": "mH%NWcc/sw",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Kräfte bzw. WW stabilisieren das Protein?{{c1::<div><ul><li><li>Ionenbindungen</li>\n<li>eWW</li>\n<li>WBB</li>\n<li>VdW</li>\n<li>hydrophobe WW</li>\n<li>DDW</li>}}<br></li></ul></div>",
+                                ""
+                            ],
+                            "guid": "L-|P6vNfKQ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Proteine"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Enzyme für Proteine?<div>{{c1::katalytisch aktive Proteine, die biochemische Reaktionen katalysieren}}</div>",
+                                "<img src=\"paste-0c92ec6bb3aadf08f103edb17083ace41051847d.jpg\">"
+                            ],
+                            "guid": "J@L7B2Qa[e",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum werden Enzyme in unterschiedlichen Klassen organisiert?<div>{{c1::Weil sie unterschiedliche Formen von Reaktionen katalysieren.}}</div>",
+                                "<img src=\"paste-5d9873c9bd6b794ae12e676b5ea8744a1a5e1e30.jpg\">"
+                            ],
+                            "guid": "L~lP@azeCN",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Edukte gibt es bei der Lysozymreaktion?<div>{{c1::Murein und Wasser}}</div>",
+                                "<img src=\"paste-0337c1b113ff719850d47530b811320749b136c6.jpg\">"
+                            ],
+                            "guid": "o]TkvW,.i2",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Produkte gibt es bei der Lysozymreaktion?<div>{{c1::Tetramer N-Acetylmuraminsäure (NAM) und Dimer N-Acetylgulcosamin (NAG)}}<br></div>",
+                                "<img src=\"paste-0ac64126345219d81b87b598a6dc4b697e341be0.jpg\">"
+                            ],
+                            "guid": "AdW1rapljV",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu welcher Enzymklasse gehört das Lysozym?<div>{{c1::Hydrolase}}<br></div>",
+                                "<img src=\"paste-71b61d00d5e4f8a9da1b35c964fd96c09f7a2650.jpg\">"
+                            ],
+                            "guid": "AMs6GwF|-[",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was katalysiert das Lysozym?<div>{{c1::Mureinabbau, Spaltung von Murein in NAM und NAG}}<br></div>",
+                                "<img src=\"paste-dcffe26748e93a74ca894db74fcdb0581dfaa31a.jpg\">"
+                            ],
+                            "guid": "OQbX/n}Ejj",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<h2>Enzymkinetik</h2>\n<div>Es ist möglich die Reaktionskinetik von Enzymen zu bestimmen und somit quantitativ auszudrücken. Dafür gibt es einige Messgrößen:</div>\n<ul>\n<li>{{c1::Geschwindigkeitskonstanten}} {{c2::\\(k_1,\\space k_2,\\space k_{cat}\\))}}</li>\n<li>{{c1::Reaktionsgeschwindigkeit}} {{c2::(\\(v\\))}}</li>\n<li>{{c1::Michaelis-Menten Konstante}} {{c2::(\\(K_m\\))}}</li>\n<li>{{c1::maximale Reaktionsgeschwindigkeit}} {{c2::(\\(v_{max}\\))}}</li>\n<li>{{c1::Konzentrationen von Substrat, Enzym, Enzym-Substrat-Komplex}} {{c2::(\\([S],\\space [E],\\space [ES]\\))}}</li></ul>",
+                                ""
+                            ],
+                            "guid": "I2?:HPJms.",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Michaelis-Menten-Gleichung?<div>{{c1::\\(v=\\frac{v_{max} \\cdot [S]}{(K_m + [S]}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "K0T33O4/(/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Mithilfe dieser Gleichung lassen sich 3 Fälle beobachten:</div>\n<ol>\n<li>\n<div>Fall:</div>\n<div>Die Substratkonzentration ist {{c1::viel kleiner}}&nbsp;als {{c2::\\(K_m\\)}}</div>\n<div>Daraus folgt:</div>\n<div>{{c4::\\(v=\\frac{v_{max} \\cdot [S]}{K_m}\\)}}, weil \\(K_m + [S] \\approx K_m\\)</div>\n<div>⇒ Gerade im Koordinatensystem</div>\n</li>\n<li>\n<div>Fall:</div>\n<div>Die Substratkonzentration und {{c2::\\(K_m\\)}} {{c1::haben den <strong>gleichen</strong> Wert}}</div>\n<div>Daraus folgt das {{c3::\\(v \\space = \\space \\frac{v_{max}}{2}\\)}}, weil \\([S] = K_m\\)</div>\n</li>\n<li>\n<div>Fall:</div>\n<div>Die Substratkonzentration ist {{c1::<strong>viel größer</strong> als}} {{c2::\\(K_m\\)}}</div>\n<div>Daraus folgt das {{c3::\\(v = v_{max}\\)}}, weil \\(K_m + [S] \\approx [S]\\)</div>\n</li></ol>",
+                                ""
+                            ],
+                            "guid": "zX/@tu;fb+",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann \\(v_{max}\\) mittels Michaelis-Menten berechnet werden?<div>{{c1::Indem eine Asymptote eingezeichnet wird.}}<br></div>",
+                                "<img src=\"paste-d85916c733a95e368c81a143e3f001077063f40e.jpg\">"
+                            ],
+                            "guid": "psRMRHUQ~_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann&nbsp;\\(K_m\\) mittels Michaelis-Menten berechnet werden?<div>{{c1::Indem die y-Achse von der Asymptoten, bis zum Ursprung halbiert wird. Der sich dadurch ergebene y-Wert wird dann auf die Kurve übertragen und nach unten zur x-Achse verlängert. Danach wird der Wert unten auf der x-Achse abgelesen.}}<br></div>",
+                                "<img src=\"paste-d80f118d5655e6845a1571a77eeb4da55ccb2419.jpg\"><div><img src=\"paste-d5f5eb4aaee0633adf9351af720692bf2874e770.jpg\"><br></div>"
+                            ],
+                            "guid": "G[G#?O@b2h",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann&nbsp;\\(v_{max}\\) über&nbsp;Lineweaver-Burk berechnet werden?<div>{{c1::Indem der Kehrwert des y-Achsenabschnitts berechnet wird.}}<br></div>",
+                                "<img src=\"paste-9ea205ad81ad581a134327ddbaca63f6e92385ce.jpg\"><div><img src=\"paste-20e9d119aec464584a3dd5ae7d4c00b59b63e1df.jpg\"><br></div>"
+                            ],
+                            "guid": "K<8ER@X,Rm",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann&nbsp;\\(K_m\\) über&nbsp;Lineweaver-Burk berechnet werden?<div>{{c1::Indem die Nullstelle der lineare Funktion berechnet wird. Anschließend wird davon der Kehrwert berechnet.}}<br></div>",
+                                "<img src=\"paste-2b9890f1cb86c2ec0c481f2a91519b8c16761d1b.jpg\"><div><img src=\"paste-6dd2c2c18f42f384ac55eac388798a155fc80fd9.jpg\"><br></div>"
+                            ],
+                            "guid": "c42oe9>;^H",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sind prosthetische Gruppen an das Enzym gebunden?<div>{{c1::fest, aber nicht zwingend kovalent!}}</div>",
+                                "<img src=\"paste-797e6e0956c9aa11b05cf0a3e384c526ec041935.jpg\">"
+                            ],
+                            "guid": "xI3[h6W^8B",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Moleküle dienen als prosthetische Gruppen?<div>{{c1::Metall-Ionen und kleine organische Moleküle}}</div>",
+                                "<img src=\"paste-5862ba378325096d61f4bd612d8f3a50ea456bac.jpg\">"
+                            ],
+                            "guid": "QNxbXnBdn)",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Enzyme"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Woraus besteht die Biomembran?<div>{{c1::Aus Lipiden und Proteinen}}</div>",
+                                "<img src=\"paste-dfa286949c1a707bf0662b4956941c20976e1e37.jpg\">"
+                            ],
+                            "guid": "A&(L|`|n9(",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist der allgemeine Aufbau eines Lipids?<div>{{c1::hydrophiler Kopf und hydrophober Schwanz}}</div>",
+                                "<img src=\"paste-ea3214fbaa3f8d3ea477d28d70c10bceee49897c.jpg\">"
+                            ],
+                            "guid": "wcYBZ=$l,z",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür dienen die Proteine in der Membran?<div>{{c1::Diese sorgen für die Funktionalität der Membran, über&nbsp;Kanäle, Pumpen, Rezeptoren oder Enzyme}}</div>",
+                                "<img src=\"paste-bd7bed31af870726e24f6f6904f54969156ae6fc.jpg\">"
+                            ],
+                            "guid": "N(S[]|y:`]",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kommt es das die Membran einen fluiden Charakter hat?<div>{{c1::Weil sich die Lipide durch laterale und transverale Diffusion bewegen}}</div>",
+                                "<img src=\"paste-ffe650386705e4ad1ab91d5fd3fe0c9fce13657e.jpg\">"
+                            ],
+                            "guid": "BR{HKDW.9I",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kann sich Cholesterin in der Membran einlagern?<div>{{c1::Dies geschieht, weil Cholesterin ein stark unpolares Molekül ist, womit es stark hydrophob ist, wie das innere der Membran.}}<br></div>",
+                                "<img src=\"paste-a918d7c825a9bd102f2fe9ebd59909031d365f00.jpg\">"
+                            ],
+                            "guid": "xWV:$]%6+?",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie werden die Hydropathie-Indices berechnet?<div>{{c1::\\(\\sum_{i=0}^{20} \\Delta G_i\\)}}<br></div>",
+                                "<img src=\"paste-0a4a4eaf9763da1fcafdfbc184db05ed440a712b.jpg\">"
+                            ],
+                            "guid": "HLY6,f1g&+",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird eine Hydropathiediagramm ausgewertet?<div>{{c1::Um zu beurteilen, ob eine Transmembranhelix vorliegt, wird das Hydropathiediagramm betrachtet. Sollten mehrere Hydropathie-Indices einen Schwellenwert von +80 überschreiten, kann man eine Transmembranhelix vorhersagen}}<br></div>",
+                                "<div>Im Beispiel liegt der Schwellenwert bei +20.<br></div><img src=\"paste-46cc3df11d69819bf9276bff7a0f19d0523ec53d.jpg\">"
+                            ],
+                            "guid": "tTe(QEJ:/h",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Probleme bei der Auswertung von Hydropathiediagrammen?<div>1. {{c1::Die gefundenen hyrophoben \\alpha-Helices im Hydropathiediagramm können auch im inneren des Proteins liegen, und müssen <span style=\"font-weight: 600;\">nicht </span>in der Biomembran vorkommen.}}</div><div>2.{{c2::\\(\\beta\\)-Barrel Proteine können über ein Hydropathiediagramm ebenfalls <span style=\"font-weight: 600;\">nicht </span>detektiert werden. Das kommt daher, weil sich dort unpolare mit polaren Resten abwechseln.}}</div>",
+                                ""
+                            ],
+                            "guid": "mv0xpCPj}",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Transportvorgänge gibt es?<div>{{c1::<div>Einfache Diffusion<br></div><div>Kanalproteine<br></div><div>Pumpen</div>}}<br></div>",
+                                "<img src=\"paste-78e965be6e39aa49b754c8fd5299c040b7e7cbec.jpg\">"
+                            ],
+                            "guid": "GyX!KxsNE7",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Moleküle werden bei der einfachen Diffusion transportiert?<div>{{c1::mäßig lipophile Moleküle}}<br></div>",
+                                "<img src=\"paste-d3977507534c17635587ab76a918c5d6bc675cc8.jpg\">"
+                            ],
+                            "guid": "sEd|?>_k8R",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Moleküle werden bei Kanalproteinen transportiert?<div>{{c1::polare Moleküle}}</div>",
+                                "<img src=\"paste-53c69d62075e9bc4fd984c3f9459abef1d2b3c36.jpg\">"
+                            ],
+                            "guid": "bN/15:4-L/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Moleküle werden bei Pumpen transportiert?<div>{{c1::polare Moleküle}}</div>",
+                                "<img src=\"paste-e4fa24c19816d023668d1e65ba93cbafc1c49587.jpg\">"
+                            ],
+                            "guid": "RbIGzIvx!x",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bei dem Transportvorgang {{c1::einfache Diffusion und Kanalproteine}}, wird {{c2::mit den}} Konzentrationsgefälle transportiert.<div>Bei dem Transportvorgang {{c1::Pumpen}}, wird {{c2::entgegen}} des Konzentrationsgefälles transportiert.</div>",
+                                "<img src=\"paste-853843e215d20ca3253148cbe92add926eb891ee.jpg\"><div><img src=\"paste-f9d20c0e0bb1a3cd93b4b896342ce1c595120174.jpg\"><br></div>"
+                            ],
+                            "guid": "hQ.tnb]~]>",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bei welchen Transportvorgang Energie benötigt?<div>{{c1::Bei Pumpen}}</div>",
+                                "<img src=\"paste-b7062124047a180f825120f379dd2f73fb5d8692.jpg\">"
+                            ],
+                            "guid": "D7$O]:``co",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum wird bei den Membranpumpen Energie für den Transport benötigt?<div>{{c1::Weil die Moleküle entgegen des Konzentrationsgefälles transportiert werden}}</div>",
+                                ""
+                            ],
+                            "guid": "l2v6P||n/,",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Symporter?<div>{{c1::Molekül A hat ein Molekül B welches auf der Transportseite von A, eine niedrige Konzentration hat und somit in die gleiche Richtung transportiert wird.}}<br></div>",
+                                "<img src=\"paste-df93897694c220b01f429ed23bb64c6b7cff1e95.jpg\">"
+                            ],
+                            "guid": "xFFmohq`&n",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Antiporter?<div>{{c1::Molekül B wird importiert, sodass A exportiert werden kann.}}<br></div>",
+                                "<img src=\"paste-61ff99062625b4c161c71ccf38ce9b11f13cf304.jpg\">"
+                            ],
+                            "guid": "AD<nM}$xBC",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Biochemie::Membranen"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "7b88523c-a2ab-11eb-a0f7-14f6d86a1eaf",
                     "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
                     "desc": "",
@@ -4064,1084 +4791,6 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "abf55b64-ace6-11eb-a1a4-448a5b8ef3a7",
-                    "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "paste-59615f27ee463aee0700274016946e475b99e768.jpg",
-                        "paste-7d7256b5ca0e70dce0be709e8fbc03e5a98bae33.jpg",
-                        "paste-937a404684a6dbe29aa79181bf2d4b7913e338f3.jpg",
-                        "paste-9fdbd15a91978cf70c19db8f08f61b53d27c3006.jpg",
-                        "paste-b87b057f99abcb22edd37e4e07df00f56aedb640.jpg",
-                        "paste-b954072826f5c800b054446696c7168c54f1dc22.jpg"
-                    ],
-                    "mid": 1604391419185,
-                    "name": "Informatik",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie schreibt man einen Einzeiligen-Kommentar?<div>{{c1::man benutzt //}}</div>",
-                                ""
-                            ],
-                            "guid": "Af1@]=6?^X",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie schreibt man einen Mehrzeiligen-Kommentar?<div>{{c1::<div>Man beginnt den Kommentar mit /*</div><div>und beendet ihn mit */</div>}}<br></div>",
-                                "<img src=\"paste-9fdbd15a91978cf70c19db8f08f61b53d27c3006.jpg\">"
-                            ],
-                            "guid": "jUAA].!K]<",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Womit wird jeder Befehl abgeschlossen?<div>{{c1::mit einem ;}}</div>",
-                                ""
-                            ],
-                            "guid": "B_Q/M+F=%#",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Worin unterschieden sich Console.Write() und Console.WriteLine()?<div>{{c1::Die Methode Console.Write()&nbsp;unterscheidet sich von Console.WriteLine()&nbsp;indem das der Cursor in der selben Spalte bleibt und es somit keinen Zeilenumbruch gibt}}<br></div>",
-                                ""
-                            ],
-                            "guid": "PT.sFzs*o,",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wozu dient der Befehl Console.ReadLine()?<div><div>{{c1::dieser Befehl erlaubt den Benutzer etwas einzugeben}}</div></div>",
-                                "Die Eingabe des Benutzers wird durch den Computer gelesen (engl. read)"
-                            ],
-                            "guid": "AU}SVt.%P*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was bedeutet es eine Variable zu definieren?<div>{{c1::sich einen Namen für die Variable auszudenken}}</div>",
-                                ""
-                            ],
-                            "guid": "Cn;I2hwj5p",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist eine Variable?<div>{{c1::es ist ein Container, in der etwas gespeichert werden kann}}</div>",
-                                "Was in der Variablen gespeichert werden kann, wird durch die Deklaration der Variablen klar"
-                            ],
-                            "guid": "dahx[r?2z)",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist eine Deklaration (mit Beispiel Code)?<div>{{c1::<div>eine Variable bekommt einen Datentyp zugewiesen</div><div>Bsp.: int Zahl1</div>}}<br></div>",
-                                "Bei der Deklaration wird nur der Datentyp spezifiziert. Es wird noch kein Platz im RAM dafür geschaffen!!"
-                            ],
-                            "guid": "b_2643}|O|",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was darf das erste Zeichen eines Variablennamens sein?<div>{{c1::ein Buchstabe oder ein Unterstrich}}</div>",
-                                ""
-                            ],
-                            "guid": "lvers*yl!]",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Zeichen dürfen innerhalb eines Variablennamens benutzt werden?<div>{{c1::Buchstaben, Zahlen und Unterstriche}}</div>",
-                                ""
-                            ],
-                            "guid": "O]X;XR#I6k",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was sind Schlüsselwörter in C# und dürfen diese als Variablennamen verwendet werden?<div>{{c1::<div>Schlüsselwörter sind zum Beispiel: class, namespace, if, else, for, while</div><div>Nein, diese Schlüsselwörter dürfen <b>nicht </b>verwendet werden</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "G{N!w#[,-.",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist mit initialisieren einer Variablen gemeint?<div>{{c1::der Variablen wird ein Wert übergeben}}</div>",
-                                "\"Übergeben\" heißt in der Programmiersprache auch \"zuweisen\""
-                            ],
-                            "guid": "J>aZ?J%^n",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Warum führt folgender Code zu einem Compiler-Fehler?<br>long x;&nbsp;<div>x = 12;&nbsp;<div>long x = 14;</div></div><div><br></div><div>{{c1::Weil die Variable x 2 mal deklariert wird. Das ist in C# nicht möglich!}}</div>",
-                                ""
-                            ],
-                            "guid": "j]]]-dD+()",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Vereinfache folgenden Code:<div>string sMyOne;<br>sMyOne = \"Mein Text\";<br></div><div><br></div><div>Lösung:</div><div>{{c1::string sMyOne = \"Mein Text\";}}</div>",
-                                "Für die Vereinfachung wurde die Variablen Deklaration und Initialisierung in eine Zeile geschrieben."
-                            ],
-                            "guid": "IQA;W`u`}m",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Vereinfache folgenden Code:<div>int iVar1;<br>int iVar2;<br>int iVar3;<br>iVar1 = 7;<br>iVar2 = 12;<br></div><div><br></div><div>Lösung:</div><div>{{c1::int iVar1 = 7; int iVar2 = 12; int iVar3;}}</div>",
-                                "Hier wurde zur Vereinfachung die Deklaration und Initialisierung in einer Zeile geschrieben.<div>Ich finde es schöner, wenn man stattdessen schreibt:</div><div>int iVar1 = 7;<br></div><div>int iVar2 = 12;<br></div><div>int iVar3;</div><div>Dort hat man, wie ich finde, eine bessere Übersicht</div>"
-                            ],
-                            "guid": "tX92KRuTo/",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann eine konstante Variable erzeugt werden?<div>{{c1::indem man vor dem Datentyp const schreibt}}</div>",
-                                "const int Zahl1 = 5"
-                            ],
-                            "guid": "nc<9nkakRy",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist eine konstante Variable?<div>{{c1::es ist eine Variable, die an einer Stelle einen Wert übergeben bekommt. Dieser Wert lässt sich dann nicht mehr ändern (also auch nicht mit einem anderen Überschreiben).}}</div>",
-                                ""
-                            ],
-                            "guid": "O-c#Gt%j<z",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Datentypen gibt es?<div>{{c1::<div>byte</div><div>short</div><div>int</div><div>long</div><div>float</div><div>double</div><div>bool</div><div>char</div>}}<br></div>",
-                                "string ist kein Datentyp, sondern eine Funktion. Die Funktion ist bloß eine Aneinanderkettung von char's."
-                            ],
-                            "guid": "H8:yh&wF6L",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was kann im Datentyp byte gespeichert werden?<div>{{c1::Ganzzahlen (bis 255)}}</div>",
-                                ""
-                            ],
-                            "guid": "tAR~{RaNnn",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was kann im Datentyp short gespeichert werden?<div>{{c1::Ganzzahlen (von - 2^15 bis +2^15)}}</div>",
-                                ""
-                            ],
-                            "guid": "p.mCG&%_v`",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was kann im Datentyp int gespeichert werden?<div>{{c1::Ganzzahlen (von -2^31 bis +2^31)}}</div>",
-                                "wird typischer Weise verwendet"
-                            ],
-                            "guid": "DiA(3(_&+Q",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was kann im Datentyp long gespeichert werden?<div>{{c1::Ganzzahlen (von -2^63 bis + 2^63)}}</div>",
-                                "Geeignet für die Speicherung sehr großer Ganzzahlen"
-                            ],
-                            "guid": "kZOvZ)xpp6",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was kann im Datentyp float gespeichert werden?<div>{{c1::Gleitkommazahlen&nbsp;}}</div>",
-                                ""
-                            ],
-                            "guid": "B}On~YS(p<",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was kann im Datentyp double gespeichert werden?<div>{{c1::Gleitkommazahlen (höhere Genauigkeit, als bei float)}}</div>",
-                                "Wird standardmäßig vom System verwendet (siehe Math.E)"
-                            ],
-                            "guid": "y,Fzm%5D54",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was kann im Datentyp bool gespeichert werden?<div>{{c1::True oder False}}</div>",
-                                ""
-                            ],
-                            "guid": "N*%5F4b}<[",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was kann im Datentyp char gespeichert werden?<div>{{c1::ein einzelnes Zeichen}}</div>",
-                                ""
-                            ],
-                            "guid": "FICDtmi={M",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was muss man beachten, wenn man float benutzt?<div>{{c1::Man muss das Suffix F an die Zahl anhängen}}</div>",
-                                "float Zahl1 = 13.3F"
-                            ],
-                            "guid": "BY-`t~@yi9",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann ein string über die Funktion Console.WriteLine() ausgegeben werden?<div>{{c1::indem der Text, der als string ausgegeben werden soll in \"kfjdkfklaj\" gesetzt wird.}}</div>",
-                                ""
-                            ],
-                            "guid": "CT>Y6<+;`y",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was entsteht, wenn man \"dakjdwa\" benutzt?<div>{{c1::es wird automatisch ein string erzeugt}}</div>",
-                                ""
-                            ],
-                            "guid": "D;qS7~z]#v",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welcher Datentyp gibt die Funktion Console.ReadLine() bzw. Console.ReadKey() zurück?<div>{{c1::einen string}}</div>",
-                                ""
-                            ],
-                            "guid": "heqao4y.Lb",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie lauten die Keywords (Schlüsselwörter) in der Variablendefinition für<br>a. Ganze Zahlen<br>b. Kommazahlen<br>c. Ganze Wörter<br>d. Einzelne Zeichen (wie z.B. Buchstaben)<br>e. Wahrheitswerte (richtig oder falsch),<div><br></div><div>a. {{c1::byte oder short oder int oder long}}</div><div>b. {{c1::float oder double}}</div><div>c. {{c1::string}}</div><div>d. {{c1::char}}</div><div>e. {{c1::bool}}</div><div><br></div>",
-                                ""
-                            ],
-                            "guid": "cDYMMl.A9W",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was bedeutet impilzierte Konvertierung?<div>{{c1::eine Umwandlung eines Datentyps <b>ohne </b>einen zusätzlichen Befehl}}<br></div>",
-                                "int Zahl1 = 3;&nbsp;<div>long Zahl2 = Zahl1;</div>"
-                            ],
-                            "guid": "LyVu<ON4Q`",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wann funktioniert eine implizierte Konvertierung nicht?<div>{{c1::<div>Wenn von einem Datentyp größeren Speicherraums in einen Datentyp kleineren Speicherraums konvertiert werden soll</div><div>Wenn von einem Datentyp in einen ganz anderen Datentyp konvertiert werden soll&nbsp;</div><div>Bsp.: von double nach int</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "i/E#!M@S>3",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist mit expliziter Konvertierung gemeint?<div>{{c1::Eine Umwandlung eines Datentyps mit einem speziellen Befehl}}</div>",
-                                ""
-                            ],
-                            "guid": "nCsr;ww0,2",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche 2 Befehle gibt es bei der expilizierten Konvertierung?<div>1. {{c1::</div><div>Den Zieltyp in runden Klammern angeben:</div><div>int iVar = 123;&nbsp;</div><div>short sVar = (short) iVar;</div>}}<div>2. {{c1::</div><div>Convert.To.... Funktion verwenden:</div><div>int iVar = 123;&nbsp;</div><div>short sVar = Convert.ToInt16(iVar);</div>}}",
-                                ""
-                            ],
-                            "guid": "K`vZq)EePh",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit Convert.To{{c1::Int16()}} kann ein Datentyp nach {{c2::short}} konvertiert werden",
-                                ""
-                            ],
-                            "guid": "E!xT~y.%gH",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit Convert.To{{c1::Int32()}} kann ein Datentyp nach {{c2::int}} konvertiert werden.",
-                                ""
-                            ],
-                            "guid": "rOAr&Hpd_x",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit Convert.To{{c1::Int64()}} kann ein Datentyp nach {{c2::long}} konvertiert werden.",
-                                ""
-                            ],
-                            "guid": "naoN>]hlBT",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit Convert.To{{c1::Boolean()}} kann ein Datentyp nach {{c2::bool}} konvertiert werden.",
-                                ""
-                            ],
-                            "guid": "g00BV.QNfc",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit Convert.To{{c1::Byte()}} kann ein Datentyp nach {{c2::byte}} konvertiert werden.",
-                                ""
-                            ],
-                            "guid": "q@$>Z};Ioz",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit Convert.To{{c1::Char()}} kann ein Datentyp nach {{c2::char}} konvertiert werden.",
-                                ""
-                            ],
-                            "guid": "mzY,E3~^mW",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit Convert.To{{c1::Double()}} kann ein Datentyp nach {{c2::double}} konvertiert werden.",
-                                ""
-                            ],
-                            "guid": "BL90>>4p^",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mit Convert.To{{c1::Single()}} kann ein Datentyp nach {{c2::float}} konvertiert werden.",
-                                ""
-                            ],
-                            "guid": "PU.-keZ&!%",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was für ein Symbol hat der Zuweisungsoperator?<div>{{c1::=}}</div>",
-                                "Bsp.:&nbsp;int x = 12, y = 14;"
-                            ],
-                            "guid": "n82Z{(4z0~",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wozu dient der Zuweisungsoperator?<div>{{c1::Zuweisung eines Wertes, an eine Variable}}</div>",
-                                "x = 13;"
-                            ],
-                            "guid": "c7L0oRp|8P",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche 3 Möglichkeiten gibt es Strings mit Variablen zuverketten?<div>{{c1::<div>1. Verkettung von 2 Variablen mit +</div><div>3. Verkettung von string und Variablen mit +</div><div>5. Einbauen der Variablen durch {} in den string</div>}}<br></div>",
-                                "<div><b><u>Beispiele:</u></b></div>1. Verkettung von zwei Variablen durch das +-Zeichen:<br>string s1 = \"Hallo \";<br>string s2 = \"Welt\";<br>Console.WriteLine(s1 + s2);<div><br></div><div>3. Verkettung von Variablen und String-Konstanten<br>string sS1 = \"Hallo, wie groß bist Du?\";<br>int sI2 = 188;<br>string sS2 = sS1 + \"\\nIch bin \" + sI2 + \" cm groß\";<br>Console.WriteLine(sS2);<br></div><div><br></div><div>5. Einlesen einer String Variablen<br>int iAlter = 21, iGroesse = 168;<br>Console.WriteLine(\"Mein Alter ist \" + iAlter + \" und ich bin \" + iGroesse + \" cm groß.\");<br>Console.WriteLine(\"Mein Alter ist {0} und ich bin {1} cm groß.\", iAlter, iGroesse);<br></div>"
-                            ],
-                            "guid": "OcHs!A[[0w",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wieso ist bei folgendem Code das Ergebnis ganzzahlig, obwohl das Ergebnis den Datentyp double hat?<div><br></div><div>double dErgebnis = iZahl1 / 2;<br>// Division AUCH ganzzahlig trotz Ergebnis Datentyp! Also 5<br></div><div><br></div><div>{{c1::Weil 2 Integer Zahlen dividiert werden, also 2 Ganzezahlen.}}</div>",
-                                ""
-                            ],
-                            "guid": "EnSi]0Pua$",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Warum kommt bei folgenden Code, ein Ergbnis mit Gleichtkommazahl heraus?<div><br></div><div>Console.WriteLine(\"Gleitkomma Division\");<br>dErgebnis = iZahl1 / 2.0;<br></div><div><br></div><div>{{c1::Weil die 2.0 eine double Zahl darstellt. iZahl wird dann implizit in double konvertiert.}}</div>",
-                                "// Wegen 2.0 implizite Konvertierung von iZahl1 in double → Gleitkomma Division<br>Console.WriteLine(\"{0} / 2 = {1}\", dZahl1, dErgebnis); // Gleitkomma Division: 5,5"
-                            ],
-                            "guid": "DmJkVTF:_",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was für ein Ergebnis liefert der Modulo-Operator?<div>{{c1::den Ganzzahligen Rest einer Division}}</div>",
-                                "<b><u>Beispiele:</u></b><div>11 % 5 = 1<br>17 % 3 = 2<br></div>"
-                            ],
-                            "guid": "bD8F~wdOCf",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie lautet die Syntax, wenn die folgende Variable, um den Wert 1, inkrimitiert werden soll?<div>int i = 3;<br></div><div><br></div><div>{{c1::i = i + 1;}}<br></div>",
-                                ""
-                            ],
-                            "guid": "r>2jj>>j4$",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie lautet die Syntax, wenn die folgende Variable, um den Wert 1, dekrimitiert werden soll?<div>int i = 3;<br></div><div><br></div><div>{{c1::i = i - 1;}}</div>",
-                                ""
-                            ],
-                            "guid": "Ghe3we,]I/",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist die Kurzform, wenn man mit 1 inkrementieren bzw. dekrementieren&nbsp;will?<div>{{c1::Inkrement: ++i}}</div><div>{{c2::Dekrement --i}}</div>",
-                                "i steht hier für eine verwendete Variable. Man muss es also nicht zwinged i nennen!"
-                            ],
-                            "guid": "e*F{s^7XA+",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie lautet die Präfix-Notation für das inkrementieren bzw. dekrementieren?<div>{{c1::<div>++i</div><div>--i</div>}}<br></div>",
-                                "Präfix =&gt; vor der Variablen"
-                            ],
-                            "guid": "KnGBfn&GK5",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie lautet die Postfix-Notation für das inkrementieren bzw. dekrementieren?<div>{{c1::<div>i++</div><div>i--</div>}}</div>",
-                                "Postfix =&gt; hinter der Variablen"
-                            ],
-                            "guid": "tw8WPtwsj]",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator für&nbsp;{{c2::var1 erhält Wert von var2}}, lautet \"{{c1::=}}\".",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "PILm)6`&gK",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator für&nbsp;{{c2::var1 erhält Wert der Summe var1 + var2}}, lautet \"{{c1::+=}}\".",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "kWET$nM4|X",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator für&nbsp;{{c2::var1 erhält Wert der Differenz var1 - var2}}, lautet \"{{c1::-=}}\".",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "M;}dZt?:_S",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator für&nbsp;{{c2::var1 erhält Wert des Produkts var1 * var2}}, lautet \"{{c1::*=}}\".",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "v*oksS.PpO",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator für&nbsp;{{c2::var1 erhält Wert der Division var1 / var2}}, lautet \"{{c1::/=}}\".",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "rE&$3aQ0nZ",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator für&nbsp;{{c2::var1 erhält Restwert nach Division von var1<br>durch var2}}, lautet \"{{c1::%=}}\".",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "NMr]6Ph%D{",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie können die mathematischen Methoden in C# aufgerufen werden?<div>{{c1::Math.XYX()}}</div>",
-                                "Die Math-Class sit schon in der Bib system. Heißt sie muss nicht extra importiert werden!"
-                            ],
-                            "guid": "cJmgUKeNef",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Vergleichsoperator \"{{c1::==}}\" wird dann verwendet, wenn der Vergleich \"{{c2::gleich}}\" gemeint ist.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "j4AwF@k,*h",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Vergleichsoperator \"{{c1::!=}}\" wird dann verwendet, wenn der Vergleich \"{{c2::ungleich}}\" gemeint ist.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "xD:{H$:{&?",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Vergleichsoperator \"{{c1::&lt;}}\" wird dann verwendet, wenn der Vergleich \"{{c2::kleiner}}\" gemeint ist.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "vi5DK7x!v[",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Vergleichsoperator \"{{c1::&lt;=}}\" wird dann verwendet, wenn der Vergleich \"{{c2::kleiner gleich}}\" gemeint ist.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "rpL1)SBR!|",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Vergleichsoperator \"{{c1::&gt;}}\" wird dann verwendet, wenn der Vergleich \"{{c2::größer}}\" gemeint ist.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "FqqJOD{#m|",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Vergleichsoperator \"{{c1::&gt;=}}\" wird dann verwendet, wenn der Vergleich \"{{c2::größer gleich}}\" gemeint ist.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "x0%CO3X}3`",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wofür verwendet man die Vergleichsoperatoren?<div>{{c1::Für die Fallunterscheidung bei if-else-statements und bei while- oder for-Schleifen}}</div>",
-                                ""
-                            ],
-                            "guid": "Q?MirsXF8w",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wofür verwendet man die logischen Operatoren?<div>{{c1::um mehrere Bedinungen der Vergleichsoperatoren zu verknüpfen}}</div>",
-                                ""
-                            ],
-                            "guid": "mYs+tO|{I:",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator \"{{c1::&amp;&amp;}}\" wird verwendet, wenn ein logisches \"{{c2::UND}}\" verwendet werden soll.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "KjnG_&4lBK",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator \"{{c1::||}}\" wird verwendet, wenn ein logisches \"{{c2::ODER}}\" verwendet werden soll.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "G%Uu{Me~HL",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Operator \"{{c1::!}}\" wird verwendet, wenn ein logisches \"{{c2::NICHT}}\" verwendet werden soll.",
-                                "Die Anführungszeichen dienen nur zur Makierung und nicht zur Syntax."
-                            ],
-                            "guid": "nK[7Lh*@ik",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wann wird das logische UND <b>true</b>?<div>{{c1::wenn beide Ausdrücke <b>true </b>sind}}<br></div>",
-                                ""
-                            ],
-                            "guid": "h(:V%H=}PN",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wann wird das logische ODER&nbsp;<b>true</b>?<div>{{c1::wenn eine der beiden Ausdrücke&nbsp;oder beide Ausdrücke&nbsp;<b>true&nbsp;</b>sind}}</div>",
-                                "Heißt, ODER ist dann <b>false</b>, wenn beide <b>false </b>sind!"
-                            ],
-                            "guid": "JHF~Pb7t_P",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wann wird das logische Nicht&nbsp;<b>true</b>?<div>{{c1::Wenn der vorangegangene Ausdruck <b>false </b>ist}}</div>",
-                                "es kehrt false and true immer um!"
-                            ],
-                            "guid": "I}?shi<wj",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Operatoren"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche der folgenden Variablennamen können in C# verwendet werden?<div>a. i123<br>b. 2i13<br>c. Wrox.com<br>d. decimal<br>e. Fläche<br>f. Dday<br>g. _J_S_Bach<br>h. float<br>i. time2GetJiggyWhithIt<br></div><div><br></div><div>es dürfen {{c1::a. d. e. f. g. i.}} verwendet werden</div>",
-                                ""
-                            ],
-                            "guid": "mw]-i]5Y+*",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Aus was besteht das .NET Framework?<div>1. {{c1::Common Language Runtime(CLR)}}<br></div><div>2. {{c1::classlibrary}}<br></div>",
-                                "<img src=\"paste-59615f27ee463aee0700274016946e475b99e768.jpg\">"
-                            ],
-                            "guid": "s[??AdNx,V",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wozu wird die Common Language Runtime benötigt?<div>{{c1::Damit der Code ausgeführt werden kann, ohne die Runtime ist es <b>nicht </b>möglich C#-Code oder C# Programme auszuführen}}<br></div>",
-                                "<img src=\"paste-937a404684a6dbe29aa79181bf2d4b7913e338f3.jpg\">"
-                            ],
-                            "guid": "Ete,OGYG*h",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist die class library die im .NET Framework enthalten ist?<div>{{c1::Sammlung von Klassen, Interfaces, Variablentypen für Daten und weiteren die direkt benutzt werden können}}</div>",
-                                "<img src=\"paste-b954072826f5c800b054446696c7168c54f1dc22.jpg\">"
-                            ],
-                            "guid": "B!jZ!cA0?+",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist IDE ausgeschrieben?<div>{{c1::<b>I</b>ntegrated <b>D</b>evelopment <b>E</b>nvironment}}<br></div>",
-                                ""
-                            ],
-                            "guid": "wz>bF[^vjt",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was bedeutet es seinen Code zu kompilieren?<div>{{c1::Der Quellcode wird durch einen Compiler in maschinenlesbaren Code umgewandelt und anschließend ausgeführt}}</div>",
-                                "Fun Fact: Bei C# und Java wird zwingend ein Compiler benötigt, bei Python reicht ein Interpreter<div><br></div><div><img src=\"paste-7d7256b5ca0e70dce0be709e8fbc03e5a98bae33.jpg\"><br></div>"
-                            ],
-                            "guid": "E5~De&gJCE",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was sind die beiden großen Aufgaben des Compilers?<div>{{c1::<div>Quelltext auf Syntaxfehler prüfen</div><div>Quelltext in Maschinencode übersetzten</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "zpmaU:97V_",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was braucht ein C#-Programm zwingend, damit es ausgeführt werden kann?<div>{{c1::die Main() methode, die in der Programm Klasse definiert ist}}</div>",
-                                "<img src=\"paste-b87b057f99abcb22edd37e4e07df00f56aedb640.jpg\">"
-                            ],
-                            "guid": "tIK27Qwup_",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Datentyp Integer braucht {{c1::4}} Byte Speicherplatz.",
-                                ""
-                            ],
-                            "guid": "yk1vb!v57;",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Datentyp Short braucht {{c1::2}} Byte Speicherplatz.",
-                                ""
-                            ],
-                            "guid": "GUX9j5AJAQ",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Datentyp long braucht {{c1::8}} Byte Speicherplatz.",
-                                ""
-                            ],
-                            "guid": "F#}Pa@4HCH",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Datentyp float braucht {{c1::4}} Byte Speicherplatz.",
-                                ""
-                            ],
-                            "guid": "ycn-KH%diB",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Der Datentyp double braucht {{c1::8}} Byte Speicherplatz.",
-                                ""
-                            ],
-                            "guid": "s+M+{f2fem",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "Informatik::Basics-und-Variablen"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
                     "crowdanki_uuid": "63276aff-b166-11eb-a62b-448a5b8ef3a7",
                     "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
                     "desc": "",
@@ -6128,7 +5777,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Biochemie::Membranen"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
