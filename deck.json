@@ -1754,6 +1754,32 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-1-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-1-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-10-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-10-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-11-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-11-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-12-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-12-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-2-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-2-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-3-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-3-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-4-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-4-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-5-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-5-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-6-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-6-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-7-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-7-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-8-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-8-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-9-A.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-9-Q.svg",
+                        "58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg",
+                        "Screenshot 2021-07-28 170636.jpg",
                         "Untitled-084afa68f3654968ccafcdfc18ffb733108cd77e.png",
                         "Untitled-0941efddc14a3026f601ea55aa40799b0a1e6293.png",
                         "Untitled-0b92cdf52a81e975a75ea2ea6fd4a766c7ce684f.png",
@@ -1774,6 +1800,7 @@
                         "Untitled-3d5cfa107fb8415512ed50be746fe412e55b88a9.png",
                         "Untitled-3d9961e3229ae53693fa2c535622c381bc0c9f7d.png",
                         "Untitled-4c5432b5600c2f08c0ed56b1d2e455b67cc9068f.png",
+                        "Untitled-4d69f073b719614019f8f658a1d16d51c34fe21b.png",
                         "Untitled-4fe74c7c539a3391eeab1b0bc68dc45d53609b37.png",
                         "Untitled-50ae652f29007087250f5e82033aa225f0305c9c.png",
                         "Untitled-539a92a9a727f017d1c4fb4c59b9c2c0e5afb189.png",
@@ -1785,6 +1812,7 @@
                         "Untitled-66c5320ca38458ff3d00d989c43363b9361fd9dc.png",
                         "Untitled-67d1a1b5bd2acdf46551b217e1f7031c805f06ac.png",
                         "Untitled-6aa99152a4ff8f5691af6ebb2d3783bd7fe98898.png",
+                        "Untitled-6fa4999ca151d2442b471f33fa30638533dcfc29.png",
                         "Untitled-74e4774c268dcd9d48a5dd8c90383d0ca4e10e74.png",
                         "Untitled-75f97d6d17a67784236c138e9d90e26ed35b58af.png",
                         "Untitled-7b02b1e352d9c8c99922fa5f22cc09b25e16e50e.png",
@@ -1825,25 +1853,54 @@
                         "Untitled-f318ef8bc8be091bef28a788ceeb3f387df123fa.png",
                         "Untitled-f327b79a4b5ae4688f18451d0c9be0d868014bb9.png",
                         "Untitled-f8c33f9035ec0d75d11922ef5b8e779e6bcac491.png",
+                        "d5a14612406b45f890c392084d43a355-ao-1-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-1-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-10-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-10-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-11-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-11-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-12-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-12-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-2-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-2-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-3-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-3-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-4-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-4-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-5-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-5-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-6-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-6-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-7-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-7-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-8-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-8-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-9-A.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-9-Q.svg",
+                        "d5a14612406b45f890c392084d43a355-ao-O.svg",
                         "paste-001373509fcdd74bf2c2349973de763ec51609a4.jpg",
                         "paste-019c75a090e4d39f730516548cfd9862f6580e74.jpg",
                         "paste-04b35fe1f7f2d5c01fc606ea023a76fcd7cec58e.jpg",
                         "paste-0508d11b84c24e74556f32947ef991cd05f72dd3.jpg",
                         "paste-06041e74c793efaea862196b59320899d8525935.jpg",
+                        "paste-094a677db5c4ec83c3fc7e295854df7022aa2f1c.jpg",
                         "paste-0996b67b108351dad0b487d4bc3e4170e0140ec7.jpg",
                         "paste-0f0be56d155413a2b81af4f435d789a5f11984ca.jpg",
+                        "paste-11a57bfc252e9e02ee63fcbb0ced6bb06e9ace52.jpg",
                         "paste-168e533d0a07c7c9843e5c82c46529a8cbb51abf.jpg",
                         "paste-19477d3714ff05d1f7b92dfd8df4a4800a3b22e4.jpg",
                         "paste-1c73e32b5f8469f398bdbcec42745472bbb94a0e.jpg",
                         "paste-1e881761cf96374718b81e27da97ca3cb1b47ac8.jpg",
                         "paste-22677acc03ed218186e5ce1f2dea019fc5d56143.jpg",
                         "paste-255644b417086c3aa29e840b4ba7ddc4af7cc760.jpg",
+                        "paste-26193812c34e920e9d8e5153cbed5e3a2fd51f91.jpg",
                         "paste-2722a453cac3a18365b7b3a29e25039d91afa613.jpg",
                         "paste-2759fea800efbaee92415962a30f397029e72acc.jpg",
                         "paste-2780f9c43a44ec39b0224fee198b482a03f475bb.jpg",
                         "paste-28f7057ebe830207298a92ceac6306e4f38771ca.jpg",
                         "paste-2c93749da0934aa3b2bb9b2511adb24edff987b1.jpg",
                         "paste-2da01fddec067a9215c73cd7dc9db12b213c86e5.jpg",
+                        "paste-2dbf4e47f24ee1a5d0bf9e3bb5e83e347c0246c1.jpg",
                         "paste-2e00053e22bb9f621af6a6f8652167cbb1bdedfa.jpg",
                         "paste-31e5134dea340d734f1f90708e25f5b06dee9333.jpg",
                         "paste-3525a52c4d3b170232d93854226aa64fe4234844.jpg",
@@ -1872,17 +1929,21 @@
                         "paste-52f667cdc34c1f767f0bd2b1945927d9b9e0590e.jpg",
                         "paste-5658304b229d88560247692e0a389af400e7a324.jpg",
                         "paste-5c437410f9c61dced8a3b805d83137d0f731cc4d.jpg",
+                        "paste-5e367852d59c3232c6be7551a9dadf7fcbd7bcf7.jpg",
                         "paste-5e8bb5a51c15d248bf543f7ec5cb04345049293e.jpg",
                         "paste-616aec7d5d2cbe0bf32d297597a383e76fbdb907.jpg",
                         "paste-625a17ea40fafc171217cdd99dfb40ca8890752f.jpg",
+                        "paste-62da07412f13ee097c5d4bbb00a5e29418909225.jpg",
                         "paste-637d9a5ceb3e8609511d23e73dc73ff7027f101a.jpg",
                         "paste-6403b1526ffee8b144b2b0f801bdf2c315728305.jpg",
                         "paste-6828284475d30a94e2208f99928efc017577aee4.jpg",
+                        "paste-6d3a5e0bb91bacc3ff0a25bca73c5929e6b0ed0a.jpg",
                         "paste-703107173d4c9376ba83af18b17470397e294bdf.jpg",
                         "paste-70945b9a461df5d007f7b4be752b3f779acf402f.jpg",
                         "paste-7246c316205a5192dd2e87155a043dc5bcde2b1f.jpg",
                         "paste-72caa5f2dceb722a0ef684c362db8f59a8472891.jpg",
                         "paste-7514f870681700af0a1ee219e05817c89d60bd74.jpg",
+                        "paste-751d39f048c41c3214a81a7ca6c1b42fcc09e89d.jpg",
                         "paste-75d58fe5c3906179085359807eba129d15bb0617.jpg",
                         "paste-76ae65d5aac342cfabb708109c09d54163015f6a.jpg",
                         "paste-780bb8e664a57d1eddd9b29d82222e0c570d0d9a.jpg",
@@ -1891,6 +1952,7 @@
                         "paste-7af7631def98322cc325dd4314f996a0db837c6b.jpg",
                         "paste-7c3ee347737eaecfe34cf6513e2ab66705f4c928.jpg",
                         "paste-7f78db2c05731626e6341fc4088d01ce13fbfc7f.jpg",
+                        "paste-7feb93332eb3ecc0d48a09ecf8de50496571d843.jpg",
                         "paste-821e97ce42330a690910ee78ad5fbabd9fd6ae13.jpg",
                         "paste-827ebdb8ca4b4c79520f4e769cc2371f1e9e0fe0.jpg",
                         "paste-832523bafdcc24c538536c534ae9028f47360a38.jpg",
@@ -1909,6 +1971,7 @@
                         "paste-92beeb69dc2caa33b624522c8e3d9f39c1422cc8.jpg",
                         "paste-92cbd4e8715a11164e97ab78c9c1eb9189da746f.jpg",
                         "paste-94bc93f6396c2e341b5701b64c2c555031cd9ab2.jpg",
+                        "paste-969ed3a57b2a7f664cb6ced44c79187249b6bfa0.jpg",
                         "paste-976869725f4a2287fea244bb9fd653610ddb0825.jpg",
                         "paste-98d597bd7cfd61aca27a862d7102672ebb9e847e.jpg",
                         "paste-9920983b2333b33a7caac1b53baf8e511e71d504.jpg",
@@ -1921,6 +1984,7 @@
                         "paste-a558a6d1ef760c3f4f567087424494f1d493cddd.jpg",
                         "paste-a7ea90d2f502d3d35c2881fe04129d9401fa0acf.jpg",
                         "paste-a877e3d61553b67476c25ea8d83c19e54995ddba.jpg",
+                        "paste-aa1b7b26477c7e42a17dc44663051c9f8754d04b.jpg",
                         "paste-ac3b51395c92c4a1af91392ad0651b1a294ffeeb.jpg",
                         "paste-acdf5b75aa6ea2dfa67aedd34af7ef49b695f1d3.jpg",
                         "paste-ad136faaedd97c5ffeb446a6c6e2018c1759ed43.jpg",
@@ -1961,14 +2025,16 @@
                         "paste-ec35124463d23b6b4391216463c0adb3f5f3959c.jpg",
                         "paste-f28be64ab88ef79b0c0b8ec9176e742044eb8aed.jpg",
                         "paste-f47031646ed0d2496525503c0641856da3eac137.jpg",
+                        "paste-f48c4066e304c13ffd31cd152c19f4f8b16b1e9c.jpg",
                         "paste-f6ce758463a14123060886b0457bca768e7733ef.jpg",
                         "paste-f85b8ef35454336f8f1925395a86c4dc6c209ffb.jpg",
                         "paste-f8f906b2dcb02bea165c5256025962ff0642d4f8.jpg",
                         "paste-f9082d52a2970bfd3bc487e214550f5d5321badb.jpg",
                         "paste-f9b4793619d228910e4340fd934b25f7281c7976.jpg",
-                        "paste-fec17b343a5eab347f70ab0469558436db203c58.jpg"
+                        "paste-fec17b343a5eab347f70ab0469558436db203c58.jpg",
+                        "tmpmv5qzcbz.png"
                     ],
-                    "mid": 1611498335938,
+                    "mid": 1604391419185,
                     "name": "Genetik",
                     "notes": [
                         {
@@ -4415,7 +4481,9 @@
                             ],
                             "guid": "z<Ot*&S;]H",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4425,7 +4493,9 @@
                             ],
                             "guid": "BCPZso8+a-",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4435,7 +4505,9 @@
                             ],
                             "guid": "LL=gcdlrF7",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4445,7 +4517,9 @@
                             ],
                             "guid": "HHYf!Ns5Q,",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4455,7 +4529,9 @@
                             ],
                             "guid": "hz<x*L}<f_",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4465,7 +4541,9 @@
                             ],
                             "guid": "nf`Y8c<|3C",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4475,7 +4553,9 @@
                             ],
                             "guid": "O[cPnQZ-Do",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4485,7 +4565,9 @@
                             ],
                             "guid": "PxkWQ*eUrB",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4495,7 +4577,9 @@
                             ],
                             "guid": "BgpcYL*c=J",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4505,7 +4589,9 @@
                             ],
                             "guid": "KQtp$q~5@i",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4515,7 +4601,9 @@
                             ],
                             "guid": "h2]j`-oVdd",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4525,7 +4613,9 @@
                             ],
                             "guid": "ug-jG[4f#N",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4535,7 +4625,9 @@
                             ],
                             "guid": "k9hy<P;/u6",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4545,7 +4637,9 @@
                             ],
                             "guid": "QR)!r~,LLz",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4555,7 +4649,9 @@
                             ],
                             "guid": "fSrB.RF%/i",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4565,7 +4661,9 @@
                             ],
                             "guid": "ey7P/>p?t2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4575,7 +4673,9 @@
                             ],
                             "guid": "nex)bB6sn~",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4585,7 +4685,9 @@
                             ],
                             "guid": "m?,p#2$rf2",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4595,7 +4697,9 @@
                             ],
                             "guid": "G{8y~?O(:Y",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4605,7 +4709,9 @@
                             ],
                             "guid": "Q|+]H6:j`|",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4615,7 +4721,9 @@
                             ],
                             "guid": "d}4kRSN,+t",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4625,7 +4733,9 @@
                             ],
                             "guid": "n3VMx?{)3T",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4635,7 +4745,9 @@
                             ],
                             "guid": "F:?iiN`~4r",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -4645,7 +4757,9 @@
                             ],
                             "guid": "i`y_0qIn[q",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "Genetik::Cloning"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -5219,6 +5333,894 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "Genetik::Sequenzierung"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind&nbsp;Histone und wovon sind sie von Bedeutung?<div>{{c1::Die Histone sind Bestandteile des Chromatins. Somit sind diese für die Verpackung der DNA von Bedeutung.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Q^]j5qi1v6",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind&nbsp;Nukleosomen?<div>{{c1::Die Nukleosomen sind die kleinste Verpackungseinheiten der DNA.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "POA&A9E:X5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind&nbsp;Oktamere?<div>{{c1::Ein Makromolekül, das sich aus acht gleichartigen Bausteinen zusammensetzt.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "bJA4&M`ci}",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind&nbsp;DNA-Fibrillen?<div>{{c1::Sind eine kleinere Packung des DNA-Fadens.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "k`]6@mGOh-",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die&nbsp;konservative Replikation?<div>{{c1::Das aus einem Strang, ein Mutter und ein Tochter Strang entstehen.}}<br></div>",
+                                "<img src=\"Untitled-4d69f073b719614019f8f658a1d16d51c34fe21b.png\">"
+                            ],
+                            "guid": "Dvm&ML!t`J",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die semikonservative Replikation?<div>{{c1::die 2 neuen Stränge bestehen einmal aus der Mutter und einmal aus der Tochter. Dadurch besteht jeder Strang aus einem alten und einem neu synthetisierten Strang.}}<br></div>",
+                                "<img src=\"Untitled-6fa4999ca151d2442b471f33fa30638533dcfc29.png\">"
+                            ],
+                            "guid": "jdTiWg{o:5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie konnte die&nbsp;semikonservative Replikation nachgewiesen werden?<div>{{c1::durch das Meselson-Stahl-Experiment}}</div>",
+                                ""
+                            ],
+                            "guid": "x,*Alp}{2F",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der&nbsp;oriR?<div>{{c1::Dies ist ein DNA-Segment, welches aus kurzen repeats besteht. Dort führen Proteinkomplexe DNA-Polymerasen am Startpunkt zusammen.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "D,ns)o(_LJ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beim Bakterienchromosom gibt es in der Regel {{c2::einen oriR}} und bei Eukaryoten gibt es bei einfachen Organismen {{c1::zwischen 100 bis 1000 oriR's}} auf einem Chromosom.",
+                                ""
+                            ],
+                            "guid": "FHJ;[|b*Lh",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welches sind die Probleme bei der&nbsp;DNA-Replikation?<div>1. {{c1::Die DNA-Polymerase kann DNA nicht denaturieren}}</div><div>2. {{c2::Die DNA-Polymerase kann nur prä-existierenden Strang verlängern (brauchen Primer)}}</div><div>3. {{c3::Die DNA-Polymerase kann&nbsp;nur in 5`→3` Richtung synthetisieren, die 2 DNA-Stränge sind aber gegenläufig (5’→3’ / 3’→5’)}}</div><div>4.&nbsp;{{c4::Bei linearen Chromosomen: Problem der “offenen Enden”}}</div>",
+                                ""
+                            ],
+                            "guid": "l~!1s&GG_;",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann das Problem: DNA-Polymerase kann&nbsp;DNA nicht denaturieren gelöst werden?{{c1::<div><ul>\n<li>Initiationskomplex assembliert Enzyme</li>\n<li>Helikasen trennen Stränge</li>\n<li>sstr-Bindeproteine („SSB“) stabilisieren Einzelstränge</li></ul></div>}}",
+                                "<img src=\"paste-751d39f048c41c3214a81a7ca6c1b42fcc09e89d.jpg\">"
+                            ],
+                            "guid": "MfG*^Dk5/L",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann das Problem: DNA-Polymerase kann&nbsp;nur prä-existierenden Strang verlängern (brauchen Primer) gelöst werden?{{c1::<div><ul>\n<li>Primase (RNA-Polymerase) synthetisiert kurze RNA Moleküle als Startpunkte = Primer</li></ul></div>}}",
+                                "<div>Primase bindet an Helikase Hexamer;&nbsp;</div><div>Primase + Helikase = Primosom<br></div>"
+                            ],
+                            "guid": "tZiRtbJkZv",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann das Problem: DNA-Polymerase kann&nbsp;nur nur in 5`→3` Richtung synthetisieren, die 2 DNA-Stränge sind aber gegenläufig (5’→3’ / 3’→5’) gelöst werden?{{c1::<div><ul>\n<li>Primase synthetisiert RNA-Primer\n<ul>\n<li>DNA-Pol III knüpft DNA an „Okazaki - Fragmente“ (1-2 kB in Bakterien; ca. 200 B in Eukaryonten)</li>\n<li>DNA-Pol I verdaut RNA-Primer (5’-3’ Exonuklease!) und schließt Lücken</li>\n<li>Ligase schließt Nicks</li></ul></li></ul></div>}}",
+                                "<img src=\"paste-5e367852d59c3232c6be7551a9dadf7fcbd7bcf7.jpg\">"
+                            ],
+                            "guid": "giLr5LopKx",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann das Problem:&nbsp;Bei linearen Chromosomen: Problem der “offenen Enden” gelöst werden?<div><div>{{c1::Telomere werden an die Enden gesetzt}}</div></div>",
+                                "<img src=\"paste-969ed3a57b2a7f664cb6ced44c79187249b6bfa0.jpg\">"
+                            ],
+                            "guid": "QwKb4[7D&g",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind&nbsp;Okazaki-Fragmente?<div>{{c1::Ein Okazaki-Fragment ist ein kurzes Stück DNA, welches zwischen 2 Primern auf dem Folgestrang liegt.&nbsp;}}<br></div>",
+                                ""
+                            ],
+                            "guid": "y/]);}34$Q",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie entstehen Okazaki-Fragment?<div>{{c1::Diese Fragmente entstehen, da die DNA-Polymerase nur von 5' → 3' arbeiten kann. Somit können auf dem Folgestrang nur kleine Stücke synthetisiert werden.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "EMi~@iG=gt",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Telomere?<div>{{c1::Telomere sind terminale [GGGTTA] Repeats, die am Ende der DNA angefügt werden.}}</div>",
+                                ""
+                            ],
+                            "guid": "ohdx`4=L|e",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aus was besteht die&nbsp;Replikationsgabel?<div><div>Die Replikationsgabel ist der Hauptprotein-Komplex der DNA-Replikation. Dieser besteht aus:{{c1::</div><div></div>\n<ul>\n<li>DNA-Helicase</li>\n<li>Primase</li>\n<li>sstr-Bindeprotein</li>\n<li>eine Untereinheit: DNA-Polymerase III am Leitstrang</li>\n<li>andere Untereinheit: DNA-Polymerase III am Folgestrang</li></ul>}}</div>",
+                                ""
+                            ],
+                            "guid": "BCQ<*1hLuI",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die&nbsp;Replikationsgabel?<div>{{c1::Die Replikationsgabel ist der \"Motor\" der Replikation und läuft somit den ganzen Strang ab, und synthetisiert einen komplett neuen Strang als Leitstrang.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "LwhAM@MZ=,",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-1",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-1-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "i~Q|*BQGUX",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-2",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-2-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "K2@/d7qieI",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-3",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-3-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "b(5hKu>j.;",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-4",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-4-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "LiK|_kb-zt",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-5",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-5-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "T*m7}TYA*",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-6",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-6-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "nPP&r{X$*z",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-7",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-7-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "l&_tqK5)9,",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-8",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-8-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-8-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "EsmJ7(4[Ty",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-9",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-9-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-9-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "udG9m>e9VY",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-10",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-10-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-10-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "ymz?#!v+5)",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-11",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-11-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-11-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "A1MlD@a|s(",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d5a14612406b45f890c392084d43a355-ao-12",
+                                "",
+                                "<img src=\"Screenshot 2021-07-28 170636.jpg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-12-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-12-A.svg\" />",
+                                "<img src=\"d5a14612406b45f890c392084d43a355-ao-O.svg\" />"
+                            ],
+                            "guid": "gVoKL?#}H<",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-1",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-1-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "o)@V*:t,k}",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-2",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-2-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "D|Z@FoU.MG",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-3",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-3-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "F):R-)<Ww",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-4",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-4-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "P6-H*zA,~",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-5",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-5-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "q/s>~M>V+/",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-6",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-6-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "pN7>P/?0oh",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-7",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-7-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "dawkI=!$QX",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-8",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-8-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-8-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "ITWY1EBXAq",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-9",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-9-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-9-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "vG1T;Kc[br",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-10",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-10-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-10-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "HkX@U867hM",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-11",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-11-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-11-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "M.eP`z!gR]",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "58082b9f9c794fc29ef452ecb49b69b1-ao-12",
+                                "",
+                                "<img src=\"tmpmv5qzcbz.png\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-12-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-12-A.svg\" />",
+                                "<img src=\"58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg\" />"
+                            ],
+                            "guid": "m~vS*jlN/P",
+                            "note_model_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::DNA-Replikation"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Mitose?<div>{{c1::Die allgemeine Zellteilung bei Eukaryoten.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "e*u!PAlv/p",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Phasen der Mitose gibt es?<div>1. {{c1::Prophase}}<br></div><div>2. {{c1::Prometaphase}}<br></div><div>3. {{c1::Metaphase}}<br></div><div>4. {{c1::Anaphase}}<br></div><div>5. {{c1::Telophase}}<br></div><div>6. {{c1::Cytokinese}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Cy[g_>gfh%",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert in der Prophase?<div>{{c1::In der Prophase kondensieren die replizierten Chromosomen.}}<br></div>",
+                                "<img src=\"paste-62da07412f13ee097c5d4bbb00a5e29418909225.jpg\">"
+                            ],
+                            "guid": "u9mCiF%D7.",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert in der Prometaphase?<div>{{c1::In der Prometaphase findet die Auflösung der Kernhülle statt. Die Chromosomen werden über Centromer/ Kinetochor mit der Mitosespindel verbunden.}}<br></div>",
+                                "<img src=\"paste-6d3a5e0bb91bacc3ff0a25bca73c5929e6b0ed0a.jpg\">"
+                            ],
+                            "guid": "D,6mGg8d`f",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert in der Metaphase?<div>{{c1::In der Metaphase befinden sich die Chromosomen am Äquator der Spindel.}}<br></div>",
+                                "<img src=\"paste-094a677db5c4ec83c3fc7e295854df7022aa2f1c.jpg\">"
+                            ],
+                            "guid": "z;hMXS~^2R",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert in der Anaphase?<div>{{c1::In der Anaphase trennen sich die gepaarten Chromatiden.}}<br></div>",
+                                "<img src=\"paste-2dbf4e47f24ee1a5d0bf9e3bb5e83e347c0246c1.jpg\"><div><img src=\"paste-f48c4066e304c13ffd31cd152c19f4f8b16b1e9c.jpg\"><br></div>"
+                            ],
+                            "guid": "L$HkWs>{Ul",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert in der Telophase?<div>{{c1::In der Telophase kommen beide Tochterchromosomensätze an den Spindelpolen an und es bildet sich eine neue Kernhülle aus.}}<br></div>",
+                                "<img src=\"paste-26193812c34e920e9d8e5153cbed5e3a2fd51f91.jpg\">"
+                            ],
+                            "guid": "HNXy)mEuU}",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert bei der&nbsp;Cytokinese?<div>{{c1::Bei der Cytokinese wird das Cytoplasma in zwei Hälften geteilt.}}<br></div>",
+                                "<img src=\"paste-7feb93332eb3ecc0d48a09ecf8de50496571d843.jpg\">"
+                            ],
+                            "guid": "IC__x,T|Dj",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Meiose?<div>{{c1::Die Meiose ist die Zellteilung der Keimzellen.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "yK7~2u.K.A",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die&nbsp;Präreduktion?<div>{{c1::Die elterlichen Allele werden in der Centromerregion getrennt.}}<br></div>",
+                                "<img src=\"paste-11a57bfc252e9e02ee63fcbb0ced6bb06e9ace52.jpg\">"
+                            ],
+                            "guid": "DdT@+;A<ds",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die&nbsp;Postreduktion?<div>{{c1::Dort findet die Trennung der elterlichen Allele im Bereiche, die durch Crossover das Chromosom getauscht haben.}}<br></div>",
+                                "<img src=\"paste-aa1b7b26477c7e42a17dc44663051c9f8754d04b.jpg\">"
+                            ],
+                            "guid": "nEquwjtu5!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Mendelschen Regeln gibt es?<div>1. {{c1::Uniformitäts-/ Gleichheitsregel}}<br></div><div>2. {{c1::Spaltungsregel/ Reinheit der Gameten}}<br></div><div>3. {{c1::Unabhängigkeits-/ Neukombinationsregel}}<br></div>",
+                                ""
+                            ],
+                            "guid": "H@yoxYIiri",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann gelten die Mendelschen Regeln nicht mehr?<div><ul>\n<li>{{c1::Bei genetischer Kopplung}}</li>\n<li>{{c1::bei Geschlechts-gekoppeltem Erbgang}}</li>\n<li>{{c1::Polygene Erbgänge}}</li></ul></div>",
+                                ""
+                            ],
+                            "guid": "gRzyy|Ko&b",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Genetik::ZellteilungUndMendel"
                             ]
                         }
                     ]
@@ -6212,7 +7214,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Genetik::ZellteilungUndMendel"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
