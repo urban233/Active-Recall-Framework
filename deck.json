@@ -14,25 +14,13 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
-                        "Untitled-22c625a15653ea8155ba0a9cae95e10af574ec71.png",
-                        "Untitled-22ce7fa0356b7136e99ebd2840493140040b4078.png",
                         "Untitled-2dac3ee90aa65c5d43ffa1f35ee68f9804f35011.png",
                         "Untitled-4b7ad826e8264ff9b0f01f4703da86229511804b.png",
-                        "Untitled-58b33c353a3c021b9eb77e5b9856e6f88ae87870.png",
                         "Untitled-5c341b58a984b331fbf068da660b361cd63b3f22.png",
-                        "Untitled-866fe0ec24ca59bf3d0e2ad004863b9de60e1bd4.png",
-                        "Untitled-8eaa827d0c86adc01b58bf91c61a98db76ede141.png",
                         "Untitled-914f7eb87e96a832de9d8319c59a502610f9348c.png",
                         "Untitled-95ea1453301871cc0dd059baa6edc4f218e5103b.png",
-                        "Untitled-97690b3e3910f91d762efee20eedc77db9ceb76f.png",
-                        "Untitled-99d6954405d9066345afb48c0291185da98f4a58.png",
-                        "Untitled-9fd5e1aa067d2aec035ee2b403cac1efbf5aed02.png",
                         "Untitled-a420e2d91002d6ce2c5f3918cd7d6f8d76332319.png",
-                        "Untitled-a591977d5c45d5d8704eba5da663186927b51954.png",
-                        "Untitled-ac8d1b4266f1e04decb516e5c61fdc3c5b195a5a.png",
                         "Untitled-ae32b0195fd23e4b2323e30fe7162020de6a95b5.png",
-                        "Untitled-b3e7de9bbe567db576479cbbd00d783d0868059a.png",
-                        "Untitled-ca24c6c4e629a6f4d73cce22b1fac82324c16e4d.png",
                         "Untitled-df120052e57e91c7a4f7dd0f9a79e446c918780d.png",
                         "paste-1828c78399f8c4a2dfaacb1a31b5cdd97c37ce6c.jpg",
                         "paste-4ca044a25f7a839eb388f8b1f84c6e1a8e046934.jpg"
@@ -47,18 +35,6 @@
                                 ""
                             ],
                             "guid": "xrA!}5Kg^j",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was sind die drei elektronischen Vorgänge des Wasserstoffs?<div><h3>{{c1::</h3><h3>I. Abgabe des 1s-Elektrons</h3><h3>\n<div><img src=\"Untitled-22ce7fa0356b7136e99ebd2840493140040b4078.png\"><br></div>\n</h3><h3>II. Aufnahme eines Elektrons</h3><h3>\n<div><img src=\"Untitled-b3e7de9bbe567db576479cbbd00d783d0868059a.png\"><br></div>\n</h3><h3>III. Aufteilung eines EP</h3><h3>\n<div><img src=\"Untitled-a591977d5c45d5d8704eba5da663186927b51954.png\"></div>}}<br></h3></div>",
-                                ""
-                            ],
-                            "guid": "iH4+hSP(Y@",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
@@ -139,18 +115,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Bei welchen allgemeinen Reaktion entsteht Wasserstoff? Gebe je ein Beispiel.<div>{{c1::<div><img src=\"Untitled-ca24c6c4e629a6f4d73cce22b1fac82324c16e4d.png\"><br></div><div><h2>a)</h2><div><img src=\"Untitled-99d6954405d9066345afb48c0291185da98f4a58.png\"><br></div>\n<h2>b)</h2>\n<h2><img src=\"Untitled-9fd5e1aa067d2aec035ee2b403cac1efbf5aed02.png\"><br></h2><h2>c)</h2></div><div><img src=\"Untitled-22c625a15653ea8155ba0a9cae95e10af574ec71.png\"></div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "I`xk{.+1(s",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Was ist Orthowasserstoff?<div>{{c1::Die Spins der H-Kerne sind parallel}}<br></div>",
                                 ""
                             ],
@@ -167,42 +131,6 @@
                                 ""
                             ],
                             "guid": "M~~qGEi{>&",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Eigenschaften hat atomarer Wasserstoff?<div>{{c1::<div><ul><li></li><li>Radikalisches Verhalten</li>\n<li>Starke Tendenz zur Rekombination → ermöglicht viele Reaktionen bei Raumtemperatur</li>}}<br></ul></div></div>",
-                                ""
-                            ],
-                            "guid": "D?-x5+9=kD",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie wird die hohe Temperatur eines Langmuir-Brenners erreicht?<div>{{c1::Es findet eine Spaltung von Wasserstoffmolekülen, durch einen Lichtbogen, statt. Die dadurch gebildeten atomaren Wasserstoffe, werden auf einer Metalloberfläche wieder rekombiniert.}}<br></div>",
-                                ""
-                            ],
-                            "guid": "L0XoVu5p0~",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Verbindungsklassen gibt es für den Wasserstoff?<div>{{c1::<div>Ionische Hydride</div>\n<div>Metallische Hydride</div>\n<div>Kovalente Hydride</div>}}<br></div>",
-                                ""
-                            ],
-                            "guid": "e.2FiE%`wZ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
@@ -239,114 +167,6 @@
                                 ""
                             ],
                             "guid": "nWvwtg%0G.",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie bildet sich Chlorwasserstoff?<div>{{c1::<div>Über eine Kettenreaktion, die mittels Licht, Radikale aktiviert. Diese reagieren dann weiter und erzeugen weitere Radikale. Die Reaktion endet, wenn keine Radikale mehr in der Lösung vorliegen.</div>}}</div>",
-                                "<img src=\"Untitled-ac8d1b4266f1e04decb516e5c61fdc3c5b195a5a.png\">"
-                            ],
-                            "guid": "KEA38a9Pu0",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie lautet die allgemeine Reaktionsgleichung für Halogenwasserstoffe?<div>{{c1::<img src=\"Untitled-97690b3e3910f91d762efee20eedc77db9ceb76f.png\">}}<br></div>",
-                                ""
-                            ],
-                            "guid": "zGy94i[<O5",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie läuft die Knallgasreaktion ab?<div>{{c1::Es werden Wasserstoff-, Sauerstoff- und Hydroxid-Radikale gebildet, welche dann über eine Kettenreaktion miteinander reagieren. Da 2 Radikale als Produkte vorliegen, kann es zu einer Kettenverzweigung kommen.}}<br></div>",
-                                "<img src=\"Untitled-58b33c353a3c021b9eb77e5b9856e6f88ae87870.png\">"
-                            ],
-                            "guid": "MtC!z0MWeM",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "In welcher Oxidationsstufe liegt der Wasserstoff in ionischen Hydriden vor?<div>{{c1::immer in der untypischen Form: -I}}<br></div>",
-                                ""
-                            ],
-                            "guid": "cRAZC:L2`e",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Valenzelektronenkonfiguration (VEK) liegt beim Wasserstoff in ionischen Hydriden vor?<div>{{c1::VEK wie bei Helium, damit isoelektisch wie das Helium}}<br></div>",
-                                ""
-                            ],
-                            "guid": "gYiBb<pe4%",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann man sich ionische Hydride strukturell vorstellen?<div>{{c1::Wichtig die Größe der Wasserstoff-Ionen ist falsch. Eigentlich liegen die Wasserstoffionen (klein) zwischen den positiven Metallrümpfen.}}<br></div>",
-                                "<img src=\"Untitled-866fe0ec24ca59bf3d0e2ad004863b9de60e1bd4.png\">"
-                            ],
-                            "guid": "dC{4-*1?4K",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie können ionische Hydride hergestellt werden?<div>{{c1::KH und CaH2 entstehen durch Einleiten von H2 in die entspr. Metallschmelze}}<br></div>",
-                                ""
-                            ],
-                            "guid": "VTOlLu}i(",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was geschieht wenn man ionische Hydride mit Wasser reagieren lässt?<div>{{c1::Dann wird der Wasserstoff der in dem Hydrid vorliegt zurückgewonnen. Zusätzlich bildet sich eine Base aus, die aus dem Metall und Hydroxidionen besteht.}}<br></div>",
-                                ""
-                            ],
-                            "guid": "CDd6ktY=Sb",
-                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": [
-                                "AC::HG0"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie kann man sich metallische Hydrige strukturell vorstellen?<div>{{c1::Dabei ist zu beachten das in diesem Fall die Metalle und der Wasserstoff <span style=\"font-weight:600\">ungeladen </span>sind!}}<br></div>",
-                                "<img src=\"Untitled-8eaa827d0c86adc01b58bf91c61a98db76ede141.png\">"
-                            ],
-                            "guid": "h=T03n5%cu",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
@@ -578,6 +398,215 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG1"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e5c73caa-f8f0-11eb-87ed-448a5b8ef3a7",
+                    "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Untitled-22c625a15653ea8155ba0a9cae95e10af574ec71.png",
+                        "Untitled-22ce7fa0356b7136e99ebd2840493140040b4078.png",
+                        "Untitled-58b33c353a3c021b9eb77e5b9856e6f88ae87870.png",
+                        "Untitled-866fe0ec24ca59bf3d0e2ad004863b9de60e1bd4.png",
+                        "Untitled-8eaa827d0c86adc01b58bf91c61a98db76ede141.png",
+                        "Untitled-97690b3e3910f91d762efee20eedc77db9ceb76f.png",
+                        "Untitled-99d6954405d9066345afb48c0291185da98f4a58.png",
+                        "Untitled-9fd5e1aa067d2aec035ee2b403cac1efbf5aed02.png",
+                        "Untitled-a591977d5c45d5d8704eba5da663186927b51954.png",
+                        "Untitled-ac8d1b4266f1e04decb516e5c61fdc3c5b195a5a.png",
+                        "Untitled-b3e7de9bbe567db576479cbbd00d783d0868059a.png",
+                        "Untitled-ca24c6c4e629a6f4d73cce22b1fac82324c16e4d.png"
+                    ],
+                    "name": "Anorganische Chemie",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die drei elektronischen Vorgänge des Wasserstoffs?<div><h3>{{c1::</h3><h3>I. Abgabe des 1s-Elektrons</h3><h3>\n<div><img src=\"Untitled-22ce7fa0356b7136e99ebd2840493140040b4078.png\"><br></div>\n</h3><h3>II. Aufnahme eines Elektrons</h3><h3>\n<div><img src=\"Untitled-b3e7de9bbe567db576479cbbd00d783d0868059a.png\"><br></div>\n</h3><h3>III. Aufteilung eines EP</h3><h3>\n<div><img src=\"Untitled-a591977d5c45d5d8704eba5da663186927b51954.png\"></div>}}<br></h3></div>",
+                                ""
+                            ],
+                            "guid": "iH4+hSP(Y@",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bei welchen allgemeinen Reaktion entsteht Wasserstoff? Gebe je ein Beispiel.<div>{{c1::<div><img src=\"Untitled-ca24c6c4e629a6f4d73cce22b1fac82324c16e4d.png\"><br></div><div><h2>a)</h2><div><img src=\"Untitled-99d6954405d9066345afb48c0291185da98f4a58.png\"><br></div>\n<h2>b)</h2>\n<h2><img src=\"Untitled-9fd5e1aa067d2aec035ee2b403cac1efbf5aed02.png\"><br></h2><h2>c)</h2></div><div><img src=\"Untitled-22c625a15653ea8155ba0a9cae95e10af574ec71.png\"></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "I`xk{.+1(s",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Eigenschaften hat atomarer Wasserstoff?<div>{{c1::<div><ul><li></li><li>Radikalisches Verhalten</li>\n<li>Starke Tendenz zur Rekombination → ermöglicht viele Reaktionen bei Raumtemperatur</li>}}<br></ul></div></div>",
+                                ""
+                            ],
+                            "guid": "D?-x5+9=kD",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die hohe Temperatur eines Langmuir-Brenners erreicht?<div>{{c1::Es findet eine Spaltung von Wasserstoffmolekülen, durch einen Lichtbogen, statt. Die dadurch gebildeten atomaren Wasserstoffe, werden auf einer Metalloberfläche wieder rekombiniert.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "L0XoVu5p0~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Verbindungsklassen gibt es für den Wasserstoff?<div>{{c1::<div>Ionische Hydride</div>\n<div>Metallische Hydride</div>\n<div>Kovalente Hydride</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "e.2FiE%`wZ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie bildet sich Chlorwasserstoff?<div>{{c1::<div>Über eine Kettenreaktion, die mittels Licht, Radikale aktiviert. Diese reagieren dann weiter und erzeugen weitere Radikale. Die Reaktion endet, wenn keine Radikale mehr in der Lösung vorliegen.</div>}}</div>",
+                                "<img src=\"Untitled-ac8d1b4266f1e04decb516e5c61fdc3c5b195a5a.png\">"
+                            ],
+                            "guid": "KEA38a9Pu0",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die allgemeine Reaktionsgleichung für Halogenwasserstoffe?<div>{{c1::<img src=\"Untitled-97690b3e3910f91d762efee20eedc77db9ceb76f.png\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "zGy94i[<O5",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie läuft die Knallgasreaktion ab?<div>{{c1::Es werden Wasserstoff-, Sauerstoff- und Hydroxid-Radikale gebildet, welche dann über eine Kettenreaktion miteinander reagieren. Da 2 Radikale als Produkte vorliegen, kann es zu einer Kettenverzweigung kommen.}}<br></div>",
+                                "<img src=\"Untitled-58b33c353a3c021b9eb77e5b9856e6f88ae87870.png\">"
+                            ],
+                            "guid": "MtC!z0MWeM",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Oxidationsstufe liegt der Wasserstoff in ionischen Hydriden vor?<div>{{c1::immer in der untypischen Form: -I}}<br></div>",
+                                ""
+                            ],
+                            "guid": "cRAZC:L2`e",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Valenzelektronenkonfiguration (VEK) liegt beim Wasserstoff in ionischen Hydriden vor?<div>{{c1::VEK wie bei Helium, damit isoelektisch wie das Helium}}<br></div>",
+                                ""
+                            ],
+                            "guid": "gYiBb<pe4%",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man sich ionische Hydride strukturell vorstellen?<div>{{c1::Wichtig die Größe der Wasserstoff-Ionen ist falsch. Eigentlich liegen die Wasserstoffionen (klein) zwischen den positiven Metallrümpfen.}}<br></div>",
+                                "<img src=\"Untitled-866fe0ec24ca59bf3d0e2ad004863b9de60e1bd4.png\">"
+                            ],
+                            "guid": "dC{4-*1?4K",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können ionische Hydride hergestellt werden?<div>{{c1::KH und CaH2 entstehen durch Einleiten von H2 in die entspr. Metallschmelze}}<br></div>",
+                                ""
+                            ],
+                            "guid": "VTOlLu}i(",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was geschieht wenn man ionische Hydride mit Wasser reagieren lässt?<div>{{c1::Dann wird der Wasserstoff der in dem Hydrid vorliegt zurückgewonnen. Zusätzlich bildet sich eine Base aus, die aus dem Metall und Hydroxidionen besteht.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "CDd6ktY=Sb",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man sich metallische Hydrige strukturell vorstellen?<div>{{c1::Dabei ist zu beachten das in diesem Fall die Metalle und der Wasserstoff <span style=\"font-weight:600\">ungeladen </span>sind!}}<br></div>",
+                                "<img src=\"Untitled-8eaa827d0c86adc01b58bf91c61a98db76ede141.png\">"
+                            ],
+                            "guid": "h=T03n5%cu",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AnorganischeChemie",
+                                "AnorganischeChemie::HG0"
                             ]
                         }
                     ]
