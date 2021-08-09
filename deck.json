@@ -25,11 +25,14 @@
                         "paste-008c55e344db351ca6b03efac611abad122c5889.jpg",
                         "paste-1828c78399f8c4a2dfaacb1a31b5cdd97c37ce6c.jpg",
                         "paste-340ce9a06f9a35f5be6cdece6ee60565d7b370ed.jpg",
+                        "paste-36f8966a3ea932e03b92925ec255ca0598e2ec1b.jpg",
                         "paste-37a15b038a670a300c050899bff5c6fc9554bd75.jpg",
+                        "paste-3e3196b28b59a4ee493f9e162b4387814a3670d8.jpg",
                         "paste-4ca044a25f7a839eb388f8b1f84c6e1a8e046934.jpg",
                         "paste-56fa4e7835826e297663b4b90cc95877a41c45fc.jpg",
                         "paste-73ffc7c943a0badaa09c99656f10575c9fc014d6.jpg",
                         "paste-bf6151f049340aa06b35490031f0ccfec11614c8.jpg",
+                        "paste-c5c488bd28ccb7bb22b4a37ad8ca87cb9256d783.jpg",
                         "paste-d26f3741db687a77d59dcbefcde47957a88fdd39.jpg",
                         "paste-deeb8155d7a3a672bbbf447e70f1ed9f460f549c.jpg"
                     ],
@@ -802,6 +805,126 @@
                             "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
                             "tags": [
                                 "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher HG kommen Schwefelblasen und Verbindungen mit Sulfiden und Sulfaten vor?<div>{{c1::HG 6}}</div>",
+                                ""
+                            ],
+                            "guid": "JeT$lF|VK9",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie viele Elektronen können die Elemente aus der 6. HG aufnehmen und was ist dadurch erreicht?<div>{{c1::Sie können 2 Elektronen aufnehmen, wodurch die Edelgaskonfiguration erreicht wird.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "O[GAY@S|^$",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu was führt die Anwesenheit stärker elektronegativer Bindungspartner bei den Elementen der 6. HG?<div>{{c1::zu \\(\\sigma\\)-Bindungen}}</div>",
+                                ""
+                            ],
+                            "guid": "vd6->{<rR",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Womit sind die Elemente der 6. HG isoelektrisch?</div><div>{{c1::mit den Pnictogenen}}</div>",
+                                "<img src=\"paste-36f8966a3ea932e03b92925ec255ca0598e2ec1b.jpg\">"
+                            ],
+                            "guid": "jZ9CKWD}T1",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet die Sonderstellung von $O_2$ bei der 6. HG?<div>{{c1::neigt zu effektiver $p_\\(\\pi\\)-p_\\(\\pi\\)$-Bindung, da keine unbesetzten d-Orbitale}}</div>",
+                                ""
+                            ],
+                            "guid": "u[-Yd>+]n+",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nach welchem Verfahren wird Sauerstoff technisch hergestellt?<div>{{c1::<div>Linde-Verfahren</div>}}</div>",
+                                ""
+                            ],
+                            "guid": "pg3:4_~PR|",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum ist das $O_2$-Molekül paramagnetisch?<div>{{c1::MO-Schema}}<br></div>",
+                                "<img src=\"paste-3e3196b28b59a4ee493f9e162b4387814a3670d8.jpg\">"
+                            ],
+                            "guid": "N[gV[]B7o:",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was versteht man unter einem Ozonloch?{{c1::<div>Das Eindringen von schädlicher Strahlung, bei Absorption durch Gase in der Atmosphäre</div>}}",
+                                "<img src=\"paste-c5c488bd28ccb7bb22b4a37ad8ca87cb9256d783.jpg\">"
+                            ],
+                            "guid": "QWLIhQ>j]5",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aufgrund welcher Eigenschaft kommt eine mit Selen beschichtete Trommel in Kopierern (elektrostatisches Kopieren) zum\nEinsatz?<div>{{c1::<div>- Photoleiter (wird bei Belichtung leitfähig)</div>}}<br></div>",
+                                "<div>-&nbsp;Selenbeschichtung wird in der Dunkelheit elektrostatisch aufgeladen und mit Toner beladen</div><div>- an belichteten Stellen fließt Ladung und Pulver fällt ab</div>"
+                            ],
+                            "guid": "oJ=BMUt#ut",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die im Vergleich zu den anderen Wasserstoffverbindungen der Chalkogene abweichende physikalische Eigenschaft von H2O?<div>{{c1::Wasserstoffbindung und Kristallstruktur von Eis}}<br></div>",
+                                ""
+                            ],
+                            "guid": "g6C37+ToiC",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG6"
                             ]
                         }
                     ]
@@ -7702,7 +7825,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "AC::HG5"
+                "AC::HG6"
             ],
             "tmpls": [
                 {
