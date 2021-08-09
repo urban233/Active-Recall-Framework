@@ -22,8 +22,16 @@
                         "Untitled-a420e2d91002d6ce2c5f3918cd7d6f8d76332319.png",
                         "Untitled-ae32b0195fd23e4b2323e30fe7162020de6a95b5.png",
                         "Untitled-df120052e57e91c7a4f7dd0f9a79e446c918780d.png",
+                        "paste-008c55e344db351ca6b03efac611abad122c5889.jpg",
                         "paste-1828c78399f8c4a2dfaacb1a31b5cdd97c37ce6c.jpg",
-                        "paste-4ca044a25f7a839eb388f8b1f84c6e1a8e046934.jpg"
+                        "paste-340ce9a06f9a35f5be6cdece6ee60565d7b370ed.jpg",
+                        "paste-37a15b038a670a300c050899bff5c6fc9554bd75.jpg",
+                        "paste-4ca044a25f7a839eb388f8b1f84c6e1a8e046934.jpg",
+                        "paste-56fa4e7835826e297663b4b90cc95877a41c45fc.jpg",
+                        "paste-73ffc7c943a0badaa09c99656f10575c9fc014d6.jpg",
+                        "paste-bf6151f049340aa06b35490031f0ccfec11614c8.jpg",
+                        "paste-d26f3741db687a77d59dcbefcde47957a88fdd39.jpg",
+                        "paste-deeb8155d7a3a672bbbf447e70f1ed9f460f549c.jpg"
                     ],
                     "mid": 1604391419185,
                     "name": "AC",
@@ -398,6 +406,402 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu welcher Hauptgruppe gehören die Elemente, die zu 78.1 Vol-% und 75.5 Mas-% in der Luft vorkommen?<div>{{c1::HG5}}</div>",
+                                ""
+                            ],
+                            "guid": "i|<mrI&T^#",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welchen Salpeterformen kommen die Elemente der 5.HG vor?<div>{{c1::Natron- und Kalisalpeter}}</div>",
+                                ""
+                            ],
+                            "guid": "tdnv*%%Q/c",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu welcher Hauptgruppe gehören die Elemente, die in Natron- und Kalisalpeter vorkommen?<div>{{c1::5. HG}}</div>",
+                                ""
+                            ],
+                            "guid": "A)$LJo>(Hv",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aus welcher HG kommen die Elemente die in Phosphorit, Apatit, Blaueisenerz und Wavellit (Salze der Phosphorsäure) vorkommen?<div>{{c1::HG 5}}</div>",
+                                ""
+                            ],
+                            "guid": "cd&F>w_28c",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Salze der Phosphorsäure bestehen aus Elementen der HG 5?<div>{{c1::Phosphorit, Apatit, Blaueisenerz und Wavellit}}</div>",
+                                ""
+                            ],
+                            "guid": "EN|;=$LUx)",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher HG kommen die Elemente vor, welche in Glanzcobalt, Gersdorffit, Löllingenit und Arsenolith enthalten sind?<div>{{c1::HG 5}}</div>",
+                                ""
+                            ],
+                            "guid": "CB,H?#XhuN",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In was kommen die Elemente der 5. HG, außer in der Luft, Aminosäuren, Salpeter und Salzen der Phosphorsäure vor?<div>{{c1::in Glanzcobalt, Gersdorffit, Löllingenit und Arsenolith}}<br></div>",
+                                ""
+                            ],
+                            "guid": "mV_Er+qv*i",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie viele Elektronen können die Elemente aus der 5. HG aufnehmen und was ist dadurch erreicht?<div>{{c1::Sie können 3 Elektronen aufnehmen, wodurch die Edelgaskonfiguration erreicht wird.}}</div>",
+                                "mögliche Bildung von 3-fach negativen Anionen"
+                            ],
+                            "guid": "os.DZS~x=i",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die groben Unterschiede in den Gruppeneigenschaften, der 5. HG (außerhalb der Tabelle mit Dichte etc.)?<div>{{c1::<div>- Elektronenaufnahme (3)</div><div>- kovalente Bindung</div><div>- Elektronabgabe (1 p)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "P!|J8=gN1]",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die kovalente Bindung als Gruppeneigenschaft für die Elemente der 5. HG zu erklären?<div>{{c1::<div>- halbvolle p-Orbitale können 3 Atome oder Atomgruppen kovalent binden</div><div>- häufig beobachtetes Valenzverhalten</div><div>- Ox-Zahl der Pnictogene abhängig von EN der Bindungspartner</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "h(d5R>I?`*",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeuten Pnictogene?<div>{{c1::Stickstoffgruppe}}</div>",
+                                ""
+                            ],
+                            "guid": "Nt1+L|T>4g",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie viele Elektronen können bei den Elementen der 5. HG abgegeben werden?<div>{{c1::1 p Elektron}}</div>",
+                                ""
+                            ],
+                            "guid": "cW),9<~Mwq",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu was führt die 1 p-Elektronabgabe bei den Elementen der 5. HG?<div>{{c1::zur Bildung von 1-fach positiven Kationen}}</div>",
+                                ""
+                            ],
+                            "guid": "HI/T2V:INe",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Abgabe von 1p Elektron als Gruppeneigenschaft für die Elemente der 5. HG zu erklären?<div>{{c1::<div>- Bildung von 1-fach positiven Kationen</div><div>- isoelektrisch mit HG 4 (tetraedische Strukturen mit \\(\\sp^3\\)-Hybridorbitalen zu beschreiben)</div><div>- N: nur \\(\\p_\\(\\pi\\)-p_\\(\\pi\\)\\)-Bindung&nbsp;</div><div>- ab P: auch freie d-Orbitale (5-Bindigkeit)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "x>aSDZLU[I",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Abgabe von 1p Elektron als Gruppeneigenschaft für N bei der 5. HG zu erklären?<div>{{c1::<img src=\"paste-37a15b038a670a300c050899bff5c6fc9554bd75.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "hqev,]u|%Q",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Abgabe von 1p Elektron als Gruppeneigenschaft ab P bei der 5. HG zu erklären?<div>{{c1::auch freie d-Orbitale möglich (5-Bindigkeit)}}</div>",
+                                "<img src=\"paste-deeb8155d7a3a672bbbf447e70f1ed9f460f549c.jpg\">"
+                            ],
+                            "guid": "csFjF9R.?i",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nach welchem Verfahren wird Stickstoff technisch hergestellt?<div>{{c1::<div>Linde Verfahren</div>}}</div>",
+                                ""
+                            ],
+                            "guid": "N,8vZ?8g}",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Eigenschaften hat das Distickstoffmolekül?<div>{{c1::<div>- Dreifachbindung&nbsp;</div><div>- elektronegativ&nbsp;</div><div>- höchstens 4-\nbindig</div><div>- in vielen Verbindungen oft \\(\\pi\\)-\\(\\pi\\)-Bindungen</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "ss9_h~x!.8",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Worauf beruht die besondere Stabilität die Stickstoff in der 5. HG einnimmt?<div>{{c1::Dreifachbindung}}</div>",
+                                ""
+                            ],
+                            "guid": "j4;Y>kG/9m",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Modifikationen kann Phosphor annehmen?<div>{{c1::<div>- weißer Phosphor</div><div>- roter Phosphor</div><div>- violetter Phosphor</div><div>- schwarzer Phosphor</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "eoqw.JxiB(",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aus was besteht weißer Phosphor<div>{{c1::aus tetraedischen P_4-Molekülen}}</div>",
+                                "<img src=\"paste-008c55e344db351ca6b03efac611abad122c5889.jpg\">"
+                            ],
+                            "guid": "JrqeR[JGj^",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso muss weißer Phosphor unter Wasser gelagert werden?<div>{{c1::</div><div>- Autoxidation an der Luft</div><div>- leicht entzündlich</div><div>- giftig}}<br></div>",
+                                ""
+                            ],
+                            "guid": "GmY^PbETYN",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aus was besteht schwarzer Phosphor?<div>{{c1::stark gewellten Doppelschichten}}</div>",
+                                "<img src=\"paste-56fa4e7835826e297663b4b90cc95877a41c45fc.jpg\">"
+                            ],
+                            "guid": "Qwkk5/NQIR",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aus was besteht roter Phosphor?<div>{{c1::aus einem unregelmäßigem, 3-dimensionalen Netzwerk}}</div>",
+                                "ist ein Polymer"
+                            ],
+                            "guid": "pXQ-rKC1Zc",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aus was besteht violetter Phosphor?<div>{{c1::aus parallel angeordneten Röhren}}</div>",
+                                "<img src=\"paste-d26f3741db687a77d59dcbefcde47957a88fdd39.jpg\">"
+                            ],
+                            "guid": "b]:R&(Ao02",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dient der Zusatz von Sand bei der Phosphorgewinnung?<div>{{c1::SiO_2 verhindert Verstaubung durch CaO-Bildung}}<br></div>",
+                                ""
+                            ],
+                            "guid": "k-@M6TFFW?",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lässt sich schwarzes As darstellen?<div>{{c1::bei Kondensation an 100 – 200 °C warmen Flächen}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Q8%X-;/!,<",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Eigenschaften haben die Modifikationen vom schwarzen As und Sb?<div>{{c1::<div>- Isolator&nbsp;</div><div>- glasartig</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "q~3*NO4U+}",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lässt sich schwarzes Sb darstellen?<div>{{c1::durch Aufdampfen von Sb auf gekühlte Flächen}}<br></div>",
+                                ""
+                            ],
+                            "guid": "i)H1DZK.v=",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Pseudohalogenid?<div>{{c1::sie reagieren&nbsp;z.B. in\nwässriger Lösung wie Cl- usw.}}</div>",
+                                "z.B Cyanide, Cyanate und Thiocyanate<div><img src=\"paste-bf6151f049340aa06b35490031f0ccfec11614c8.jpg\"><br></div>"
+                            ],
+                            "guid": "j42Aj=*[g}",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Worauf beruht das Vermögen von „Königswasser“ edle Metalle\nzu lösen?<div>{{c1::Es entsteht sehr reaktives atomares Chlor, dessen Reak-\n tion mit Au/Pt zu dessen Auflösung führt.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "t5N?e0Ueeo",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Funktion hat Pentanatriumtriphosphat?<div>{{c1::<div>- es ist ein Waschmitteladditiv</div><div>- bildet mit Ca<sup>2+</sup>&nbsp;stabile und lösliche Komplexe (Wasserenthärter)</div>}}<br></div>",
+                                "heute durch Zeolithe ersetzt<div><img src=\"paste-73ffc7c943a0badaa09c99656f10575c9fc014d6.jpg\"><br></div>"
+                            ],
+                            "guid": "F2zSq1BO>7",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Funktion hat ATP? xD<div>{{c1::ist die universelle Währung der freien Energie in biologischen Systemen}}</div>",
+                                "<img src=\"paste-340ce9a06f9a35f5be6cdece6ee60565d7b370ed.jpg\">"
+                            ],
+                            "guid": "j<EP/lQ,nF",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG5"
                             ]
                         }
                     ]
@@ -7119,20 +7523,20 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
-                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
+                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
+                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
                     ],
-                    "guid": "x/,N,!rndE",
+                    "guid": "F>v-@=id2}",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
-                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
+                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
+                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
                     ],
-                    "guid": "F>v-@=id2}",
+                    "guid": "x/,N,!rndE",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
@@ -7263,6 +7667,60 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "AC::HG5"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "a0f62766-ed53-11eb-8d56-448a5b8ef3a7",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
@@ -7358,7 +7816,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-f8069",
             "req": [
                 [
                     0,
