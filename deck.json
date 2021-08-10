@@ -24,6 +24,7 @@
                         "Untitled-df120052e57e91c7a4f7dd0f9a79e446c918780d.png",
                         "paste-008c55e344db351ca6b03efac611abad122c5889.jpg",
                         "paste-1828c78399f8c4a2dfaacb1a31b5cdd97c37ce6c.jpg",
+                        "paste-29e1971eb5a1dabbd49bb0690f4c83995db16bea.jpg",
                         "paste-340ce9a06f9a35f5be6cdece6ee60565d7b370ed.jpg",
                         "paste-36f8966a3ea932e03b92925ec255ca0598e2ec1b.jpg",
                         "paste-37a15b038a670a300c050899bff5c6fc9554bd75.jpg",
@@ -925,6 +926,306 @@
                             "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
                             "tags": [
                                 "AC::HG6"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie viele Elektronen können die Elemente aus der 7. HG aufnehmen und was ist dadurch erreicht?<div>{{c1::Sie können 1 Elektron aufnehmen, wodurch die Edelgaskonfiguration erreicht wird.}}<br></div>",
+                                "Bildung von 1-fach negativen Anionen in Ionenverbindungen"
+                            ],
+                            "guid": "j^6p]t$V=k",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aufgrund von was bestehen die elementaren Halogene in allen Aggregatzuständen aus 2-atomaren Molekülen?<div>{{c1::VEK(Valenzelektronenkonfiguration?) $s^2 p^5$}}</div>",
+                                ""
+                            ],
+                            "guid": "HTM-mZp~#;",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet die VEK $s^2 p^5$ für die elementaren Halogene in allen Aggregatzuständen?<div>{{c1::Die elementaren Halogene bestehen deswegen aus 2-atomaren Molekülen}}</div>",
+                                ""
+                            ],
+                            "guid": "IfWzvgU:Lc",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Durch was werden bei den Halogenen kovalente Bindungen ausgebildet?<div>{{c1::da ein ungepaartes Elektron im Grundzustand vorhanden ist}}</div>",
+                                "<img src=\"paste-29e1971eb5a1dabbd49bb0690f4c83995db16bea.jpg\">"
+                            ],
+                            "guid": "i;0>PsI`Q3",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet ein ungepaartes Elektron bei den Halogenen im Grundzustand?<div>{{c1::es werden kovalente Bindungen ausgebildet}}</div>",
+                                "<img src=\"paste-29e1971eb5a1dabbd49bb0690f4c83995db16bea.jpg\">"
+                            ],
+                            "guid": "n;6MW|p.ic",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kommen die Elemente der 7. HG nicht elementar in der Natur vor?<div>{{c1::da sie zu reaktiv sind}}</div>",
+                                ""
+                            ],
+                            "guid": "g/KaV]O8{]",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welchen Aggregatzustand hat das elementare Halogen Fluor bei\n20 °C?<div>{{c1::gasförmig}}</div>",
+                                ""
+                            ],
+                            "guid": "P<?ycL_%xB",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welchen Aggregatzustand hat das elementare Halogen Chlor bei 20 °C?<div>{{c1::gasförmig}}</div>",
+                                ""
+                            ],
+                            "guid": "b{Ifv|rkP-",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welchen Aggregatzustand hat das elementare Halogen Brom bei 20 °C?<div>{{c1::flüssig}}</div>",
+                                ""
+                            ],
+                            "guid": "B?_<f@5@p,",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welchen Aggregatzustand hat das elementare Halogen Iod bei 20 °C?<div>{{c1::fest}}</div>",
+                                ""
+                            ],
+                            "guid": "El.`:.RjSF",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welchen Aggregatzustand hat das elementare Halogen Astat bei 20 °C?<div>{{c1::fest}}</div>",
+                                ""
+                            ],
+                            "guid": "iu<j:rOE(o",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kann man mit elementarem Brom aus einer Jodidlösung\nelementares Jod freisetzen, nicht aber elementares Chlor\naus einer Chloridlösung?<div>{{c1::nur das darüberstehende Element ist ein stärkeres Oxidationsmittel}}<br></div>",
+                                ""
+                            ],
+                            "guid": "c^2cPDh<Sy",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Eigenschaften haben die Halogenwasserstoffverbindungen?<div>{{c1::<div>- Säurestärke nimmt von HF nach HI zu<br></div><div>- lösen sich leicht in Wasser</div><div>- organische Lösungsmittel</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "t0vyl3*BB#",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist HCLO?<div>{{c1::Hypochlorige Säure}}</div>",
+                                ""
+                            ],
+                            "guid": "i5iph0pp3M",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist Hypochlorige Säure?<div>{{c1::HCLO}}</div>",
+                                ""
+                            ],
+                            "guid": "Q-]&4gPN_)",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu welchem Salz gehört die hypochlorige Säure (HCLO)?<div>{{c1::Hypochlorite}}</div>",
+                                ""
+                            ],
+                            "guid": "cmUWQu~RNW",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu welchem Salz gehört die Chlorige Säure (HClO<sub>2</sub>&nbsp;)?<div>{{c1::Chlorite}}</div>",
+                                ""
+                            ],
+                            "guid": "dLv/bYC708",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu welchem Salz gehört die Chlorsäure (HClO<sub>3</sub>)?<div>{{c1::Chlorate}}</div>",
+                                ""
+                            ],
+                            "guid": "b)lsg}r>_+",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu welchem Salz gehört die Perchlorsäure (HClO<sub>4</sub>)?<div>{{c1::Perchlorate}}</div>",
+                                ""
+                            ],
+                            "guid": "Iwpy1D{6me",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist HClO<sub>2</sub>?<div>{{c1::Chlorige Säure}}</div>",
+                                ""
+                            ],
+                            "guid": "cJoI8!Z=jJ",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die chlorige Säure?<div>{{c1::HClO<sub>2</sub>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "wX@jFTxADA",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist HClO<span style=\"font-size: 16.6667px;\"><sub>3</sub>?</span><div>{{c1::Chlorsäure}}<br></div>",
+                                ""
+                            ],
+                            "guid": "BE*;0c`4m[",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Chlorsäure?<div>{{c1::HClO<span style=\"font-size: 16.6667px;\"><sub>3</sub></span>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "EP>]0jKGVQ",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist HClO<span style=\"font-size: 16.6667px;\"><sub>4</sub>?</span><div>{{c1::Perchlorsäure}}<br></div>",
+                                ""
+                            ],
+                            "guid": "n[}x?|iSBP",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist Perchlorsäure?<div>{{c1::HClO<span style=\"font-size: 16.6667px;\"><sub>4</sub></span>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "y+ew:}:qeK",
+                            "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
+                            "tags": [
+                                "AC::HG7"
                             ]
                         }
                     ]
@@ -2590,7 +2891,7 @@
                         "paste-fec17b343a5eab347f70ab0469558436db203c58.jpg",
                         "tmpmv5qzcbz.png"
                     ],
-                    "mid": 1604391419185,
+                    "mid": 1611488376664,
                     "name": "Genetik",
                     "notes": [
                         {
@@ -7825,7 +8126,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "AC::HG6"
+                "AC::HG7"
             ],
             "tmpls": [
                 {
