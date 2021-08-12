@@ -8,12 +8,17 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "d95a77c2-fb62-11eb-b2af-448a5b8ef3a7",
-                    "deck_config_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
+                    "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "226b420da6634d3db3482abfd576a33f-oa-1-A.svg",
+                        "226b420da6634d3db3482abfd576a33f-oa-1-Q.svg",
+                        "226b420da6634d3db3482abfd576a33f-oa-2-A.svg",
+                        "226b420da6634d3db3482abfd576a33f-oa-2-Q.svg",
+                        "226b420da6634d3db3482abfd576a33f-oa-O.svg",
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-A.svg",
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-Q.svg",
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-2-A.svg",
@@ -66,7 +71,31 @@
                         "91ce660e127c4872b36206ca47cb2743-ao-6-A.svg",
                         "91ce660e127c4872b36206ca47cb2743-ao-6-Q.svg",
                         "91ce660e127c4872b36206ca47cb2743-ao-O.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-1-A.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-1-Q.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-2-A.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-2-Q.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-3-A.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-3-Q.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-4-A.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-4-Q.svg",
+                        "c2de2549a5054db6b261ef76476a9893-ao-O.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-1-A.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-1-Q.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-2-A.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-2-Q.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-3-A.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-3-Q.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-4-A.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-4-Q.svg",
+                        "ed186e979bbd4ba98bc9244885624f27-ao-O.svg",
+                        "paste-1da192049f084243b03701a53e8450955fed6292.jpg",
+                        "paste-2037d374c69213f3cf1d7b957f7a3ce83de6e84d.jpg",
+                        "paste-4aa00b16625db5f7a1d0ab3781367c1e127b4b03.jpg",
+                        "paste-58dd6b33a3d57bfad7be2f77b30c30529f6a91ae.jpg",
                         "tmpdn5b8c36.png",
+                        "tmpg0myuyxf.png",
+                        "tmph5mznfua.png",
                         "tmpjwttfs2v.png"
                     ],
                     "mid": 1604391419185,
@@ -535,6 +564,276 @@
                                 "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-O.svg\" />"
                             ],
                             "guid": "mVL)nGy:gR",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von Hydriden gibt es und worin unterscheiden sie sich?<div>{{c1::- kovalente Hydride<br> größte Gruppe der Hydride<br> Bindung in Abhängigkeit von Elektronegativität des Bindungspartners polarisiert<br> H kann die Oxidationszahlen +1 oder -1 annehmen}}</div><div><br>{{c2::- ionische Hydride<br> H liegt in der Oxidationsstufe -1 vor<br> VEK: 1s2<br> reagieren mit Säure oder Wasser zu H2<br> Ionengitter aus Metallkationen und H—Anionen<br> starke Reduktionsmittel<br> werden zum Entfernen von H2O aus Lösungsmitteln angewendet}}</div><div><br>{{c3::- Metallhydride (Einlagerungshydride)<br> H-Atome sind in Lücken der Metall-Atompackung eingelagert<br> nicht stöchiometrisch zusammengesetzt<br> elektrische Leiter<br> metallisches Aussehen}}<br></div>",
+                                ""
+                            ],
+                            "guid": "j04)27kN8q",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vergleichen Sie die Reaktionen von CaH2 und von HCl mit Wasser.<div><br></div><div>{{c1::\\(CaH_2 + 2H_2O \\leftrightharpoons Ca(OH)_2 +2H_2\\)::Reaktionsgleichung}}</div><div><br></div><div>{{c2::Beim CaH2 ist die Elektronegativität des Ca (1,0) geringer als die des Wasserstoffs (2,2). Deshalb ist der Wasserstoff negativ polarisiert wodurch bei der Reaktion mit Wasser H2 entsteht.}}<br></div><div><br></div><div>{{c3::\\(HCl+2H_2O \\leftrightharpoons Cl^-+H_3O^+\\)::Reaktionsgleichung}}</div><div><br></div><div>{{c4::Bei Salzsäure ist die Elektronegativität des Chlors (3,2) höher als die des Wasserstoffs (2,2). Daher kommt es nicht zur Bildung von H2 bei der Reaktion mit Wasser. Stattdessen kommt es lediglich zu einer Protonenübertragung aufs Wasser.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "z2)BZ&^S2i",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man atomaren Wasserstoff darstellen, was ist ein Langmuir-Brenner und wozu wird er gebraucht?<div>{{c1::</div><div>- Darstellung nach Wood: H2 wird unter stark vermindertem Druck (0,1 – 1mbar) einer Elektrischen Entladung (Spannung 3 - 4kV) ausgesetzt. Die maximal erreichbare Ausbeute liegt bei 95%.</div><div><br>- Langmuir-Brenner<br>Zwischen Wolframelektroden wird ein Lichtbogen erzeugt. Wasserstoff der mit Düsen durch diesen Lichtbogen geleitet wird, wird zu atomarem Wasserstoff gespalten.<br>Wenn der Strahl aus atomarem Wasserstoff auf die Oberfläche des metallischen Werkstücks trifft wird dort durch diese die Rückreaktion zu H2 katalysiert. Dabei wird eine große Menge an Energie abgegeben wodurch es möglich ist auch hochschmelzende Metalle wie Tantal oder Wolfram zu verschweißen. Neben der hohen Temperatur ist ein weiterer Vorteil, dass durch den Wasserstoff der Sauerstoff der umgebenden Luft verdrängt wird wodurch es beim Schweißen nicht zur Oxidation des Werkstoffs kommt.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "h|2t`$*A@b",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "226b420da6634d3db3482abfd576a33f-oa-1",
+                                "",
+                                "<img src=\"tmpg0myuyxf.png\" />",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-1-A.svg\" />",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-O.svg\" />"
+                            ],
+                            "guid": "so}&q%E4w(",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "226b420da6634d3db3482abfd576a33f-oa-2",
+                                "",
+                                "<img src=\"tmpg0myuyxf.png\" />",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-2-A.svg\" />",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-O.svg\" />"
+                            ],
+                            "guid": "M[Gdvtz}VM",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie anhand einer Skizze den Claude-Prozess zur Verflüssigung von Wasserstoff.<div>{{c1::</div><div>I Das Wasserstoffgas wird bei Raumtemperatur komprimiert. Dabei wird die Verdichtungswäre abgeführt</div><div><br>II Das komprimierte Wasserstoffgas wird durch zB. flüssigen Stickstoff herunter gekühlt.</div><div><br>III Über eine Turbine wird ein Teil des Wasserstoffgases (isentrop) entspannt. Die dabei entstehende Kühlwirkung wird genutzt um das restliche Gas weiter herunter zu kühlen.</div><div><br>IV Das restliche Gas wird mit einem Joule-Thomson-Ventil (isenthalp) entspannt wodurch es sich bis zur Verflüssigung abkühlt.}}<br></div>",
+                                "<img src=\"paste-1da192049f084243b03701a53e8450955fed6292.jpg\">"
+                            ],
+                            "guid": "b<waiu2SxJ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kommt das Linde-Verfahren (Luftverflüssigung) bei Wasserstoff nicht zur Anwendung?<div><br><div>{{c1::<div>Sowohl beim Claude-Prozess als auch beim Linde-Verfahren wird der Joule-Thomson-Effekt ausgenutzt. Der Joule-Thomson-Effekt tritt auf wenn man ein Gas isenthalp expandiert wird also z.B. in einer Leitung ein Lochblech angebracht ist.</div><div></div>}}<br></div><div><br></div><div>{{c2::<div>Wenn sich die Teilchen des Gases <b>anziehen</b>, muss bei der Entspannung Arbeit geleistet werden. Die Energie dafür kommt aus der kinetischen Energie der Teilchen weshalb es zu einer Verringerung der Temperatur kommt.</div><div></div>}}<br></div><div><br></div><div>{{c3::Wenn sich die Teilchen hingegen <b>abstoßen</b> ist im komprimierten Zustand mehr Energie im Gas. Diese wird bei der Expansion frei und wird in kinetische Energie der Teilchen umgewandelt wodurch die Temperatur des Gases steigt.}}<br></div><div><br>{{c4::Ob sich die Teilchen eines Gases <b>anziehen oder abstoßen</b> ist von der Temperatur des Gases abhängig.<br>Die Temperatur-Grenze bei der sich das Verhalten der Gase ändert wird Inversionstemperatur genannt.<br>Oberhalb der Inversionstemperatur stoßen sich die Teilchen ab und es kommt bei einer Expansion zu einer Erwärmung des Gases.}}<br></div><div><br></div><div>{{c5::<div>Um Gase durch den Joule-Thomson-Effekt zu kühlen bis sie sich verflüssigen, müssen sie also bereits kälter als ihre Inversionstemperatur sein.</div><div>Die Inversionstemperatur von Wasserstoff beträgt -239°C und wird beim Linde-Verfahren nicht erreicht.<br>Deshalb gibt es den Claude-Prozess, der den Brayton-Prozess nutzt, um so tiefe Temperaturen zu erreichen ,dass sich selbst Gase mit einer sehr tiefen Inversionstemperatur, wie Wasserstoff und Helium, bei der Expansion durch ein Joule-Thomson-Ventil weiter abkühlen.</div>}}<br></div></div>",
+                                "<img src=\"paste-4aa00b16625db5f7a1d0ab3781367c1e127b4b03.jpg\">"
+                            ],
+                            "guid": "p2l~J1Btx#",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie 10 technische Anwendungen von Wasserstoff.<div>{{c1::<div>- Herstellung von NH3, HCl<br>- Brennstoffzellen<br>- Raffination von Erdöl<br>- Synthese von Methanol, H2O2<br>- Hydrierung von Pflanzenöl, e.g., Margarineherstellung<br>- als Reduktionsmittel zur Metallgewinnung (W, Ge, Mo, Co)<br>- als Brennstoff zum Schweißen<br>- als Kühlmittel<br>- als Raketentreibstoff<br>- als Brenngas mit Mischungen von anderen Gasen</div>}}</div>",
+                                ""
+                            ],
+                            "guid": "I2*9}&KU,(",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von Wasserstoffbrückenbindungen gibt es und welchen Einfluss haben sie auf das physikalische Verhalten chemischer Verbindungen?<br><div>{{c1::<div>Asymmetrische Wasserstoffbrückenbindungen:<br>- A · · H · · · B<br>- Das Proton befindet sich näher an A als an B<br>- A stellt den Protonendonator dar<br>- B ist der Protonenakzeptor<br>- A und B sind stark elektronegatievere Elemente als Wasserstoff<br>- A und B weisen eine unterschiedlich starke Nukleophilie auf wodurch die Asymmetrie zu Stande kommt (Es kann sich bei unterschiedlicher Substitution trotzdem um das gleiche Element handeln)</div><div></div>}}<br></div><div><br></div><div>{{c2::<div>Symmetrischen Wasserstoffbrückenbindungen:<br>- A · · H · · A<br>- Proton befindet sich in der Mitte</div>}}<br></div>",
+                                "Bei Flüssigkeit bei denen es zur Ausprägung von Wasserstoffbrückenbindungen unter den Molekülen kommt ist eine viel höherer Siedepunkt zu beobachten als es anhand der Siepunkte der entsprechend anderen Hydride der jeweiligen Hauptgruppen zu erwarten wäre.<div><img src=\"paste-2037d374c69213f3cf1d7b957f7a3ce83de6e84d.jpg\"><br></div>"
+                            ],
+                            "guid": "zx|(/SHd_3",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert eine Brennstoffzelle?<div>{{c1::Eine Brennstoffelle ist im Prinzip eine galvanische Zelle. Sie besteht aus zwei durch eine Membran getrennte Kammern die mit einer sauren wässrigen Lösung gefüllt sind. In diese Kammern sind mit einem Katalysator (Pt) beschichtete Elektroden eingelassen. In eine Kammer wird Wasserstoff gepumpt und in die andere Sauerstoff. Der molekulare Wasserstoff gibt an der Elektrode (Anode) seine zwei Elektronen ab und zerfällt zu zwei H+. Da die Membran die die Kammern voneinander trennt durchlässig für H+ ist diffundieren diese in die andere Kammer. Dort werden Elektronen von der Elektrode (Kathode) auf den molekularen Sauerstoff übertragen. Dieser zerfällt dadurch zu 2 O2-. Die Oxidionen verbinden sich anschließend mit den Protonen zu Wasser. Durch den Elektronenüberschuss an der Anode zum einen und dem Elektronenmangel an der Kathode entsteht eine Spannung von bis zu 1,23V zwischen den Elektroden.}}<br></div>",
+                                "<img src=\"paste-58dd6b33a3d57bfad7be2f77b30c30529f6a91ae.jpg\">"
+                            ],
+                            "guid": "zNZaG&rJf1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "c2de2549a5054db6b261ef76476a9893-ao-1",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-1-A.svg\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                            ],
+                            "guid": "D^s!@{*>c0",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "c2de2549a5054db6b261ef76476a9893-ao-2",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-2-A.svg\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                            ],
+                            "guid": "uXw*x`>n9)",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "c2de2549a5054db6b261ef76476a9893-ao-3",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-3-A.svg\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                            ],
+                            "guid": "vU.TkzXINT",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "c2de2549a5054db6b261ef76476a9893-ao-4",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-4-A.svg\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                            ],
+                            "guid": "pJUrE(`Q7g",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ed186e979bbd4ba98bc9244885624f27-ao-1",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-1-A.svg\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                            ],
+                            "guid": "vmhmSzZt7?",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ed186e979bbd4ba98bc9244885624f27-ao-2",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-2-A.svg\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                            ],
+                            "guid": "w*pz+#q!}_",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ed186e979bbd4ba98bc9244885624f27-ao-3",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-3-A.svg\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                            ],
+                            "guid": "lj?2uSl2a,",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ed186e979bbd4ba98bc9244885624f27-ao-4",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-4-A.svg\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                            ],
+                            "guid": "h}k&dR.2<]",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": []
                         }
@@ -8608,48 +8907,6 @@
                 "perDay": 9999
             },
             "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Standard",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
             "timer": 0
         }
     ],
