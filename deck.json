@@ -7,6 +7,542 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "d95a77c2-fb62-11eb-b2af-448a5b8ef3a7",
+                    "deck_config_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-A.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-Q.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-2-A.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-2-Q.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-3-A.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-3-Q.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-4-A.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-4-Q.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-5-A.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-5-Q.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-6-A.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-6-Q.svg",
+                        "693c6c6f45d54ea2a6828d56cd2df1b6-ao-O.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-1-A.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-1-Q.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-2-A.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-2-Q.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-3-A.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-3-Q.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-4-A.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-4-Q.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-5-A.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-5-Q.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-6-A.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-6-Q.svg",
+                        "6c12f843f5a246b5be3ea3ba2265c69e-ao-O.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-1-A.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-1-Q.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-2-A.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-2-Q.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-3-A.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-3-Q.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-4-A.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-4-Q.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-5-A.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-5-Q.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-6-A.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-6-Q.svg",
+                        "78323e60fc2e48c88c6b3fe736432b05-ao-O.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-1-A.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-1-Q.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-2-A.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-2-Q.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-3-A.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-3-Q.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-4-A.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-4-Q.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-5-A.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-5-Q.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-6-A.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-6-Q.svg",
+                        "91ce660e127c4872b36206ca47cb2743-ao-O.svg",
+                        "tmpdn5b8c36.png",
+                        "tmpjwttfs2v.png"
+                    ],
+                    "mid": 1604391419185,
+                    "name": "AC",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beschreiben Sie die 3 elektronischen Vorgänge, die für die allgemeinen Bindungseigenschaften des Wasserstoffs von Bedeutung sind.<div><div>{{c1::<br><div>- die Abgabe des 1s-Valenzelektrons bewirkt eine Kationisierung des Wasserstoffs → es entsteht H+ (= Proton) → dadurch entsteht ein großes Ladungs-Radius-Verhältnis von H+ → das bedeutet, dass hier eine große Ladung, aber eine geringer Radius vorliegt → der große Ladungs-Radius-Quotient bewirkt dabei eine Deformation der e--Hülle von anderen Atomen<br></div><div><br></div><div>- Protonen liegen nur gebunden vor (z.B. H3O+)<br><br></div><div>- die Abgabe eines e- vom H-Atom wird in einer chem. Reaktionsgleichung wie folgt dargestellt H(g) --&gt; H+(g) + e-<br><br></div><div>- bei der Aufnahme eines e-, erreicht das Wasserstoffatom die He-Konfiguration → dies ist jedoch nur möglich, wenn ein H-Atom eine Verbindung mit einem elektropositiven Metall eingeht<br></div><div>- die Aufnahme eines e- vom H-Atom wird in einer chem. Reaktionsgleichung wie folgt dargestellt:<br></div><div>H(g) + e- --&gt; H-(g)<br><br></div><div>- die dritte Bindungseigenschaft des Wasserstoffs besteht in der Bindung eines e--Paares mit einem anderen Atom → dabei wird eine kovalente Bindung ausgebildet → das H-Atom erreicht dadurch die 1s2-Konfiguration, also Edelgaskonfiguration<br><br></div><div>- Bsp. sind HCl, HF</div>}}<br></div></div>",
+                                "\\(H^-\\)- bezeichnet man als Hydridion<br>elektropositive Metalle sind Metalle der 1. und 2. HG, also Alkalimetalle und Erdalkalimetalle"
+                            ],
+                            "guid": "PH%8.+&%sD",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "78323e60fc2e48c88c6b3fe736432b05-ao-1",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-1-A.svg\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-O.svg\" />"
+                            ],
+                            "guid": "swQGz0%*j+",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "78323e60fc2e48c88c6b3fe736432b05-ao-2",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-2-A.svg\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-O.svg\" />"
+                            ],
+                            "guid": "K|=rOTpdKO",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "78323e60fc2e48c88c6b3fe736432b05-ao-3",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-3-A.svg\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-O.svg\" />"
+                            ],
+                            "guid": "lOQt<rEXr@",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "78323e60fc2e48c88c6b3fe736432b05-ao-4",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-4-A.svg\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-O.svg\" />"
+                            ],
+                            "guid": "y#ZH%eLM7@",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "78323e60fc2e48c88c6b3fe736432b05-ao-5",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-5-A.svg\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-O.svg\" />"
+                            ],
+                            "guid": "Dtw,D#45T$",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "78323e60fc2e48c88c6b3fe736432b05-ao-6",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-6-A.svg\" />",
+                                "<img src=\"78323e60fc2e48c88c6b3fe736432b05-ao-O.svg\" />"
+                            ],
+                            "guid": "M[V=YES}?o",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6c12f843f5a246b5be3ea3ba2265c69e-ao-1",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-1-A.svg\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-O.svg\" />"
+                            ],
+                            "guid": "rkaEju#M>$",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6c12f843f5a246b5be3ea3ba2265c69e-ao-2",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-2-A.svg\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-O.svg\" />"
+                            ],
+                            "guid": "y${aPSlIie",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6c12f843f5a246b5be3ea3ba2265c69e-ao-3",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-3-A.svg\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-O.svg\" />"
+                            ],
+                            "guid": "zw`K4!&>{x",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6c12f843f5a246b5be3ea3ba2265c69e-ao-4",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-4-A.svg\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-O.svg\" />"
+                            ],
+                            "guid": "K)7~dAr#C<",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6c12f843f5a246b5be3ea3ba2265c69e-ao-5",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-5-A.svg\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-O.svg\" />"
+                            ],
+                            "guid": "d<&&SLZmVU",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6c12f843f5a246b5be3ea3ba2265c69e-ao-6",
+                                "",
+                                "<img src=\"tmpdn5b8c36.png\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-6-A.svg\" />",
+                                "<img src=\"6c12f843f5a246b5be3ea3ba2265c69e-ao-O.svg\" />"
+                            ],
+                            "guid": "Ri{E]tkEJW",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-A.svg\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-O.svg\" />"
+                            ],
+                            "guid": "e-762N[bNN",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "693c6c6f45d54ea2a6828d56cd2df1b6-ao-2",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-2-A.svg\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-O.svg\" />"
+                            ],
+                            "guid": "P#zQc[>m[F",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "693c6c6f45d54ea2a6828d56cd2df1b6-ao-3",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-3-A.svg\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-O.svg\" />"
+                            ],
+                            "guid": "Psv6M;Dy~{",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "693c6c6f45d54ea2a6828d56cd2df1b6-ao-4",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-4-A.svg\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-O.svg\" />"
+                            ],
+                            "guid": "i6|Dcb1=T%",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "693c6c6f45d54ea2a6828d56cd2df1b6-ao-5",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-5-A.svg\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-O.svg\" />"
+                            ],
+                            "guid": "f1qrr[CMW$",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "693c6c6f45d54ea2a6828d56cd2df1b6-ao-6",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-6-A.svg\" />",
+                                "<img src=\"693c6c6f45d54ea2a6828d56cd2df1b6-ao-O.svg\" />"
+                            ],
+                            "guid": "E.O=La`#z0",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "91ce660e127c4872b36206ca47cb2743-ao-1",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-1-A.svg\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-O.svg\" />"
+                            ],
+                            "guid": "m!BjZ)XEIT",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "91ce660e127c4872b36206ca47cb2743-ao-2",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-2-A.svg\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-O.svg\" />"
+                            ],
+                            "guid": "zvIC17Hl6d",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "91ce660e127c4872b36206ca47cb2743-ao-3",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-3-A.svg\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-O.svg\" />"
+                            ],
+                            "guid": "z#x+=}4Y{I",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "91ce660e127c4872b36206ca47cb2743-ao-4",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-4-A.svg\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-O.svg\" />"
+                            ],
+                            "guid": "ORTnKQ%utV",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "91ce660e127c4872b36206ca47cb2743-ao-5",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-5-A.svg\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-O.svg\" />"
+                            ],
+                            "guid": "m%[pWlHOrC",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "91ce660e127c4872b36206ca47cb2743-ao-6",
+                                "",
+                                "<img src=\"tmpjwttfs2v.png\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-6-A.svg\" />",
+                                "<img src=\"91ce660e127c4872b36206ca47cb2743-ao-O.svg\" />"
+                            ],
+                            "guid": "mVL)nGy:gR",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "e5c73caa-f8f0-11eb-87ed-448a5b8ef3a7",
                     "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
                     "desc": "",
@@ -8073,6 +8609,48 @@
             },
             "reviewOrder": 0,
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "ad65e290-59da-11eb-ad13-448a5b8ef3a7",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
         }
     ],
     "desc": "",
@@ -8118,9 +8696,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "Genetik::ZellteilungUndMendel"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
@@ -8135,6 +8711,129 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         },
         {
             "__type__": "NoteModel",
