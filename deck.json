@@ -14,6 +14,11 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "226b420da6634d3db3482abfd576a33f-oa-1-A.svg",
+                        "226b420da6634d3db3482abfd576a33f-oa-1-Q.svg",
+                        "226b420da6634d3db3482abfd576a33f-oa-2-A.svg",
+                        "226b420da6634d3db3482abfd576a33f-oa-2-Q.svg",
+                        "226b420da6634d3db3482abfd576a33f-oa-O.svg",
                         "3b3f6adedc864552a6ef5558090b6001-ao-1-A.svg",
                         "3b3f6adedc864552a6ef5558090b6001-ao-1-Q.svg",
                         "3b3f6adedc864552a6ef5558090b6001-ao-2-A.svg",
@@ -21,11 +26,6 @@
                         "3b3f6adedc864552a6ef5558090b6001-ao-3-A.svg",
                         "3b3f6adedc864552a6ef5558090b6001-ao-3-Q.svg",
                         "3b3f6adedc864552a6ef5558090b6001-ao-O.svg",
-                        "226b420da6634d3db3482abfd576a33f-oa-1-A.svg",
-                        "226b420da6634d3db3482abfd576a33f-oa-1-Q.svg",
-                        "226b420da6634d3db3482abfd576a33f-oa-2-A.svg",
-                        "226b420da6634d3db3482abfd576a33f-oa-2-Q.svg",
-                        "226b420da6634d3db3482abfd576a33f-oa-O.svg",
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-A.svg",
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-Q.svg",
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-2-A.svg",
@@ -78,19 +78,6 @@
                         "91ce660e127c4872b36206ca47cb2743-ao-6-A.svg",
                         "91ce660e127c4872b36206ca47cb2743-ao-6-Q.svg",
                         "91ce660e127c4872b36206ca47cb2743-ao-O.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-1-A.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-1-Q.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-2-A.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-2-Q.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-3-A.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-3-Q.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-4-A.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-4-Q.svg",
-                        "f84e3cb732e54ccb86eec64a65832c10-ao-O.svg",
-                        "paste-3b3a0529e2f9412065572c8b6ac7a11469bf60fd.jpg",
-                        "paste-b60f2f5d1e5945c8db414db8d5ef0da1b176165d.jpg",
-                        "paste-b74663c52a09f7eff8dcf7dd6efe60920ba373db.jpg",
-                        "tmp0whlizv0.png",
                         "c2de2549a5054db6b261ef76476a9893-ao-1-A.svg",
                         "c2de2549a5054db6b261ef76476a9893-ao-1-Q.svg",
                         "c2de2549a5054db6b261ef76476a9893-ao-2-A.svg",
@@ -100,6 +87,32 @@
                         "c2de2549a5054db6b261ef76476a9893-ao-4-A.svg",
                         "c2de2549a5054db6b261ef76476a9893-ao-4-Q.svg",
                         "c2de2549a5054db6b261ef76476a9893-ao-O.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-1-A.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-1-Q.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-2-A.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-2-Q.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-3-A.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-3-Q.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-4-A.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-4-Q.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-5-A.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-5-Q.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-6-A.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-6-Q.svg",
+                        "de794acb54154295a1c019e332a3531f-ao-O.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-1-A.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-1-Q.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-2-A.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-2-Q.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-3-A.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-3-Q.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-4-A.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-4-Q.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-5-A.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-5-Q.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-6-A.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-6-Q.svg",
+                        "e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg",
                         "ed186e979bbd4ba98bc9244885624f27-ao-1-A.svg",
                         "ed186e979bbd4ba98bc9244885624f27-ao-1-Q.svg",
                         "ed186e979bbd4ba98bc9244885624f27-ao-2-A.svg",
@@ -109,14 +122,34 @@
                         "ed186e979bbd4ba98bc9244885624f27-ao-4-A.svg",
                         "ed186e979bbd4ba98bc9244885624f27-ao-4-Q.svg",
                         "ed186e979bbd4ba98bc9244885624f27-ao-O.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-1-A.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-1-Q.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-2-A.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-2-Q.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-3-A.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-3-Q.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-4-A.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-4-Q.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-O.svg",
                         "paste-1da192049f084243b03701a53e8450955fed6292.jpg",
                         "paste-2037d374c69213f3cf1d7b957f7a3ce83de6e84d.jpg",
+                        "paste-3212ed170dde3ad36be1d516c8335f63a08b4b9e.jpg",
+                        "paste-3b3a0529e2f9412065572c8b6ac7a11469bf60fd.jpg",
+                        "paste-3d886c45505567fcf9181e226693ce127bbcb9eb.jpg",
                         "paste-4aa00b16625db5f7a1d0ab3781367c1e127b4b03.jpg",
                         "paste-58dd6b33a3d57bfad7be2f77b30c30529f6a91ae.jpg",
+                        "paste-66593b16a41c9020c8dccf97a449c4c6543b59b8.jpg",
+                        "paste-b60f2f5d1e5945c8db414db8d5ef0da1b176165d.jpg",
+                        "paste-b74663c52a09f7eff8dcf7dd6efe60920ba373db.jpg",
+                        "paste-bc01350eaabd90109adbf7fc180e3965dcbeca6c.jpg",
+                        "paste-bdcd6a84b0b0e259d45df4538a8af4fc152c92bc.jpg",
+                        "paste-bffee3cdb63f9a77c4f24da0b2a721056bda2f6e.jpg",
+                        "tmp0whlizv0.png",
                         "tmpdn5b8c36.png",
                         "tmpg0myuyxf.png",
                         "tmph5mznfua.png",
-                        "tmpjwttfs2v.png"
+                        "tmpjwttfs2v.png",
+                        "tmpjzrk1fdg.png"
                     ],
                     "mid": 1611498335938,
                     "name": "AC",
@@ -129,7 +162,9 @@
                             ],
                             "guid": "PH%8.+&%sD",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -148,7 +183,9 @@
                             ],
                             "guid": "swQGz0%*j+",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -167,7 +204,9 @@
                             ],
                             "guid": "K|=rOTpdKO",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -186,7 +225,9 @@
                             ],
                             "guid": "lOQt<rEXr@",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -205,7 +246,9 @@
                             ],
                             "guid": "y#ZH%eLM7@",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -224,7 +267,9 @@
                             ],
                             "guid": "Dtw,D#45T$",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -243,7 +288,9 @@
                             ],
                             "guid": "M[V=YES}?o",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -262,7 +309,9 @@
                             ],
                             "guid": "rkaEju#M>$",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -281,7 +330,9 @@
                             ],
                             "guid": "y${aPSlIie",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -300,7 +351,9 @@
                             ],
                             "guid": "zw`K4!&>{x",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -319,7 +372,9 @@
                             ],
                             "guid": "K)7~dAr#C<",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -338,7 +393,9 @@
                             ],
                             "guid": "d<&&SLZmVU",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -357,7 +414,9 @@
                             ],
                             "guid": "Ri{E]tkEJW",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -376,7 +435,9 @@
                             ],
                             "guid": "e-762N[bNN",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -395,7 +456,9 @@
                             ],
                             "guid": "P#zQc[>m[F",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -414,7 +477,9 @@
                             ],
                             "guid": "Psv6M;Dy~{",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -433,7 +498,9 @@
                             ],
                             "guid": "i6|Dcb1=T%",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -452,7 +519,9 @@
                             ],
                             "guid": "f1qrr[CMW$",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -471,7 +540,9 @@
                             ],
                             "guid": "E.O=La`#z0",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -490,7 +561,9 @@
                             ],
                             "guid": "m!BjZ)XEIT",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -509,7 +582,9 @@
                             ],
                             "guid": "zvIC17Hl6d",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -528,7 +603,9 @@
                             ],
                             "guid": "z#x+=}4Y{I",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -547,7 +624,9 @@
                             ],
                             "guid": "ORTnKQ%utV",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -566,7 +645,9 @@
                             ],
                             "guid": "m%[pWlHOrC",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -585,7 +666,9 @@
                             ],
                             "guid": "mVL)nGy:gR",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -922,7 +1005,9 @@
                             ],
                             "guid": "j04)27kN8q",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -932,7 +1017,9 @@
                             ],
                             "guid": "z2)BZ&^S2i",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -942,7 +1029,9 @@
                             ],
                             "guid": "h|2t`$*A@b",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -961,7 +1050,9 @@
                             ],
                             "guid": "so}&q%E4w(",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -980,7 +1071,9 @@
                             ],
                             "guid": "M[Gdvtz}VM",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -990,7 +1083,9 @@
                             ],
                             "guid": "b<waiu2SxJ",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1000,7 +1095,9 @@
                             ],
                             "guid": "p2l~J1Btx#",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1010,7 +1107,9 @@
                             ],
                             "guid": "I2*9}&KU,(",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1020,7 +1119,9 @@
                             ],
                             "guid": "zx|(/SHd_3",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1030,7 +1131,9 @@
                             ],
                             "guid": "zNZaG&rJf1",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1049,7 +1152,9 @@
                             ],
                             "guid": "D^s!@{*>c0",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1068,7 +1173,9 @@
                             ],
                             "guid": "uXw*x`>n9)",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1087,7 +1194,9 @@
                             ],
                             "guid": "vU.TkzXINT",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1106,7 +1215,9 @@
                             ],
                             "guid": "pJUrE(`Q7g",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1125,7 +1236,9 @@
                             ],
                             "guid": "vmhmSzZt7?",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1144,7 +1257,9 @@
                             ],
                             "guid": "w*pz+#q!}_",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1163,7 +1278,9 @@
                             ],
                             "guid": "lj?2uSl2a,",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1182,7 +1299,429 @@
                             ],
                             "guid": "h}k&dR.2<]",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
-                            "tags": []
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Form kommen die Erdmetalle in der Natur vor?<div>Bor:&nbsp;</div><div>{{c1::<div>- nicht in freier Form&nbsp;</div><div>- Borsäure \\(H_3BO_3\\)&nbsp;</div><div>- Salze:&nbsp;</div><div>Borax \\(Na_2B_4O_7 * 10H_2O\\)&nbsp;</div><div>Boratin \\(2Mg_3B_8O_{15} * MgCl_2\\)&nbsp;</div><div>Kernit \\(Na_2B_4O_7 * 4H_2O\\)&nbsp;</div>}}<br></div><div><br></div><div>Aluminium:&nbsp;</div><div>{{c2::<div>- nur in Verbindungen&nbsp;</div><div>7% der Erdrinde\n3. Stelle der Elemente\nhäufigstes Metall&nbsp;</div><div>- Feldspate, Tone\n-&nbsp;</div><div>Bauxit \\(AIO(OH)\\), \\(Al(OH)_3\\)&nbsp;</div><div>\\(Fe_2O_3\\) - Verunreinigung \\(\\rightarrow\\) roter Bauxit</div><div>\\(SiO_2\\) - Verunreinigung \\(\\rightarrow\\) weißer Bauxit&nbsp;</div><div>- Hydrargillit \\(Al(OH)_3&nbsp;</div><div>- Kyrolit \\(Na_3AlF_6\\)&nbsp;</div><div>- Kaolin \\(Al_2O_3 * 2SiO_2 * 2H_2O\\)&nbsp;</div>}}<br></div><div><br></div><div>Gallium:&nbsp;</div><div>{{c3::- In Spuren in Germanit und mit In in ZnS&nbsp;}}</div><div><br></div><div>Indium:&nbsp;</div><div>{{c4::- Indiumhydroxid (\\(In(OH)_3\\)), Indit (\\(FeIn_2S_4\\))}}</div><div><br></div><div>Thallium:&nbsp;</div><div>{{c5::- Thalliumsulfid (\\(TlAsS_2\\)), Zn, In, Fe-Begleiter}}<br></div>",
+                                ""
+                            ],
+                            "guid": "l*}=T})21D",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die Unterschiede in den Gruppeneigenschaften zwischen B und Al sowie\nGa, In und Tl.<div><br></div><div>Bor:&nbsp;</div>{{c1::<div>Halbmetal&nbsp;</div><div>Schrägbeziehung zu Si&nbsp;</div><div>keine Abspaltung des dritten e- wegen zu hoher Ionisierungsenergie -&gt; keine B3+ Ionen hohes Ladungs-Radius-Verhältnis -&gt; starke Bindung der Valenzelektronen</div><div>}}&nbsp;<br></div><div><br></div><div>Aluminium:\n{{c2::Metall\nionische und kovalente Bindungen\nSchrägbeziehung zu Be}}&nbsp;</div><div><br></div><div>Gallium, Indium, Tallium:&nbsp;</div><div>{{c3::<div>typische Metalle&nbsp;</div><div>mechanisch weich&nbsp;</div><div>Ionenbindungen\nAnomalie beim Übergang von Aluminium zum Gallium durch Auffüllen der 3d-Schale\nvom Scandium zum Zink (Al: \\([Ne]3s^2\np^1\\) , Ga: \\([Ar]3d^{10}4s^2\np^1\\))\nZunehmende Stabilisierung der niedrigen Oxidationsstufen (+I) durch den ‘inert pair\neffect‘</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "yl#_`=*B#X",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wodurch ergibt sich die Sonderstellung des Elementes Gallium und sein sehr niedriger\nSchmelzpunkt?<div>{{c1::Gallium bildet Dimere die sich im Kristall nicht zu einer hohen Symetrie anordnen\nwodurch der niedrige Schmelzpunkt zu Stande kommt.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "9v?8mn6`u",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die allgemeinen Bindungseigenschaften der Erdmetalle.<div>a) {{c1::Abspaltung der Valenzelektronen \\(ns^2\\space np^1\\) -&gt; \\(Me^{3+}\\) - Ionen\n(Bor nicht, Ionisierungsenergie des 3. \\(e^-\\) zu hoch)}}&nbsp;</div><div>b) {{c2::Abspaltung des äußeren p-Elektrons ^\\(ns^2\\space np 1\\) -&gt; (\\(ns^2)^+\\) + \\(e^-\\) Anomalie beim Übergang Al -&gt; Ga: Auffüllen der 3d-Schalen}}&nbsp;</div><div>c) {{c3::Hybridisierung der 3 Valenzelektronen in kovalenten Verbindungen \\(3nsp^2\\) -Hybridorbitalen -&gt; Elektronenmangelverbindungen}}<br></div>",
+                                ""
+                            ],
+                            "guid": "INfc:q.Xn:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 3 Möglichkeiten gibt es zur Auffüllung der Elektronenlücke der\nElektronenmangelverbindungen?<div>- {{c1::Bor kann mit Halogenatomen zusätzlich pπ-pπ-Bindungen eingehen\n(Verkürzung der B-XBindung z.B. im \\(BF_3\\))}}<br></div><div>- {{c2::Verbindungen der höheren Homologen erreichen eine stabilere\nAußenelektronenkonfiguration durch Dimerisierung (Metallatome über zwei\nHalogenbrücken verbunden z.B. \\(AlBr_3\\))}}&nbsp;</div><div>- {{c3::Verbindungen des Typs MX3 lagern leicht Lewis-Basen an und bilden stabile\nAddukte: \\(BF_3 + NR_3 \\rightarrow F_3BNR_3\\)}}<br></div>",
+                                "<img src=\"paste-3212ed170dde3ad36be1d516c8335f63a08b4b9e.jpg\">"
+                            ],
+                            "guid": "I{Zkzj%B27",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können die Elemente in reiner (metallischer) Form dargestellt werden?<div>{{c1::Weil Ga, In, Tl selten sind aber auch in Al-Erzen enthalten sind werden sie bei der\nGewinnung von Al als Nebenprodukte gewonnen.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "M!ABb]l}CY",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erläutern Sie – ausgehend vom Bayer-Prozess – die technische Herstellung von\nAluminium (Schema der Elektrolysezelle)<div>Beyer-Prozess:&nbsp;</div><div>{{c1::<div>Lösen des Roh-Bauxids in Natronlauge unter Druck- und Temperaturerhöhung:<br></div><div><img src=\"paste-bdcd6a84b0b0e259d45df4538a8af4fc152c92bc.jpg\"><br></div><div>Ausfällen von Aluminumhydroxid unter Druck- und Temperaturverringerung:<br></div><div><img src=\"paste-3d886c45505567fcf9181e226693ce127bbcb9eb.jpg\"><br></div><div>Brennen des Aluminiumhydroxids zu Aluminumoxid (Reinbauxid) bei hoher Temp.:</div><div><img src=\"paste-66593b16a41c9020c8dccf97a449c4c6543b59b8.jpg\"></div>}}<br></div><div>Schmelzhydrolyse:<br></div><div>{{c2::Hydrolyse mit Salzschmelze als Elektrolyt\nGraphitanode wird in die Schmelze getaucht\nBodenplatte bildet die Kanode\nflüssiges Aluminium wird vom Boden abgesaugt}}<br></div>",
+                                "<img src=\"paste-bc01350eaabd90109adbf7fc180e3965dcbeca6c.jpg\">"
+                            ],
+                            "guid": "AHJo&NmP0m",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Weshalb lassen sich eloxierte Oberflächen sehr gut einfärben?<br></div><div>{{c1::Bei der Oxidation des Aluminiums bilden sich Poren in der Aluminiumoxidschicht in die\ngut Farbstoffe eingelagert werden können}}<br></div>",
+                                ""
+                            ],
+                            "guid": "D6dQmb~~E:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-1",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-1-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
+                            ],
+                            "guid": "o^U,nV#+W~",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-2",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-2-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
+                            ],
+                            "guid": "b+%!10ugkD",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-3",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-3-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
+                            ],
+                            "guid": "dgRp8]mb=y",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-4",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-4-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
+                            ],
+                            "guid": "wtz8:Ggid4",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-5",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-5-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
+                            ],
+                            "guid": "faA][HTAul",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-6",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-6-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
+                            ],
+                            "guid": "IXUS<H|._h",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "de794acb54154295a1c019e332a3531f-ao-1",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-1-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
+                            ],
+                            "guid": "bl*vJsSXak",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "de794acb54154295a1c019e332a3531f-ao-2",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-2-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
+                            ],
+                            "guid": "c4{EmBs6eZ",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "de794acb54154295a1c019e332a3531f-ao-3",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-3-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
+                            ],
+                            "guid": "PC$M3n]G~r",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "de794acb54154295a1c019e332a3531f-ao-4",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-4-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
+                            ],
+                            "guid": "x}=5L:DH~2",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "de794acb54154295a1c019e332a3531f-ao-5",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-5-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
+                            ],
+                            "guid": "xp.}f*ZP)A",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "de794acb54154295a1c019e332a3531f-ao-6",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-6-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
+                            ],
+                            "guid": "z/@pp@,7C7",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Formulieren Sie die Reaktion zur Herstellung von Diboran.<div>{{c1::<div>\\(4BCl_3 + 3LiAlH_4 \\rightarrow 2B_2H_6 + 3LiAlCl_4\\) (in Ether)&nbsp;</div><div>\\(4BF_3 + 3NaBH_4 \\rightarrow 2B_2H_6 + 3NaBF_4\\) (in Ether)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "O9=F/Qo{wj",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Borsäure kann aus Boroxid hergestellt werden. Formulieren Sie diese Reaktion und\nerklären Sie die Säurewirkung der Borsäure.<div>{{c1::<div>\\(B_2O_3 + 3H_2O ↔ 2B(OH)_3\\)&nbsp;<br></div><div>Säurewirkung: \\(B(OH)_3 + H_2O ↔ HB(OH)_4 ↔ B(OH)_4\n-\n+ H^+\\)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "D$W3ib2}:g",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Weshalb können Polyhydroxyverbindungen die Acidität der Borsäure erhöhen?<div>{{c1::<div><img src=\"paste-bffee3cdb63f9a77c4f24da0b2a721056bda2f6e.jpg\"><br></div><div>Aus 3 Teilchen entstehen 5 Teilchen -&gt; ΔS &gt; 0&nbsp;</div><div>-&gt; Reaktion wird durch Entropietherm begünstigt</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "i44$07mUZ&",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann aus einem Aluminiumhydroxid Korund hergestellt werden?\nGeben Sie bitte die Reaktionen und Temperaturen an.<div>{{c1::<div>\\(Al(OH)_3\\) (Hydrargillit 100°C)&nbsp;</div><div>\\(AlO(OH)\\) (Böhmit 150-300°C)&nbsp;</div><div>\\(Υ-δ-Al2O3\\) (Übergangstonerde 1200°C)&nbsp;</div><div>\\(α-Al2O3\\) (Korund)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Ca-^[0)#ye",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was versteht man unter dem Begriff „Aluminothermisches Verfahren“.\nBitte geben Sie die Reaktionsgleichungen für das Thermitschweißen an<div>{{c1::<div>Durch hohe O-Affinität des Al (Hohe Bindungsenthalpie von \\(Al_2O_3\\)) werden Elemente von\nOxid befreit<br></div><div>\\(3Fe_3O_4 + 8Al ↔ 4Al_2O_3 + 9Fe\\)&nbsp;</div><div>\\(\\Delta H_R\\)= -3341 kJ/mol</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "l9A>WsyIxo",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum ist bei den Thalliumverbindungen die Oxydationsstufe +1 besonders stabil?<div>{{c1::Thallium hat die höchste Ordnungszahl in der 3. Hauptgruppe.\nDeshalb ist bei Tl der ‘inert pair effect‘ am stärksten.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "IaKY#}dydN",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
                         }
                     ]
                 },
@@ -9300,9 +9839,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "AC::HG1"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
