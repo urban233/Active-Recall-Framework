@@ -14,6 +14,13 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "3b3f6adedc864552a6ef5558090b6001-ao-1-A.svg",
+                        "3b3f6adedc864552a6ef5558090b6001-ao-1-Q.svg",
+                        "3b3f6adedc864552a6ef5558090b6001-ao-2-A.svg",
+                        "3b3f6adedc864552a6ef5558090b6001-ao-2-Q.svg",
+                        "3b3f6adedc864552a6ef5558090b6001-ao-3-A.svg",
+                        "3b3f6adedc864552a6ef5558090b6001-ao-3-Q.svg",
+                        "3b3f6adedc864552a6ef5558090b6001-ao-O.svg",
                         "226b420da6634d3db3482abfd576a33f-oa-1-A.svg",
                         "226b420da6634d3db3482abfd576a33f-oa-1-Q.svg",
                         "226b420da6634d3db3482abfd576a33f-oa-2-A.svg",
@@ -71,6 +78,19 @@
                         "91ce660e127c4872b36206ca47cb2743-ao-6-A.svg",
                         "91ce660e127c4872b36206ca47cb2743-ao-6-Q.svg",
                         "91ce660e127c4872b36206ca47cb2743-ao-O.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-1-A.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-1-Q.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-2-A.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-2-Q.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-3-A.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-3-Q.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-4-A.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-4-Q.svg",
+                        "f84e3cb732e54ccb86eec64a65832c10-ao-O.svg",
+                        "paste-3b3a0529e2f9412065572c8b6ac7a11469bf60fd.jpg",
+                        "paste-b60f2f5d1e5945c8db414db8d5ef0da1b176165d.jpg",
+                        "paste-b74663c52a09f7eff8dcf7dd6efe60920ba373db.jpg",
+                        "tmp0whlizv0.png",
                         "c2de2549a5054db6b261ef76476a9893-ao-1-A.svg",
                         "c2de2549a5054db6b261ef76476a9893-ao-1-Q.svg",
                         "c2de2549a5054db6b261ef76476a9893-ao-2-A.svg",
@@ -98,7 +118,7 @@
                         "tmph5mznfua.png",
                         "tmpjwttfs2v.png"
                     ],
-                    "mid": 1604391419185,
+                    "mid": 1611498335938,
                     "name": "AC",
                     "notes": [
                         {
@@ -566,6 +586,333 @@
                             "guid": "mVL)nGy:gR",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Form kommen die Alkalimetalle in der Natur vor?<div>{{c1::Aufgrund ihrer hohen Reaktivität (erste Ionisierungsenergie recht gering) kommen\nAlkalimetalle nur gebunden in der Natur in Form von einwertigen Kationen vor.::Allgemeines Vorkommen}}<br></div><div><br></div><div>Li:&nbsp;</div><div>{{c2::<div> “Begleiter“ des Kaliums und Natriums (ist oft in deren Vorkommen in geringen\nKonzentrationen mit enthalten)&nbsp;</div><div> Petalit \\(LiAl[Si_2O_5]_2\\)&nbsp;</div><div> Spodumen \\(LiAl[SiO_3]_2\\)&nbsp;</div>}}<br></div><div>Na:&nbsp;</div><div>{{c3::<div> Natronfeldspat \\(NaAlSi_3O_8\\)&nbsp;</div><div> Chilesalpeter (\\NaNO_3\\)&nbsp;</div><div> \\(NaCl\\) Steinsalz in Lagerstätten\ngelöst im Meerwasser&nbsp;</div><div> Kryolith \\(Na_3AlF_6\\)&nbsp;</div><div> Soda \\(Na_2CO_3\\)&nbsp;</div>}}<br></div><div>K:&nbsp;</div><div>{{c4::<div> Sylvin \\(KCl\\)&nbsp;</div><div> Kalifeldspat \\(K[AlSi_3O_8]\\)&nbsp;</div><div> Carnalit \\(KCl*MgCl_2*6H_2O\\)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "t#1oTIMe%q",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können die Elemente in reiner (metallischer) Form dargestellt werden?<div>{{c1::Durch Schmelzflusselektrolyse der Salzschmelzen}}</div>",
+                                ""
+                            ],
+                            "guid": "kxz2:b},pd",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beschreiben Sie den Downs-Prozess.<div>{{c1::<div>Es handelt sich um eine Elektrolyse mit geschmolzenem NaCl als Elektrolyt.\nDurch Beimischung von \\(CaCl\\) (Ca wird aufgrund seines höheren Standardpotentials an\nder Kathode nicht reduziert) wird der Schmelzpunkt von 800°C auf 600°C gesenkt.\nAn der zentralen Graphitanode wird das Chlorid oxidiert: \\(2Cl^-\n(l) \\rightarrow Cl_2 (g) + 2e^-\\)</div><div>Das dabei entstehende Chlorgas wird beim Aufsteigen aufgefangen und stellt ein\nNebenprodukt dar.\nAn der Eisenkathode, die Ringförmig um die Anode angeordnet ist, wird das Na+\nreduziert: \\(Na^+\n(l) + e^- \\rightarrow Na (l)\\)&nbsp;</div><div>Weil das flüssige Natrium leichter ist als die NaCl-Schmelze steigt es noch oben und wird\nebenfalls aufgefangen und abgeführt.\nDamit sich das Chlorgas und das metallische Natrium nicht “begegnen“ sind die\nElektroden durch ein Eisengitter voneinander getrennt.</div>}}<br></div>",
+                                "U = ca. 7V&nbsp;<div>I = 40.000A</div>"
+                            ],
+                            "guid": "dRNE?F<O>~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Grund für die hohe Reaktionsfähigkeit der Alkalimetalle?<div>{{c1::<div>geringe 1. Ionisierungsenergie&nbsp;</div><div>elektropositiver Charakter&nbsp;</div><div>leichte Abgabe des Valenzelektrons</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "FerF__-~(~",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können die Alkalimetalle aufbewahrt werden?<div>{{c1::Aufbewahrung unter org. LM -&gt; Ausschluss von Luft und Wasser}}<br></div>",
+                                ""
+                            ],
+                            "guid": "ETpgLiBc7_",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die Leitfähigkeit und Farbe einer Lösung von Natrium in flüssigem\nAmmoniak.<div>{{c1::<div>Das Natrium wird nach dem Solvatationsschema von Alkalimetallen in Ammoniak gelöst:&nbsp;</div><div>\\(M + (n+m)NH_3 \\rightarrow [M(NH_3)_n] ^+\n+ [e(NH_3)_m]^-\\)</div><div>Das Na wird also in Na+\nund ezerlegt welche dann Komplexe mit den\nAmmoniakmolekülen bilden.\nDurch die “freien“ Elektronen ist die hohe Leitfähigkeit gegeben. Die Elektronen sind\ndurch ihre Interaktion mit Licht ebenfalls für die Blaufärbung der Lösung verantwortlich.</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "j=|+N5ap@*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist es zu erklären, dass Lithium, Natrium und Kalium in dieser Reihenfolge mit\nzunehmender Heftigkeit mit Wasser reagieren?<div>{{c1::Mit steigender Ordnungszahl wird die Abschirmung des Valenzelektrons zum Kern durch\ndie inneren Schalen größer. Dadurch sinkt die Ionisierungsenergie und der\nelektropositive Charakter steigt}}<br></div>",
+                                ""
+                            ],
+                            "guid": "I$`K9p.FT-",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Elemente lassen eine besonders hohe Reaktionsfreudigkeit mit den\nAlkalimetallen erwarten? Begründen Sie Ihre Aussage.<div>{{c1::Bei der Reaktion mit Halogenen kommt es sowohl bei den Alkalimetallen als auch bei\nden Halogenen zur Ausbildung der Edelgaskonfiguration.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "h^k0g<Sz_.",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Farbe haben die Chloride des Lithiums, Natriums und Kaliums? Wie können sie\ndurch eine einfache Probe voneinander unterschieden werden?<div>{{c1::LiCl, NaCl und KCl sind weiße Pulver\nBei der Flammfärbungen unterscheiden sie sich jedoch:&nbsp;}}</div><div>{{c2::<div>Li&nbsp;-&gt; Rot&nbsp;</div><div>Na -&gt;&nbsp;Gelb/Orange&nbsp;</div><div>K -&gt;&nbsp;Rot/Violett</div>::Flammenfärbung}}<br></div>",
+                                ""
+                            ],
+                            "guid": "i$$u&t94Jw",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Geben Sie die Ursache für die unterschiedlichen Gitterenergien der Alkalihalogenide\nan.<div>{{c1::Alle Alkalihalogenide weisen einen kubisch-primitiven Gittertyp (NaCl-Typ;\nKoordinationszahl = 6) auf.\nDer Unterschied in den Gitterenergien kommt durch die verschiedenen\nLadungs-/Radienverhältnise von Anionen und Kationen zustande.\nDie Ladung der Ionen ist immer gleich. Der Radius der Ionen steigt jedoch bei den\nAlkalimetallen vom Li zum Cäsium und bei den Halogenen vom Fluor zum Iod.\nGleichzeitig nimmt die Gitterenergie ab.\nDadurch weißt das Lithiumfluorid die höchste Gitterenergie auf und das Cäsiumiodid die\ngeringste.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "c31!k*{8&1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kann NaCl nicht durch Umkristallisation gereinigt werden?<div>{{c1::Die Temperaturabhängigkeit des Lösungsverhaltens von NaCl ist zu gering.\nEs würde also zu viel NaCl in der Lösung verbleiben.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "yKRppJ5XVV",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie den Vorgang der Konversion von Chilesalpeter und seine grundlegende\nUrsache.<div>{{c1::Chilesalpeter (\\(KNO_3\\)) aus natürlichen Vorkommen ist durch \\(Na^+\\) und Erdalkaliemetalle\nverunreinigt. Um es aufzureinigen wird sich der Unterschiede in der\nTemperaturabhängigkeit des Löslichkeitsverhalten von \\(KNO_3\\), \\(NaCl\\) und\nErdalkaliecarbonaten bedient.</div><div>Es werden also Natriumnitrat (\\(NaNO_3\\)), Kaliumchlorid (KCl) und Soda (\\(Na_2CO_3\\)) gelöst und\nauf 100°C erhitzt. Beim Einengen der Lösung präzipitieren Erdalkalimetallionen weil sie\nmit den Carbonationen schwer lösliche Salze wie z.B. \\(CaCO_3\\) oder \\(MgCO_3\\) bilden.\nAufgrund der mit \\(KNO_3\\) verglichenen niedrigen Löslichkeit von NaCl bei hohen\nTemperaturen fällt beim weiteren Einengen der Lösung NaCl aus während das \\(KNO_3\\) länger in Lösung bleibt.\nDer Überstand wird anschließend auf 5°C herunter gekühlt. Dabei bleibt das\nverbleibende NaCl in Lösung weil dessen Löslichkeit bei 5°C ein wenig höher ist als bei\n100°C. Das \\(KNO_3\\) fällt hingegen aus weil dessen Löslichkeit bei 5°C viel geringer ist als bei\nhöheren Temperaturen.\nDurch anschließende Zentrifungation und Umkristallisation des Präzipitats wird eine\nhohe Reinheit des Chilesalpeters erreicht}}<br></div>",
+                                "<img src=\"paste-3b3a0529e2f9412065572c8b6ac7a11469bf60fd.jpg\">"
+                            ],
+                            "guid": "KFsW.Q6Qwj",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Alkalimetallsalze sind in Wasser schlecht löslich?<div>{{c1::\\(LiF\\), \\(NaF\\), \\(Li_2CO_3\\), \\(Li_3[PO_4]\\)}}</div>",
+                                ""
+                            ],
+                            "guid": "fjR?~oSj,<",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3b3f6adedc864552a6ef5558090b6001-ao-1",
+                                "",
+                                "<img src=\"tmp0whlizv0.png\" />",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-1-A.svg\" />",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-O.svg\" />"
+                            ],
+                            "guid": "r6xdoh:T./",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3b3f6adedc864552a6ef5558090b6001-ao-2",
+                                "",
+                                "<img src=\"tmp0whlizv0.png\" />",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-2-A.svg\" />",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-O.svg\" />"
+                            ],
+                            "guid": "iDlon6$X~W",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3b3f6adedc864552a6ef5558090b6001-ao-3",
+                                "",
+                                "<img src=\"tmp0whlizv0.png\" />",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-3-A.svg\" />",
+                                "<img src=\"3b3f6adedc864552a6ef5558090b6001-ao-O.svg\" />"
+                            ],
+                            "guid": "mOKr8a:c>h",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "f84e3cb732e54ccb86eec64a65832c10-ao-1",
+                                "",
+                                "<img src=\"tmp0whlizv0.png\" />",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-1-A.svg\" />",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-O.svg\" />"
+                            ],
+                            "guid": "FS6Mx$Mh.A",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "f84e3cb732e54ccb86eec64a65832c10-ao-2",
+                                "",
+                                "<img src=\"tmp0whlizv0.png\" />",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-2-A.svg\" />",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-O.svg\" />"
+                            ],
+                            "guid": "FlF4-Tc$v^",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "f84e3cb732e54ccb86eec64a65832c10-ao-3",
+                                "",
+                                "<img src=\"tmp0whlizv0.png\" />",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-3-A.svg\" />",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-O.svg\" />"
+                            ],
+                            "guid": "BWfyRo8,c/",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "f84e3cb732e54ccb86eec64a65832c10-ao-4",
+                                "",
+                                "<img src=\"tmp0whlizv0.png\" />",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-4-A.svg\" />",
+                                "<img src=\"f84e3cb732e54ccb86eec64a65832c10-ao-O.svg\" />"
+                            ],
+                            "guid": "A?07-5<KLc",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die chemische Verwandschaft (Schrägbeziehungen) zwischen Lithium und\nMagnesium.<div>{{c1::Zustandekommen durch ähnliche Atomradien und ähnliche Ladungsdichten.}}&nbsp;</div><div>Beispiele:&nbsp;</div><div>{{c2::<div> Bildung normaler Oxide bei Verbrennung (\\(Li_2O\\), \\(MgO\\))&nbsp;</div><div> thermische Instabilität der Carbonate und Nitrate&nbsp;</div><div> die Bildung der Carbide und Nitride aus den Elementen&nbsp;</div><div> Schwerlöslichkeit der Carbonate und Phosphate&nbsp;</div><div> Hygroskopizität&nbsp;</div><div> starke Solvatation der Kationen&nbsp;</div><div> große Löslichkeit einiger Salze (Bsp. Chloride) in\norganischen Lösungsmitteln\n Ähnliche Basizität&nbsp;</div><div> keine Peroxidbildung beim Verbrennen</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "dEs!V:yCvi",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erläutern Sie das Soda-Solvay-Verfahren (Technik, Reaktionsbedingungen und\nReaktionsgleichungen).<div>Reaktionen&nbsp;</div><div>1) {{c1::Der Kalk wird gebrannt: \\(CaCO_3 \\rightarrow CaO + CO_2\\)↑\nCalciumcarbonat zersetzt sich in der Hitze zu Calciumoxid (“Gebrannter Kalk“) und Kohlendioxid.&nbsp;}}</div><div><br></div><div>2) {{c2::Kohlendioxid wird zusammen mit Ammoniak in eine konzentrierte Kochsalzlösung\neingeleitet. Hierbei fällt Natriumhydrogencarbonat aus, das von der entstehenden\nAmmoniumchloridlösung getrennt wird. \\(NaCl + CO_2 + NH_3 + H_2O \\rightarrow NaHCO_3↓ + NH_4Cl\\) Kochsalz reagiert mit Kohlendioxid, Ammoniak und Wasser zu Ammoniumchlorid\n(“Salmiak“) und Natriumhydrogencarbonat (“Natron“).}}&nbsp;</div><div>Die einzelnen Teilschritte:&nbsp;</div><div>2.1) {{c3::\\(CO_2 + H2O \\rightarrow H_2CO_3\\) Kohlendioxid und Wasser reagieren zu Kohlensäure…&nbsp;}}</div><div>2.2) {{c4::\\(H_2CO_3 + NH_3 \\rightarrow NH_4HCO_3\\) …die wiederum mit Ammoniak zu Ammoniumhydrogencarbonat…&nbsp;}}</div><div>2.3) {{c5::\\(NH_4HCO_3 + NaCl \\rightarrow NaHCO_3↓ + NH_4Cl\\) …das wiederum reagiert dann mit Kochsalz zu Natriumhydrogencarbonat (“Natron“) und\nAmmoniumchlorid (“Salmiak“)&nbsp;}}</div><div><br></div><div>3) {{c6::Das Natriumhydrogencarbonat wird auf ca. 200 °C erhitzt, wobei Wasser und\nKohlenstoffdioxid entweichen. Übrig bleibt dann das Produkt Soda. Dieser Vorgang\nwird als Kalzinierung (kalzinieren) bezeichnet. \\(2NaHCO_3 \\rightarrow Na_2CO_3 + H_2O + CO_2\\) Natriumhydrogencarbonat spaltet in der Hitze Wasser und Kohlenstoffdioxid ab, wodurch Soda entsteht.&nbsp;}}</div><div><br></div><div>4) {{c7::Im vierten Schritt wird das Ammoniak wiedergewonnen und Schritt 2 zugeführt: \\(2NH_4Cl + CaO \\rightarrow 2NH_3 + CaCl_2 + H_2O\nDas Ammoniumchlorid aus Reaktion 2 wird mit dem gebrannten Kalk aus Reaktion 1 zu Ammoniak,\nCalciumchlorid und Wasser umgesetzt}}<br></div>",
+                                "<img src=\"paste-b60f2f5d1e5945c8db414db8d5ef0da1b176165d.jpg\"><div><img src=\"paste-b74663c52a09f7eff8dcf7dd6efe60920ba373db.jpg\"><br></div>"
+                            ],
+                            "guid": "yCM]XQv<b^",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG1"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -8829,20 +9176,20 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
-                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
+                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
+                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
                     ],
-                    "guid": "x/,N,!rndE",
+                    "guid": "F>v-@=id2}",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
-                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
+                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
+                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
                     ],
-                    "guid": "F>v-@=id2}",
+                    "guid": "x/,N,!rndE",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
@@ -8953,7 +9300,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "AC::HG1"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
@@ -8972,6 +9321,129 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced-17ebb",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
                 {
