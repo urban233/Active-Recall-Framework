@@ -26,6 +26,16 @@
                         "3b3f6adedc864552a6ef5558090b6001-ao-3-A.svg",
                         "3b3f6adedc864552a6ef5558090b6001-ao-3-Q.svg",
                         "3b3f6adedc864552a6ef5558090b6001-ao-O.svg",
+<<<<<<< HEAD
+=======
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-1-A.svg",
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-1-Q.svg",
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-2-A.svg",
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-2-Q.svg",
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-3-A.svg",
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-3-Q.svg",
+                        "65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg",
+>>>>>>> main
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-A.svg",
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-1-Q.svg",
                         "693c6c6f45d54ea2a6828d56cd2df1b6-ao-2-A.svg",
@@ -78,6 +88,16 @@
                         "91ce660e127c4872b36206ca47cb2743-ao-6-A.svg",
                         "91ce660e127c4872b36206ca47cb2743-ao-6-Q.svg",
                         "91ce660e127c4872b36206ca47cb2743-ao-O.svg",
+<<<<<<< HEAD
+=======
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-1-A.svg",
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-1-Q.svg",
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-2-A.svg",
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-2-Q.svg",
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-3-A.svg",
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-3-Q.svg",
+                        "bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg",
+>>>>>>> main
                         "c2de2549a5054db6b261ef76476a9893-ao-1-A.svg",
                         "c2de2549a5054db6b261ef76476a9893-ao-1-Q.svg",
                         "c2de2549a5054db6b261ef76476a9893-ao-2-A.svg",
@@ -113,6 +133,16 @@
                         "e7dc7b9b3b314956ba84d919f0a842e4-ao-6-A.svg",
                         "e7dc7b9b3b314956ba84d919f0a842e4-ao-6-Q.svg",
                         "e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg",
+<<<<<<< HEAD
+=======
+                        "eae782d11c26451c90f08c5b88a70d68-oa-1-A.svg",
+                        "eae782d11c26451c90f08c5b88a70d68-oa-1-Q.svg",
+                        "eae782d11c26451c90f08c5b88a70d68-oa-2-A.svg",
+                        "eae782d11c26451c90f08c5b88a70d68-oa-2-Q.svg",
+                        "eae782d11c26451c90f08c5b88a70d68-oa-3-A.svg",
+                        "eae782d11c26451c90f08c5b88a70d68-oa-3-Q.svg",
+                        "eae782d11c26451c90f08c5b88a70d68-oa-O.svg",
+>>>>>>> main
                         "ed186e979bbd4ba98bc9244885624f27-ao-1-A.svg",
                         "ed186e979bbd4ba98bc9244885624f27-ao-1-Q.svg",
                         "ed186e979bbd4ba98bc9244885624f27-ao-2-A.svg",
@@ -149,7 +179,12 @@
                         "tmpg0myuyxf.png",
                         "tmph5mznfua.png",
                         "tmpjwttfs2v.png",
+<<<<<<< HEAD
                         "tmpjzrk1fdg.png"
+=======
+                        "tmpjzrk1fdg.png",
+                        "tmpvrm_lh71.png"
+>>>>>>> main
                     ],
                     "mid": 1611498335938,
                     "name": "AC",
@@ -666,9 +701,611 @@
                             ],
                             "guid": "mVL)nGy:gR",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+<<<<<<< HEAD
                             "tags": [
                                 "AC::HG0"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Form kommen die Alkalimetalle in der Natur vor?<div>{{c1::Aufgrund ihrer hohen Reaktivität (erste Ionisierungsenergie recht gering) kommen\nAlkalimetalle nur gebunden in der Natur in Form von einwertigen Kationen vor.::Allgemeines Vorkommen}}<br></div><div><br></div><div>Li:&nbsp;</div><div>{{c2::<div> “Begleiter“ des Kaliums und Natriums (ist oft in deren Vorkommen in geringen\nKonzentrationen mit enthalten)&nbsp;</div><div> Petalit \\(LiAl[Si_2O_5]_2\\)&nbsp;</div><div> Spodumen \\(LiAl[SiO_3]_2\\)&nbsp;</div>}}<br></div><div>Na:&nbsp;</div><div>{{c3::<div> Natronfeldspat \\(NaAlSi_3O_8\\)&nbsp;</div><div> Chilesalpeter (\\NaNO_3\\)&nbsp;</div><div> \\(NaCl\\) Steinsalz in Lagerstätten\ngelöst im Meerwasser&nbsp;</div><div> Kryolith \\(Na_3AlF_6\\)&nbsp;</div><div> Soda \\(Na_2CO_3\\)&nbsp;</div>}}<br></div><div>K:&nbsp;</div><div>{{c4::<div> Sylvin \\(KCl\\)&nbsp;</div><div> Kalifeldspat \\(K[AlSi_3O_8]\\)&nbsp;</div><div> Carnalit \\(KCl*MgCl_2*6H_2O\\)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "t#1oTIMe%q",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+=======
+>>>>>>> main
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von Hydriden gibt es und worin unterscheiden sie sich?<div>{{c1::- kovalente Hydride<br> größte Gruppe der Hydride<br> Bindung in Abhängigkeit von Elektronegativität des Bindungspartners polarisiert<br> H kann die Oxidationszahlen +1 oder -1 annehmen}}</div><div><br>{{c2::- ionische Hydride<br> H liegt in der Oxidationsstufe -1 vor<br> VEK: 1s2<br> reagieren mit Säure oder Wasser zu H2<br> Ionengitter aus Metallkationen und H—Anionen<br> starke Reduktionsmittel<br> werden zum Entfernen von H2O aus Lösungsmitteln angewendet}}</div><div><br>{{c3::- Metallhydride (Einlagerungshydride)<br> H-Atome sind in Lücken der Metall-Atompackung eingelagert<br> nicht stöchiometrisch zusammengesetzt<br> elektrische Leiter<br> metallisches Aussehen}}<br></div>",
+                                ""
+                            ],
+                            "guid": "j04)27kN8q",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vergleichen Sie die Reaktionen von CaH2 und von HCl mit Wasser.<div><br></div><div>{{c1::\\(CaH_2 + 2H_2O \\leftrightharpoons Ca(OH)_2 +2H_2\\)::Reaktionsgleichung}}</div><div><br></div><div>{{c2::Beim CaH2 ist die Elektronegativität des Ca (1,0) geringer als die des Wasserstoffs (2,2). Deshalb ist der Wasserstoff negativ polarisiert wodurch bei der Reaktion mit Wasser H2 entsteht.}}<br></div><div><br></div><div>{{c3::\\(HCl+2H_2O \\leftrightharpoons Cl^-+H_3O^+\\)::Reaktionsgleichung}}</div><div><br></div><div>{{c4::Bei Salzsäure ist die Elektronegativität des Chlors (3,2) höher als die des Wasserstoffs (2,2). Daher kommt es nicht zur Bildung von H2 bei der Reaktion mit Wasser. Stattdessen kommt es lediglich zu einer Protonenübertragung aufs Wasser.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "z2)BZ&^S2i",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man atomaren Wasserstoff darstellen, was ist ein Langmuir-Brenner und wozu wird er gebraucht?<div>{{c1::</div><div>- Darstellung nach Wood: H2 wird unter stark vermindertem Druck (0,1 – 1mbar) einer Elektrischen Entladung (Spannung 3 - 4kV) ausgesetzt. Die maximal erreichbare Ausbeute liegt bei 95%.</div><div><br>- Langmuir-Brenner<br>Zwischen Wolframelektroden wird ein Lichtbogen erzeugt. Wasserstoff der mit Düsen durch diesen Lichtbogen geleitet wird, wird zu atomarem Wasserstoff gespalten.<br>Wenn der Strahl aus atomarem Wasserstoff auf die Oberfläche des metallischen Werkstücks trifft wird dort durch diese die Rückreaktion zu H2 katalysiert. Dabei wird eine große Menge an Energie abgegeben wodurch es möglich ist auch hochschmelzende Metalle wie Tantal oder Wolfram zu verschweißen. Neben der hohen Temperatur ist ein weiterer Vorteil, dass durch den Wasserstoff der Sauerstoff der umgebenden Luft verdrängt wird wodurch es beim Schweißen nicht zur Oxidation des Werkstoffs kommt.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "h|2t`$*A@b",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "226b420da6634d3db3482abfd576a33f-oa-1",
+                                "",
+                                "<img src=\"tmpg0myuyxf.png\" />",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-1-A.svg\" />",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-O.svg\" />"
+                            ],
+                            "guid": "so}&q%E4w(",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "226b420da6634d3db3482abfd576a33f-oa-2",
+                                "",
+                                "<img src=\"tmpg0myuyxf.png\" />",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-2-A.svg\" />",
+                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-O.svg\" />"
+                            ],
+                            "guid": "M[Gdvtz}VM",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie anhand einer Skizze den Claude-Prozess zur Verflüssigung von Wasserstoff.<div>{{c1::</div><div>I Das Wasserstoffgas wird bei Raumtemperatur komprimiert. Dabei wird die Verdichtungswäre abgeführt</div><div><br>II Das komprimierte Wasserstoffgas wird durch zB. flüssigen Stickstoff herunter gekühlt.</div><div><br>III Über eine Turbine wird ein Teil des Wasserstoffgases (isentrop) entspannt. Die dabei entstehende Kühlwirkung wird genutzt um das restliche Gas weiter herunter zu kühlen.</div><div><br>IV Das restliche Gas wird mit einem Joule-Thomson-Ventil (isenthalp) entspannt wodurch es sich bis zur Verflüssigung abkühlt.}}<br></div>",
+                                "<img src=\"paste-1da192049f084243b03701a53e8450955fed6292.jpg\">"
+                            ],
+                            "guid": "b<waiu2SxJ",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum kommt das Linde-Verfahren (Luftverflüssigung) bei Wasserstoff nicht zur Anwendung?<div><br><div>{{c1::<div>Sowohl beim Claude-Prozess als auch beim Linde-Verfahren wird der Joule-Thomson-Effekt ausgenutzt. Der Joule-Thomson-Effekt tritt auf wenn man ein Gas isenthalp expandiert wird also z.B. in einer Leitung ein Lochblech angebracht ist.</div><div></div>}}<br></div><div><br></div><div>{{c2::<div>Wenn sich die Teilchen des Gases <b>anziehen</b>, muss bei der Entspannung Arbeit geleistet werden. Die Energie dafür kommt aus der kinetischen Energie der Teilchen weshalb es zu einer Verringerung der Temperatur kommt.</div><div></div>}}<br></div><div><br></div><div>{{c3::Wenn sich die Teilchen hingegen <b>abstoßen</b> ist im komprimierten Zustand mehr Energie im Gas. Diese wird bei der Expansion frei und wird in kinetische Energie der Teilchen umgewandelt wodurch die Temperatur des Gases steigt.}}<br></div><div><br>{{c4::Ob sich die Teilchen eines Gases <b>anziehen oder abstoßen</b> ist von der Temperatur des Gases abhängig.<br>Die Temperatur-Grenze bei der sich das Verhalten der Gase ändert wird Inversionstemperatur genannt.<br>Oberhalb der Inversionstemperatur stoßen sich die Teilchen ab und es kommt bei einer Expansion zu einer Erwärmung des Gases.}}<br></div><div><br></div><div>{{c5::<div>Um Gase durch den Joule-Thomson-Effekt zu kühlen bis sie sich verflüssigen, müssen sie also bereits kälter als ihre Inversionstemperatur sein.</div><div>Die Inversionstemperatur von Wasserstoff beträgt -239°C und wird beim Linde-Verfahren nicht erreicht.<br>Deshalb gibt es den Claude-Prozess, der den Brayton-Prozess nutzt, um so tiefe Temperaturen zu erreichen ,dass sich selbst Gase mit einer sehr tiefen Inversionstemperatur, wie Wasserstoff und Helium, bei der Expansion durch ein Joule-Thomson-Ventil weiter abkühlen.</div>}}<br></div></div>",
+                                "<img src=\"paste-4aa00b16625db5f7a1d0ab3781367c1e127b4b03.jpg\">"
+                            ],
+                            "guid": "p2l~J1Btx#",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie 10 technische Anwendungen von Wasserstoff.<div>{{c1::<div>- Herstellung von NH3, HCl<br>- Brennstoffzellen<br>- Raffination von Erdöl<br>- Synthese von Methanol, H2O2<br>- Hydrierung von Pflanzenöl, e.g., Margarineherstellung<br>- als Reduktionsmittel zur Metallgewinnung (W, Ge, Mo, Co)<br>- als Brennstoff zum Schweißen<br>- als Kühlmittel<br>- als Raketentreibstoff<br>- als Brenngas mit Mischungen von anderen Gasen</div>}}</div>",
+                                ""
+                            ],
+                            "guid": "I2*9}&KU,(",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von Wasserstoffbrückenbindungen gibt es und welchen Einfluss haben sie auf das physikalische Verhalten chemischer Verbindungen?<br><div>{{c1::<div>Asymmetrische Wasserstoffbrückenbindungen:<br>- A · · H · · · B<br>- Das Proton befindet sich näher an A als an B<br>- A stellt den Protonendonator dar<br>- B ist der Protonenakzeptor<br>- A und B sind stark elektronegatievere Elemente als Wasserstoff<br>- A und B weisen eine unterschiedlich starke Nukleophilie auf wodurch die Asymmetrie zu Stande kommt (Es kann sich bei unterschiedlicher Substitution trotzdem um das gleiche Element handeln)</div><div></div>}}<br></div><div><br></div><div>{{c2::<div>Symmetrischen Wasserstoffbrückenbindungen:<br>- A · · H · · A<br>- Proton befindet sich in der Mitte</div>}}<br></div>",
+                                "Bei Flüssigkeit bei denen es zur Ausprägung von Wasserstoffbrückenbindungen unter den Molekülen kommt ist eine viel höherer Siedepunkt zu beobachten als es anhand der Siepunkte der entsprechend anderen Hydride der jeweiligen Hauptgruppen zu erwarten wäre.<div><img src=\"paste-2037d374c69213f3cf1d7b957f7a3ce83de6e84d.jpg\"><br></div>"
+                            ],
+                            "guid": "zx|(/SHd_3",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert eine Brennstoffzelle?<div>{{c1::Eine Brennstoffelle ist im Prinzip eine galvanische Zelle. Sie besteht aus zwei durch eine Membran getrennte Kammern die mit einer sauren wässrigen Lösung gefüllt sind. In diese Kammern sind mit einem Katalysator (Pt) beschichtete Elektroden eingelassen. In eine Kammer wird Wasserstoff gepumpt und in die andere Sauerstoff. Der molekulare Wasserstoff gibt an der Elektrode (Anode) seine zwei Elektronen ab und zerfällt zu zwei H+. Da die Membran die die Kammern voneinander trennt durchlässig für H+ ist diffundieren diese in die andere Kammer. Dort werden Elektronen von der Elektrode (Kathode) auf den molekularen Sauerstoff übertragen. Dieser zerfällt dadurch zu 2 O2-. Die Oxidionen verbinden sich anschließend mit den Protonen zu Wasser. Durch den Elektronenüberschuss an der Anode zum einen und dem Elektronenmangel an der Kathode entsteht eine Spannung von bis zu 1,23V zwischen den Elektroden.}}<br></div>",
+                                "<img src=\"paste-58dd6b33a3d57bfad7be2f77b30c30529f6a91ae.jpg\">"
+                            ],
+                            "guid": "zNZaG&rJf1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "c2de2549a5054db6b261ef76476a9893-ao-1",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-1-A.svg\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                            ],
+                            "guid": "D^s!@{*>c0",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "c2de2549a5054db6b261ef76476a9893-ao-2",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-2-A.svg\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                            ],
+                            "guid": "uXw*x`>n9)",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "c2de2549a5054db6b261ef76476a9893-ao-3",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-3-A.svg\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                            ],
+                            "guid": "vU.TkzXINT",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "c2de2549a5054db6b261ef76476a9893-ao-4",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-4-A.svg\" />",
+                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                            ],
+                            "guid": "pJUrE(`Q7g",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ed186e979bbd4ba98bc9244885624f27-ao-1",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-1-A.svg\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                            ],
+                            "guid": "vmhmSzZt7?",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ed186e979bbd4ba98bc9244885624f27-ao-2",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-2-A.svg\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                            ],
+                            "guid": "w*pz+#q!}_",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ed186e979bbd4ba98bc9244885624f27-ao-3",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-3-A.svg\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                            ],
+                            "guid": "lj?2uSl2a,",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ed186e979bbd4ba98bc9244885624f27-ao-4",
+                                "",
+                                "<img src=\"tmph5mznfua.png\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-4-A.svg\" />",
+                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                            ],
+                            "guid": "h}k&dR.2<]",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG0"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Form kommen die Erdalkalimetalle in der Natur vor?<div>{{c1::Sie kommen aufgrund ihrer hohen Reaktivität nur in gebundener Form in der Natur vor.}}<br></div><div><br></div><div>Be:<br>{{c2:: Beryll: Be3Al2[Si6O18]<br> Chrysoberyll: Al2[BeO4]}}<br></div><div><br>Mg:<br>{{c3:: Meerwasser: MgCl, MgCO4, MgBr2<br> Blattgrün: Chlorophyll<br> Carbonate:<br>o Magnesit: MgCO3<br>o Dolomit: MgCO3*CaCO3<br> Kalisalze:<br>o Kieserit: MgSO4*H2O<br>o Bittersalz: MgSO4*7H2O<br>o Kainit: KCl*MgSO4*3H2O<br>o Bischofit: MgCl2*6H2O<br> Silicate<br>o Olivin: (Mg,Fe)2[SiO4]<br>o Talk: [Mg3(OH)2][Si4O10]}}<br></div><div><br>Ca:</div><div>{{c4::<div> Kalk, Marmor, Kreide: CaCO3<br> Gips: CaSO4*2H2O<br> Anhydrit: CaSO4<br> Apatit: Ca5(PO4)3*(OH,F,Cl)<br> Flußspat: CaF2<br> Calciumhydroxid: Ca(OH)2</div><div></div>}}<br></div><div><br></div><div>Sr<br>{{c5:: Strontianit: SrCO3<br> Cölestin: SrSO4}}<br></div><div><br></div><div>Ba:<br>{{c6:: Witherit: BaCO3<br> Schwerspat: BaSO4}}<br></div><div><br>Ra:<br>{{c7::sehr selten (zerfällt radioaktiv)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "LfApzB^9_:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können die Elemente in reiner (metallischer) Form dargestellt werden?<div><br><div>Elektrolytisches Verfahren:</div><div>{{c1::<div>1. Dolomitbrennen<br>2. \\(MgO + CaO + MgCl_2 + H_2O ↔ CaCl_2 + 2Mg(OH)_2 Mg(OH)_2 ↔ MgO + H_2O (durch ΔT)\\)<br>3. \\(MgO + C + Cl_2 ↔ MgCl_2 + CO\\)<br>4. \\(MgCl_2 ↔ Mg+Cl_2\\)<br>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig</div><div></div>}}<br></div><div><br></div><div>Carbothermisches Verfahren:</div><div>{{c2::<div>direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>\\(MgO + C \\rightarrow Mg + CO\\)<br>Sdp. Mg = 1107°C<br> Mg entweicht gasförmig<br> extrem schnelle Abkühlung und Kondensation in H2-Atmosphäre</div><div></div>}}<br></div><div><br></div><div>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>\\(2 MgO + 2 CaO + Si \\rightarrow&nbsp;Ca_2SiO_4 + Mg\\)<br>Sdp. Mg = 1107°C<br> Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "tFdw+KO=T<",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die Unterschiede in den Gruppeneigenschaften zwischen Be und Mg sowie Ca, Sr und Ba.<div>Allgemein:</div><div>{{c1::</div><div>- wegen erhöhter Kernladungszahl größere Elektronegativität und kleinere Atomradien als in HG I<br>- ähnliches chemisches Verhalten von Calcium, Strontium und Barium<br>- große Sprünge im chemischen Verhalten von Beryllium zu Magnesium und zu Ca, Sr}}<br></div><div><br>Be:&nbsp;</div><div>{{c2::</div><div>- hohe Ionisierungsenergie und kleiner Atomradius \\(\\rightarrow\\) vorwiegend kovalente Verbindungen}}</div><div><br></div><div>Mg:&nbsp;</div><div>{{c3::<div>- bildet sowohl kovalente als auch ionische Verbindungen \\(\\rightarrow\\)&nbsp;steht zwischen Be und Ca, Sr und Ba</div><div></div>}}<br></div><div><br></div><div>Ca,Sr,Ba:</div><div>{{c4::</div><div>- bilden vorwiegend ionische Festkörper; enge Verwandtschaft \\(\\rightarrow\\)&nbsp;Eigenschaften ändern sich systematisch mit}}</div>",
+                                ""
+                            ],
+                            "guid": "x%y)zJ6xj>",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Schrägbeziehungen zu anderen Hauptgruppenelementen gibt es in der Erdalkalimetallgruppe?<div>{{c1::Li/Mg<br>Be/Al}}<br></div>",
+                                ""
+                            ],
+                            "guid": "MV{oNTb_TF",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "bb65a879314a4b3b83727c46f79ef8d5-oa-1",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-1-A.svg\" />",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
+                            ],
+                            "guid": "mv{hYnO_s;",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "bb65a879314a4b3b83727c46f79ef8d5-oa-2",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-2-A.svg\" />",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
+                            ],
+                            "guid": "tdM3Blrvdj",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "bb65a879314a4b3b83727c46f79ef8d5-oa-3",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-3-A.svg\" />",
+                                "<img src=\"bb65a879314a4b3b83727c46f79ef8d5-oa-O.svg\" />"
+                            ],
+                            "guid": "PmSh(<b_8p",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "eae782d11c26451c90f08c5b88a70d68-oa-1",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-1-A.svg\" />",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
+                            ],
+                            "guid": "er_$hZOx|C",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "eae782d11c26451c90f08c5b88a70d68-oa-2",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-2-A.svg\" />",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
+                            ],
+                            "guid": "mHK!dgdl>b",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "eae782d11c26451c90f08c5b88a70d68-oa-3",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-3-A.svg\" />",
+                                "<img src=\"eae782d11c26451c90f08c5b88a70d68-oa-O.svg\" />"
+                            ],
+                            "guid": "IF:L7L>+m,",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "65a40801f7444e4f928a0c30a4ec9aa5-oa-1",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-1-A.svg\" />",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
+                            ],
+                            "guid": "ky,?~I2kB_",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "65a40801f7444e4f928a0c30a4ec9aa5-oa-2",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-2-A.svg\" />",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
+                            ],
+                            "guid": "r,Q5{0v90#",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "65a40801f7444e4f928a0c30a4ec9aa5-oa-3",
+                                "",
+                                "<img src=\"tmpvrm_lh71.png\" />",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-3-A.svg\" />",
+                                "<img src=\"65a40801f7444e4f928a0c30a4ec9aa5-oa-O.svg\" />"
+                            ],
+                            "guid": "c1`Gb?creF",
+                            "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Be und Mg neigen zur Bildung kovalenter Verbindungen. Worin besteht der Unterschied zwischen diesen Verbindungen?<div>{{c1::\\(\\Be^{2+}\\) hat eine extrem hohe Ladungsdichte von \\(\\1100C*mm^{-3}\\) und kann alle Anionen polarisieren. Dies führt zu einer Überlappung der Elektronenhüllen z.B. \\(\\Be(H_2O)_4^{2+}\\) wo das Wasser kovalent an das Berylliumion gebunden ist. KZ 4 wegen geringer Größe des Ions üblich.::\\(\\Be^{2+}\\)::}}</div><div><br>{{c2::Magnesium hat eine geringere Ladungsdichte von \\(\\120C*mm^{-3}\\), so dass sich das Mg-Ion zwischen Kohlenstoff- und Halogenatomen schieben kann. Da es größer ist bevorzugt es KZ 6.::Mg::}}<br></div>",
+                                ""
+                            ],
+                            "guid": "AY6+0/XcP0",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was versteht man unter einer Grignard-Verbindung und zu welchem Zweck wird diese in der chemischen Synthese organischer Verbindungen eingesetzt.<div>{{c1::Als Grignard-Verbindung bezeichnet man das Produkt der Reaktion eines Alkyhalogenids mit Magnesium.<br>R--X + Mg \\(\\rightarrow\\) R--Mg—X<br>Das C-Atom an dem das Halogenatom vorher gesessen hat und vorher eine positive Partialladung hatte wird durch die Reaktion mit Mg “umgepolt“, herhält also eine negative Partialladung.<br>Dadurch wird ein nukleophieler Angriff des besagten C-Atoms an ungesättigte C, O und CN-Verbindungen möglich.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "MKxN<HrNzc",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Bedeutung haben Ca-Verbindungen als Bindebaustoffe? Erklären Sie den Prozess der Herstellung sowie die Reaktionen, die zur Namengebung dieser Stoffe beigetragen haben und deren Funktion sichern.<div>Gips:<br>{{c1::\\(\\CaSO_4*2H_2O\\) wird bergmännisch abgebaut<br>Gipsbrennen: \\(\\CaSO_4*2H_2O&nbsp;\\rightarrow CaSO_4*½H_2O\\) (Hartformgips)<br>\\(\\CaSO_4*½H_2O \\rightarrow&nbsp;CaSO_4\\) (Anhydrid I,II oder III)<br>Bei der Verwendung wird der Gips mit Wasser angerührt worauf es nach einiger Zeit zum Abbinden kommt: \\(\\CaSO_4 + 2H_2O \\rightarrow&nbsp;CaSO_4*2H_2O\\)</div><div>Dabei verfilzen die nadelförmigen Kristalle.<br>Dadurch bekommt der Gips wieder eine hohe Festigkeit wodurch er als Innen-, Außenputz und für Estriche nutzbar wird.}}<br>Kalk:<br>{{c2::\\(\\CaCO_3\\) wird bergmännisch abgebaut<br>Kalk brennen: \\(\\CaCO_3\\)&nbsp;(Kalkstein) \\(\\rightarrow\\)&nbsp;CaO (gebrannter Kalk) + \\(\\CO_2\\)↑<br>Kalk löschen: \\(\\CaO + 2H_2O&nbsp;\\rightarrow Ca(OH)_2\\) (Löschkalk oder Luftmörtel)<br>Verwendung: Löschkalk + Sand + H2O \\(\\rightarrow\\)&nbsp;Kalkmörtel<br>Abbinden: \\(\\Ca(OH)_2 + CO_2\\) (aus der Luft) \\(\\rightarrow&nbsp;CaCO_3 + H_2O\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "dM1m0q+v|-",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche physiologischen Eigenschaften besitzen die Erdalkalimetalle und in welchen Biomineralien kommen sie vor?<div>Be:&nbsp;</div><div>{{c1::extrem giftig, stark krebserzeugend}}<br>Mg:</div><div>{{c2::Salze spielen vor allem bei Pflanzen im Stoffwechsel eine bedeutende Rolle (Chlorophyll)}}<br>Ca:&nbsp;</div><div>{{c3::Verbindungen in Knochen (Calciumphosphat), Zähnen, Gehäusen (Calciumcarbonat), sowie verschiedenen Pflanzen (Calciumoxalat)}}<br>Sr:&nbsp;</div><div>{{c4::Strontiumbromid ist ein in der Medizin verwendetes Beruhigungsmittel}}<br>Ba:</div><div>{{c5::giftig}}<br></div>",
+                                ""
+                            ],
+                            "guid": "sVb{Xj.]o?",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich der basische Charakter der Oxide und Hydroxyde innerhalb der Hauptgruppe mit zunehmender Ordnungszahl?<div>{{c1::Der basische Charakter nimmt von Be zu Ba zu.<br>1. Weil die Elektronegativität geringer wird \\(\\rightarrow\\) Zunahme des ionischen Charakters der Metall-Sauerstoff-Bindung<br>2. Wegen der besseren Polarisierbarkeit und damit Stabilisierbarkeit der größeren Kationen}}<br></div>",
+                                ""
+                            ],
+                            "guid": "j?IFq{4^oR",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die Zunahme der thermischen Stabilität z.B. der Cabonate vom Be zum Ba.<div>{{c1::<div>Mit steigendem basischem Charakter steigt auch die thermische Stabilität mit schwachen Säuren wie z.B. dem Carbonat</div>}}</div>",
+                                ""
+                            ],
+                            "guid": "uF$0Vtm]SO",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nach welchen 3 Verfahren kann metallisches Magnesium hergestellt werden? Erläutern sie den Verfahrensablauf anhand der entsprechenden Reaktionsgleichungen und Reaktionsbedingungen.<div>Elektrolytisches Verfahren:<br>{{c1::1. Dolomitbrennen<br>2. MgO + CaO + \\(MgCl_2 + H_2O\\) ↔ \\(CaCl_2 + 2Mg(OH)_2 Mg(OH)_2\\) ↔ MgO + \\(H_2O\\) (durch ΔT)<br>3. MgO + C + \\(Cl_2\\) ↔ \\(MgCl_2\\) + CO</div><div>4. \\(MgCl_2\\) ↔ Mg+\\(Cl_2\\)</div><div>Senkung des Schmelzpunktes durch Zugabe von Alkalifluoriden auf 650-720°C<br>Rheinheitsgrad 99,8%<br>Zur Herstellung von 1kg Mg sind 18kWh nötig}}</div><div><br>Carbothermisches Verfahren:<br>{{c2::direkte Reduktion des MgO mit C im elektrischen Ofen (T = 2000°C)<br>MgO + C \\(\\rightarrow\\) Mg + CO<br>Sdp. Mg = 1107°C<br>- Mg entweicht gasförmig<br>- extrem schnelle Abkühlung und Kondensation in \\(H_2\\)-Atmosphäre}}</div><div><br>Silicothermisches Verfahren:<br>{{c3::direkte Reuktion von gebranntem Dolomit mit Si im Ofen (T = 1200-1400°C)<br>2MgO + 2CaO + Si \\(\\rightarrow\\) \\(Ca_2SiO_4\\) + Mg</div><div>Sdp. Mg = 1107°C<br>- Mg mit einem Reinheitsgrad von 98-99% wird abdestilliert und in luftgekühlten Vorlagen verdichtet}}<br></div>",
+                                ""
+                            ],
+                            "guid": "K/rfe%]@p.",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -1000,72 +1637,152 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Arten von Hydriden gibt es und worin unterscheiden sie sich?<div>{{c1::- kovalente Hydride<br> größte Gruppe der Hydride<br> Bindung in Abhängigkeit von Elektronegativität des Bindungspartners polarisiert<br> H kann die Oxidationszahlen +1 oder -1 annehmen}}</div><div><br>{{c2::- ionische Hydride<br> H liegt in der Oxidationsstufe -1 vor<br> VEK: 1s2<br> reagieren mit Säure oder Wasser zu H2<br> Ionengitter aus Metallkationen und H—Anionen<br> starke Reduktionsmittel<br> werden zum Entfernen von H2O aus Lösungsmitteln angewendet}}</div><div><br>{{c3::- Metallhydride (Einlagerungshydride)<br> H-Atome sind in Lücken der Metall-Atompackung eingelagert<br> nicht stöchiometrisch zusammengesetzt<br> elektrische Leiter<br> metallisches Aussehen}}<br></div>",
+                                "In welcher Form kommen die Erdmetalle in der Natur vor?<div>Bor:&nbsp;</div><div>{{c1::<div>- nicht in freier Form&nbsp;</div><div>- Borsäure \\(H_3BO_3\\)&nbsp;</div><div>- Salze:&nbsp;</div><div>Borax \\(Na_2B_4O_7 * 10H_2O\\)&nbsp;</div><div>Boratin \\(2Mg_3B_8O_{15} * MgCl_2\\)&nbsp;</div><div>Kernit \\(Na_2B_4O_7 * 4H_2O\\)&nbsp;</div>}}<br></div><div><br></div><div>Aluminium:&nbsp;</div><div>{{c2::<div>- nur in Verbindungen&nbsp;</div><div>7% der Erdrinde\n3. Stelle der Elemente\nhäufigstes Metall&nbsp;</div><div>- Feldspate, Tone\n-&nbsp;</div><div>Bauxit \\(AIO(OH)\\), \\(Al(OH)_3\\)&nbsp;</div><div>\\(Fe_2O_3\\) - Verunreinigung \\(\\rightarrow\\) roter Bauxit</div><div>\\(SiO_2\\) - Verunreinigung \\(\\rightarrow\\) weißer Bauxit&nbsp;</div><div>- Hydrargillit \\(Al(OH)_3&nbsp;</div><div>- Kyrolit \\(Na_3AlF_6\\)&nbsp;</div><div>- Kaolin \\(Al_2O_3 * 2SiO_2 * 2H_2O\\)&nbsp;</div>}}<br></div><div><br></div><div>Gallium:&nbsp;</div><div>{{c3::- In Spuren in Germanit und mit In in ZnS&nbsp;}}</div><div><br></div><div>Indium:&nbsp;</div><div>{{c4::- Indiumhydroxid (\\(In(OH)_3\\)), Indit (\\(FeIn_2S_4\\))}}</div><div><br></div><div>Thallium:&nbsp;</div><div>{{c5::- Thalliumsulfid (\\(TlAsS_2\\)), Zn, In, Fe-Begleiter}}<br></div>",
                                 ""
                             ],
-                            "guid": "j04)27kN8q",
+                            "guid": "l*}=T})21D",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "AC::HG0"
+                                "AC::HG3"
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Vergleichen Sie die Reaktionen von CaH2 und von HCl mit Wasser.<div><br></div><div>{{c1::\\(CaH_2 + 2H_2O \\leftrightharpoons Ca(OH)_2 +2H_2\\)::Reaktionsgleichung}}</div><div><br></div><div>{{c2::Beim CaH2 ist die Elektronegativität des Ca (1,0) geringer als die des Wasserstoffs (2,2). Deshalb ist der Wasserstoff negativ polarisiert wodurch bei der Reaktion mit Wasser H2 entsteht.}}<br></div><div><br></div><div>{{c3::\\(HCl+2H_2O \\leftrightharpoons Cl^-+H_3O^+\\)::Reaktionsgleichung}}</div><div><br></div><div>{{c4::Bei Salzsäure ist die Elektronegativität des Chlors (3,2) höher als die des Wasserstoffs (2,2). Daher kommt es nicht zur Bildung von H2 bei der Reaktion mit Wasser. Stattdessen kommt es lediglich zu einer Protonenübertragung aufs Wasser.}}<br></div>",
+                                "Erklären Sie die Unterschiede in den Gruppeneigenschaften zwischen B und Al sowie\nGa, In und Tl.<div><br></div><div>Bor:&nbsp;</div>{{c1::<div>Halbmetal&nbsp;</div><div>Schrägbeziehung zu Si&nbsp;</div><div>keine Abspaltung des dritten e- wegen zu hoher Ionisierungsenergie -&gt; keine B3+ Ionen hohes Ladungs-Radius-Verhältnis -&gt; starke Bindung der Valenzelektronen</div><div>}}&nbsp;<br></div><div><br></div><div>Aluminium:\n{{c2::Metall\nionische und kovalente Bindungen\nSchrägbeziehung zu Be}}&nbsp;</div><div><br></div><div>Gallium, Indium, Tallium:&nbsp;</div><div>{{c3::<div>typische Metalle&nbsp;</div><div>mechanisch weich&nbsp;</div><div>Ionenbindungen\nAnomalie beim Übergang von Aluminium zum Gallium durch Auffüllen der 3d-Schale\nvom Scandium zum Zink (Al: \\([Ne]3s^2\np^1\\) , Ga: \\([Ar]3d^{10}4s^2\np^1\\))\nZunehmende Stabilisierung der niedrigen Oxidationsstufen (+I) durch den ‘inert pair\neffect‘</div>}}<br></div>",
                                 ""
                             ],
-                            "guid": "z2)BZ&^S2i",
+                            "guid": "yl#_`=*B#X",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "AC::HG0"
+                                "AC::HG3"
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann man atomaren Wasserstoff darstellen, was ist ein Langmuir-Brenner und wozu wird er gebraucht?<div>{{c1::</div><div>- Darstellung nach Wood: H2 wird unter stark vermindertem Druck (0,1 – 1mbar) einer Elektrischen Entladung (Spannung 3 - 4kV) ausgesetzt. Die maximal erreichbare Ausbeute liegt bei 95%.</div><div><br>- Langmuir-Brenner<br>Zwischen Wolframelektroden wird ein Lichtbogen erzeugt. Wasserstoff der mit Düsen durch diesen Lichtbogen geleitet wird, wird zu atomarem Wasserstoff gespalten.<br>Wenn der Strahl aus atomarem Wasserstoff auf die Oberfläche des metallischen Werkstücks trifft wird dort durch diese die Rückreaktion zu H2 katalysiert. Dabei wird eine große Menge an Energie abgegeben wodurch es möglich ist auch hochschmelzende Metalle wie Tantal oder Wolfram zu verschweißen. Neben der hohen Temperatur ist ein weiterer Vorteil, dass durch den Wasserstoff der Sauerstoff der umgebenden Luft verdrängt wird wodurch es beim Schweißen nicht zur Oxidation des Werkstoffs kommt.}}<br></div>",
+                                "Wodurch ergibt sich die Sonderstellung des Elementes Gallium und sein sehr niedriger\nSchmelzpunkt?<div>{{c1::Gallium bildet Dimere die sich im Kristall nicht zu einer hohen Symetrie anordnen\nwodurch der niedrige Schmelzpunkt zu Stande kommt.}}<br></div>",
                                 ""
                             ],
-                            "guid": "h|2t`$*A@b",
+                            "guid": "9v?8mn6`u",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
-                                "AC::HG0"
+                                "AC::HG3"
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "226b420da6634d3db3482abfd576a33f-oa-1",
-                                "",
-                                "<img src=\"tmpg0myuyxf.png\" />",
-                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-1-A.svg\" />",
-                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-O.svg\" />"
+                                "Erklären Sie die allgemeinen Bindungseigenschaften der Erdmetalle.<div>a) {{c1::Abspaltung der Valenzelektronen \\(ns^2\\space np^1\\) -&gt; \\(Me^{3+}\\) - Ionen\n(Bor nicht, Ionisierungsenergie des 3. \\(e^-\\) zu hoch)}}&nbsp;</div><div>b) {{c2::Abspaltung des äußeren p-Elektrons ^\\(ns^2\\space np 1\\) -&gt; (\\(ns^2)^+\\) + \\(e^-\\) Anomalie beim Übergang Al -&gt; Ga: Auffüllen der 3d-Schalen}}&nbsp;</div><div>c) {{c3::Hybridisierung der 3 Valenzelektronen in kovalenten Verbindungen \\(3nsp^2\\) -Hybridorbitalen -&gt; Elektronenmangelverbindungen}}<br></div>",
+                                ""
                             ],
+                            "guid": "INfc:q.Xn:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 3 Möglichkeiten gibt es zur Auffüllung der Elektronenlücke der\nElektronenmangelverbindungen?<div>- {{c1::Bor kann mit Halogenatomen zusätzlich pπ-pπ-Bindungen eingehen\n(Verkürzung der B-XBindung z.B. im \\(BF_3\\))}}<br></div><div>- {{c2::Verbindungen der höheren Homologen erreichen eine stabilere\nAußenelektronenkonfiguration durch Dimerisierung (Metallatome über zwei\nHalogenbrücken verbunden z.B. \\(AlBr_3\\))}}&nbsp;</div><div>- {{c3::Verbindungen des Typs MX3 lagern leicht Lewis-Basen an und bilden stabile\nAddukte: \\(BF_3 + NR_3 \\rightarrow F_3BNR_3\\)}}<br></div>",
+                                "<img src=\"paste-3212ed170dde3ad36be1d516c8335f63a08b4b9e.jpg\">"
+                            ],
+                            "guid": "I{Zkzj%B27",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::HG3"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können die Elemente in reiner (metallischer) Form dargestellt werden?<div>{{c1::Weil Ga, In, Tl selten sind aber auch in Al-Erzen enthalten sind werden sie bei der\nGewinnung von Al als Nebenprodukte gewonnen.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "M!ABb]l}CY",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+<<<<<<< HEAD
+                                "AC::HG0"
+=======
+                                "AC::HG3"
+>>>>>>> main
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erläutern Sie – ausgehend vom Bayer-Prozess – die technische Herstellung von\nAluminium (Schema der Elektrolysezelle)<div>Beyer-Prozess:&nbsp;</div><div>{{c1::<div>Lösen des Roh-Bauxids in Natronlauge unter Druck- und Temperaturerhöhung:<br></div><div><img src=\"paste-bdcd6a84b0b0e259d45df4538a8af4fc152c92bc.jpg\"><br></div><div>Ausfällen von Aluminumhydroxid unter Druck- und Temperaturverringerung:<br></div><div><img src=\"paste-3d886c45505567fcf9181e226693ce127bbcb9eb.jpg\"><br></div><div>Brennen des Aluminiumhydroxids zu Aluminumoxid (Reinbauxid) bei hoher Temp.:</div><div><img src=\"paste-66593b16a41c9020c8dccf97a449c4c6543b59b8.jpg\"></div>}}<br></div><div>Schmelzhydrolyse:<br></div><div>{{c2::Hydrolyse mit Salzschmelze als Elektrolyt\nGraphitanode wird in die Schmelze getaucht\nBodenplatte bildet die Kanode\nflüssiges Aluminium wird vom Boden abgesaugt}}<br></div>",
+                                "<img src=\"paste-bc01350eaabd90109adbf7fc180e3965dcbeca6c.jpg\">"
+                            ],
+                            "guid": "AHJo&NmP0m",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+<<<<<<< HEAD
+                                "AC::HG0"
+=======
+                                "AC::HG3"
+>>>>>>> main
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Weshalb lassen sich eloxierte Oberflächen sehr gut einfärben?<br></div><div>{{c1::Bei der Oxidation des Aluminiums bilden sich Poren in der Aluminiumoxidschicht in die\ngut Farbstoffe eingelagert werden können}}<br></div>",
+                                ""
+                            ],
+                            "guid": "D6dQmb~~E:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+<<<<<<< HEAD
+                                "AC::HG0"
+=======
+                                "AC::HG3"
+>>>>>>> main
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-1",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-1-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
+                            ],
+<<<<<<< HEAD
                             "guid": "so}&q%E4w(",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "o^U,nV#+W~",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "226b420da6634d3db3482abfd576a33f-oa-2",
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-2",
                                 "",
-                                "<img src=\"tmpg0myuyxf.png\" />",
-                                "<img src=\"226b420da6634d3db3482abfd576a33f-oa-2-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-2-Q.svg\" />",
                                 "",
                                 "",
                                 "",
+                                "",
+                                "",
+<<<<<<< HEAD
                                 "<img src=\"226b420da6634d3db3482abfd576a33f-oa-2-A.svg\" />",
                                 "<img src=\"226b420da6634d3db3482abfd576a33f-oa-O.svg\" />"
                             ],
@@ -1109,194 +1826,285 @@
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-2-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
+                            ],
+                            "guid": "b+%!10ugkD",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Arten von Wasserstoffbrückenbindungen gibt es und welchen Einfluss haben sie auf das physikalische Verhalten chemischer Verbindungen?<br><div>{{c1::<div>Asymmetrische Wasserstoffbrückenbindungen:<br>- A · · H · · · B<br>- Das Proton befindet sich näher an A als an B<br>- A stellt den Protonendonator dar<br>- B ist der Protonenakzeptor<br>- A und B sind stark elektronegatievere Elemente als Wasserstoff<br>- A und B weisen eine unterschiedlich starke Nukleophilie auf wodurch die Asymmetrie zu Stande kommt (Es kann sich bei unterschiedlicher Substitution trotzdem um das gleiche Element handeln)</div><div></div>}}<br></div><div><br></div><div>{{c2::<div>Symmetrischen Wasserstoffbrückenbindungen:<br>- A · · H · · A<br>- Proton befindet sich in der Mitte</div>}}<br></div>",
-                                "Bei Flüssigkeit bei denen es zur Ausprägung von Wasserstoffbrückenbindungen unter den Molekülen kommt ist eine viel höherer Siedepunkt zu beobachten als es anhand der Siepunkte der entsprechend anderen Hydride der jeweiligen Hauptgruppen zu erwarten wäre.<div><img src=\"paste-2037d374c69213f3cf1d7b957f7a3ce83de6e84d.jpg\"><br></div>"
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-3",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-3-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "zx|(/SHd_3",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "dgRp8]mb=y",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie funktioniert eine Brennstoffzelle?<div>{{c1::Eine Brennstoffelle ist im Prinzip eine galvanische Zelle. Sie besteht aus zwei durch eine Membran getrennte Kammern die mit einer sauren wässrigen Lösung gefüllt sind. In diese Kammern sind mit einem Katalysator (Pt) beschichtete Elektroden eingelassen. In eine Kammer wird Wasserstoff gepumpt und in die andere Sauerstoff. Der molekulare Wasserstoff gibt an der Elektrode (Anode) seine zwei Elektronen ab und zerfällt zu zwei H+. Da die Membran die die Kammern voneinander trennt durchlässig für H+ ist diffundieren diese in die andere Kammer. Dort werden Elektronen von der Elektrode (Kathode) auf den molekularen Sauerstoff übertragen. Dieser zerfällt dadurch zu 2 O2-. Die Oxidionen verbinden sich anschließend mit den Protonen zu Wasser. Durch den Elektronenüberschuss an der Anode zum einen und dem Elektronenmangel an der Kathode entsteht eine Spannung von bis zu 1,23V zwischen den Elektroden.}}<br></div>",
-                                "<img src=\"paste-58dd6b33a3d57bfad7be2f77b30c30529f6a91ae.jpg\">"
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-4",
+                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-4-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "zNZaG&rJf1",
                             "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "wtz8:Ggid4",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "c2de2549a5054db6b261ef76476a9893-ao-1",
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-5",
                                 "",
-                                "<img src=\"tmph5mznfua.png\" />",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-1-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-5-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-1-A.svg\" />",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-5-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "D^s!@{*>c0",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "faA][HTAul",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "c2de2549a5054db6b261ef76476a9893-ao-2",
+                                "e7dc7b9b3b314956ba84d919f0a842e4-ao-6",
                                 "",
-                                "<img src=\"tmph5mznfua.png\" />",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-2-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-6-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-2-A.svg\" />",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-6-A.svg\" />",
+                                "<img src=\"e7dc7b9b3b314956ba84d919f0a842e4-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "uXw*x`>n9)",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "IXUS<H|._h",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "c2de2549a5054db6b261ef76476a9893-ao-3",
+                                "de794acb54154295a1c019e332a3531f-ao-1",
                                 "",
-                                "<img src=\"tmph5mznfua.png\" />",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-3-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-1-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-3-A.svg\" />",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-1-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "vU.TkzXINT",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "bl*vJsSXak",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "c2de2549a5054db6b261ef76476a9893-ao-4",
+                                "de794acb54154295a1c019e332a3531f-ao-2",
                                 "",
-                                "<img src=\"tmph5mznfua.png\" />",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-4-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-2-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-4-A.svg\" />",
-                                "<img src=\"c2de2549a5054db6b261ef76476a9893-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-2-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "pJUrE(`Q7g",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "c4{EmBs6eZ",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ed186e979bbd4ba98bc9244885624f27-ao-1",
+                                "de794acb54154295a1c019e332a3531f-ao-3",
                                 "",
-                                "<img src=\"tmph5mznfua.png\" />",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-1-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-3-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-1-A.svg\" />",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-3-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "vmhmSzZt7?",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "PC$M3n]G~r",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ed186e979bbd4ba98bc9244885624f27-ao-2",
+                                "de794acb54154295a1c019e332a3531f-ao-4",
                                 "",
-                                "<img src=\"tmph5mznfua.png\" />",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-2-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-4-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-2-A.svg\" />",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-4-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "w*pz+#q!}_",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "x}=5L:DH~2",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ed186e979bbd4ba98bc9244885624f27-ao-3",
+                                "de794acb54154295a1c019e332a3531f-ao-5",
                                 "",
-                                "<img src=\"tmph5mznfua.png\" />",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-3-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-5-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-3-A.svg\" />",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-5-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "lj?2uSl2a,",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
                                 "AC::HG0"
+=======
+                            "guid": "xp.}f*ZP)A",
+                            "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                            "tags": [
+                                "AC::HG3"
+>>>>>>> main
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ed186e979bbd4ba98bc9244885624f27-ao-4",
+                                "de794acb54154295a1c019e332a3531f-ao-6",
                                 "",
-                                "<img src=\"tmph5mznfua.png\" />",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-4-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"tmpjzrk1fdg.png\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-6-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-4-A.svg\" />",
-                                "<img src=\"ed186e979bbd4ba98bc9244885624f27-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-6-A.svg\" />",
+                                "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
                             ],
+<<<<<<< HEAD
                             "guid": "h}k&dR.2<]",
                             "note_model_uuid": "d95a9ec1-fb62-11eb-b8e9-448a5b8ef3a7",
                             "tags": [
@@ -1645,6 +2453,8 @@
                                 "<img src=\"de794acb54154295a1c019e332a3531f-ao-6-A.svg\" />",
                                 "<img src=\"de794acb54154295a1c019e332a3531f-ao-O.svg\" />"
                             ],
+=======
+>>>>>>> main
                             "guid": "z/@pp@,7C7",
                             "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
                             "tags": [
@@ -9715,20 +10525,20 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
-                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
+                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
+                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
                     ],
-                    "guid": "F>v-@=id2}",
+                    "guid": "x/,N,!rndE",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
-                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
+                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
+                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
                     ],
-                    "guid": "x/,N,!rndE",
+                    "guid": "F>v-@=id2}",
                     "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
                     "tags": []
                 },
