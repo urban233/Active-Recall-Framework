@@ -338,10 +338,12 @@
                         "f84e3cb732e54ccb86eec64a65832c10-ao-4-A.svg",
                         "f84e3cb732e54ccb86eec64a65832c10-ao-4-Q.svg",
                         "f84e3cb732e54ccb86eec64a65832c10-ao-O.svg",
+                        "paste-102c3ad7560e5973fa86dd2da4020f33491d93ae.jpg",
                         "paste-1d9224fd5bb05b7ce36b62528f2c1db36f17822f.jpg",
                         "paste-1da192049f084243b03701a53e8450955fed6292.jpg",
                         "paste-2037d374c69213f3cf1d7b957f7a3ce83de6e84d.jpg",
                         "paste-20a9b362244546f513d09020a469a2801521090c.jpg",
+                        "paste-2ff78259d869ef4da5124eab19ffc9f5de36483f.jpg",
                         "paste-3212ed170dde3ad36be1d516c8335f63a08b4b9e.jpg",
                         "paste-3b3a0529e2f9412065572c8b6ac7a11469bf60fd.jpg",
                         "paste-3d886c45505567fcf9181e226693ce127bbcb9eb.jpg",
@@ -349,12 +351,16 @@
                         "paste-4aa00b16625db5f7a1d0ab3781367c1e127b4b03.jpg",
                         "paste-58dd6b33a3d57bfad7be2f77b30c30529f6a91ae.jpg",
                         "paste-66593b16a41c9020c8dccf97a449c4c6543b59b8.jpg",
+                        "paste-7f81607e3b6f6a7cd761967c9cee29e3b208cb0e.jpg",
+                        "paste-8b58d3d9af37e6984e58586de5ceceef1a09e2bc.jpg",
+                        "paste-8d638f09b8f0368fb7841ad44eec478dc1795cce.jpg",
                         "paste-b60f2f5d1e5945c8db414db8d5ef0da1b176165d.jpg",
                         "paste-b74663c52a09f7eff8dcf7dd6efe60920ba373db.jpg",
                         "paste-bc01350eaabd90109adbf7fc180e3965dcbeca6c.jpg",
                         "paste-bdcd6a84b0b0e259d45df4538a8af4fc152c92bc.jpg",
                         "paste-bffee3cdb63f9a77c4f24da0b2a721056bda2f6e.jpg",
                         "paste-e39c868bf62e957e02ba01c9e2ae1e58b2045653.jpg",
+                        "paste-e663c41fd21d9532a33fe3b57b875ec6b2487c7a.jpg",
                         "tmp0whlizv0.png",
                         "tmp1i214lwv.png",
                         "tmp602ddc_7.png",
@@ -372,7 +378,7 @@
                         "tmpvrm_lh71.png",
                         "tmpyvityaep.png"
                     ],
-                    "mid": 1628685881146,
+                    "mid": 1604391419185,
                     "name": "AC",
                     "notes": [
                         {
@@ -4285,6 +4291,330 @@
                             "note_model_uuid": "53985ec9-f929-11eb-92e6-bce92fbdc71d",
                             "tags": [
                                 "AC::HG5"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Form kommen die Nebengruppenelemente in der Natur vor?<div><br></div><div>Nebengruppe 1: Münzmetalle&nbsp;</div><div>- {{c19::Kupfer Cu:&nbsp;}}</div><div>{{c1::<div>Kupferkies \\(Cu^I\\space Fe^{III}\\space S_2\\)&nbsp;</div><div>Kupferglanz \\(Cu_2S\\)&nbsp;</div><div>gediegen&nbsp;</div>}}<br></div><div>- {{c19::Silber Ag:&nbsp;}}</div>{{c2::<div>Silberglanz \\(Ag_2S\\)</div><div>im Pyrit \\(FeS_2\\)&nbsp;</div><div>gediegen</div><div>}}&nbsp;<br></div><div>- {{c19::Gold Au:&nbsp;}}</div><div>{{c3::gediegen}}&nbsp;</div><div><br></div><div>Nebengruppe 2: Zinktriade&nbsp;</div><div>- {{c20::Zink Zn:}}&nbsp;</div><div>{{c4::Zinkblende \\(ZnS\\)}}&nbsp;</div><div>- {{c20::Cadmium Cd:&nbsp;}}</div><div>{{c5::in Zinkblende \\(ZnS\\)}}&nbsp;</div><div>- {{c20::Quecksilber Hg:&nbsp;}}</div>{{c6::<div>Zinnober \\(HgS\\)&nbsp;</div><div>selten auch gediegen</div><div>}}&nbsp;<br></div><div><br></div><div>Nebengruppe 4:&nbsp;</div><div>- {{c21::Titan Ti:&nbsp;}}</div><div>{{c7::<div>Ilmenit \\(FeTiO_3\\)&nbsp;</div><div>Rutil \\(TiO_2\\)&nbsp;</div>}}<br></div><div>- {{c21::Zirkonium Zr:&nbsp;}}</div><div>{{c8::<div>Zirkon \\(ZrSiO_4\\)&nbsp;</div><div>Baddeleyit \\(ZrO_2\\)&nbsp;</div>}}<br></div><div>- {{c21::Hafnium Hf:&nbsp;}}</div><div>{{c9::Begleiter des Zirkoniums}}&nbsp;</div><div><br></div><div>Nebengruppe 5:&nbsp;</div><div>- {{c22::Vanadium V:}}&nbsp;</div>{{c10::<div>Patronit \\(V(S_2)_2\\)&nbsp;</div><div>im Erdöl&nbsp;</div><div>als Begleiter von Eisen in niederen Tieren</div><div>}}&nbsp;<br></div><div>- {{c22::Niobium Nb:}}&nbsp;</div><div>{{c11::Niobit (Kolumbit) (\\(Fe,Mn\\)) \\([Nb(Ta)O_3]_2\\)&nbsp;}}</div><div>- {{c22::Tantal Ta:&nbsp;}}</div><div>{{c12::Tantalit (\\(Fe, Mn\\)) \\([Ta(Nb)O_3]_2\\)}}</div><div><br></div><div>Nebengruppe 6:&nbsp;</div><div>- {{c23::Chrom Cr:}}&nbsp;</div>{{c13::<div>Chromit \\(FeCr_2O_4\\)&nbsp;</div><div>Krokoit \\(PbCrO_4\\)&nbsp;</div><div>Chromocker \\(Cr2O3\\)&nbsp;</div><div>im Smaragd und Rubin</div><div>}}&nbsp;<br></div><div>- {{c23::Molybdän Mo:}}&nbsp;</div>{{c14::<div>Molybdanit \\(MoS_2\\)&nbsp;</div><div>Wulfenit \\(PbMoO_4\\)&nbsp;</div><div>Powellit \\(Ca(Mo,W)O_4\\)</div><div>}}&nbsp;<br></div><div>- {{c23::Wolfram W:&nbsp;}}</div><div>{{c15::<div>Scheelit \\(CaWO_4\\)&nbsp;</div><div>Wolframit \\((Fe,Mn)WO_4\\)&nbsp;</div>}}<br></div><div><br></div><div>Nebengruppe 7:&nbsp;</div><div>- M{{c23::angan Mn:}}&nbsp;</div><div>{{c16::<div>Pyrolusit/Braunstein \\(MnO_2\\)&nbsp;</div><div>Hausmannit \\(Mn_3O_4\\)&nbsp;</div><div>Manganit \\(MnO(OH)\\)</div><div>Braunit \\(Mn_2O_3\\)&nbsp;</div><div>Manganspat \\(MnCO_3\\)&nbsp;</div><div>Manganosit \\(MnO\\)&nbsp;</div>}}<br></div><div>- {{c23::Technetikum Tc:}}&nbsp;</div><div>- {{c23::Rhenium Re:}}&nbsp;</div><div>{{c17::Begleiter des Mo z.B. in Molybdänit \\(MoS_2\\)}}</div><div><br></div><div>Rest:&nbsp;</div><div>{{c18::<div>meist miteinander vergesellschaftet&nbsp;</div><div>gediegen&nbsp;</div><div>miteinander legiert&nbsp;</div><div>auch chemisch gebunden in sulfidischen Fe-, Cr-, Ni, Cu-Erzen&nbsp;</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "EgU``#aK+t",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was unterscheidet die Nebengruppenelemente von den bisher besprochenen\nHauptgruppenelementen im Aufbau und in den daraus resultierenden physikalischchemischen Eigenschaften?<div><br></div><div>Unterschied:&nbsp;</div><div>- {{c1::Besetzung der d- und f-Orbitale}}&nbsp;</div><div><br></div><div>- {{c1::Leicht anregbare d-Elektronen -&gt; Emissionsspektren sind Bandenspektren&nbsp;}}</div><div>- {{c1::Das Ansteigen der Kernladung führt von der\nGruppe Ia bis zur Gruppe VIIb zur Abnahme\nder Atomradien.\nAnschließend verursacht die\nLadungsabstoßung zwischen den in den d Orbitalen gepaarten Elektronen bis zur\nGruppe IIIa eine leichte Zunahme der\nRadien}}&nbsp;</div><div><br></div><div>- {{c1::Elemente einer Nebengruppe weisen\nteilweise so hohe Ähnlichkeit auf, dass sie nur schwer voneinander unterschieden\nwerden können z.B. Niob und Tantal\n- Härte und Schmelzpunkte der Übergangselemente steigen mit der Zahl der\nungepaarten Elektronen in den d-Orbitalen.\nWenn die ungepaarten Elektronen mit hinzukommenden Elektronen gepaart\nwerden, stehen sie für die metallische Bindung nicht mehr zur Verfügung\n-&gt; Schmelzpunkt sinkt}}<br></div><div><br></div><div>- {{c1::Die Stabilität der höheren Oxidationsstufen nimmt innerhalb einer Nebengruppe von oben\nnach unten zu (Unterschied zur HG!)}}&nbsp;</div><div><br></div><div>Ursache:&nbsp;</div><div>{{c3::d-AO sind mit wachsender Atomgröße für Bindungen leichter verfügbar}}&nbsp;</div><div><br></div><div>- {{c1::s-Elektronen werden am leichtesten abgeben -&gt; OZ +1 und +2\n- durch Abgabe von d-Elektronen auch höhere OZ möglich&nbsp;}}</div><div><br></div><div>- {{c1::Die Übergangsmetalle der 4. Periode bevorzugen niedrige OZ\nUrsache: kleinere Atome und damit höhere WW mit Elektronen}}&nbsp;</div><div><br></div><div>- {{c1::Die Übergangsmetalle der 5. und 6. Periode kommen auch in höheren OZ vor}}&nbsp;</div><div><br></div><div>- {{c1::Elemente in niedrigeren OZ mehr metallische und ihre Verbindungen ionisch\n- Elemente in höheren OZ mehr kovalent}}<br></div>",
+                                "<img src=\"paste-e663c41fd21d9532a33fe3b57b875ec6b2487c7a.jpg\"><div><img src=\"paste-8b58d3d9af37e6984e58586de5ceceef1a09e2bc.jpg\"><br></div>"
+                            ],
+                            "guid": "rupqwX;t^q",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die besonderen Eigenschaften der Elemente der Nebengruppe Ib.<div>Kupfer, Silber, Gold<br></div><div><br></div><div><br></div><div>{{c1::<div>• glänzend rötliche Farbe&nbsp;</div><div>• gute Wärmeleitfähigkeit:&nbsp;</div><div>• gute elektrische Leitfähigkeit&nbsp;</div><div>• spröde, bei 100-150°C weich und dehnbar&nbsp;</div><div>• bildet Patina&nbsp;</div><div>• toxisch für Mikroorganismen&nbsp;</div><div>• weich&nbsp;</div>::Cu: }}</div><div><br></div><div><br></div><div>{{c2::<div>• hell glänzend, „silbrig“&nbsp;</div><div>• beste Wärmeleitfähigkeit&nbsp;</div><div>• beste elektrische Leitfähigkeit&nbsp;</div><div>• toxisch für Mikroorganismen&nbsp;</div>::Ag: }}</div><div><br></div><div><br></div><div>{{c3::<div>• glänzend gelb&nbsp;</div><div>• weich&nbsp;</div><div>• gute Wärmeleitfähigkeit&nbsp;</div><div>• gute elektrische Leitfähigkeit</div>::Au: }}</div><div><br></div><div>{{c4::<div>Die Münzmetalle (Cu, Ag, Au) sind ungewöhnlich gute Stromleiter\nVEK \\(d^{10}s^1\\) (nicht wie erwartet \\(d^9s^2\\))&nbsp;</div><div>Grund:&nbsp;</div><div>besondere Stabilität vollständig und halb gefüllter d-Orbitale -&gt; 1 s-Elektron\nzur Auffüllung des letzten d-Orbitals genutzt\nhalb leere s-Orbitale erleichtern die Bewegung der s-Elektronen durch das feste\nMetall\n- Diese Ursache macht die Münzmetalle zu guten Lichtreflektoren und Wärmeleitern\nAbsorption und Wiederausstrahlung bei gleicher Wellenlänge</div>::Gemeinsamkeiten}}<br></div>",
+                                ""
+                            ],
+                            "guid": "qxfzU[4Q^9",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist „Patina“ und wozu wird „Schweizer Reagens“ genutzt?<div><br></div><div>{{c1::Eine Patina ist eine durch natürliche oder künstliche Alterung entstandene Oberfläche.\nBei Kupfer handelt es sich dabei um \\(Cu_2(OH)_2CO_3\\) oder \\(Cu(OH)_2SO_4\\).\nHeute besteht die natürliche Patina vorwiegend aus in Schichtgittern (Brucit-Typ) kristallisierten\nbasischen Salzen. Zu diesen gehören das basische Kupfersulfat, jedoch weniger -carbonat und -\nchlorid. Sie entsteht allmählich an der Atmosphäre unter der Einwirkung von Stoffen (\\(CO_2\\), \\(SO_2\\) und dergleichen, in Meeresnähe auch Chloriden), die neben Wasserdampf in der Luft enthalten\nsind.::Patina}}</div><div><br></div><div>Die Patina herstellen:&nbsp;</div><div>{{c2::<div>Hierzu gibt es unterschiedliche Verfahren.\nMan kann Kupfer:&nbsp;</div><div>• zusammen mit einer Schale mit Salzsäure und Marmor (Kohlendioxid-Entwicklung) längere\nZeit unter eine Glasglocke stellen.&nbsp;</div><div>• abwechselnd zwölf Stunden lang in zehnprozentige Ammoniumsulfatlösung tauchen und an\nder Luft trocknen lassen.&nbsp;</div><div>• mit einer Lösung, die 13 Gramm Salmiak und 6 Gramm Kleesalz auf einen Liter Wasser\nenthält, bestreichen.&nbsp;</div><div>• mit einer Lösung aus Schwefelleber (Kaliumpolysulfid) in Wasser bestreichen. Es bildet sich\nschwarzes Kupfersulfid.</div>::Patina herstellen}}</div><div><br></div><div>{{c3::Schweizer Reagenz enthält \\([Cu(NH_3)_4]^{2+}\\) und gelöste Zellulose. Durch Ansäuerung bilden sich\nspinnfähige Moleküle aus denen Kupferseide hergestellt werden kann.::Schweizer Reagenz}}</div>",
+                                ""
+                            ],
+                            "guid": "Ml_h,4I/$/",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die Darstellung von Silber nach dem „Parkes Verfahren“ sowie durch\nCyanidlaugerei.<div><br></div><div><br></div><div>{{c1::Extraktion des Ag mit Zn aus geschmolzenem silberhaltigen Bleierz\nFlüssiges Zink ist leichter als flüssiges Blei und mit diesem nicht mischbar. Silber ist im\nZink deutlich besser löslich als im Blei und geht deshalb in die Zink-Phase über. Beim\nAbkühlen erstarrt zunächst die obere Phase, so dass eine Trennung der beiden Phasen\nleicht möglich ist. Das Blei ist sehr rein. Aus der Zink-Phase wird anschließend noch\nSilber gewonnen, indem Zink abdestilliert wird.::Parkes Verfahren: }}</div><div><br></div><div><br></div><div>{{c2::Zuerst Anreicherung der silberhaltigen Erze durch Flotation nötig (0,1% -&gt; 25% Ag).\nDanach wird die Suspension mit Cyanid-Ionen versetzt und Sauerstoff eingeblasen. Bei\nder Zugabe von Zink fällt das Silber aus.::Cyanidlaugerei: }}</div>",
+                                "<img src=\"paste-8d638f09b8f0368fb7841ad44eec478dc1795cce.jpg\"><div><br></div><div><img src=\"paste-2ff78259d869ef4da5124eab19ffc9f5de36483f.jpg\"><br></div>"
+                            ],
+                            "guid": "Nu#k{|^Lw{",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wodurch ergibt sich die 3-fache antimikrobielle Wirkung von Silberionen?<div><br></div><div>{{c1::<div>- Verringerung der Anheftung von Mikroben -&gt; weniger Kolonien, schlechtere\nWachstumsbedingungen&nbsp;</div><div>- Störung des Zellstoffwechsels durch Austausch von \\(K^+\\) -&gt; Beeinträchtigung der\nLebensfähigkeit der Bakterien&nbsp;</div><div>- Irreversible Reaktion mit schwefelhaltigen Aminosäuren -&gt;&nbsp;Zerstörung der Proteine\nund auch der DNA/RNA</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "tqj;vDO%s.",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie hoch sind die toxischen Konzentrationen von Silberionen für Bakterien bzw. für\nden Menschen?<div>Bakterien: {{c1::\\(2 ∙ 10^{−9}\\space g/L\\)&nbsp;}}</div><div>Menschen: {{c1::\\(1 ∙ 10^{−2}\\space g/L\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "s0<;01PTc!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die abweichenden Eigenschaften der Elemente der Nebengruppe IIb.\nZink, Cadmium, Quecksilber<div><br></div><div>Zinktriade:&nbsp;</div><div>{{c1::<div>VEK \\(d^{10}s^2\\) (alle s- und d- Orbitale gefüllt)&nbsp;</div><div>-&gt; reduziert die Beweglichkeit der Elektronen zwischen den Atomen&nbsp;</div><div>-&gt; vermindert die elektrische und thermische Leitfähigkeit&nbsp;</div><div>-&gt; WW zwischen den Atomen gering, da alle äußeren Elektronen gepaart sind</div>}}<br></div><div><br></div><div>{{c2::Zn und Cd an der Luft beständig. Zink, Cadmium und Quecksilber sind im Gegensatz zu den\nanderen d- und f-Elementen weich und haben niedrige Schmelzpunkte.::Allgemeines}}<br></div><div><br></div><div>Zn:&nbsp;</div><div>{{c3::<div>• bläulich-weißes Metall&nbsp;</div><div>• bei RT und &gt;200°C spröde&nbsp;</div><div>• bei 100-150°C weich und dehnbar&nbsp;</div><div>• bildet eine Art hexagonaldichtester Kugelpackung&nbsp;</div>}}<br></div><div><br></div><div>Cd:&nbsp;</div>{{c4::<div>• silberweißes, weiches Metall&nbsp;</div><div>• mp = 320,9 °C, kp = 767,3°C</div><div>}}&nbsp;<br></div><div><br></div><div>Hg:&nbsp;</div><div>{{c5::<div>• bei RT flüssig&nbsp;</div><div>• erstarrt bei -38,84°C&nbsp;</div><div>• kp = 356,6°C&nbsp;</div><div>• silberglänzendes Metall</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "g:&ao!sV>j",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum ist eine Verzinkung als Korrosionsschutz für Stahl geeignet?<div><br></div><div>{{c1::Zink wird als ca. 0,2 mm dicke Schicht auf dem Werkstück per Feuerverzinkung\naufgetragen. Dabei haftet das Zink als Legierung an dem Stahl. Die äussere Schicht der\nZinkbeschichtung korrodiert zu Zinkoxid. Die Zinkoxidschicht wird nur sehr langsam\nabgetragen. Da das Zink unedler ist als das Eisen im Stahl wird es immer zuerst oxidiert}}<br></div>",
+                                "<img src=\"paste-102c3ad7560e5973fa86dd2da4020f33491d93ae.jpg\">"
+                            ],
+                            "guid": "q`QL.cRf@c",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum ist „Kalomel“ schwarz und was ist „Sublimat“?<div><br></div><div>{{c1::Kalomel=(Quecksilber(I)-chlorid). Der Begriff Kalomel-Schwarz stammt aus dem\ngriechischen und bedeutet „schön schwarz“. Im Licht verfärbt es sich allmählich dunkel\nbis schwarz (daher der Name Kalomel), weil es unter Disproportionierung zu\nelementarem Quecksilber und Quecksilber(II)-chlorid zerfällt. pH-Elektroden mit\nQuecksilber/Quecksilberchlorid bezeichnet man als Kalomelelektrode.::Kalomel}}</div><div><br></div><div>{{c2::Sublimat ist ein Begriff für Quecksilber(II)-chlorid welches diesen Namen seiner hohen\nFlüchtigkeit (beim Erhitzen) verdankt -&gt; Siedepunkt bei 302°C kann kaum beobachtet\nwerden. Ausserdem wirkt es als Enzymgift::Sublimat&nbsp;}}</div>",
+                                ""
+                            ],
+                            "guid": "ePLW:Iu>ss",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Quecksilberverbindungen sind thermochrom und welche Farben haben sie?<div><br></div><div>{{c1::<div>Quecklsilber(II)iodid-Verbindungen sind Thermochrom. Bei bestimmten Temperaturen\nweisen sie unterschiedliche Farben auf:</div><div>\\(HgI_2\\) bei RT -&gt; rot&nbsp;</div><div>\\(HgI_2\\) bei 129°C -&gt; gelb&nbsp;</div><div><br></div><div>In Verbindung mit anderen Metallen wie Silber und Kupfer bilden Quecksilberiodide bei\nbestimmten Temperaturen andere Farben.</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "paDBsb<ogX",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird „Nesslers Reagenz“ hergestellt und welche Anwendung findet es (RG\nangeben)?<div><br></div><div>1) {{c1::\\(HgCl_2 + KI \\rightarrow HgI_2 + 2 KCl\\) Quecksilberiodid fällt als roter Niederschlag aus&nbsp;}}</div><div><br></div><div>2) {{c2::\\(HgI_2 + l^- \\rightarrow HgI_4^{2-} Mit Iodidionen bildet sich lösliches Quecksilbertetraiodid&nbsp;}}</div><div><br></div><div>3) {{c3::\\(HgI_4^{2-} + NaOH \\rightarrow Na_2HgI_4\\) Mit Natrium bildet Quecksilbertetraiodid Nesslers Reagenz.}}</div><div><br></div><div>{{c4::<div>Verwendet wird es für den Ammoniak-Nachweis.&nbsp;</div><div>\\(2 [HgI_4^{2-}]+ NH_3 + 3 OH^- \\rightarrow 2 [Hg2N]I * H_2O + 7 I^- + 2 H_2O\\) Bei Anwesenheit von Ammoniak bildet sich ein brauner Komplex.</div>::Verwendung + Reaktionsgleichung}}<br></div>",
+                                ""
+                            ],
+                            "guid": "MQE>Dz8{,z",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Nach welchen grundlegenden Methoden werden Metalle gewonnen?\nBitte jeweils 1 Beispiel mit RG angeben<br></div><div><br></div><div>{{c1::<div>Reduktion (direkte Reduktion im Hochofenprozess):&nbsp;</div><div>\\(FeO + CO \\rightarrow Fe + CO_2\\)</div>}}<br></div><div><br></div><div>{{c2::<div>Elektrolyse(Schmelzflusselektrolyse):&nbsp;</div><div>Al_2O_3 \\rightarrow 2 Al und \\frac{3}{2} O_2\\)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "f:}V]2TTgA",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nach welchem Verfahren kann Ni dargestellt werden?\nBitte geben Sie die entsprechenden Reaktionsgleichungen an.<div><br></div><div>{{c1::<div>Mond-Prozess:&nbsp;</div><div>Ni + 4 CO \\rightarrow Ni(CO)_4 \\space \\space \\text{T}= 80°C&nbsp;</div><div>Ni(CO)_4 \\rightarrow Ni + 4 CO \\space \\space \\text{T}= 180°C</div>...-Prozess}}<br></div>",
+                                ""
+                            ],
+                            "guid": "lw<P.3E6h=",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie technische Anwendungsbeispiele für den Einsatz wichtiger Verbindungen\nder Nebengruppenelemente.<div>{{c1::<div>Katalysatoren (Oxide)&nbsp;</div><div>Konsturktionsmaterial (Stähle)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Kh;$=6a28&",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie technische Anwendungsbeispiele für den Einsatz der\nNebengruppenmetalle.&nbsp;<div>{{c1::<div>• Konstruktionsmaterial (Kupfer)&nbsp;</div><div>• Elektrische Leitungen&nbsp;</div><div>• Katalysatoren&nbsp;</div><div>• Wärmeleiter (Platin in Thermoelementen)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "E*|qb.H6kT",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nimmt innerhalb einer Nebengruppe die Stabilität der höheren Oxidationsstufen von\noben nach unten zu oder ab?\nVergleichen Sie Ihre Aussage mit der Stabilität der Oxidationsstufen bei den\nHauptgruppenelementen.<div>{{c1::<div>Mit wachsendem Atomradius und somit einer höheren Abschirmung der s-Orbitale steigt die\nStabilität der höheren Oxidationstufen.&nbsp;</div><div>::Frage 1}}</div>{{c2::<div>Bei den Hauptgruppenelementen nimmt die Stabilität der höheren Oxidationsstufen von oben\nnach unten ab. Dies liegt daran, dass bei den Hauptgruppenelementen der inert-pair-effect\nauftritt, bei den Nebengruppenelementen jedoch nicht.</div><div>::Frage 2}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "O&F1|.}&I4",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Geben Sie die Elektronenkonfigurationen der folgenden Ionen an: <b>\\(</b>Ti^{4+},\\space Ti^{3+},\\space Hf^{4+}\\)<div><br></div><div>{{c1::<div>\\(Ti^{4+}\\space [Ar]\\space 3d^0\\space 4s^0\\)&nbsp;</div><div>\\(Ti^{3+}\\space [Ar]\\space 3d^0\\space 4s^1\\)&nbsp;</div><div>\\(Hf^{4+}\\space [Ar]\\space 4f^{14}\\space 5d^0 6s^0\\)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "C%Eyjwxh-+",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was versteht man unter der Lanthanoidenkontraktion und welche Auswirkungen hat\nsie auf Struktur und Eigenschaften der Elemente?<div><br></div><div>{{c1::In den f-Orbitale der Lanthanoide und der Actinoide sind die Elektronen weniger\nlokalisiert als in s,p oder d-Orbitalen. Die hat zur Folge, dass die steigende\nKernladungszahl immer schlechter abgeschirmt wird und die aussen liegenden s- und\nd-Orbitale stärker angezogen werden. Somit verkleinern sich die Atom- und\nIonenradien der Lanthanoide (Elemente der 6. Periode haben ähnliche Größe und\nEigenschaften wie die der 5ten Periode). Auch bei den Actinoiden wird ein solch\naperiodischer Effekt beobachtet.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "eun2}p7Tfz",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche gemeinsamen Eigenschaften zeichnen die Elemente der IV. Nebengruppe aus?<div><br></div><div>{{c1::Alle drei Metalle weisen eine hexagonal dichteste Kugelpackung (hcp) auf. Sie sind\nzwar ziemlich elektropositiv, aber in kompakter Form sehr Korrosionsbeständig, was\nauf die Passivierung der Metalloberfläche durch eine Oxidschutzhaut zurückzuführen\nist. Titan wird bei Raumtemperatur weder von Basen noch von Mineralsäuren\nangegriffen.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "nehS|V0bT2",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie wichtige Titanmineralien.<br><div>{{c1::<div>Rutil \\(TiO_2\\)&nbsp;</div><div>Ilmenit \\(FeTiO_3\\)&nbsp;</div><div>Titanit \\(CaTiO[SiO_4]\\)&nbsp;</div><div>Perowski \\(CaTiO_3\\)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "fyPTzLxP7Y",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erläutern Sie die Darstellung von Titan im Labor.<div>{{c1::<div>Verfahren nach van Arkel und de Boer:&nbsp;</div><div>\\(TiI_4 \\rightarrow Ti + 2 I_2\\)&nbsp;</div><div>T=1200°C</div>::Verfahren nach ... + Reaktionsgleichung}}<br></div>",
+                                ""
+                            ],
+                            "guid": "dtr3ApJHOv",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diskutieren Sie die großtechnische Gewinnung von Titan, ausgehend vom Rutil und\nIlmenit nach dem KROLL-Verfahren.<div><br></div><div>{{c1::Um aus dem Ilmenit(\\(FeTiO_3\\)) Rutil (\\(TiO_2\\)) herzustellen, wird im Lichtbogen mit\nKohlenstoff reduziert. Das flüssige Eisen sammelt sich am Boden und wird von Zeit\nzu Zeit abgestochen.::Beschreibung}}<br></div><div><br></div><div>{{c2::<div>1) \\(FeTiO_3 + C \\rightarrow Fe + TiO_2 + CO\\)&nbsp; T= Lichtbogen&nbsp;</div><div><br></div><div>2) \\(TiO_2 + 2 C + 2 Cl_2 \\rightarrow&nbsp;TiCl_4 + 2 CO\\)&nbsp; T= 750-1000°C&nbsp;</div><div><br></div><div>3) \\(TiCl_4 + 2 Mg \\rightarrow&nbsp;2 MgCl_2 + Ti\\)&nbsp; T= 800-900°C</div>::Reaktionsgleichungen}}<br></div>",
+                                ""
+                            ],
+                            "guid": "x4lDA~5o[:",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erläutern Sie die Herstellung hochreinen Titans nach dem Verfahren von van\nARKEL/de BOER.<div><br></div><div>Verfahren nach van Arkel und de Boer:&nbsp;</div><div>1) {{c1::\\(Ti + 2 I_2 \\rightarrow TiI_4\\)&nbsp; T=600°C}}&nbsp;</div><div><br></div><div>2) {{c1::</div><div>\\(TiI_4 \\rightarrow Ti + 2 I_2\\)&nbsp; T=1200°C&nbsp;</div><div>Die Reaktion ist exotherm mit ΔH = −427 kJ/mol</div>}}<div><br></div><div>{{c2::<div>• Titan mit Iod am Boden eines evakuierten glockenförmigen Gefäßes bei einem auf\n0,1 – 20 Pa reduzierten Druck erhitzt. Reakionstemp. Etwa 800°C.&nbsp;</div><div>• Bei Hinreaktion bildet sich das gasförmige \\(TiI_4\\)&nbsp;</div><div>• Dieses gelangt durch Diffusion oder Konvektion an einen glühenden Wolframdraht,\nan dem es sich wieder zersetzt. Dabei scheidet sich in der Rückreaktion das reine\nMetall ab.&nbsp;</div><div>• Das freiwerdende Iod nimmt erneut Titan auf. Eventuell zuvor im Titan vorhandene\nVerunreinigungen verbleiben im Rückstand.</div>::Beschreibung}}<br></div>",
+                                "<img src=\"paste-7f81607e3b6f6a7cd761967c9cee29e3b208cb0e.jpg\">"
+                            ],
+                            "guid": "snw%*Ie29L",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Benennen Sie ausgehend von den Eigenschaften des Titans wichtige\nVerwendungsmöglichkeiten.<div>{{c1::Dank seiner hohen Festigkeit bei geringer Dichte, seiner Beständigkeit und seiner nicht-allergenen und\nbionierten Eigenschaft findet Titan oft Verwendung als Spezialwerkstoff für Chemie- und\nEnergieanlagenbau, in Luftfahrt-, Raketen- und Satellitentechnik, Schiffsbau, für medizinische Instrumente\nund Geräte, Endoproth esen, Dentaltechnik, Galvanotechnik. Titanstähle (mit weniger als 0,8 % Ti) sind\nsehr fest und elastisch. Ferrotitan enthält 10 bis 25 % Titan}}<br></div>",
+                                ""
+                            ],
+                            "guid": "b8ngC,F#J[",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie Eigenschaften und Verwendungen von Titandioxid.<div>Allgemeine Eigenschaften:&nbsp;</div><div>Summenformel {{c1::\\(TiO_2\\)&nbsp;}}</div><div>Molare Masse {{c1::79,90 g/mol&nbsp;}}</div><div>Schmelzpunkt {{c1::1855 °C}}&nbsp;</div><div>Siedepunkt {{c1::2900 °C}}&nbsp;</div><div>Dichte {{c1::4,24 g/mL}}<br></div><div>• {{c1::Oxid des Titans im Verhältnis 1:2}}&nbsp;</div><div>• {{c1::weißes, kristallines Pulver, thermisch stabil und beständig}}<br></div><div><br></div><div>Eigenschaften als Pigment:<br></div><div>{{c2::<div>• höchster Brechungsindex unter den Weißpigmenten, reinstweiße aller Pigmente&nbsp;</div><div>• höchsten Reflexionsgrad des auffallenden Lichts;, sehr hohe Deckkraft (in allen Bindemitteln)&nbsp;</div><div>• Ungiftig&nbsp;</div><div>• bindemittel-, pigment- sowie lichtecht&nbsp;</div><div>• preisgünstig</div>}}<br></div><div><br></div><div>Verwendung<br></div><div>{{c3::<div>• Künstlerfarben&nbsp;</div><div>• Anstrich- und Beschichtungsfarbe&nbsp;</div><div>• Färbemittel von Kunststoffen und Papier&nbsp;</div><div>• Farbgeber in Pharmazie-, Kosmetik- und Lebensmittelindustrie (Lebensmittelzusatzstoff)&nbsp;</div><div>• in Elektro-Industrie als Keramik-Dielektrikum in Klasse 1 Keramikkondensatoren&nbsp;</div><div>• in Farbstoffsolarzelle (Grätzel-Zelle)&nbsp;</div><div>• Veredelung von Fliesen und Putzen (schmutzabweisende Oberflächen) siehe Industrielle Verwendung&nbsp;</div><div>• \\(TiO_2\\) als Photokatalysator</div>}}<br></div><div><br></div><div>Spezielle Anwendung in der Industrie:<br></div><div>{{c4::<div>• selbstreinigende Wirkung&nbsp;</div><div>• flächig ablaufender Wasserfilm ohne Tropfen und Fleckenbildung&nbsp;</div><div>• Antimikrobieller Effekt&nbsp;</div><div>• Entgiftung schadstoffbelasteter Ab- und Grundwässer</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "kr)zn^N[c7",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erklären Sie die chemischen Reaktionen von Titandioxid mit organischen Substanzen\nbei UV-Bestrahlung.<div>{{c1::<div>Titandioxid wirkt photokatalytisch.&nbsp;</div><div>• UV-Licht Bestrahlung: an der Oberfläche adsorbierte organische Schadstoffe bzw.\nSchmutzpartikel können durch Redoxreaktionen zersetzt werden&nbsp;</div><div>• Titandioxid (TiO2) ist ein Halbleiter&nbsp;</div><div>• UV-Licht erzeugt im Titandioxidpigment \\(e^-\\) -Loch-Paare, wenn die Energie der Photonen &gt;\nBandlücke (verbotene Zone) ist&nbsp;</div><div>-&gt; Valenzelektronen werden ins LB angeregt und hinterlassen im VB eine unbesetzte und somit\npositive Valenzelektronenstelle&nbsp;</div><div>• anstossende Moleküle wie ( \\(H_2O\\)) und Gase (&nbsp;\\(CO_2\\)) werden durch dieses Elektronen-Paar-Loch\nüber Redoxrektionen in stark reaktive Stoffe wie Peroxide und Radikale umgewandelt&nbsp;</div><div>-&gt; reagieren wieder mit Luftschadstoffen und wandeln sie in weniger gefährliche um</div>}}<br></div><div>Bsp.:&nbsp;</div><div>{{c2::<div>\\(H_2O + H^+ \\rightarrow OH^- + H^+\\)&nbsp; (Oxidation)&nbsp;</div><div>\\(O_2 + 2 e^- \\rightarrow O^{2-}\\)&nbsp; (Reduktion)</div>}}<br></div><div><br></div><div>{{c3::Hydroxidradikale können organische Moleküle, Russ\n(Kohlenstoffnanopartikel), Farbstoffe vollständig zu \\(CO_2\\) und \\(H_2O\\) abbauen::Was kann abgebaut werden?}}<br></div>",
+                                ""
+                            ],
+                            "guid": "DN7N!9=M,2",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "AC::NG"
                             ]
                         }
                     ]
