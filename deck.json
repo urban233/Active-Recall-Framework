@@ -7261,6 +7261,7 @@
                         "58082b9f9c794fc29ef452ecb49b69b1-ao-9-A.svg",
                         "58082b9f9c794fc29ef452ecb49b69b1-ao-9-Q.svg",
                         "58082b9f9c794fc29ef452ecb49b69b1-ao-O.svg",
+                        "AndyWhatTheHeck.gif",
                         "Screenshot 2021-07-28 170636.jpg",
                         "Untitled-084afa68f3654968ccafcdfc18ffb733108cd77e.png",
                         "Untitled-0941efddc14a3026f601ea55aa40799b0a1e6293.png",
@@ -7516,7 +7517,7 @@
                         "paste-fec17b343a5eab347f70ab0469558436db203c58.jpg",
                         "tmpmv5qzcbz.png"
                     ],
-                    "mid": 1611488376664,
+                    "mid": 1604391419185,
                     "name": "Genetik",
                     "notes": [
                         {
@@ -11704,6 +11705,16 @@
                             "tags": [
                                 "Genetik::ZellteilungUndMendel"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wer streichelt sich über den Kopf?<div>{{c1::Der Andy}}</div>",
+                                "<img src=\"AndyWhatTheHeck.gif\">"
+                            ],
+                            "guid": "C@f*K{F_@A",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": []
                         }
                     ]
                 },
@@ -12553,6 +12564,90 @@
                             "tags": [
                                 "Physik::Gravitationsgesetz"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Arbeit berechnet werden, wenn ein Massepunkt mit einer konstanten Kraft entlang einer Geraden verschoben wird?<div>{{c1::\\(W=\\underline{F}\\cdot\\underline{s}\\)}}</div>",
+                                ""
+                            ],
+                            "guid": "FbF$Z.%,ci",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Arbeit"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Arbeit berechnet werden, wenn ein Massepunkt mit einer konstanten Kraft verschoben wird, wobei der Weg und die Kraft nicht mehr gleichgerichtet sind?<div>{{c1::<div>\\(W=\\underline{F}_s\\cdot\\underline{s}\\)</div><div>Wobei nur die&nbsp;zur Strecke parallel Kraftkomponente zu beachten wird!</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "rayRuAnD{n",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Arbeit"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Arbeit berechnet werden, wenn ein Massepunkt wird geradlinig verschoben wird, wobei die Richtung der Kraft konstant ist, aber nicht der Betrag?<div>{{c1::<div>Es werden viele kleine Summen gebildet, welche durch:</div><div>\\(W=\\int_{P_1}^{P_2}\\underline{F}_{s}d\\underline{s}\\)</div><div>ausgedrückt werden kann</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "m&uq@y*C{",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Arbeit"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Arbeit im allgemeinen Fall berechnet?<div>{{c1::<div>Über folgendes Linenintegral:</div><div>\\(W=\\oint_{P_1}^{P_2}\\underline{F}_s\\space d\\underline{s}\\)</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "hUE9OYtvBV",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Arbeit"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Einheit hat die Arbeit?<div>{{c1::\\(1\\space \\frac{\\text{kg}\\cdot \\text{m}^2}{\\text{s}^2}=1\\space \\text{Nm}=1\\space \\text{Ws}=1\\space \\text{J}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "K$?^ae-!mg",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Arbeit"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist Leistung?<div>{{c1::\\(P=\\frac{dW}{dt}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "xR[}h>g]0!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Arbeit"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welcher Einheit wird Leistung angegeben?<div>{{c1::\\(W\\) bzw. in \\(\\frac{\\text{Nm}}{\\text{s}}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "H6g[2~8s}n",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Arbeit"
+                            ]
                         }
                     ]
                 }
@@ -12696,9 +12791,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "AC::HG6"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
