@@ -11895,6 +11895,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "Untitled-0397b53fad7d8b346f9f0af91c747ecd6460bd46.png",
                         "Untitled-10db307cf4943371493bfa3c4b2b95f0e23c71f4.png",
                         "Untitled-11d0019b60437128c1c7379730c3390099b4182f.png",
                         "Untitled-19c2bd368f79be1083d6ca61223ac3b9705f2e54.png",
@@ -12648,6 +12649,462 @@
                             "tags": [
                                 "Physik::Arbeit"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Definition einer Welle?<div>{{c1::Eine zeitlich und räumlich periodische Veränderung einer physikalischen Größe heißt Welle. — A. Zielesny}}<br></div>",
+                                ""
+                            ],
+                            "guid": "sr2E_i+G!`",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Wellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Auslenkung für eine harmonische Schwingung am Ort x=0 berechnet werden?<div>{{c1::\\(\\xi(t)=\\xi_0\\cos(\\omega t+\\varphi)\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "s<Ag2rn,]O",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Wellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die Kreiswellenzahl definiert?<div>{{c1::\\(k=\\frac{2\\pi}{\\lambda}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "po`JQ!v-&*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Wellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Funktion&nbsp;der Auslenkung in Abhängigkeit der Zeit und des Ortes?<div>{{c1::\\(\\xi(t,x)=\\xi_0\\cos(\\omega t -kx+\\varphi)\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "G:xX_m6]>?",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Wellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Funktion&nbsp;der Auslenkung in Abhängigkeit der Zeit und des Ortes in Exponentialform?<div>{{c1::\\(\\xi(t,\\underline{r})=\\xi_0\\space e^{i(\\omega t -\\underline{k} \\cdot \\underline{r}+\\varphi)}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "jj>O}g<}~!",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::Wellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Definition&nbsp;konservativer Kräfte?<div>{{c1::Kräfte, deren Arbeitsintegral <span style=\"font-weight:600\">un</span>abhängig vom Weg ist, d.h. Kräfte,\nfür die auf einem beliebig geschlossenen Weg \\(\\oint\\underline{F}\\space d\\underline{s}=0\\) gilt, heißen <span style=\"font-weight:600\">konservative </span>Kräfte — A. Zielesny}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Ho27$7Twc9",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Definition&nbsp;dissipativer Kräfte?<div>{{c1::Kräfte für die auf einem beliebig geschlossenen Weg \\(\\oint\\underline{F}\\space d\\underline{s}≠0\\) gilt, heißen <span style=\"font-weight:600\">dissipative </span>Kräfte — A. Zielesny}}<br></div>",
+                                ""
+                            ],
+                            "guid": "d606il2g;w",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie heißt ein System, indem nur konservative Kräfte wirken?<div>{{c1::konservatives System}}<br></div>",
+                                ""
+                            ],
+                            "guid": "z@tv_@^r8k",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Definition der potentiellen Energie?<div>{{c1::Für konservative Kräfte ist die Arbeit ein Maß für die <span style=\"font-weight:600\">Veränderung des Energiezustandes des Systems </span>als Resultat einer erfolgten Bewegung, wobei der konkrete Weg ohne Einfluß auf dieses Resultat ist. — A. Zielesny}}<br></div>",
+                                ""
+                            ],
+                            "guid": "L7eV;~hJjV",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie steht die Kraft in Beziehung mit der potentiellen Energie?<div>{{c1::\\(\\underline{F}=-\\text{grad}\\space W_p\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "q]A5^Lh+sc",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bei welchen Kräften gilt folgender Zusammenhang <b>nicht</b>?<div>\\(\\underline{F}=-\\text{grad}\\space W_p\\)<br></div><div>{{c1::Bei dissipativen Kräften}}</div>",
+                                ""
+                            ],
+                            "guid": "D1Rzx?K,Ux",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man mathematisch darstellen, das potentielle Energie in Arbeit veräußert wurde?<div>{{c1::\\(W=\\oint_{P_1}^{P_2}\\underline{F}\\space d\\underline{s}&gt;0\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "vc>gO!PsA<",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man mathematisch darstellen, dass Arbeit in potentielle Energie überführt wurde?<div>{{c1::\\(W=\\oint_{P_1}^{P_2}\\underline{F}\\space d\\underline{s}&lt;0\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "i}G}t<3.Zx",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Einheit der potentiellen Energie?<div>{{c1::Die potentielle Energie wird in \\(\\text{J}\\) bzw. in \\(\\text{Ws}\\) angegeben.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "cuJE*2e#}b",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann folgender mathematischer Ausdruck in Wörter formuliert werden?<div>\\(W=W_{k2}-W_{k1}=\\frac{m}{2}(v_2^2-v_1^2)\\)<br></div><div>{{c1::Die von einer Kraft am Massenpunkt verrrichtete Arbeit ist gleich der Differenz der kinetischen Energie des Massenpunktes am End- und am Anfangspunkt der betrachteten Bewegung.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "On*DCV4x9e",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Arbeitsfähigkeit definiert werden?<div>{{c1::Ändert ein Massenpunkt in einem Bewegungsvorgang in der\nZeit von \\(t_1\\) bis \\(t_2\\) seine Geschwindigkeit (\\(\\underline{v}(t_2)-\\underline{v}(t_1)≠0\\)), so erhält er eine \"Arbeitsfähigkeit\" (Bewegungsenergie bzw. kinetische Energie) — A. Zielesny}}<br></div>",
+                                ""
+                            ],
+                            "guid": "ke@T?F3i|Q",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann der Energieerhaltungssatz mathematisch ausgedrückt werden?<div>{{c1::\\(W_{k,2}-W_{k,1}=W_{p,2}-W_{p,1}=\\text{const}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "r~#m~pma;v",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann die Gesamtenergie mathematisch ausgedrückt werden?<div>{{c1::\\(W=W_k+W_p\\)}}</div>",
+                                ""
+                            ],
+                            "guid": "s+[Lt[Z5Wq",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Die zeitliche Änderung {{c1::der Energie}} ist gleich der {{c2::Leisung der dissipativen Kräfte}}.",
+                                ""
+                            ],
+                            "guid": "e:MMe]#.?R",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::KonservativeKraefte"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wirken in einem physikalischen System {{c1::nur innere Kräfte}}, so heißt dieses System {{c2::ein abgeschlossenes mechanisches System}}.",
+                                ""
+                            ],
+                            "guid": "g0gb[!kARm",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Der Massenmittelpunkt (oder Schwerpunkt)}} \\(\\underline{s}_{SP}\\) bewegt sich so, als ob in ihm {{c2::die gesamte Masse des Systems}} vereinigt wäre.",
+                                ""
+                            ],
+                            "guid": "AISh*1(qRn",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Daraus ergibt sich, das {{c1::der Massenmittelpunkt (Schwerpunkt)}} eines abgeschlossenen mechanischen Systems sich {{c2::in Ruhe oder geradlinig gleichförmiger Bewegung}} befindet. — A. Zielesny",
+                                ""
+                            ],
+                            "guid": "NR*4:4zUf?",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In {{c1::einem abgeschlossenen}} physikalischen System bleibt {{c2::die Summe der in ihm enthaltenen Impulse}} konstant. (<span style=\"font-weight:600\">Impulserhaltungssatz</span>) — A. Zielesny",
+                                ""
+                            ],
+                            "guid": "yI*%W-:|f)",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann der Impulserhaltungssatz mathematisch ausgedrückt werden?<div>{{c1::\\(\\sum_{k=1}^{n}m_k\\underline{v}_k=\\sum_{k=1}^{n}\\underline{p}_k=const.\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "A/(kb.8M]*",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Ein System von Massenpunkten heißt {{c1::starrer Körper}}, wenn {{c2::die gegenseitigen Lagebeziehungen der Massenpunkte bei Einwirkung von äußeren Kräften}} unverändert bleiben. — A. Zielesny<br></div>",
+                                ""
+                            ],
+                            "guid": "lygXz*goi9",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum hat ein starrer Körper 6 Freiheitsgerade?<div>{{c1::das liegt daran das die an einem starren Körper angreifenden Kräfte Translationsbewegungen und Rotationsbewegungen hervorrufen können.}}<br></div>",
+                                "(6 Freiheitsgrade: 3 für die Translation, 3 für die Rotation)"
+                            ],
+                            "guid": "FACT8%}d?O",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist das Drehmoment eines starren Körpers definiert?<div>{{c1::\\(\\underline{M}=\\sum_{k=1}^{n}\\underline{s}_k\\times\\underline{F}_k\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "F^H|1GL<a#",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Unter Wirkung {{c1::des resultierenden Drehmomentes der äußeren Kräfte}} rotiert ein starrer Körper so lange mit {{c2::nicht verschwindender Winkelbeschleunigung}}, bis {{c3::dieses Drehmoment verschwindet}}.",
+                                ""
+                            ],
+                            "guid": "wRfQ[jtb3I",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie steht der Drehimpuls mit dem Drehmoment im Zusammenhang?<div>{{c1::\\(\\frac{d\\underline{L}}{dt}=\\underline{M}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "oxNEnxSY36",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Die {{c1::zeitliche Änderung des Drehimpulses}} ist gleich {{c2::dem\nresultierenden Drehmoment der am physikalischen System angreifenden äußeren Kräfte}}. — A. Zielesny",
+                                ""
+                            ],
+                            "guid": "xk~=U=g<ts",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wird ein starrer Körper durch ein Drehmoment vom Betrag {{c1::\\(M\\)}} um den Winkel {{c2::\\(\\Delta\\varphi\\)}}&nbsp;um eine Achse in Richtung {{c3::\\(\\underline{\\omega} ^0\\)}}&nbsp;gedreht, so wird hierbei von der das Drehmoment bewirkenden Kraft {{c4::Arbeit}} verrichtet. — A. Zielesny",
+                                ""
+                            ],
+                            "guid": "Mu;htnHKp3",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Trägheitsmoment anschaulich?<div>{{c1::Ein starrer Körper drehe sich um eine bestimmte, durch die Winkelgeschwindigkeit \\(\\underline{\\omega}\\) festgelegte Achse. Dabei ist \\(r_k\\) der Abstand des Massenpunktes \\(m_k\\) des starren Körpers von der Rotationsachse.}}<br></div>",
+                                ""
+                            ],
+                            "guid": "QVauREACJx",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rotiert ein starrer Körper mit der Winkelgeschwindigkeit \\(\\underline{\\omega}\\) und beträgt sein Trägheitsmoment in Bezug auf die durch \\(\\underline{\\omega}\\) festgelegte Drehachse \\(\\Theta_\\omega\\), so besitzt der rotierende Körper die Rotationsenergie {{c1::\\(W_{kin}=\\frac{1}{2}\\Theta_\\omega\\:\\omega^2=\\frac{1}{2}\\underline{\\omega}\\cdot\\underline{L}\\)}}",
+                                ""
+                            ],
+                            "guid": "vh3.^S1x]1",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Bewegungsgleichung des rotierenden starren Körpers?<div>{{c1::\\(\\underline{M}_\\omega=\\Theta_\\omega\\frac{d\\underline{\\omega}}{dt}=\\frac{d\\underline{L}_\\omega}{dt}\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Ih5#fb8}Cs",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Definition des&nbsp;Drehimpulserhaltungssatzes?<div>{{c1::Ist die Summe der äußeren Drehmomente auf ein physikalisches System gleich Null, so bleibt sein Drehimpuls erhalten: \\(\\underline{L}=const.\\) für \\(\\underline{M}_{external}=\\underline{0}\\). — A. Zielesny}}<br></div>",
+                                ""
+                            ],
+                            "guid": "yJFjp$:JBn",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wirkt auf ein System von Massenpunkten {{c1::kein resultierendes äußeres\nDrehmoment}}, so gilt {{c2::\\(\\underline{M}_{external}=\\frac{d\\underline{L}}{dt}=\\underline{0}\\)}} bzw. nach zeitlicher Integration {{c3::\\(\\underline{L}=const.\\)}}. — A. Zielesny",
+                                ""
+                            ],
+                            "guid": "B;:=]%4%mr",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der allgemeine Zusammenhang für den Drehimpuls?<div><img src=\"Untitled-0397b53fad7d8b346f9f0af91c747ecd6460bd46.png\"><br></div><div>{{c1::\\(\\underline{L}_\\omega=\\Theta_\\omega\\,\\underline{\\omega}=const.\\)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "P;%]q,qk^;",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was kann aus dem allgemeinen Zusammenhang des Drehimpulses \\(\\underline{L}_\\omega=\\Theta_\\omega\\,\\underline{\\omega}=const.\\) abgeleitet werden?<div>{{c1::Der Zusammenhang sagt aus, wenn das Trägheitsmoment sinkt, steigt dadurch die Winkelgeschwindigkeit an, da das Produkt der beiden konstant ist.}}<br></div>",
+                                "\\(\\Theta_\\omega\\downarrow\\space \\Rightarrow\\omega\\uparrow\\)"
+                            ],
+                            "guid": "wCa6)8+rB3",
+                            "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                            "tags": [
+                                "Physik::SystemeVonMassenpunkten"
+                            ]
                         }
                     ]
                 }
@@ -12791,7 +13248,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Physik::SystemeVonMassenpunkten"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
