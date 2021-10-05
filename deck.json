@@ -253,15 +253,2116 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "41005896-25de-11ec-ba6d-14f6d86a1eae",
+            "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "052c89e513df4410a5a3775bc2e89570-ao-1-A.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-1-Q.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-2-A.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-2-Q.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-3-A.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-3-Q.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-4-A.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-4-Q.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-5-A.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-5-Q.svg",
+                "052c89e513df4410a5a3775bc2e89570-ao-O.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-1-A.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-1-Q.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-2-A.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-2-Q.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-3-A.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-3-Q.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-4-A.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-4-Q.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-5-A.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-5-Q.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-6-A.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-6-Q.svg",
+                "279384f4e8534249a2f867ac70a5e04a-ao-O.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-1-A.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-1-Q.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-2-A.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-2-Q.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-3-A.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-3-Q.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-4-A.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-4-Q.svg",
+                "382c6f1441af40adb32fba6435395a46-oa-O.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-1-A.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-1-Q.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-2-A.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-2-Q.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-3-A.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-3-Q.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-4-A.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-4-Q.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-5-A.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-5-Q.svg",
+                "429c1696277d4fff8e69e17610259f07-oa-O.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-1-A.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-1-Q.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-2-A.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-2-Q.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-3-A.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-3-Q.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-4-A.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-4-Q.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-5-A.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-5-Q.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-6-A.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-6-Q.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-7-A.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-7-Q.svg",
+                "4f2787bd95964c44b5efa06442be3857-oa-O.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-1-A.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-1-Q.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-2-A.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-2-Q.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-3-A.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-3-Q.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-4-A.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-4-Q.svg",
+                "6734773fbc9c4edd8d82b26a96c387e4-ao-O.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-1-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-1-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-10-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-10-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-11-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-11-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-12-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-12-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-2-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-2-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-3-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-3-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-4-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-4-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-5-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-5-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-6-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-6-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-7-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-7-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-8-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-8-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-9-A.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-9-Q.svg",
+                "7b5afe92504b4878b5fc503838077ba6-ao-O.svg",
+                "914628853d7443a7bfbb3fdd27aeadca-ao-1-A.svg",
+                "914628853d7443a7bfbb3fdd27aeadca-ao-1-Q.svg",
+                "914628853d7443a7bfbb3fdd27aeadca-ao-2-A.svg",
+                "914628853d7443a7bfbb3fdd27aeadca-ao-2-Q.svg",
+                "914628853d7443a7bfbb3fdd27aeadca-ao-O.svg",
+                "92ec05138f11478b82f54ae1e0bf215c-ao-1-A.svg",
+                "92ec05138f11478b82f54ae1e0bf215c-ao-1-Q.svg",
+                "92ec05138f11478b82f54ae1e0bf215c-ao-2-A.svg",
+                "92ec05138f11478b82f54ae1e0bf215c-ao-2-Q.svg",
+                "92ec05138f11478b82f54ae1e0bf215c-ao-O.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-1-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-1-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-10-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-10-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-11-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-11-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-2-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-2-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-3-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-3-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-4-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-4-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-5-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-5-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-6-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-6-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-7-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-7-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-8-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-8-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-9-A.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-9-Q.svg",
+                "966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg",
+                "a46a3e618aa94e919dfe376a71ec1a97-oa-1-A.svg",
+                "a46a3e618aa94e919dfe376a71ec1a97-oa-1-Q.svg",
+                "a46a3e618aa94e919dfe376a71ec1a97-oa-O.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-1-A.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-1-Q.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-2-A.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-2-Q.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-3-A.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-3-Q.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-4-A.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-4-Q.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-5-A.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-5-Q.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-6-A.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-6-Q.svg",
+                "b2e46c3a96d44291824675306a6b7d0c-oa-O.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-1-A.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-1-Q.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-2-A.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-2-Q.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-3-A.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-3-Q.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-4-A.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-4-Q.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-5-A.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-5-Q.svg",
+                "b613e571640d4097b9a09fe2b661c3d1-oa-O.svg",
+                "d9a99a5e8c8046ed86947313d7a0c354-oa-1-A.svg",
+                "d9a99a5e8c8046ed86947313d7a0c354-oa-1-Q.svg",
+                "d9a99a5e8c8046ed86947313d7a0c354-oa-O.svg",
+                "fcf036643f3e4c5db7418adcc5221cfd-oa-1-A.svg",
+                "fcf036643f3e4c5db7418adcc5221cfd-oa-1-Q.svg",
+                "fcf036643f3e4c5db7418adcc5221cfd-oa-O.svg",
+                "paste-8f63b880a81e8c363fc8015f1c28f51ba74f9d51.jpg",
+                "tmp1b0gzagc.png",
+                "tmp7_ol2vnz.png",
+                "tmpf3_8pfcp.png",
+                "tmplommkwiz.png",
+                "tmpvgulainu.png",
+                "tmpvp88yztf.png"
+            ],
+            "name": "EN Vocab.",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the different ways to say 0 in maths?<div><br></div><div>{{c1::<div>zero, before the decimal point</div><div>oh, after the decimal point</div>}}<br></div>",
+                        ""
+                    ],
+                    "guid": "xPDJeR2T5s",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What word is used for periodic numbers like 8.245555?<div><br></div><div>{{c1::recurring}}</div>",
+                        "<img src=\"paste-8f63b880a81e8c363fc8015f1c28f51ba74f9d51.jpg\">"
+                    ],
+                    "guid": "j&6vXviYQj",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::What is this () in english?}}<div><br></div><div>{{c2::brackets, round brackets or parentheses}}</div>",
+                        ""
+                    ],
+                    "guid": "xpFTc@+9a-",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::What is this [ ] in english?}}<div><br></div><div>{{c2::square brackets}}</div>",
+                        ""
+                    ],
+                    "guid": "LwZ`m*N]fl",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::What is this { } in english?}}<div><br></div><div>{{c2::curly brackets, braces}}</div>",
+                        ""
+                    ],
+                    "guid": "u8j4nCgB/J",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::What is this \\(\\langle\\space\\rangle\\) in english?}}<div><br></div><div>{{c2::pointed brackets, angle brackets}}</div>",
+                        ""
+                    ],
+                    "guid": "eRndic{D8P",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "429c1696277d4fff8e69e17610259f07-oa-1",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-1-A.svg\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-O.svg\" />"
+                    ],
+                    "guid": "d)%9QEaA|C",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "429c1696277d4fff8e69e17610259f07-oa-2",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-2-A.svg\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-O.svg\" />"
+                    ],
+                    "guid": "f#2X>WkPW#",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "429c1696277d4fff8e69e17610259f07-oa-3",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-3-A.svg\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-O.svg\" />"
+                    ],
+                    "guid": "tGq*oDPYWA",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "429c1696277d4fff8e69e17610259f07-oa-4",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-4-A.svg\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-O.svg\" />"
+                    ],
+                    "guid": "z$5;9S>>8]",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "429c1696277d4fff8e69e17610259f07-oa-5",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-5-A.svg\" />",
+                        "<img src=\"429c1696277d4fff8e69e17610259f07-oa-O.svg\" />"
+                    ],
+                    "guid": "xI*4Zw^E!S",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b2e46c3a96d44291824675306a6b7d0c-oa-1",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-1-A.svg\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-O.svg\" />"
+                    ],
+                    "guid": "N}dlrmFrpP",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b2e46c3a96d44291824675306a6b7d0c-oa-2",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-2-A.svg\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-O.svg\" />"
+                    ],
+                    "guid": "ff:~)[F>qS",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b2e46c3a96d44291824675306a6b7d0c-oa-3",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-3-A.svg\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-O.svg\" />"
+                    ],
+                    "guid": "E9A]Btu9|k",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b2e46c3a96d44291824675306a6b7d0c-oa-4",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-4-A.svg\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-O.svg\" />"
+                    ],
+                    "guid": "mKHUm[V7v6",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b2e46c3a96d44291824675306a6b7d0c-oa-5",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-5-A.svg\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-O.svg\" />"
+                    ],
+                    "guid": "B(03HVKUSe",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b2e46c3a96d44291824675306a6b7d0c-oa-6",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-6-A.svg\" />",
+                        "<img src=\"b2e46c3a96d44291824675306a6b7d0c-oa-O.svg\" />"
+                    ],
+                    "guid": "j~#jh:BdE:",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b613e571640d4097b9a09fe2b661c3d1-oa-1",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-1-A.svg\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-O.svg\" />"
+                    ],
+                    "guid": "N|f-pQ{-M0",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b613e571640d4097b9a09fe2b661c3d1-oa-2",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-2-A.svg\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-O.svg\" />"
+                    ],
+                    "guid": "H*$8{g$v*t",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b613e571640d4097b9a09fe2b661c3d1-oa-3",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-3-A.svg\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-O.svg\" />"
+                    ],
+                    "guid": "xi5FNU/i$,",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b613e571640d4097b9a09fe2b661c3d1-oa-4",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-4-A.svg\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-O.svg\" />"
+                    ],
+                    "guid": "lXR6nHR_aC",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b613e571640d4097b9a09fe2b661c3d1-oa-5",
+                        "",
+                        "<img src=\"tmp7_ol2vnz.png\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-5-A.svg\" />",
+                        "<img src=\"b613e571640d4097b9a09fe2b661c3d1-oa-O.svg\" />"
+                    ],
+                    "guid": "bF:jOiW<fp",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-1",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-1-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "K`RW&%La#c",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-2",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-2-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "x*;S#BQq4<",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-3",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-3-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "wz?-3LFoe<",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-4",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-4-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "sZ5HsMZx*v",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-5",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-5-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "el|&n]8B&5",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-6",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-6-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "b3nhx3<.s(",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-7",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-7-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "G[L&rwz&,e",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-8",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-8-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "su1?Kta+*l",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-9",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-9-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "c4BB6}Zq]j",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-10",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-10-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "EIrk0i~-Gl",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "966e9f97cd0a45b6b752444a0d41cd27-oa-11",
+                        "",
+                        "<img src=\"tmpvp88yztf.png\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-11-A.svg\" />",
+                        "<img src=\"966e9f97cd0a45b6b752444a0d41cd27-oa-O.svg\" />"
+                    ],
+                    "guid": "h&rntb4Ju|",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "d9a99a5e8c8046ed86947313d7a0c354-oa-1",
+                        "",
+                        "<img src=\"tmp1b0gzagc.png\" />",
+                        "<img src=\"d9a99a5e8c8046ed86947313d7a0c354-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"d9a99a5e8c8046ed86947313d7a0c354-oa-1-A.svg\" />",
+                        "<img src=\"d9a99a5e8c8046ed86947313d7a0c354-oa-O.svg\" />"
+                    ],
+                    "guid": "v,=1}`6ixM",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a46a3e618aa94e919dfe376a71ec1a97-oa-1",
+                        "",
+                        "<img src=\"tmp1b0gzagc.png\" />",
+                        "<img src=\"a46a3e618aa94e919dfe376a71ec1a97-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a46a3e618aa94e919dfe376a71ec1a97-oa-1-A.svg\" />",
+                        "<img src=\"a46a3e618aa94e919dfe376a71ec1a97-oa-O.svg\" />"
+                    ],
+                    "guid": "vs_+n[(B|Z",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "052c89e513df4410a5a3775bc2e89570-ao-1",
+                        "",
+                        "<img src=\"tmp1b0gzagc.png\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-1-A.svg\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-O.svg\" />"
+                    ],
+                    "guid": "B%J>/R46AD",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "052c89e513df4410a5a3775bc2e89570-ao-2",
+                        "",
+                        "<img src=\"tmp1b0gzagc.png\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-2-A.svg\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-O.svg\" />"
+                    ],
+                    "guid": "t~efU1K/mB",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "052c89e513df4410a5a3775bc2e89570-ao-3",
+                        "",
+                        "<img src=\"tmp1b0gzagc.png\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-3-A.svg\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-O.svg\" />"
+                    ],
+                    "guid": "fCxtH&>4:S",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "052c89e513df4410a5a3775bc2e89570-ao-4",
+                        "",
+                        "<img src=\"tmp1b0gzagc.png\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-4-A.svg\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-O.svg\" />"
+                    ],
+                    "guid": "xCu)YX<f&y",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "052c89e513df4410a5a3775bc2e89570-ao-5",
+                        "",
+                        "<img src=\"tmp1b0gzagc.png\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-5-A.svg\" />",
+                        "<img src=\"052c89e513df4410a5a3775bc2e89570-ao-O.svg\" />"
+                    ],
+                    "guid": "L229uBVRmL",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "fcf036643f3e4c5db7418adcc5221cfd-oa-1",
+                        "",
+                        "<img src=\"tmp1b0gzagc.png\" />",
+                        "<img src=\"fcf036643f3e4c5db7418adcc5221cfd-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"fcf036643f3e4c5db7418adcc5221cfd-oa-1-A.svg\" />",
+                        "<img src=\"fcf036643f3e4c5db7418adcc5221cfd-oa-O.svg\" />"
+                    ],
+                    "guid": "OmGOo!0P4W",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-1",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-1-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "Ffac5$2Y%<",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-2",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-2-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "AE1b<e0Mic",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-3",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-3-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "EeLC2Y^rA2",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-4",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-4-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "D(.}SoC(~6",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-5",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-5-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "lt2C@V@c3:",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-6",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-6-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "BVSeu@o9H>",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-7",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-7-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "G`fFDVWzj]",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-8",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-8-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "s6Tt$f}[kZ",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-9",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-9-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "tkl$`WjKx)",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-10",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-10-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "FrQ&AK@G!&",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-11",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-11-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "u3T3LiRIE:",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7b5afe92504b4878b5fc503838077ba6-ao-12",
+                        "",
+                        "<img src=\"tmpvgulainu.png\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-12-A.svg\" />",
+                        "<img src=\"7b5afe92504b4878b5fc503838077ba6-ao-O.svg\" />"
+                    ],
+                    "guid": "hkml=qNcRK",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6734773fbc9c4edd8d82b26a96c387e4-ao-1",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-1-A.svg\" />",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-O.svg\" />"
+                    ],
+                    "guid": "C<p%JJ/3r:",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6734773fbc9c4edd8d82b26a96c387e4-ao-2",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-2-A.svg\" />",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-O.svg\" />"
+                    ],
+                    "guid": "wYub1OhPSI",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6734773fbc9c4edd8d82b26a96c387e4-ao-3",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-3-A.svg\" />",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-O.svg\" />"
+                    ],
+                    "guid": "dy/We>^bv*",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6734773fbc9c4edd8d82b26a96c387e4-ao-4",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-4-A.svg\" />",
+                        "<img src=\"6734773fbc9c4edd8d82b26a96c387e4-ao-O.svg\" />"
+                    ],
+                    "guid": "QW{*{LpD6E",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "382c6f1441af40adb32fba6435395a46-oa-1",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-1-A.svg\" />",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-O.svg\" />"
+                    ],
+                    "guid": "dKZL9`AI0@",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "382c6f1441af40adb32fba6435395a46-oa-2",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-2-A.svg\" />",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-O.svg\" />"
+                    ],
+                    "guid": "i*(P|u~mJh",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "382c6f1441af40adb32fba6435395a46-oa-3",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-3-A.svg\" />",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-O.svg\" />"
+                    ],
+                    "guid": "klz*w1C*#:",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "382c6f1441af40adb32fba6435395a46-oa-4",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-4-A.svg\" />",
+                        "<img src=\"382c6f1441af40adb32fba6435395a46-oa-O.svg\" />"
+                    ],
+                    "guid": "LT5f(]H%N5",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "914628853d7443a7bfbb3fdd27aeadca-ao-1",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"914628853d7443a7bfbb3fdd27aeadca-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"914628853d7443a7bfbb3fdd27aeadca-ao-1-A.svg\" />",
+                        "<img src=\"914628853d7443a7bfbb3fdd27aeadca-ao-O.svg\" />"
+                    ],
+                    "guid": "B.|jspYcN#",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "914628853d7443a7bfbb3fdd27aeadca-ao-2",
+                        "",
+                        "<img src=\"tmplommkwiz.png\" />",
+                        "<img src=\"914628853d7443a7bfbb3fdd27aeadca-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"914628853d7443a7bfbb3fdd27aeadca-ao-2-A.svg\" />",
+                        "<img src=\"914628853d7443a7bfbb3fdd27aeadca-ao-O.svg\" />"
+                    ],
+                    "guid": "MDaN-^q=G}",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4f2787bd95964c44b5efa06442be3857-oa-1",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-1-A.svg\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-O.svg\" />"
+                    ],
+                    "guid": "glb3;1Vd5R",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4f2787bd95964c44b5efa06442be3857-oa-2",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-2-A.svg\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-O.svg\" />"
+                    ],
+                    "guid": "Mz&UH[}z(-",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4f2787bd95964c44b5efa06442be3857-oa-3",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-3-A.svg\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-O.svg\" />"
+                    ],
+                    "guid": "sv-~bamjG]",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4f2787bd95964c44b5efa06442be3857-oa-4",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-4-A.svg\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-O.svg\" />"
+                    ],
+                    "guid": ";4=`[JT2N",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4f2787bd95964c44b5efa06442be3857-oa-5",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-5-A.svg\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-O.svg\" />"
+                    ],
+                    "guid": "EzNf,*n@@,",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4f2787bd95964c44b5efa06442be3857-oa-6",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-6-A.svg\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-O.svg\" />"
+                    ],
+                    "guid": "K*`5+VWWE[",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4f2787bd95964c44b5efa06442be3857-oa-7",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-7-A.svg\" />",
+                        "<img src=\"4f2787bd95964c44b5efa06442be3857-oa-O.svg\" />"
+                    ],
+                    "guid": "rYA%>zt$P+",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "92ec05138f11478b82f54ae1e0bf215c-ao-1",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"92ec05138f11478b82f54ae1e0bf215c-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"92ec05138f11478b82f54ae1e0bf215c-ao-1-A.svg\" />",
+                        "<img src=\"92ec05138f11478b82f54ae1e0bf215c-ao-O.svg\" />"
+                    ],
+                    "guid": "LC!Ur~T#/F",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "92ec05138f11478b82f54ae1e0bf215c-ao-2",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"92ec05138f11478b82f54ae1e0bf215c-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"92ec05138f11478b82f54ae1e0bf215c-ao-2-A.svg\" />",
+                        "<img src=\"92ec05138f11478b82f54ae1e0bf215c-ao-O.svg\" />"
+                    ],
+                    "guid": "OU;*ixsv}t",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "279384f4e8534249a2f867ac70a5e04a-ao-1",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-1-A.svg\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-O.svg\" />"
+                    ],
+                    "guid": "F:s$RNa$I)",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "279384f4e8534249a2f867ac70a5e04a-ao-2",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-2-A.svg\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-O.svg\" />"
+                    ],
+                    "guid": "F-T/[2hRNq",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "279384f4e8534249a2f867ac70a5e04a-ao-3",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-3-A.svg\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-O.svg\" />"
+                    ],
+                    "guid": "FbkL|v-,H[",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "279384f4e8534249a2f867ac70a5e04a-ao-4",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-4-A.svg\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-O.svg\" />"
+                    ],
+                    "guid": "kv?qV,#[~*",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "279384f4e8534249a2f867ac70a5e04a-ao-5",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-5-A.svg\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-O.svg\" />"
+                    ],
+                    "guid": "GHyb(U[S?.",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "279384f4e8534249a2f867ac70a5e04a-ao-6",
+                        "",
+                        "<img src=\"tmpf3_8pfcp.png\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-6-A.svg\" />",
+                        "<img src=\"279384f4e8534249a2f867ac70a5e04a-ao-O.svg\" />"
+                    ],
+                    "guid": "v6*I}hcOR5",
+                    "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+                    "tags": [
+                        "Vocab::Math"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "7b876db3-a2ab-11eb-bb7a-14f6d86a1eaf",
             "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "csm_FHG-05-197-12_e167bfe0ca.jpg",
+                "paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg"
+            ],
             "name": "Fragen",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer sind die Forscher der Zukunft?<div>{{c1::Sören, Heiner und Achim}}</div>",
+                        "<img src=\"csm_FHG-05-197-12_e167bfe0ca.jpg\">"
+                    ],
+                    "guid": "x/,N,!rndE",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer ist ein Bioinformatiker und gleichzeitig Forscher der Zukunft?<div>{{c1::sperrey}}</div>",
+                        "<img src=\"paste-20bac03806ea5ec68f572af982b8736dc1ae6303.jpg\">"
+                    ],
+                    "guid": "F>v-@=id2}",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist das Passwort für die PDFs von Informatik?<div>{{c1::sperrey}}</div>",
+                        "wie immer"
+                    ],
+                    "guid": "GYj0rg6f^W",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "4102b519-25de-11ec-b899-14f6d86a1eae",
+            "deck_config_uuid": "aace692f-59da-11eb-a2f2-448a5b8ef3a7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Griechisches Alphabet",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Alpha\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\alpha\\)}}</div><div><br></div><div>Name: {{c3::alpha}}</div>",
+                        ""
+                    ],
+                    "guid": "H^&KmIHe25",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Beta\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\beta\\)}}</div><div><br></div><div>Name: {{c3::beta}}</div>",
+                        ""
+                    ],
+                    "guid": "vUl|@AL#&7",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Gamma\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\gamma\\)}}</div><div><br></div><div>Name: {{c3::gamma}}</div>",
+                        ""
+                    ],
+                    "guid": "n:/eyUmvpf",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Delta\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\delta\\)}}</div><div><br></div><div>Name: {{c3::delta}}</div>",
+                        ""
+                    ],
+                    "guid": "FY(a::CVG_",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Epsilon\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\epsilon\\)}}</div><div><br></div><div>Name: {{c3::epsilon}}</div>",
+                        ""
+                    ],
+                    "guid": "x=8g^Hji;Y",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Zeta\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\zeta\\)}}</div><div><br></div><div>Name: {{c3::zeta}}</div>",
+                        ""
+                    ],
+                    "guid": "lbi|kmpEs0",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Eta\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\eta\\)}}</div><div><br></div><div>Name: {{c3::eta}}</div>",
+                        ""
+                    ],
+                    "guid": "y)GDb^[hRM",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Theta\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\theta\\)}}</div><div><br></div><div>Name: {{c3::theta}}</div>",
+                        ""
+                    ],
+                    "guid": "g}x?Hoq)d0",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Iota\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\iota\\)}}</div><div><br></div><div>Name: {{c3::iota}}</div>",
+                        ""
+                    ],
+                    "guid": "mWc[vw6>eE",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Kappa\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\kappa\\)}}</div><div><br></div><div>Name: {{c3::kappa}}</div>",
+                        ""
+                    ],
+                    "guid": "rU.`;X?o:",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Lambda\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\lambda\\)}}</div><div><br></div><div>Name: {{c3::lambda}}</div>",
+                        ""
+                    ],
+                    "guid": "KQGN5)O|4F",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Mu\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\mu\\)}}</div><div><br></div><div>Name: {{c3::mu}}</div>",
+                        ""
+                    ],
+                    "guid": "j0+infF04;",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Nu\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\nu\\)}}</div><div><br></div><div>Name: {{c3::nu}}</div>",
+                        ""
+                    ],
+                    "guid": "OKYa1[CuH;",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Xi\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\xi\\)}}</div><div><br></div><div>Name: {{c3::xi}}</div>",
+                        ""
+                    ],
+                    "guid": "rG,yNh{tzE",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Omicron\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\omicron\\)}}</div><div><br></div><div>Name: {{c3::omicron}}</div>",
+                        ""
+                    ],
+                    "guid": "g&HJ$4xd)+",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Pi\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\pi\\)}}</div><div><br></div><div>Name: {{c3::pi}}</div>",
+                        ""
+                    ],
+                    "guid": "su.C%`Nlcs",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Rho\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\rho\\)}}</div><div><br></div><div>Name: {{c3::rho}}</div>",
+                        ""
+                    ],
+                    "guid": "Mx_:`>;H46",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Sigma\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\sigma\\)}}</div><div><br></div><div>Name: {{c3::sigma}}</div>",
+                        ""
+                    ],
+                    "guid": "n2trU-zO!M",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Tau\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\tau\\)}}</div><div><br></div><div>Name: {{c3::tau}}</div>",
+                        ""
+                    ],
+                    "guid": "Po(pu%=a^2",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Upsilon\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\upsilon\\)}}</div><div><br></div><div>Name: {{c3::upsilon}}</div>",
+                        ""
+                    ],
+                    "guid": "n<5wS2W6@/",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Phi\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\phi\\)}}</div><div><br></div><div>Name: {{c3::phi}}</div>",
+                        "Auch möglich als: \\(\\varphi\\)"
+                    ],
+                    "guid": "gDO<*~s*?M",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Chi\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\chi\\)}}</div><div><br></div><div>Name: {{c3::chi}}</div>",
+                        ""
+                    ],
+                    "guid": "h`Ah9V[5{N",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Psi\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\psi\\)}}</div><div><br></div><div>Name: {{c3::psi}}</div>",
+                        ""
+                    ],
+                    "guid": "ien2L4eR*D",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Großbuchstabe: {{c1::\\(\\Omega\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\omega\\)}}</div><div><br></div><div>Name: {{c3::omega}}</div>",
+                        ""
+                    ],
+                    "guid": "M%)hlO7Ys6",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "GriechischesAlphabet"
+                    ]
+                }
+            ]
         },
         {
             "__type__": "Deck",
@@ -2933,7 +5034,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 50
+                "perDay": 100
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -3008,6 +5109,129 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": []
