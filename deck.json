@@ -2071,13 +2071,27 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "paste-12a182be9c8d0231ae709ed618b795b923213650.jpg",
+                "paste-2d7fe406a7fb494cf32a26321de2775e7ed17586.jpg",
+                "paste-5942c553e7bec999dc19f879fa7d13d7aabe0b76.jpg",
+                "paste-7bdb45b5833dc114dad452791bc5f92b3a8ccf5a.jpg",
+                "paste-88198b128e707b8ae64627b17ae1202df21e51e6.jpg",
+                "paste-9b6aa37f9614b0b81acde070a4e9c62c7dc99825.jpg",
+                "paste-9bc9788f56f8bb635753270e95436e7cb63a5c18.jpg",
+                "paste-a706af240884243debc505142961ac5aac2033d3.jpg",
+                "paste-c569eeddeb014b407866d4112b0d6510d4a6d521.jpg",
+                "paste-d19d4271431793b03aff31a34fcbbafb093f7ae7.jpg",
+                "paste-e9c6194a54082e2a36f7e0abcf852e23695a0230.jpg",
+                "paste-eef5ba59ae04ae55d533b5ff85b32a04c7406bed.jpg",
+                "paste-fe9dbb5eb2aa9801dea935169b9aee1ac8e7a063.jpg"
+            ],
             "name": "Griechisches Alphabet",
             "notes": [
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Alpha\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\alpha\\)}}</div><div><br></div><div>Name: {{c3::alpha}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-e9c6194a54082e2a36f7e0abcf852e23695a0230.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\alpha\\)}}</div><div><br></div><div>Name: {{c3::alpha}}</div>",
                         ""
                     ],
                     "guid": "H^&KmIHe25",
@@ -2089,7 +2103,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Beta\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\beta\\)}}</div><div><br></div><div>Name: {{c3::beta}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-9b6aa37f9614b0b81acde070a4e9c62c7dc99825.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\beta\\)}}</div><div><br></div><div>Name: {{c3::beta}}</div>",
                         ""
                     ],
                     "guid": "vUl|@AL#&7",
@@ -2125,7 +2139,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Epsilon\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\epsilon\\)}}</div><div><br></div><div>Name: {{c3::epsilon}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-12a182be9c8d0231ae709ed618b795b923213650.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\epsilon\\)}}</div><div><br></div><div>Name: {{c3::epsilon}}</div>",
                         ""
                     ],
                     "guid": "x=8g^Hji;Y",
@@ -2137,7 +2151,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Zeta\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\zeta\\)}}</div><div><br></div><div>Name: {{c3::zeta}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-fe9dbb5eb2aa9801dea935169b9aee1ac8e7a063.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\zeta\\)}}</div><div><br></div><div>Name: {{c3::zeta}}</div>",
                         ""
                     ],
                     "guid": "lbi|kmpEs0",
@@ -2149,7 +2163,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Eta\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\eta\\)}}</div><div><br></div><div>Name: {{c3::eta}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-a706af240884243debc505142961ac5aac2033d3.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\eta\\)}}</div><div><br></div><div>Name: {{c3::eta}}</div>",
                         ""
                     ],
                     "guid": "y)GDb^[hRM",
@@ -2173,7 +2187,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Iota\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\iota\\)}}</div><div><br></div><div>Name: {{c3::iota}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-9bc9788f56f8bb635753270e95436e7cb63a5c18.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\iota\\)}}</div><div><br></div><div>Name: {{c3::iota}}</div>",
                         ""
                     ],
                     "guid": "mWc[vw6>eE",
@@ -2185,7 +2199,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Kappa\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\kappa\\)}}</div><div><br></div><div>Name: {{c3::kappa}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-eef5ba59ae04ae55d533b5ff85b32a04c7406bed.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\kappa\\)}}</div><div><br></div><div>Name: {{c3::kappa}}</div>",
                         ""
                     ],
                     "guid": "rU.`;X?o:",
@@ -2209,7 +2223,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Mu\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\mu\\)}}</div><div><br></div><div>Name: {{c3::mu}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-88198b128e707b8ae64627b17ae1202df21e51e6.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\mu\\)}}</div><div><br></div><div>Name: {{c3::mu}}</div>",
                         ""
                     ],
                     "guid": "j0+infF04;",
@@ -2221,7 +2235,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Nu\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\nu\\)}}</div><div><br></div><div>Name: {{c3::nu}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-7bdb45b5833dc114dad452791bc5f92b3a8ccf5a.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\nu\\)}}</div><div><br></div><div>Name: {{c3::nu}}</div>",
                         ""
                     ],
                     "guid": "OKYa1[CuH;",
@@ -2245,7 +2259,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Omicron\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\omicron\\)}}</div><div><br></div><div>Name: {{c3::omicron}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-5942c553e7bec999dc19f879fa7d13d7aabe0b76.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\omicron\\)}}</div><div><br></div><div>Name: {{c3::omicron}}</div>",
                         ""
                     ],
                     "guid": "g&HJ$4xd)+",
@@ -2269,7 +2283,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Rho\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\rho\\)}}</div><div><br></div><div>Name: {{c3::rho}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-2d7fe406a7fb494cf32a26321de2775e7ed17586.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\rho\\)}}</div><div><br></div><div>Name: {{c3::rho}}</div>",
                         ""
                     ],
                     "guid": "Mx_:`>;H46",
@@ -2293,7 +2307,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Tau\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\tau\\)}}</div><div><br></div><div>Name: {{c3::tau}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-c569eeddeb014b407866d4112b0d6510d4a6d521.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\tau\\)}}</div><div><br></div><div>Name: {{c3::tau}}</div>",
                         ""
                     ],
                     "guid": "Po(pu%=a^2",
@@ -2329,7 +2343,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Großbuchstabe: {{c1::\\(\\Chi\\)}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\chi\\)}}</div><div><br></div><div>Name: {{c3::chi}}</div>",
+                        "Großbuchstabe: {{c1::<img src=\"paste-d19d4271431793b03aff31a34fcbbafb093f7ae7.jpg\">}}<div><br></div><div>Kleinbuchstabe: {{c2::\\(\\chi\\)}}</div><div><br></div><div>Name: {{c3::chi}}</div>",
                         ""
                     ],
                     "guid": "h`Ah9V[5{N",
