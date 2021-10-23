@@ -59,7 +59,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "{{c1::Valin}}<div><br></div><div>{{c2::<img src=\"paste-674ecfc545dde1f0b4e22872aceced2e36c5c79b.jpg\">}}<br></div><div><br></div><div>{{c3::Val}::3-Code}</div><div><br></div><div>{{c4::V::1-Code}}</div>",
+                        "{{c1::Valin}}<div><br></div><div>{{c2::<img src=\"paste-674ecfc545dde1f0b4e22872aceced2e36c5c79b.jpg\">}}<br></div><div><br></div><div>{{c3::Val::3-Code}}</div><div><br></div><div>{{c4::V::1-Code}}</div>",
                         ""
                     ],
                     "guid": "vLvqOa?+lZ",
@@ -419,7 +419,12 @@
                 "fcf036643f3e4c5db7418adcc5221cfd-oa-1-A.svg",
                 "fcf036643f3e4c5db7418adcc5221cfd-oa-1-Q.svg",
                 "fcf036643f3e4c5db7418adcc5221cfd-oa-O.svg",
+                "paste-3d830e6482be4b9c2ef96203f1a224ab684d5d1b.jpg",
+                "paste-53e1207640b77bd7462c2d09d4b15889c2006cd5.jpg",
                 "paste-8f63b880a81e8c363fc8015f1c28f51ba74f9d51.jpg",
+                "paste-c4d79e75566204d69a8ec970bec66e7b04f8afd2.jpg",
+                "paste-ec33b34efd8ab3bcd5497403c83116ddc849e612.jpg",
+                "paste-ec8ea9adba6f9176a1c2248a590cdefd994b2c9b.jpg",
                 "tmp1b0gzagc.png",
                 "tmp7_ol2vnz.png",
                 "tmpf3_8pfcp.png",
@@ -427,6 +432,7 @@
                 "tmpvgulainu.png",
                 "tmpvp88yztf.png"
             ],
+            "mid": 1604391419185,
             "name": "EN Vocab.",
             "notes": [
                 {
@@ -2011,6 +2017,174 @@
                     "note_model_uuid": "7b8c1efc-fb6a-11eb-902c-1cbfc05dc202",
                     "tags": [
                         "Vocab::Math"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Ebene}}<div><br></div><div>{{c2::level}}</div>",
+                        "<img src=\"paste-ec8ea9adba6f9176a1c2248a590cdefd994b2c9b.jpg\">"
+                    ],
+                    "guid": "kM?o9G&pL-",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::besonders, ausdrücklich}}<div><br></div><div>{{c2::particularly}}</div>",
+                        "<img src=\"paste-3d830e6482be4b9c2ef96203f1a224ab684d5d1b.jpg\">"
+                    ],
+                    "guid": "nC||btVi^w",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::hauptsächlich}}<div><br></div><div>{{c2::chiefly}}</div>",
+                        "<img src=\"paste-c4d79e75566204d69a8ec970bec66e7b04f8afd2.jpg\">"
+                    ],
+                    "guid": "iLM):Ntm$y",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::etw. betreffen}}<div><br></div><div>{{c2::sth. concerns}}</div>",
+                        "<img src=\"paste-c4d79e75566204d69a8ec970bec66e7b04f8afd2.jpg\">"
+                    ],
+                    "guid": "df;-6Cgvtg",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::verschieden, mehrere}}<div><br></div><div>{{c2::various}}</div>",
+                        "<img src=\"paste-c4d79e75566204d69a8ec970bec66e7b04f8afd2.jpg\">"
+                    ],
+                    "guid": "QZI,OOy(ya",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::annähern, herangehen}}<div><br></div><div>{{c2::to approach}}</div>",
+                        "<img src=\"paste-53e1207640b77bd7462c2d09d4b15889c2006cd5.jpg\">"
+                    ],
+                    "guid": "t6N.4o|/S-",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::führen}}<div><br></div><div>{{c2::leading}}</div>",
+                        "<img src=\"paste-53e1207640b77bd7462c2d09d4b15889c2006cd5.jpg\">"
+                    ],
+                    "guid": "e33db/xpzc",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::sogenannt}}<div><br></div><div>{{c2::so-called}}</div>",
+                        "<img src=\"paste-53e1207640b77bd7462c2d09d4b15889c2006cd5.jpg\">"
+                    ],
+                    "guid": "OM*`/4!-bl",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::entsprechend, dazugehörig}}<div><br></div><div>{{c2::corresponding}}</div>",
+                        "<img src=\"paste-ec33b34efd8ab3bcd5497403c83116ddc849e612.jpg\">"
+                    ],
+                    "guid": "kz8Ei3A.bt",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::überwiegend, mehrheitlich}}<div><br></div><div>{{c2::predominantly}}</div>",
+                        "<img src=\"paste-ec33b34efd8ab3bcd5497403c83116ddc849e612.jpg\">"
+                    ],
+                    "guid": "d&$zNkB_(F",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::lediglich, bloß}}<div><br></div><div>{{c2::merely}}</div>",
+                        "<img src=\"paste-ec33b34efd8ab3bcd5497403c83116ddc849e612.jpg\">"
+                    ],
+                    "guid": "f:!=]zW%Fm",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Verfeinerung, Verbesserung}}<div><br></div><div>{{c2::refinement}}</div>",
+                        "<img src=\"paste-ec33b34efd8ab3bcd5497403c83116ddc849e612.jpg\">"
+                    ],
+                    "guid": "I!2/K-?>.Z",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::jedoch, allerdings}}<div><br></div><div>{{c2::however}}</div>",
+                        "<img src=\"paste-ec33b34efd8ab3bcd5497403c83116ddc849e612.jpg\">"
+                    ],
+                    "guid": "lYqaE!1%6l",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::anfragen, nachfragen}}<div><br></div><div>{{c2::to inquire}}</div>",
+                        "<img src=\"paste-ec33b34efd8ab3bcd5497403c83116ddc849e612.jpg\">"
+                    ],
+                    "guid": "nbr^IAj#}l",
+                    "note_model_uuid": "aaebabf1-59da-11eb-b4cb-448a5b8ef3a7",
+                    "tags": [
+                        "Vocab::MolecularBiology"
                     ]
                 }
             ]
@@ -4893,7 +5067,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "{{c1::Toluidin}}<div><br></div><div>{{c2::\\(o-,m- oder p-CH_3C_6H_4NH_2\\)}}</div>",
+                        "{{c1::Toluidin}}<div><br></div><div>{{c2::\\(o-,m- .oder \\space&nbsp;p-CH_3C_6H_4NH_2\\)}}</div>",
                         "<img src=\"paste-a201e178a06c31fbe8aac7ba52fa9c9ada65431c.jpg\">"
                     ],
                     "guid": "E)[NfD{hP$",
@@ -5119,7 +5293,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Vocab::MolecularBiology"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
